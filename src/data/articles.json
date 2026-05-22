@@ -1,6 +1,29 @@
 {
   "articles": [
     {
+      "id": "1779460561049tvubgr",
+      "url": "https://www.indianexpress.com/article/explained/explained-climate/expert-summer-intensity-factors-mitigation-data-heat-10697560",
+      "title": "Expert Explains What makes this summer particularly intense for India, and how better data collection can help",
+      "metadataRaw": "May 19, 2026 Dr Y Nithiyanandam Indian Express",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-22T14:36:01.049Z",
+      "summary": "India is experiencing an unusually intense and prolonged heatwave this summer, driven by a combination of global climate change trends like El Niño and local factors such as urbanization and dry spells. This extreme heat severely impacts public health, reduces worker productivity, and harms ecosystems, with vulnerable populations suffering the most. The article emphasizes that accurate, localized data and geospatial technologies are essential for understanding specific heat patterns. These tools can help develop effective, targeted solutions to mitigate the heat's escalating effects.",
+      "topics": [
+        "Climate Change Impacts",
+        "Public Health",
+        "Urban Planning"
+      ],
+      "issues": [
+        "India's Severe Heatwaves",
+        "Data Gaps in Climate Response"
+      ],
+      "mainIdeas": [
+        "The current extreme heat in India results from both global warming trends and specific local conditions, intensifying its impact beyond normal seasonal patterns.",
+        "This heat significantly harms people's health, their ability to work, and the natural environment, with a disproportionate effect on disadvantaged groups.",
+        "Developing effective solutions requires more detailed, location-specific data and advanced mapping tools to create tailored strategies for reducing heat's impact."
+      ]
+    },
+    {
       "id": "17794603113259pmgdr",
       "url": "https://ndtv.com/opinion/pakistans-taliban-blowback-is-entering-a-dangerous-new-phase-11517107",
       "title": "3 Blasts In A Week: Pakistan’s Taliban Blowback Is Entering A Dangerous New Phase",
@@ -24,5 +47,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-22T14:31:55.359Z"
+  "lastUpdated": "2026-05-22T14:36:01.050Z"
 }
