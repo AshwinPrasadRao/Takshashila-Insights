@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
 :root {
   /* Color Palette (Light Theme Default for Executive Feel) */
   --bg-color: #fbfafb;
@@ -12,7 +14,7 @@
   --glass-border: rgba(98, 13, 60, 0.1);
 
   /* Typography */
-  --font-sans: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
 
   /* Geometry */
   --radius-md: 12px;
