@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/Takshashila-Insights/', // GitHub Pages base path
   build: { outDir: 'docs' },
-  build: { outDir: 'docs' },
+
 })
