@@ -1,6 +1,110 @@
 {
   "articles": [
     {
+      "id": "1779803884663tddrtj",
+      "url": "https://www.theprint.in/opinion/operation-sindoor-anniversary-lessons-india-pakistan/2925811/",
+      "title": "Lessons from Op Sindoor—Pakistan spent on building, and India spent on deliberating",
+      "metadataRaw": "May 8, 2026 Anil Raman The Print",
+      "publishedDate": "2026-05-08T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T13:58:04.663Z",
+      "summary": "Following the May 2025 'Op Sindoor' crisis, Pakistan swiftly reformed its military and diplomatic structures, streamlining command, unifying long-range strike assets, and establishing a sophisticated narrative management system. In contrast, India has delayed implementing similar necessary reforms, leaving its decision-making processes and communication infrastructure largely unchanged. This has created a significant 'velocity gap,' giving Pakistan a strategic advantage in future conflicts, enhanced by direct access to the US President and anticipated Chinese support. The article warns that India's slow pace in adapting risks a worse outcome in the next potential crisis.",
+      "topics": [
+        "Military Modernization",
+        "Geopolitical Strategy",
+        "Crisis Management"
+      ],
+      "issues": [
+        "India-Pakistan Military Imbalance",
+        "Crisis Communication and Diplomacy"
+      ],
+      "mainIdeas": [
+        "Pakistan significantly reformed its military command, strike capabilities, and public messaging processes after Op Sindoor to achieve faster action and decision-making during crises.",
+        "India's institutional reforms have stalled, leaving it with the same slow decision-making and fragmented communication structures that hindered its response in the previous crisis.",
+        "Pakistan has cultivated direct diplomatic channels to the US President, demonstrating an ability to influence international crisis outcomes, and is preparing for augmented support from China in any future conflict with India."
+      ]
+    },
+    {
+      "id": "1779803875673oc36v",
+      "url": "https://www.ndtv.com/opinion/why-india-should-be-watching-chinas-new-shipborne-drone-closely-11479352",
+      "title": "Hellish Difficulty’: Why India Should Be Keeping An Eye On China’s New ‘Shipborne’ Drone",
+      "metadataRaw": "May 11, 2026 Anushka Saxena NDTV",
+      "publishedDate": "2026-05-11T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T13:57:55.673Z",
+      "summary": "The article text was not provided. The content shared was an error message indicating that access to the specified URL was denied, preventing analysis of the article titled 'Hellish Difficulty’: Why India Should Be Keeping An Eye On China’s New ‘Shipborne’ Drone'.",
+      "topics": [],
+      "issues": [],
+      "mainIdeas": []
+    },
+    {
+      "id": "17798038691926p3mv",
+      "url": "https://nationalinterest.org/blog/silk-road-rivalries/did-operation-sindoor-deter-pakistan",
+      "title": "Did Operation Sindoor Deter Pakistan?",
+      "metadataRaw": "May 12, 2026 Aishwaria Sonavane The National Interest",
+      "publishedDate": "2026-05-12T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T13:57:49.192Z",
+      "summary": "The provided text is a security block message from a website, not an article. Therefore, I cannot analyze any article content or provide a summary, topics, issues, or main ideas.",
+      "topics": [],
+      "issues": [],
+      "mainIdeas": []
+    },
+    {
+      "id": "1779803864954jo9zd6",
+      "url": "https://moneycontrol.com/news/opinion/pakistan-the-indispensable-interlocutor-faces-a-deepening-internal-security-crisis-13915764.html",
+      "title": "Pakistan, the indispensable interlocutor, faces a deepening internal security crisis",
+      "metadataRaw": "May 12, 2026 Aishwaria Sonavane Moneycontrol",
+      "publishedDate": "2026-05-12T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T13:57:44.954Z",
+      "summary": "Pakistan is playing a significant international role as a mediator between Iran and the US, yet it faces a severe and escalating internal security crisis at home. The country is grappling with an increasing number of deadly attacks from both Islamist groups, such as the TTP and ISKP, and Baloch insurgents. Militants are also adopting new tactics, including the use of commercial drones. Efforts to stop cross-border attacks from Afghanistan have largely failed, highlighting a difficult domestic situation despite Pakistan's elevated diplomatic profile.",
+      "topics": [
+        "Internal Security",
+        "Foreign Policy",
+        "Regional Stability"
+      ],
+      "issues": [
+        "Domestic Militancy in Pakistan",
+        "Pakistan-Afghanistan Border Security",
+        "Militant Use of Drone Technology"
+      ],
+      "mainIdeas": [
+        "Pakistan's efforts as an international peacemaker are overshadowed by a deepening and complex security crisis within its own borders.",
+        "Militant attacks by Islamist groups and Baloch insurgents are increasing in frequency, lethality, and tactical sophistication, including the adoption of commercial drones.",
+        "Attempts to prevent cross-border militant operations from Afghanistan have failed due to the Taliban's refusal to act against groups like the TTP, suggesting a long-term regional security challenge for Pakistan."
+      ]
+    },
+    {
+      "id": "1779803855953z7kny",
+      "url": "https://frontline.thehindu.com/world-affairs/iran-nuclear-crisis/article70924731.ece",
+      "title": "How Washington blew up nuclear restraint",
+      "metadataRaw": "May 13, 2026 Anil Raman The Frontline",
+      "publishedDate": "2026-05-13T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T13:57:35.953Z",
+      "summary": "The article contends that US policy, particularly under Donald Trump, has systematically dismantled the global architecture for limiting nuclear weapons. Actions like withdrawing from the Iran nuclear deal and launching wars based on questionable intelligence have significantly weakened international non-proliferation efforts. This has created a more unstable global environment, pushing US allies to reassess their security and encouraging other nations to consider developing their own nuclear capabilities. The resulting lack of arms control agreements between major powers is making the world a much less predictable place.",
+      "topics": [
+        "Nuclear Weapons Policy",
+        "International Security",
+        "US Foreign Policy"
+      ],
+      "issues": [
+        "Erosion of nuclear arms control agreements",
+        "Increased global nuclear proliferation risk"
+      ],
+      "mainIdeas": [
+        "The US has actively undermined decades of nuclear restraint architecture, most notably by abandoning the Iran nuclear deal and using ambiguous nuclear threats.",
+        "This approach has inadvertently signaled to other nations that possessing nuclear weapons might be necessary for their security, increasing global proliferation interest.",
+        "The breakdown of arms control agreements between major nuclear powers has created a dangerously unstable global nuclear environment with no clear rules or restraints."
+      ]
+    },
+    {
       "id": "1779789106095vc8dxt",
       "url": "https://www.ndtv.com/opinion/germanys-first-military-strategy-in-77-years-is-a-wake-up-call-for-india-11403231",
       "title": "Germany’s First ‘Military Strategy’ In 77 Years Is A Wake-Up Call For India",
@@ -271,5 +375,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-26T09:51:46.095Z"
+  "lastUpdated": "2026-05-26T13:58:18.037Z"
 }
