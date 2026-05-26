@@ -1,6 +1,109 @@
 {
   "articles": [
     {
+      "id": "1779810016115q8qbuq",
+      "url": "https://www.ndtv.com/opinion/imagining-a-new-world-order-11435905",
+      "title": "A New World Struggles To Be Born",
+      "metadataRaw": "May 1, 2026 Manoj Kewalramani NDTV",
+      "publishedDate": "2026-05-01T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:40:16.115Z",
+      "summary": "The article text was not accessible or provided for analysis. The input received was an error message indicating a lack of permission to access the content.",
+      "topics": [],
+      "issues": [],
+      "mainIdeas": []
+    },
+    {
+      "id": "1779810011139t0743f",
+      "url": "https://www.moneycontrol.com/news/opinion/democracy-authoritarianism-and-the-dilemma-posed-by-military-ai-13910959.html",
+      "title": "Democracy, authoritarianism and the dilemma posed by military AI",
+      "metadataRaw": "May 7, 2026 Arindam Goswami Moneycontrol",
+      "publishedDate": "2026-05-07T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:40:11.139Z",
+      "summary": "This article examines the difficult choice democracies face regarding military AI, arguing that while these tools are presented as essential for competition, they significantly expand state power and create serious accountability issues. It explains how the speed and complexity of AI systems make human oversight nearly impossible, blur lines between military and domestic use, and spread responsibility for harm. The author proposes that countries demand built-in safety features like anomaly detection, incident reporting, and a kill-switch to address these control and accountability gaps. Without such standards, even powerful nations face significant risks.",
+      "topics": [
+        "Military Technology",
+        "Government Oversight",
+        "Global Security"
+      ],
+      "issues": [
+        "Accountability for AI in military actions",
+        "Maintaining national control over advanced military AI systems"
+      ],
+      "mainIdeas": [
+        "Military AI tools, even when used by democracies, inherently create an accountability gap due to their speed and complexity, making human oversight difficult and diffusing responsibility for harmful outcomes.",
+        "The idea that democratic AI is fundamentally different from authoritarian AI is flawed because the technology's design and integration challenge traditional legal and oversight mechanisms.",
+        "To address these risks, countries must establish and enforce clear engineering standards for military AI, including anomaly detection, incident reporting, and an emergency kill-switch, before deployment."
+      ]
+    },
+    {
+      "id": "1779810000659uijmot",
+      "url": "https://asia.nikkei.com/opinion/china-s-role-in-enabling-iran-s-shahed-drone-supply-lines",
+      "title": "China’s role in enabling Iran’s Shahed drone supply lines",
+      "metadataRaw": "May 7, 2026 Anushka Saxena Nikkei Asia",
+      "publishedDate": "2026-05-07T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:40:00.659Z",
+      "summary": "This article highlights China's significant role in supporting Iran's supply lines for its Shahed drones. It details how Beijing utilizes intermediaries, technology transfers, and various networks to help Tehran acquire these effective and low-cost weapons. The piece suggests that without China's involvement, Iran's drone capabilities would be severely hampered.",
+      "topics": [
+        "International Relations",
+        "Military Technology",
+        "Weapons Proliferation"
+      ],
+      "issues": [
+        "China-Iran Military Cooperation",
+        "Drone Proliferation"
+      ],
+      "mainIdeas": [
+        "China is crucial to sustaining Iran's supply of Shahed drones.",
+        "Beijing provides support through intermediaries, technology transfers, and extensive networks.",
+        "Iran's Shahed drones are characterized as effective and low-cost weapons."
+      ]
+    },
+    {
+      "id": "17798099927652631n",
+      "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/on-atf-dont-miss-the-plane-truth",
+      "title": "On ATF, Don’t Miss The Plane Truth",
+      "metadataRaw": "May 8, 2026 Anupam Manur Times of India",
+      "publishedDate": "2026-05-08T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:39:52.765Z",
+      "summary": "Indian airlines are experiencing significant financial distress, primarily due to skyrocketing Aviation Turbine Fuel (ATF) costs, which now constitute about 60% of their operating expenses. This challenge is intensified by several domestic government policies, including a non-competitive fuel market, an illogical import-parity pricing model, and a complex, high tax structure. The article argues that these interventions, coupled with an outdated perception of air travel as a luxury, are making the Indian aviation sector structurally fragile. Urgent reforms are necessary to ensure the industry's sustainability and make air travel more accessible for the general public.",
+      "topics": [
+        "Aviation Industry",
+        "Economic Policy",
+        "Government Regulation"
+      ],
+      "issues": [
+        "High Aviation Fuel Costs",
+        "Government Fuel Pricing Policies"
+      ],
+      "mainIdeas": [
+        "Indian airlines face severe financial strain because domestic Aviation Turbine Fuel (ATF) prices are excessively high, driven up by global crude prices and specific government policies.",
+        "Key policy failures contributing to high ATF costs include a monopolized supply market, an irrational import-parity pricing mechanism, high excise duties, and fragmented state VATs.",
+        "For the Indian aviation sector to thrive and become more accessible, the government must reform its fuel pricing and taxation policies, introduce competition in ATF supply, and enable airlines to better manage fuel price risks."
+      ]
+    },
+    {
+      "id": "17798099844382rgug",
+      "url": "https://www.ndtv.com/opinion/trump-xi-talks-when-one-is-playing-chess-and-other-is-flipping-the-board-11482677",
+      "title": "Trump-Xi Talks: When One Is Playing Chess, And Other Is Flipping The Board",
+      "metadataRaw": "May 12, 2026 Anil Raman NDTV",
+      "publishedDate": "2026-05-12T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:39:44.439Z",
+      "summary": "The article text provided was an error message, indicating that the content could not be accessed. Therefore, I am unable to analyze the article titled 'Trump-Xi Talks: When One Is Playing Chess, And Other Is Flipping The Board' or provide a summary and key takeaways.",
+      "topics": [],
+      "issues": [],
+      "mainIdeas": []
+    },
+    {
       "id": "1779803884663tddrtj",
       "url": "https://www.theprint.in/opinion/operation-sindoor-anniversary-lessons-india-pakistan/2925811/",
       "title": "Lessons from Op Sindoor—Pakistan spent on building, and India spent on deliberating",
@@ -375,5 +478,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-26T13:58:18.037Z"
+  "lastUpdated": "2026-05-26T15:40:29.788Z"
 }
