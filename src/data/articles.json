@@ -1,179 +1,250 @@
 {
   "articles": [
     {
-      "id": "17798825877956c2dr",
-      "url": "https://takshashila.org.in/content/publications/20260401-India-seaweed-opportunity.html",
-      "title": "Proposal for a Right-Based Seaweed Cultivation System in India",
-      "metadataRaw": "Apr 1, 2026 Devleena Bhattacharjee, Shambhavi Naik, Anupam Manur",
-      "publishedDate": "2026-04-01T00:00:00.000Z",
-      "type": "research",
-      "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:49:47.795Z",
-      "summary": "The article proposes a shift in India's seaweed cultivation policy from a registration-only system to a lease-based tenure framework. Currently, farmers lack secure, exclusive rights over their marine cultivation areas, which prevents them from accessing finance and attracting private investment. A robust leasing system would grant farmers bankable rights, allowing them to secure loans, invest in infrastructure, and legally protect their sites. This change is crucial for unlocking the significant potential of India's seaweed industry, which offers benefits in job creation, import reduction, revenue generation, and environmental sustainability.",
+      "id": "1779789034441zbmo48",
+      "url": "https://www.timesofindia.indiatimes.com/blogs/toi-edit-page/48-heat-360-plan",
+      "title": "48° heat, 360° plan",
+      "metadataRaw": "Jun 22, 2026 Dr Y Nithiyanandam Times of India",
+      "publishedDate": "2026-06-22T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T09:50:34.441Z",
+      "summary": "India is experiencing a growing threat from extreme heat, which is significantly impacting public health, economic productivity, and even national security readiness. Unlike more visible disasters, heatwaves affect vast regions for extended periods and are often an under-recognized challenge. Currently, severe heatwave conditions are widespread across many parts of the country, leading to high risks of heat illness and stroke. Addressing this complex issue will require diverse strategies tailored to specific micro-regions, as there is no simple solution.",
       "topics": [
-        "Economic Development",
-        "Agricultural Policy",
-        "Aquaculture"
+        "Climate Change Impacts",
+        "Public Health",
+        "Economic Impact"
       ],
       "issues": [
-        "Lack of secure property rights for marine cultivators",
-        "Limited access to finance and private investment"
+        "Extreme Heat in India",
+        "Disaster Preparedness"
       ],
       "mainIdeas": [
-        "India's current seaweed cultivation policy, based on simple registration, is insufficient because it does not provide farmers with the secure, exclusive rights needed to attract private investment and institutional credit.",
-        "Implementing a system of bankable, exclusive leases for marine cultivation areas is crucial for unlocking the full economic and social potential of the seaweed sector in India.",
-        "The growth of the seaweed industry can significantly contribute to job creation, reduce India's reliance on imported products, generate substantial revenue, and offer environmental benefits like carbon sequestration."
+        "Extreme heat is an intensifying and under-recognized threat in India, with broad consequences for health, economy, and national security.",
+        "Heatwaves, though less visually dramatic than other disasters, affect vast areas for long durations, making them a pervasive challenge.",
+        "Current severe heat conditions across India pose significant health risks to the population.",
+        "Effective solutions will require region-specific strategies, indicating that a one-size-fits-all approach is insufficient."
       ]
     },
     {
-      "id": "1779882578927nyqt6",
-      "url": "https://takshashila.org.in/content/publications/20260402-India%E2%80%99s-West%20Asian-Diplomacy.html",
-      "title": "India’s Diplomacy in the West Asia Conflict",
-      "metadataRaw": "Apr 2, 2026 Aishwaria Sonavane",
-      "publishedDate": "2026-04-02T00:00:00.000Z",
-      "type": "research",
-      "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:49:38.927Z",
-      "summary": "India's diplomatic actions during the West Asia conflict reveal a strong tactical alignment with the US-Israel axis, departing from its historical non-alignment. This is evidenced by Prime Minister Modi's firm support for Israel, muted responses to US-Israel actions, and a focus on securing Indian commercial shipping through the Strait of Hormuz. The situation highlights a post-2014 foreign policy shift where India strengthened ties with Gulf nations and Israel, while its relationship with Iran declined significantly due to geopolitical pressures and strategic realignments.",
+      "id": "1779460561049tvubgr",
+      "url": "https://www.indianexpress.com/article/explained/explained-climate/expert-summer-intensity-factors-mitigation-data-heat-10697560",
+      "title": "Expert Explains What makes this summer particularly intense for India, and how better data collection can help",
+      "metadataRaw": "May 19, 2026 Dr Y Nithiyanandam Indian Express",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-22T14:36:01.049Z",
+      "summary": "India is experiencing an unusually intense and prolonged heatwave this summer, driven by a combination of global climate change trends like El Niño and local factors such as urbanization and dry spells. This extreme heat severely impacts public health, reduces worker productivity, and harms ecosystems, with vulnerable populations suffering the most. The article emphasizes that accurate, localized data and geospatial technologies are essential for understanding specific heat patterns. These tools can help develop effective, targeted solutions to mitigate the heat's escalating effects.",
       "topics": [
-        "Diplomacy",
-        "Energy Security",
-        "Regional Conflict"
+        "Climate Change Impacts",
+        "Public Health",
+        "Urban Planning"
       ],
       "issues": [
-        "India's diplomatic alignment in the West Asia conflict",
-        "Strait of Hormuz shipping disruptions"
+        "India's Severe Heatwaves",
+        "Data Gaps in Climate Response"
       ],
       "mainIdeas": [
-        "India's current diplomacy in the West Asia conflict shows a clear lean towards the US-Israel side, moving away from its traditional policy of not taking sides.",
-        "This shift is part of a deliberate post-2014 foreign policy where India prioritized stronger ties with Gulf countries and Israel, while its relationship with Iran weakened, partly due to US sanctions.",
-        "The closure of the Strait of Hormuz exposed India's reliance on stable shipping lanes for energy, forcing it into specific, ship-by-ship negotiations rather than broader diplomatic solutions."
+        "The current extreme heat in India results from both global warming trends and specific local conditions, intensifying its impact beyond normal seasonal patterns.",
+        "This heat significantly harms people's health, their ability to work, and the natural environment, with a disproportionate effect on disadvantaged groups.",
+        "Developing effective solutions requires more detailed, location-specific data and advanced mapping tools to create tailored strategies for reducing heat's impact."
       ]
     },
     {
-      "id": "1779882569422hjzsps",
-      "url": "https://takshashila.org.in/content/publications/20260402-Fertilizer-Geopolitics.html",
-      "title": "Geopolitics of Fertiliser Supply in India",
-      "metadataRaw": "Apr 2, 2026 Narayan Ramachandran, Dr Y Nithiyanandam, Anupam Manur",
-      "publishedDate": "2026-04-02T00:00:00.000Z",
+      "id": "17794603113259pmgdr",
+      "url": "https://ndtv.com/opinion/pakistans-taliban-blowback-is-entering-a-dangerous-new-phase-11517107",
+      "title": "3 Blasts In A Week: Pakistan’s Taliban Blowback Is Entering A Dangerous New Phase",
+      "metadataRaw": "May 20, 2026 Aishwaria Sonavane NDTV",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-22T14:31:51.325Z",
+      "summary": "Pakistan is experiencing a dangerous escalation in domestic terrorism, particularly in its northwest, with a recent series of high-impact attacks by the Tehreek-e-Taliban Pakistan (TTP). These attacks highlight the TTP's increased tactical sophistication and organizational resilience, despite years of Pakistani counter-terrorism efforts. This growing internal instability is severely straining Pakistan's relationship with the Afghan Taliban and is undermining its economic prospects and ability to project itself as a stable international power.",
+      "topics": [
+        "Internal Security",
+        "Terrorism",
+        "Regional Instability"
+      ],
+      "issues": [
+        "Resurgence of TTP activities in Pakistan",
+        "Deterioration of Pakistan-Afghan Taliban relations"
+      ],
+      "mainIdeas": [
+        "The Tehreek-e-Taliban Pakistan (TTP) has evolved into a highly capable and resilient insurgent group, able to execute complex, high-impact attacks despite Pakistan's sustained military operations.",
+        "Pakistan's efforts to curb the TTP, including diplomatic pressure on the Afghan Taliban and cross-border airstrikes, have been largely ineffective in degrading the group's operational strength.",
+        "The escalating terrorism crisis is damaging Pakistan's international standing, diverting its military focus, and jeopardizing vital foreign investments and economic recovery plans."
+      ]
+    },
+    {
+      "id": "1779882478832iq8z7",
+      "url": "https://takshashila.org.in/content/publications/India-Mythos-Policy-Brief-22052026.html",
+      "title": "Three Things India Should Do in the Age of Accelerated Vulnerability Discovery",
+      "metadataRaw": "May 22, 2026 Arindam Goswami, Colonel KPM Das, Lokendra Sharma",
+      "publishedDate": "2026-05-22T00:00:00.000Z",
       "type": "research",
       "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:49:29.422Z",
-      "summary": "India relies heavily on imported fertilizers, making it vulnerable to geopolitical risks like disruptions at critical maritime chokepoints and over-dependence on a few supplier nations. The article details supply routes for key fertilizers (DAP, MoP, Urea) and highlights threats like armed conflict, Houthi attacks, and GPS spoofing. To address these issues, a short-term strategy involves diversifying supply sources, exploring alternate routes, and increasing strategic reserves. A long-term solution focuses on reforming India's domestic fertilizer subsidy system to reduce overuse and overall demand.",
+      "dateAdded": "2026-05-27T11:47:58.832Z",
+      "summary": "A new, highly advanced AI model called Claude Mythos Preview can autonomously find and exploit complex cybersecurity vulnerabilities, effectively democratizing dangerous cyberattacks. This model, currently restricted to a US-based consortium for defensive use, puts India in a vulnerable position due to its lack of access to such powerful AI for safeguarding critical infrastructure. The article argues that India needs to take urgent steps to address this threat, including securing access to Mythos, establishing a dedicated AI cybersecurity task force, and intensifying global engagement on AI and cybersecurity standards.",
+      "topics": [
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "National Security"
+      ],
+      "issues": [
+        "India's access to advanced defensive AI",
+        "Cyber threats from advanced AI models"
+      ],
+      "mainIdeas": [
+        "India must secure early access to advanced AI models like Mythos to defend its critical infrastructure, leveraging its strong presence of Global Capability Centres.",
+        "India needs to establish a specialized task force focused on tracking and responding to cyber threats posed by frontier AI systems.",
+        "India should enhance its global partnerships and participation in international standards-setting bodies to influence the governance and security protocols related to AI and cybersecurity."
+      ]
+    },
+    {
+      "id": "1779882489975d1ydu8",
+      "url": "https://takshashila.org.in/content/publications/HormuzChallenges-14052026.html",
+      "title": "The Strait and Narrow",
+      "metadataRaw": "May 21, 2026 Adya Madhavan",
+      "publishedDate": "2026-05-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-27T11:48:09.975Z",
+      "summary": "The Strait of Hormuz has become a critical global chokepoint, caught in geopolitical tensions following Iran's partial closure and a U.S. blockade of Iranian ports. This situation has severely disrupted the passage of 20% of the world's oil and other crucial commodities, leading to market instability and a supply crunch. The article details the Strait's challenging geography, the ongoing international legal disputes over passage rights, and the military capabilities of Iran and other major naval forces in the region. Key Asian importers like China, India, and Japan are particularly vulnerable to these disruptions.",
       "topics": [
         "Geopolitics",
-        "Supply Chain Security",
-        "Agricultural Policy"
+        "Maritime Trade",
+        "Energy Security"
       ],
       "issues": [
-        "Vulnerability of Fertilizer Supply Chains",
-        "Distortion of Domestic Fertilizer Market"
+        "Strait of Hormuz Conflict",
+        "Global Supply Chain Disruptions"
       ],
       "mainIdeas": [
-        "India's significant dependence on imported fertilizers faces substantial geopolitical risks due to vulnerable maritime chokepoints and concentrated supplier nations.",
-        "A two-part strategy is necessary: short-term actions include diversifying import sources and routes, and increasing strategic reserves to protect against immediate disruptions.",
-        "Long-term solutions require reforming India's deeply subsidized fertilizer market, especially for urea, to reduce overuse and align consumption with agricultural needs, thereby decreasing import demand."
+        "The Strait of Hormuz is a vital international waterway, and current military actions by Iran and the U.S. are severely disrupting global trade and energy markets.",
+        "Despite significant losses to its conventional naval forces, Iran maintains the ability to threaten shipping in the Strait using asymmetric tactics, including drones, mines, and small boats.",
+        "The Strait's unique geography, international legal disputes over passage rights, and the presence of multiple powerful navies create a complex and unstable operational environment with global economic implications, especially for key Asian importers."
       ]
     },
     {
-      "id": "1779882564158xjgus5",
-      "url": "https://takshashila.org.in/content/publications/20260412-Starlink-and-Risks-For-India.html",
-      "title": "Starlink and Risks for India",
-      "metadataRaw": "Apr 12, 2026 Ashwin Prasad Rao, Aditya Ramanathan, Col. Das (Retd.)",
-      "publishedDate": "2026-04-12T00:00:00.000Z",
+      "id": "17798824973929ckbjk",
+      "url": "https://takshashila.org.in/content/publications/Congress-Iran-War-20052026.html",
+      "title": "Analysing US Congressional oversight on the Iran war",
+      "metadataRaw": "May 20, 2026 Abhishek Kadiyala",
+      "publishedDate": "2026-05-20T00:00:00.000Z",
       "type": "research",
       "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:49:24.158Z",
-      "summary": "The article warns that Starlink presents considerable risks to India, primarily concerning the potential misuse of user data and challenges to the government's ability to control internet access. These risks are amplified by Starlink's advanced technology, Elon Musk's influence within the U.S. government, and his unpredictable behavior. Although India has implemented strict security conditions for satellite communication providers, these regulations are difficult to enforce effectively. The author suggests India should bolster its domestic broadband infrastructure and diversify its satellite internet vendors to reduce reliance on Starlink.",
+      "dateAdded": "2026-05-27T11:48:17.392Z",
+      "summary": "The article analyzes why the U.S. Congress failed to effectively oversee the President's actions during the recent conflict with Iran, despite provisions in the War Powers Resolution. It highlights that the WPR's limitations, combined with deep partisan and ideological divisions within both the Democratic and Republican parties, prevented any bills aimed at curtailing presidential war powers from passing. Consequently, Congress struggled to assert its constitutional authority over military engagements, influenced by factors like presidential loyalty, pro-Israel stances, and concerns about troop safety.",
       "topics": [
-        "National Security",
-        "Technology Policy",
-        "Regulatory Affairs"
+        "U.S. Politics",
+        "Congressional Oversight",
+        "Foreign Policy"
       ],
       "issues": [
-        "Data Security and Privacy",
-        "Government Control over Internet Access"
+        "Presidential Authority in War",
+        "Congressional Inaction"
       ],
       "mainIdeas": [
-        "Starlink's technological superiority, Elon Musk's political influence, and his past actions create unique security and sovereignty concerns for India.",
-        "Current Indian regulations for satellite internet providers are challenged by Starlink's capabilities, making it difficult to enforce rules regarding data handling and service availability.",
-        "India should enhance its national broadband infrastructure and avoid over-reliance on a single foreign satellite internet provider by diversifying vendors for critical applications."
+        "The War Powers Resolution is an ineffective tool for congressional oversight of presidential war-making due to structural flaws and political polarization.",
+        "Deep ideological and partisan splits within both the Democratic and Republican parties prevented Congress from agreeing on and passing legislation to curb presidential authority during the Iran conflict.",
+        "Congressional members' motivations, including loyalty to the President, support for Israel, or concerns about troop safety, often outweighed their desire to reassert constitutional checks on executive power."
       ]
     },
     {
-      "id": "17798825585112nzxul",
-      "url": "https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html",
-      "title": "The Shahed Drone",
-      "metadataRaw": "Apr 14, 2026 Anushka Saxena",
-      "publishedDate": "2026-04-14T00:00:00.000Z",
-      "type": "research",
-      "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:49:18.511Z",
-      "summary": "The Shahed drone is a low-cost, mass-produced Iranian aerial vehicle that has reshaped modern warfare by enabling sustained, affordable attacks against more powerful adversaries. Its success challenges traditional air defense strategies. Despite sanctions, Iran has built a sophisticated supply chain, acquiring components globally through shell companies and re-export channels, leading to the drone's widespread proliferation.",
+      "id": "17797890457402efna",
+      "url": "https://www.theprint.in/opinion/as-washington-reopens-to-china-its-closing-the-door-on-india/2935888/",
+      "title": "As Washington reopens to China, it’s closing the door on India",
+      "metadataRaw": "May 20, 2026 Anil Raman The Print",
+      "publishedDate": "2026-05-20T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T09:50:45.740Z",
+      "summary": "US domestic politics, fueled by anti-immigrant sentiment, is increasingly targeting Indian immigration through proposed H-1B visa restrictions and dismissive rhetoric. These actions are undermining the long-standing US-India strategic partnership, particularly its crucial human and technological linkages. This shift is leading to a redirection of Indian talent away from the US and prompting India to re-evaluate its foreign policy and seek alliances with other global partners.",
       "topics": [
-        "Military Technology",
-        "Global Security",
-        "Sanctions Effectiveness"
+        "US Domestic Politics",
+        "Immigration",
+        "International Relations"
       ],
       "issues": [
-        "Drone Proliferation",
-        "Supply Chain Exploitation"
+        "US-India Bilateral Relations",
+        "Skilled Immigration Policies"
       ],
       "mainIdeas": [
-        "Low-cost, precision drones like the Shahed allow less powerful nations to conduct effective, sustained attacks against stronger military forces.",
-        "Drone technology, including the Shahed design, is rapidly spreading globally through replication and export, driving a new arms race.",
-        "Existing international sanctions are largely failing to stop the flow of critical drone components, as Iran uses shell companies and dual-use trade to acquire parts."
+        "Domestic political incentives in the US are driving a significant shift towards anti-Indian immigration policies and rhetoric, including severe restrictions on work visas.",
+        "These policy changes are eroding the human and technological foundations of the US-India strategic partnership, leading skilled Indian talent to consider opportunities outside the US.",
+        "The escalating anti-Indian sentiment in the US is prompting India to reassess its foreign policy, diversify its international alliances, and strengthen its own domestic capabilities."
       ]
     },
     {
-      "id": "17798825424347t8kii",
-      "url": "https://takshashila.org.in/content/publications/20260420-from-gigawatts-to-megawatts.html",
-      "title": "From Gigawatts to Megawatts",
-      "metadataRaw": "Apr 20, 2026 Anwesha Sen",
-      "publishedDate": "2026-04-20T00:00:00.000Z",
-      "type": "research",
-      "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:49:02.434Z",
-      "summary": "Small Modular Reactors (SMRs) are a new type of nuclear power plant, producing between 20 and 300 MWe. They aim to solve problems faced by large reactors, such as high costs and long build times, by being factory-made and smaller. SMRs are seen as a vital tool for countries like India to meet growing electricity needs, cut carbon emissions, and provide stable power to their grids, especially as demand for digital infrastructure increases. India has committed significant funds to develop and deploy five domestic SMRs by 2033, expecting the technology to fully mature within ten years.",
+      "id": "17797890561055myk1c",
+      "url": "https://www.moneycontrol.com/news/opinion/india-s-first-digital-census-a-geospatial-blueprint-for-growth-13922358.html",
+      "title": "India’s First Digital Census: A geospatial blueprint for growth",
+      "metadataRaw": "May 18, 2026 Dr Y Nithiyanandam Money Control",
+      "publishedDate": "2026-05-18T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T09:50:56.105Z",
+      "summary": "India is undertaking its first fully digital census, an ambitious project aimed at creating a 'digital twin' of the country by linking population data with physical infrastructure. This initiative has the potential to revolutionize economic planning, infrastructure development, and overall governance. However, the process is currently encountering significant challenges, including low public awareness, technical glitches, an outdated questionnaire, and difficulties for both citizens and enumerators. The article suggests that improvements in communication, user support, questionnaire relevance, and extended timelines are crucial for the census to achieve its transformative goals and foster broad public participation.",
       "topics": [
-        "Nuclear Power",
-        "Energy Policy",
-        "Clean Technology"
+        "Digital Governance",
+        "National Development",
+        "Data Management"
       ],
       "issues": [
-        "Energy Reliability",
-        "Climate Action",
-        "Grid Management"
+        "Digital Census Implementation Challenges",
+        "Public Participation and Awareness"
       ],
       "mainIdeas": [
-        "SMRs offer a more flexible and potentially faster-to-deploy alternative to traditional large nuclear reactors, helping meet increased electricity demand and decarbonization targets.",
-        "They provide a stable and consistent power source that can complement intermittent renewable energy, improving overall grid reliability and reducing reliance on fossil fuels.",
-        "India is heavily investing in developing its own SMR technology to secure its energy supply and support economic growth, with ambitious deployment goals for the coming decade."
+        "India's digital census offers a unique opportunity to create a comprehensive, geographically linked dataset for more informed national planning and infrastructure development.",
+        "Successful implementation hinges on overcoming practical hurdles like low public engagement, technical platform issues, and the need for better support for both citizens and field workers.",
+        "Modernizing the census questionnaire, providing accessible user support, and extending the participation window are critical steps to ensure accurate data collection and broad civic participation."
       ]
     },
     {
-      "id": "1779882533314ij3jb",
-      "url": "https://takshashila.org.in/content/publications/US-Trade-Deals-13052026.html",
-      "title": "Economic Security with American Characteristics",
-      "metadataRaw": "May 13, 2026 William Pitts",
-      "publishedDate": "2026-05-13T00:00:00.000Z",
-      "type": "research",
-      "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:48:53.314Z",
-      "summary": "Trump's second administration uses trade agreements and universal reciprocal tariffs primarily to achieve economic security goals, moving away from traditional free trade. These policies, outlined in the 2025 National Security Strategy, aim to secure vital supply chains for critical minerals and technology. They also focus on strengthening key domestic industries like agriculture, energy, automotives, and shipbuilding, emphasizing national self-reliance. This approach directly links economic power to national security, prioritizing US interests through unilateral action and rejecting climate-focused initiatives.",
+      "id": "1779789069478c04r59",
+      "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/a-great-power-summit-that-sends-a-message-to-the-middle-powers",
+      "title": "A great-power summit that sends a message to the middle powers",
+      "metadataRaw": "May 17, 2026 Anushka Saxena Times of India",
+      "publishedDate": "2026-05-17T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T09:51:09.478Z",
+      "summary": "The recent US-China summit underscored a deeply competitive relationship that both countries aim to manage, rather than resolve. While the US focused on securing trade deals and market access, the broader outcome signals a shift in US foreign policy towards bilateral negotiations. This approach suggests a decreased reliance on traditional alliances, indicating to other nations that they may need to become more self-reliant and diversify their international partnerships.",
       "topics": [
-        "Economic Policy",
-        "National Security Strategy",
+        "International Relations",
+        "Trade & Economics",
+        "Geopolitics"
+      ],
+      "issues": [
+        "US-China Competition Management",
+        "Future of US Alliances"
+      ],
+      "mainIdeas": [
+        "The US and China accept their long-term competition and are focused on keeping it controlled rather than seeking a major breakthrough.",
+        "The US is increasingly prioritizing direct bilateral deals and market access, which may diminish the role of its traditional alliance system in its overall strategy.",
+        "This shift means other countries, particularly those traditionally relying on the US for balancing China, will need to enhance their own capabilities and diversify their international relationships."
+      ]
+    },
+    {
+      "id": "1779789076038hvtlup",
+      "url": "https://indianexpress.com/article/opinion/columns/xi-trump-beijing-us-china-summit-tech-ai-ceo-taiwan-iran-tariffs-trade-10692511",
+      "title": "Xi looks to open China’s doors. How amenable will Trump be?",
+      "metadataRaw": "May 16, 2026 Anushka Saxena Indian Express",
+      "publishedDate": "2026-05-16T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T09:51:16.038Z",
+      "summary": "Chinese President Xi Jinping and US President Donald Trump recently met in Beijing, where Xi proposed a framework for a stable, albeit competitive, US-China relationship, aiming to avoid conflict. China significantly heightened its warnings regarding Taiwan, emphasizing it as the most critical issue in bilateral ties, and outlined 'four red lines' for the relationship. Concurrently, Xi engaged with American CEOs, signaling China's interest in continued economic cooperation and market access for US businesses. The overall message from Beijing was a call for stability and mutual benefit, with the future depending on Washington's willingness to engage with this approach.",
+      "topics": [
+        "US-China Relations",
+        "Geopolitics",
         "International Trade"
       ],
       "issues": [
-        "Securing Critical Supply Chains",
-        "Boosting Domestic Industries"
+        "Taiwan Strait tensions",
+        "US-China economic competition and cooperation"
       ],
       "mainIdeas": [
-        "The Trump 2.0 administration prioritizes using trade as a tool for economic security, rather than just market liberalization.",
-        "Its core economic security goals are to protect critical supply chains (minerals, technology) and strengthen specific domestic sectors (agriculture, energy, manufacturing).",
-        "The 2025 National Security Strategy clearly defines economic security in terms of national survival and prosperity, favoring US unilateral action and energy independence."
+        "China is actively pursuing a framework for stable competition with the US, aiming to prevent major conflicts while managing differences.",
+        "Taiwan is China's foremost 'red line,' with Beijing escalating its warnings about potential military conflict if the US mishandles the issue.",
+        "China is open to increasing economic engagement with American businesses to maintain stability and pursue mutual prosperity, provided it aligns with China's broader development goals."
       ]
     },
     {
@@ -227,117 +298,294 @@
       ]
     },
     {
-      "id": "17798824973929ckbjk",
-      "url": "https://takshashila.org.in/content/publications/Congress-Iran-War-20052026.html",
-      "title": "Analysing US Congressional oversight on the Iran war",
-      "metadataRaw": "May 20, 2026 Abhishek Kadiyala",
-      "publishedDate": "2026-05-20T00:00:00.000Z",
+      "id": "1779882533314ij3jb",
+      "url": "https://takshashila.org.in/content/publications/US-Trade-Deals-13052026.html",
+      "title": "Economic Security with American Characteristics",
+      "metadataRaw": "May 13, 2026 William Pitts",
+      "publishedDate": "2026-05-13T00:00:00.000Z",
       "type": "research",
       "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:48:17.392Z",
-      "summary": "The article analyzes why the U.S. Congress failed to effectively oversee the President's actions during the recent conflict with Iran, despite provisions in the War Powers Resolution. It highlights that the WPR's limitations, combined with deep partisan and ideological divisions within both the Democratic and Republican parties, prevented any bills aimed at curtailing presidential war powers from passing. Consequently, Congress struggled to assert its constitutional authority over military engagements, influenced by factors like presidential loyalty, pro-Israel stances, and concerns about troop safety.",
+      "dateAdded": "2026-05-27T11:48:53.314Z",
+      "summary": "Trump's second administration uses trade agreements and universal reciprocal tariffs primarily to achieve economic security goals, moving away from traditional free trade. These policies, outlined in the 2025 National Security Strategy, aim to secure vital supply chains for critical minerals and technology. They also focus on strengthening key domestic industries like agriculture, energy, automotives, and shipbuilding, emphasizing national self-reliance. This approach directly links economic power to national security, prioritizing US interests through unilateral action and rejecting climate-focused initiatives.",
       "topics": [
-        "U.S. Politics",
-        "Congressional Oversight",
-        "Foreign Policy"
+        "Economic Policy",
+        "National Security Strategy",
+        "International Trade"
       ],
       "issues": [
-        "Presidential Authority in War",
-        "Congressional Inaction"
+        "Securing Critical Supply Chains",
+        "Boosting Domestic Industries"
       ],
       "mainIdeas": [
-        "The War Powers Resolution is an ineffective tool for congressional oversight of presidential war-making due to structural flaws and political polarization.",
-        "Deep ideological and partisan splits within both the Democratic and Republican parties prevented Congress from agreeing on and passing legislation to curb presidential authority during the Iran conflict.",
-        "Congressional members' motivations, including loyalty to the President, support for Israel, or concerns about troop safety, often outweighed their desire to reassert constitutional checks on executive power."
+        "The Trump 2.0 administration prioritizes using trade as a tool for economic security, rather than just market liberalization.",
+        "Its core economic security goals are to protect critical supply chains (minerals, technology) and strengthen specific domestic sectors (agriculture, energy, manufacturing).",
+        "The 2025 National Security Strategy clearly defines economic security in terms of national survival and prosperity, favoring US unilateral action and energy independence."
       ]
     },
     {
-      "id": "1779882489975d1ydu8",
-      "url": "https://takshashila.org.in/content/publications/HormuzChallenges-14052026.html",
-      "title": "The Strait and Narrow",
-      "metadataRaw": "May 21, 2026 Adya Madhavan",
-      "publishedDate": "2026-05-21T00:00:00.000Z",
-      "type": "research",
-      "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:48:09.975Z",
-      "summary": "The Strait of Hormuz has become a critical global chokepoint, caught in geopolitical tensions following Iran's partial closure and a U.S. blockade of Iranian ports. This situation has severely disrupted the passage of 20% of the world's oil and other crucial commodities, leading to market instability and a supply crunch. The article details the Strait's challenging geography, the ongoing international legal disputes over passage rights, and the military capabilities of Iran and other major naval forces in the region. Key Asian importers like China, India, and Japan are particularly vulnerable to these disruptions.",
-      "topics": [
-        "Geopolitics",
-        "Maritime Trade",
-        "Energy Security"
-      ],
-      "issues": [
-        "Strait of Hormuz Conflict",
-        "Global Supply Chain Disruptions"
-      ],
-      "mainIdeas": [
-        "The Strait of Hormuz is a vital international waterway, and current military actions by Iran and the U.S. are severely disrupting global trade and energy markets.",
-        "Despite significant losses to its conventional naval forces, Iran maintains the ability to threaten shipping in the Strait using asymmetric tactics, including drones, mines, and small boats.",
-        "The Strait's unique geography, international legal disputes over passage rights, and the presence of multiple powerful navies create a complex and unstable operational environment with global economic implications, especially for key Asian importers."
-      ]
-    },
-    {
-      "id": "1779882478832iq8z7",
-      "url": "https://takshashila.org.in/content/publications/India-Mythos-Policy-Brief-22052026.html",
-      "title": "Three Things India Should Do in the Age of Accelerated Vulnerability Discovery",
-      "metadataRaw": "May 22, 2026 Arindam Goswami, Colonel KPM Das, Lokendra Sharma",
-      "publishedDate": "2026-05-22T00:00:00.000Z",
-      "type": "research",
-      "source": "Takshashila Research",
-      "dateAdded": "2026-05-27T11:47:58.832Z",
-      "summary": "A new, highly advanced AI model called Claude Mythos Preview can autonomously find and exploit complex cybersecurity vulnerabilities, effectively democratizing dangerous cyberattacks. This model, currently restricted to a US-based consortium for defensive use, puts India in a vulnerable position due to its lack of access to such powerful AI for safeguarding critical infrastructure. The article argues that India needs to take urgent steps to address this threat, including securing access to Mythos, establishing a dedicated AI cybersecurity task force, and intensifying global engagement on AI and cybersecurity standards.",
-      "topics": [
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "National Security"
-      ],
-      "issues": [
-        "India's access to advanced defensive AI",
-        "Cyber threats from advanced AI models"
-      ],
-      "mainIdeas": [
-        "India must secure early access to advanced AI models like Mythos to defend its critical infrastructure, leveraging its strong presence of Global Capability Centres.",
-        "India needs to establish a specialized task force focused on tracking and responding to cyber threats posed by frontier AI systems.",
-        "India should enhance its global partnerships and participation in international standards-setting bodies to influence the governance and security protocols related to AI and cybersecurity."
-      ]
-    },
-    {
-      "id": "1779882469499yjpcc7",
-      "url": "https://ndtv.com/opinion/pakistans-ever-running-saudi-lifeline-has-its-limits-11383099",
-      "title": "Pakistan’s Ever-Running Saudi ‘Lifeline’ Has Its Limits",
-      "metadataRaw": "Apr 20, 2026 Aishwaria Sonavane NDTV",
-      "publishedDate": "2026-04-20T00:00:00.000Z",
+      "id": "1779803855953z7kny",
+      "url": "https://frontline.thehindu.com/world-affairs/iran-nuclear-crisis/article70924731.ece",
+      "title": "How Washington blew up nuclear restraint",
+      "metadataRaw": "May 13, 2026 Anil Raman The Frontline",
+      "publishedDate": "2026-05-13T00:00:00.000Z",
       "type": "opinion",
       "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-27T11:47:49.499Z",
-      "summary": "The article text was not provided. The content supplied appears to be an error message indicating that the original URL is inaccessible. Therefore, a summary and analysis of the article text cannot be performed.",
+      "dateAdded": "2026-05-26T13:57:35.953Z",
+      "summary": "The article contends that US policy, particularly under Donald Trump, has systematically dismantled the global architecture for limiting nuclear weapons. Actions like withdrawing from the Iran nuclear deal and launching wars based on questionable intelligence have significantly weakened international non-proliferation efforts. This has created a more unstable global environment, pushing US allies to reassess their security and encouraging other nations to consider developing their own nuclear capabilities. The resulting lack of arms control agreements between major powers is making the world a much less predictable place.",
+      "topics": [
+        "Nuclear Weapons Policy",
+        "International Security",
+        "US Foreign Policy"
+      ],
+      "issues": [
+        "Erosion of nuclear arms control agreements",
+        "Increased global nuclear proliferation risk"
+      ],
+      "mainIdeas": [
+        "The US has actively undermined decades of nuclear restraint architecture, most notably by abandoning the Iran nuclear deal and using ambiguous nuclear threats.",
+        "This approach has inadvertently signaled to other nations that possessing nuclear weapons might be necessary for their security, increasing global proliferation interest.",
+        "The breakdown of arms control agreements between major nuclear powers has created a dangerously unstable global nuclear environment with no clear rules or restraints."
+      ]
+    },
+    {
+      "id": "17798038691926p3mv",
+      "url": "https://nationalinterest.org/blog/silk-road-rivalries/did-operation-sindoor-deter-pakistan",
+      "title": "Did Operation Sindoor Deter Pakistan?",
+      "metadataRaw": "May 12, 2026 Aishwaria Sonavane The National Interest",
+      "publishedDate": "2026-05-12T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T13:57:49.192Z",
+      "summary": "The provided text is a security block message from a website, not an article. Therefore, I cannot analyze any article content or provide a summary, topics, issues, or main ideas.",
       "topics": [],
       "issues": [],
       "mainIdeas": []
     },
     {
-      "id": "1779882462150buydr",
-      "url": "https://www.thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero",
-      "title": "China’s critical minerals export ban falls short",
-      "metadataRaw": "Apr 21, 2026 Amit Kumar,Pranay Kotasthane ThinkChina",
-      "publishedDate": "2026-04-21T00:00:00.000Z",
+      "id": "1779803864954jo9zd6",
+      "url": "https://moneycontrol.com/news/opinion/pakistan-the-indispensable-interlocutor-faces-a-deepening-internal-security-crisis-13915764.html",
+      "title": "Pakistan, the indispensable interlocutor, faces a deepening internal security crisis",
+      "metadataRaw": "May 12, 2026 Aishwaria Sonavane Moneycontrol",
+      "publishedDate": "2026-05-12T00:00:00.000Z",
       "type": "opinion",
       "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-27T11:47:42.150Z",
-      "summary": "China implemented export bans on gallium and germanium, critical minerals for semiconductors and defense, targeting the United States from July 2023 through November 2025. Although these restrictions led to a significant increase in prices for these materials in the US, they largely failed to disrupt American industrial consumption. The US successfully countered the ban by diversifying its supply chains, boosting domestic production, and through strategic stockpiling efforts. The article concludes that such export controls are less effective when a country's dominance is based on price rather than an irreplaceable technological advantage.",
+      "dateAdded": "2026-05-26T13:57:44.954Z",
+      "summary": "Pakistan is playing a significant international role as a mediator between Iran and the US, yet it faces a severe and escalating internal security crisis at home. The country is grappling with an increasing number of deadly attacks from both Islamist groups, such as the TTP and ISKP, and Baloch insurgents. Militants are also adopting new tactics, including the use of commercial drones. Efforts to stop cross-border attacks from Afghanistan have largely failed, highlighting a difficult domestic situation despite Pakistan's elevated diplomatic profile.",
       "topics": [
-        "International Trade",
-        "Critical Minerals",
-        "US-China Relations"
+        "Internal Security",
+        "Foreign Policy",
+        "Regional Stability"
       ],
       "issues": [
-        "Export Controls",
-        "Supply Chain Resilience"
+        "Domestic Militancy in Pakistan",
+        "Pakistan-Afghanistan Border Security",
+        "Militant Use of Drone Technology"
       ],
       "mainIdeas": [
-        "China's export ban on gallium and germanium caused substantial price increases for the US but did not significantly hinder its industrial use or access to these materials.",
-        "The US effectively mitigated the impact of the ban by diversifying its sources of supply, increasing domestic production, and utilizing existing reserves.",
-        "Export controls are less effective when a country's market dominance stems from cost advantages rather than a unique technological capability, allowing market forces and state intervention to foster alternatives."
+        "Pakistan's efforts as an international peacemaker are overshadowed by a deepening and complex security crisis within its own borders.",
+        "Militant attacks by Islamist groups and Baloch insurgents are increasing in frequency, lethality, and tactical sophistication, including the adoption of commercial drones.",
+        "Attempts to prevent cross-border militant operations from Afghanistan have failed due to the Taliban's refusal to act against groups like the TTP, suggesting a long-term regional security challenge for Pakistan."
+      ]
+    },
+    {
+      "id": "17798099927652631n",
+      "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/on-atf-dont-miss-the-plane-truth",
+      "title": "On ATF, Don’t Miss The Plane Truth",
+      "metadataRaw": "May 8, 2026 Anupam Manur Times of India",
+      "publishedDate": "2026-05-08T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:39:52.765Z",
+      "summary": "Indian airlines are experiencing significant financial distress, primarily due to skyrocketing Aviation Turbine Fuel (ATF) costs, which now constitute about 60% of their operating expenses. This challenge is intensified by several domestic government policies, including a non-competitive fuel market, an illogical import-parity pricing model, and a complex, high tax structure. The article argues that these interventions, coupled with an outdated perception of air travel as a luxury, are making the Indian aviation sector structurally fragile. Urgent reforms are necessary to ensure the industry's sustainability and make air travel more accessible for the general public.",
+      "topics": [
+        "Aviation Industry",
+        "Economic Policy",
+        "Government Regulation"
+      ],
+      "issues": [
+        "High Aviation Fuel Costs",
+        "Government Fuel Pricing Policies"
+      ],
+      "mainIdeas": [
+        "Indian airlines face severe financial strain because domestic Aviation Turbine Fuel (ATF) prices are excessively high, driven up by global crude prices and specific government policies.",
+        "Key policy failures contributing to high ATF costs include a monopolized supply market, an irrational import-parity pricing mechanism, high excise duties, and fragmented state VATs.",
+        "For the Indian aviation sector to thrive and become more accessible, the government must reform its fuel pricing and taxation policies, introduce competition in ATF supply, and enable airlines to better manage fuel price risks."
+      ]
+    },
+    {
+      "id": "1779803884663tddrtj",
+      "url": "https://www.theprint.in/opinion/operation-sindoor-anniversary-lessons-india-pakistan/2925811/",
+      "title": "Lessons from Op Sindoor—Pakistan spent on building, and India spent on deliberating",
+      "metadataRaw": "May 8, 2026 Anil Raman The Print",
+      "publishedDate": "2026-05-08T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T13:58:04.663Z",
+      "summary": "Following the May 2025 'Op Sindoor' crisis, Pakistan swiftly reformed its military and diplomatic structures, streamlining command, unifying long-range strike assets, and establishing a sophisticated narrative management system. In contrast, India has delayed implementing similar necessary reforms, leaving its decision-making processes and communication infrastructure largely unchanged. This has created a significant 'velocity gap,' giving Pakistan a strategic advantage in future conflicts, enhanced by direct access to the US President and anticipated Chinese support. The article warns that India's slow pace in adapting risks a worse outcome in the next potential crisis.",
+      "topics": [
+        "Military Modernization",
+        "Geopolitical Strategy",
+        "Crisis Management"
+      ],
+      "issues": [
+        "India-Pakistan Military Imbalance",
+        "Crisis Communication and Diplomacy"
+      ],
+      "mainIdeas": [
+        "Pakistan significantly reformed its military command, strike capabilities, and public messaging processes after Op Sindoor to achieve faster action and decision-making during crises.",
+        "India's institutional reforms have stalled, leaving it with the same slow decision-making and fragmented communication structures that hindered its response in the previous crisis.",
+        "Pakistan has cultivated direct diplomatic channels to the US President, demonstrating an ability to influence international crisis outcomes, and is preparing for augmented support from China in any future conflict with India."
+      ]
+    },
+    {
+      "id": "1779810011139t0743f",
+      "url": "https://www.moneycontrol.com/news/opinion/democracy-authoritarianism-and-the-dilemma-posed-by-military-ai-13910959.html",
+      "title": "Democracy, authoritarianism and the dilemma posed by military AI",
+      "metadataRaw": "May 7, 2026 Arindam Goswami Moneycontrol",
+      "publishedDate": "2026-05-07T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:40:11.139Z",
+      "summary": "This article examines the difficult choice democracies face regarding military AI, arguing that while these tools are presented as essential for competition, they significantly expand state power and create serious accountability issues. It explains how the speed and complexity of AI systems make human oversight nearly impossible, blur lines between military and domestic use, and spread responsibility for harm. The author proposes that countries demand built-in safety features like anomaly detection, incident reporting, and a kill-switch to address these control and accountability gaps. Without such standards, even powerful nations face significant risks.",
+      "topics": [
+        "Military Technology",
+        "Government Oversight",
+        "Global Security"
+      ],
+      "issues": [
+        "Accountability for AI in military actions",
+        "Maintaining national control over advanced military AI systems"
+      ],
+      "mainIdeas": [
+        "Military AI tools, even when used by democracies, inherently create an accountability gap due to their speed and complexity, making human oversight difficult and diffusing responsibility for harmful outcomes.",
+        "The idea that democratic AI is fundamentally different from authoritarian AI is flawed because the technology's design and integration challenge traditional legal and oversight mechanisms.",
+        "To address these risks, countries must establish and enforce clear engineering standards for military AI, including anomaly detection, incident reporting, and an emergency kill-switch, before deployment."
+      ]
+    },
+    {
+      "id": "1779810000659uijmot",
+      "url": "https://asia.nikkei.com/opinion/china-s-role-in-enabling-iran-s-shahed-drone-supply-lines",
+      "title": "China’s role in enabling Iran’s Shahed drone supply lines",
+      "metadataRaw": "May 7, 2026 Anushka Saxena Nikkei Asia",
+      "publishedDate": "2026-05-07T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T15:40:00.659Z",
+      "summary": "This article highlights China's significant role in supporting Iran's supply lines for its Shahed drones. It details how Beijing utilizes intermediaries, technology transfers, and various networks to help Tehran acquire these effective and low-cost weapons. The piece suggests that without China's involvement, Iran's drone capabilities would be severely hampered.",
+      "topics": [
+        "International Relations",
+        "Military Technology",
+        "Weapons Proliferation"
+      ],
+      "issues": [
+        "China-Iran Military Cooperation",
+        "Drone Proliferation"
+      ],
+      "mainIdeas": [
+        "China is crucial to sustaining Iran's supply of Shahed drones.",
+        "Beijing provides support through intermediaries, technology transfers, and extensive networks.",
+        "Iran's Shahed drones are characterized as effective and low-cost weapons."
+      ]
+    },
+    {
+      "id": "17797890949880jwv3g",
+      "url": "https://indianexpress.com/article/opinion/columns/anthropic-claude-how-india-should-prepare-for-the-mythos-era-10661497",
+      "title": "How India should prepare for the Mythos era",
+      "metadataRaw": "Apr 29, 2026 Bharath Reddy,Shobhankita Reddy The Indian Express",
+      "publishedDate": "2026-04-29T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T09:51:34.988Z",
+      "summary": "Anthropic's new AI model, Claude Mythos, can identify thousands of software vulnerabilities, posing a significant challenge to cybersecurity for governments and businesses alike. The article highlights that while experts debate the immediate threat level, future AI models will undoubtedly possess such capabilities. It urges India to build comprehensive cybersecurity resilience across individuals, organizations, and legal frameworks to prepare for this new era of AI-driven threats. This includes improving basic cyber hygiene, adopting defensive AI tools, and reforming laws to incentivize vulnerability fixing rather than penalizing discovery.",
+      "topics": [
+        "Cybersecurity",
+        "Artificial Intelligence",
+        "National Security"
+      ],
+      "issues": [
+        "AI-driven Cybersecurity Threats",
+        "India's Cybersecurity Policy"
+      ],
+      "mainIdeas": [
+        "Advanced AI models like Claude Mythos are rapidly enhancing the ability to find software vulnerabilities, creating a new, intensified cybersecurity threat landscape.",
+        "India needs to implement a comprehensive strategy for cybersecurity resilience, including individual cyber hygiene, organizational defense tools, and crucial legal reforms.",
+        "The dual-use nature of powerful AI models means they can be used for both defense and offense, making controlled access and proactive national preparedness essential."
+      ]
+    },
+    {
+      "id": "17797891034299asjuu",
+      "url": "https://indianexpress.com/article/opinion/columns/the-strait-of-hormuz-lpg-condom-coke-cooking-urea-war-iran-10656739",
+      "title": "The Strait of Hormuz and the ‘tadka’ of geopolitics",
+      "metadataRaw": "Apr 26, 2026 Anupam Manur The Indian Express",
+      "publishedDate": "2026-04-26T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-26T09:51:43.429Z",
+      "summary": "A distant conflict, specifically impacting the Strait of Hormuz, is causing widespread shortages and price hikes for everyday goods in India, from cooking gas and food exports to soft drinks and even condoms. This situation forces Indian consumers and businesses to ration and seek alternatives, revealing how global supply chain disruptions directly affect local economies and daily life. The article highlights India's vulnerability due to its reliance on imports passing through critical trade chokepoints.",
+      "topics": [
+        "Global Trade",
+        "Economic Impacts",
+        "Supply Chain Management"
+      ],
+      "issues": [
+        "Disruption of trade routes (Strait of Hormuz)",
+        "Commodity shortages and price inflation"
+      ],
+      "mainIdeas": [
+        "Geopolitical events and disruptions to key trade routes like the Strait of Hormuz have a direct, significant impact on the availability and cost of everyday consumer goods in distant countries like India.",
+        "India's high reliance on imports for essential items, such as LPG, urea, and raw materials, makes its economy vulnerable to these global supply chain chokepoints.",
+        "While markets and consumers are adapting to these shortages by finding substitutes and new methods, the crisis exposes underlying dependencies and the need for diversification of supply sources."
+      ]
+    },
+    {
+      "id": "17798824298371ro819",
+      "url": "https://www.moneycontrol.com/news/opinion/as-trump-wages-wars-china-tech-competition-takes-a-backseat-13897231.html",
+      "title": "As Trump wages wars, China tech competition takes a backseat",
+      "metadataRaw": "Apr 23, 2026 Lokendra Sharma Moneycontrol",
+      "publishedDate": "2026-04-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-27T11:47:09.837Z",
+      "summary": "During his presidency, Donald Trump has shifted his focus away from the technological competition with China in areas like telecom, chips, and AI. This marks a change from his first term, as his current priorities are centered on tariffs and military conflicts. Specifically, his preoccupation with Iran has pushed the tech rivalry with China further down the US foreign policy agenda.",
+      "topics": [
+        "US Politics",
+        "Technology",
+        "International Relations"
+      ],
+      "issues": [
+        "US-China Tech Competition",
+        "US Foreign Policy Priorities"
+      ],
+      "mainIdeas": [
+        "Trump's administration is no longer prioritizing the technological rivalry with China.",
+        "The current focus of US foreign policy is on tariffs and military conflicts, particularly regarding Iran.",
+        "This shift represents a change from his approach during his first presidential term."
+      ]
+    },
+    {
+      "id": "1779882422969uqw4jk",
+      "url": "https://www.thehindu.com/opinion/op-ed/beyond-trade-deals-to-building-a-new-architecture/article70893255.ece",
+      "title": "Beyond trade deals to building a new architecture",
+      "metadataRaw": "Apr 23, 2026 Arindam Goswami,Ashwin Prasad Rao The Hindu",
+      "publishedDate": "2026-04-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-27T11:47:02.969Z",
+      "summary": "India recently signed significant trade agreements, but these deals highlight a breakdown in the global free trade system, where politics increasingly dictates access to essential goods. Major powers are using economic leverage, leaving countries like India vulnerable to supply chain disruptions and political pressure. The article argues that India's current strategy of balancing relations with major powers is no longer sufficient or safe. Instead, it proposes India build smaller, focused partnerships in specific sectors to gain influence, set standards, and secure critical resources independently.",
+      "topics": [
+        "International Trade",
+        "Geopolitics",
+        "Economic Strategy"
+      ],
+      "issues": [
+        "Decline of rule-based global trade",
+        "Supply chain security and dependence",
+        "Economic coercion by major powers"
+      ],
+      "mainIdeas": [
+        "The traditional global free trade system is eroding, with political considerations now dictating access to critical goods and services, rather than purely economic factors.",
+        "India's current approach of maintaining ties with all major powers while relying on bilateral deals is unsustainable and carries unacceptable risks due to political volatility.",
+        "India should proactively form smaller, focused partnerships in key sectors like digital infrastructure and AI to build influence, set independent standards, and secure its supply chains, thereby shaping its own future."
       ]
     },
     {
@@ -414,54 +662,28 @@
       ]
     },
     {
-      "id": "17798824298371ro819",
-      "url": "https://www.moneycontrol.com/news/opinion/as-trump-wages-wars-china-tech-competition-takes-a-backseat-13897231.html",
-      "title": "As Trump wages wars, China tech competition takes a backseat",
-      "metadataRaw": "Apr 23, 2026 Lokendra Sharma Moneycontrol",
-      "publishedDate": "2026-04-23T00:00:00.000Z",
+      "id": "1779882462150buydr",
+      "url": "https://www.thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero",
+      "title": "China’s critical minerals export ban falls short",
+      "metadataRaw": "Apr 21, 2026 Amit Kumar,Pranay Kotasthane ThinkChina",
+      "publishedDate": "2026-04-21T00:00:00.000Z",
       "type": "opinion",
       "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-27T11:47:09.837Z",
-      "summary": "During his presidency, Donald Trump has shifted his focus away from the technological competition with China in areas like telecom, chips, and AI. This marks a change from his first term, as his current priorities are centered on tariffs and military conflicts. Specifically, his preoccupation with Iran has pushed the tech rivalry with China further down the US foreign policy agenda.",
-      "topics": [
-        "US Politics",
-        "Technology",
-        "International Relations"
-      ],
-      "issues": [
-        "US-China Tech Competition",
-        "US Foreign Policy Priorities"
-      ],
-      "mainIdeas": [
-        "Trump's administration is no longer prioritizing the technological rivalry with China.",
-        "The current focus of US foreign policy is on tariffs and military conflicts, particularly regarding Iran.",
-        "This shift represents a change from his approach during his first presidential term."
-      ]
-    },
-    {
-      "id": "1779882422969uqw4jk",
-      "url": "https://www.thehindu.com/opinion/op-ed/beyond-trade-deals-to-building-a-new-architecture/article70893255.ece",
-      "title": "Beyond trade deals to building a new architecture",
-      "metadataRaw": "Apr 23, 2026 Arindam Goswami,Ashwin Prasad Rao The Hindu",
-      "publishedDate": "2026-04-23T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-27T11:47:02.969Z",
-      "summary": "India recently signed significant trade agreements, but these deals highlight a breakdown in the global free trade system, where politics increasingly dictates access to essential goods. Major powers are using economic leverage, leaving countries like India vulnerable to supply chain disruptions and political pressure. The article argues that India's current strategy of balancing relations with major powers is no longer sufficient or safe. Instead, it proposes India build smaller, focused partnerships in specific sectors to gain influence, set standards, and secure critical resources independently.",
+      "dateAdded": "2026-05-27T11:47:42.150Z",
+      "summary": "China implemented export bans on gallium and germanium, critical minerals for semiconductors and defense, targeting the United States from July 2023 through November 2025. Although these restrictions led to a significant increase in prices for these materials in the US, they largely failed to disrupt American industrial consumption. The US successfully countered the ban by diversifying its supply chains, boosting domestic production, and through strategic stockpiling efforts. The article concludes that such export controls are less effective when a country's dominance is based on price rather than an irreplaceable technological advantage.",
       "topics": [
         "International Trade",
-        "Geopolitics",
-        "Economic Strategy"
+        "Critical Minerals",
+        "US-China Relations"
       ],
       "issues": [
-        "Decline of rule-based global trade",
-        "Supply chain security and dependence",
-        "Economic coercion by major powers"
+        "Export Controls",
+        "Supply Chain Resilience"
       ],
       "mainIdeas": [
-        "The traditional global free trade system is eroding, with political considerations now dictating access to critical goods and services, rather than purely economic factors.",
-        "India's current approach of maintaining ties with all major powers while relying on bilateral deals is unsustainable and carries unacceptable risks due to political volatility.",
-        "India should proactively form smaller, focused partnerships in key sectors like digital infrastructure and AI to build influence, set independent standards, and secure its supply chains, thereby shaping its own future."
+        "China's export ban on gallium and germanium caused substantial price increases for the US but did not significantly hinder its industrial use or access to these materials.",
+        "The US effectively mitigated the impact of the ban by diversifying its sources of supply, increasing domestic production, and utilizing existing reserves.",
+        "Export controls are less effective when a country's market dominance stems from cost advantages rather than a unique technological capability, allowing market forces and state intervention to foster alternatives."
       ]
     },
     {
@@ -490,494 +712,154 @@
       ]
     },
     {
-      "id": "1779855479788tfrqyd",
-      "url": "https://www.ndtv.com/opinion/now-a-new-bill-by-35-american-lawmakers-could-upend-indian-students-careers-11435410",
-      "title": "35 US Lawmakers Just Moved A Bill That Could Upend Indian Techies’ Careers",
-      "metadataRaw": "May 1, 2026 Anil Raman NDTV",
-      "publishedDate": "2026-05-01T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-27T04:17:59.788Z",
-      "summary": "I am unable to provide a summary or analysis because the provided 'Article Text' was an error message stating 'You don't have permission to access...' a URL, rather than the content of an actual article. Please provide the full article text to proceed with the analysis.",
-      "topics": [],
-      "issues": [],
-      "mainIdeas": []
+      "id": "17798825424347t8kii",
+      "url": "https://takshashila.org.in/content/publications/20260420-from-gigawatts-to-megawatts.html",
+      "title": "From Gigawatts to Megawatts",
+      "metadataRaw": "Apr 20, 2026 Anwesha Sen",
+      "publishedDate": "2026-04-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-27T11:49:02.434Z",
+      "summary": "Small Modular Reactors (SMRs) are a new type of nuclear power plant, producing between 20 and 300 MWe. They aim to solve problems faced by large reactors, such as high costs and long build times, by being factory-made and smaller. SMRs are seen as a vital tool for countries like India to meet growing electricity needs, cut carbon emissions, and provide stable power to their grids, especially as demand for digital infrastructure increases. India has committed significant funds to develop and deploy five domestic SMRs by 2033, expecting the technology to fully mature within ten years.",
+      "topics": [
+        "Nuclear Power",
+        "Energy Policy",
+        "Clean Technology"
+      ],
+      "issues": [
+        "Energy Reliability",
+        "Climate Action",
+        "Grid Management"
+      ],
+      "mainIdeas": [
+        "SMRs offer a more flexible and potentially faster-to-deploy alternative to traditional large nuclear reactors, helping meet increased electricity demand and decarbonization targets.",
+        "They provide a stable and consistent power source that can complement intermittent renewable energy, improving overall grid reliability and reducing reliance on fossil fuels.",
+        "India is heavily investing in developing its own SMR technology to secure its energy supply and support economic growth, with ambitious deployment goals for the coming decade."
+      ]
     },
     {
-      "id": "1779810016115q8qbuq",
-      "url": "https://www.ndtv.com/opinion/imagining-a-new-world-order-11435905",
-      "title": "A New World Struggles To Be Born",
-      "metadataRaw": "May 1, 2026 Manoj Kewalramani NDTV",
-      "publishedDate": "2026-05-01T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T15:40:16.115Z",
-      "summary": "The article text was not accessible or provided for analysis. The input received was an error message indicating a lack of permission to access the content.",
-      "topics": [],
-      "issues": [],
-      "mainIdeas": []
-    },
-    {
-      "id": "1779810011139t0743f",
-      "url": "https://www.moneycontrol.com/news/opinion/democracy-authoritarianism-and-the-dilemma-posed-by-military-ai-13910959.html",
-      "title": "Democracy, authoritarianism and the dilemma posed by military AI",
-      "metadataRaw": "May 7, 2026 Arindam Goswami Moneycontrol",
-      "publishedDate": "2026-05-07T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T15:40:11.139Z",
-      "summary": "This article examines the difficult choice democracies face regarding military AI, arguing that while these tools are presented as essential for competition, they significantly expand state power and create serious accountability issues. It explains how the speed and complexity of AI systems make human oversight nearly impossible, blur lines between military and domestic use, and spread responsibility for harm. The author proposes that countries demand built-in safety features like anomaly detection, incident reporting, and a kill-switch to address these control and accountability gaps. Without such standards, even powerful nations face significant risks.",
+      "id": "17798825585112nzxul",
+      "url": "https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html",
+      "title": "The Shahed Drone",
+      "metadataRaw": "Apr 14, 2026 Anushka Saxena",
+      "publishedDate": "2026-04-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-27T11:49:18.511Z",
+      "summary": "The Shahed drone is a low-cost, mass-produced Iranian aerial vehicle that has reshaped modern warfare by enabling sustained, affordable attacks against more powerful adversaries. Its success challenges traditional air defense strategies. Despite sanctions, Iran has built a sophisticated supply chain, acquiring components globally through shell companies and re-export channels, leading to the drone's widespread proliferation.",
       "topics": [
         "Military Technology",
-        "Government Oversight",
-        "Global Security"
+        "Global Security",
+        "Sanctions Effectiveness"
       ],
       "issues": [
-        "Accountability for AI in military actions",
-        "Maintaining national control over advanced military AI systems"
+        "Drone Proliferation",
+        "Supply Chain Exploitation"
       ],
       "mainIdeas": [
-        "Military AI tools, even when used by democracies, inherently create an accountability gap due to their speed and complexity, making human oversight difficult and diffusing responsibility for harmful outcomes.",
-        "The idea that democratic AI is fundamentally different from authoritarian AI is flawed because the technology's design and integration challenge traditional legal and oversight mechanisms.",
-        "To address these risks, countries must establish and enforce clear engineering standards for military AI, including anomaly detection, incident reporting, and an emergency kill-switch, before deployment."
+        "Low-cost, precision drones like the Shahed allow less powerful nations to conduct effective, sustained attacks against stronger military forces.",
+        "Drone technology, including the Shahed design, is rapidly spreading globally through replication and export, driving a new arms race.",
+        "Existing international sanctions are largely failing to stop the flow of critical drone components, as Iran uses shell companies and dual-use trade to acquire parts."
       ]
     },
     {
-      "id": "1779810000659uijmot",
-      "url": "https://asia.nikkei.com/opinion/china-s-role-in-enabling-iran-s-shahed-drone-supply-lines",
-      "title": "China’s role in enabling Iran’s Shahed drone supply lines",
-      "metadataRaw": "May 7, 2026 Anushka Saxena Nikkei Asia",
-      "publishedDate": "2026-05-07T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T15:40:00.659Z",
-      "summary": "This article highlights China's significant role in supporting Iran's supply lines for its Shahed drones. It details how Beijing utilizes intermediaries, technology transfers, and various networks to help Tehran acquire these effective and low-cost weapons. The piece suggests that without China's involvement, Iran's drone capabilities would be severely hampered.",
+      "id": "1779882564158xjgus5",
+      "url": "https://takshashila.org.in/content/publications/20260412-Starlink-and-Risks-For-India.html",
+      "title": "Starlink and Risks for India",
+      "metadataRaw": "Apr 12, 2026 Ashwin Prasad Rao, Aditya Ramanathan, Col. Das (Retd.)",
+      "publishedDate": "2026-04-12T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-27T11:49:24.158Z",
+      "summary": "The article warns that Starlink presents considerable risks to India, primarily concerning the potential misuse of user data and challenges to the government's ability to control internet access. These risks are amplified by Starlink's advanced technology, Elon Musk's influence within the U.S. government, and his unpredictable behavior. Although India has implemented strict security conditions for satellite communication providers, these regulations are difficult to enforce effectively. The author suggests India should bolster its domestic broadband infrastructure and diversify its satellite internet vendors to reduce reliance on Starlink.",
       "topics": [
-        "International Relations",
-        "Military Technology",
-        "Weapons Proliferation"
+        "National Security",
+        "Technology Policy",
+        "Regulatory Affairs"
       ],
       "issues": [
-        "China-Iran Military Cooperation",
-        "Drone Proliferation"
+        "Data Security and Privacy",
+        "Government Control over Internet Access"
       ],
       "mainIdeas": [
-        "China is crucial to sustaining Iran's supply of Shahed drones.",
-        "Beijing provides support through intermediaries, technology transfers, and extensive networks.",
-        "Iran's Shahed drones are characterized as effective and low-cost weapons."
+        "Starlink's technological superiority, Elon Musk's political influence, and his past actions create unique security and sovereignty concerns for India.",
+        "Current Indian regulations for satellite internet providers are challenged by Starlink's capabilities, making it difficult to enforce rules regarding data handling and service availability.",
+        "India should enhance its national broadband infrastructure and avoid over-reliance on a single foreign satellite internet provider by diversifying vendors for critical applications."
       ]
     },
     {
-      "id": "17798099927652631n",
-      "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/on-atf-dont-miss-the-plane-truth",
-      "title": "On ATF, Don’t Miss The Plane Truth",
-      "metadataRaw": "May 8, 2026 Anupam Manur Times of India",
-      "publishedDate": "2026-05-08T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T15:39:52.765Z",
-      "summary": "Indian airlines are experiencing significant financial distress, primarily due to skyrocketing Aviation Turbine Fuel (ATF) costs, which now constitute about 60% of their operating expenses. This challenge is intensified by several domestic government policies, including a non-competitive fuel market, an illogical import-parity pricing model, and a complex, high tax structure. The article argues that these interventions, coupled with an outdated perception of air travel as a luxury, are making the Indian aviation sector structurally fragile. Urgent reforms are necessary to ensure the industry's sustainability and make air travel more accessible for the general public.",
+      "id": "1779882578927nyqt6",
+      "url": "https://takshashila.org.in/content/publications/20260402-India%E2%80%99s-West%20Asian-Diplomacy.html",
+      "title": "India’s Diplomacy in the West Asia Conflict",
+      "metadataRaw": "Apr 2, 2026 Aishwaria Sonavane",
+      "publishedDate": "2026-04-02T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-27T11:49:38.927Z",
+      "summary": "India's diplomatic actions during the West Asia conflict reveal a strong tactical alignment with the US-Israel axis, departing from its historical non-alignment. This is evidenced by Prime Minister Modi's firm support for Israel, muted responses to US-Israel actions, and a focus on securing Indian commercial shipping through the Strait of Hormuz. The situation highlights a post-2014 foreign policy shift where India strengthened ties with Gulf nations and Israel, while its relationship with Iran declined significantly due to geopolitical pressures and strategic realignments.",
       "topics": [
-        "Aviation Industry",
-        "Economic Policy",
-        "Government Regulation"
+        "Diplomacy",
+        "Energy Security",
+        "Regional Conflict"
       ],
       "issues": [
-        "High Aviation Fuel Costs",
-        "Government Fuel Pricing Policies"
+        "India's diplomatic alignment in the West Asia conflict",
+        "Strait of Hormuz shipping disruptions"
       ],
       "mainIdeas": [
-        "Indian airlines face severe financial strain because domestic Aviation Turbine Fuel (ATF) prices are excessively high, driven up by global crude prices and specific government policies.",
-        "Key policy failures contributing to high ATF costs include a monopolized supply market, an irrational import-parity pricing mechanism, high excise duties, and fragmented state VATs.",
-        "For the Indian aviation sector to thrive and become more accessible, the government must reform its fuel pricing and taxation policies, introduce competition in ATF supply, and enable airlines to better manage fuel price risks."
+        "India's current diplomacy in the West Asia conflict shows a clear lean towards the US-Israel side, moving away from its traditional policy of not taking sides.",
+        "This shift is part of a deliberate post-2014 foreign policy where India prioritized stronger ties with Gulf countries and Israel, while its relationship with Iran weakened, partly due to US sanctions.",
+        "The closure of the Strait of Hormuz exposed India's reliance on stable shipping lanes for energy, forcing it into specific, ship-by-ship negotiations rather than broader diplomatic solutions."
       ]
     },
     {
-      "id": "17798099844382rgug",
-      "url": "https://www.ndtv.com/opinion/trump-xi-talks-when-one-is-playing-chess-and-other-is-flipping-the-board-11482677",
-      "title": "Trump-Xi Talks: When One Is Playing Chess, And Other Is Flipping The Board",
-      "metadataRaw": "May 12, 2026 Anil Raman NDTV",
-      "publishedDate": "2026-05-12T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T15:39:44.439Z",
-      "summary": "The article text provided was an error message, indicating that the content could not be accessed. Therefore, I am unable to analyze the article titled 'Trump-Xi Talks: When One Is Playing Chess, And Other Is Flipping The Board' or provide a summary and key takeaways.",
-      "topics": [],
-      "issues": [],
-      "mainIdeas": []
-    },
-    {
-      "id": "1779803884663tddrtj",
-      "url": "https://www.theprint.in/opinion/operation-sindoor-anniversary-lessons-india-pakistan/2925811/",
-      "title": "Lessons from Op Sindoor—Pakistan spent on building, and India spent on deliberating",
-      "metadataRaw": "May 8, 2026 Anil Raman The Print",
-      "publishedDate": "2026-05-08T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T13:58:04.663Z",
-      "summary": "Following the May 2025 'Op Sindoor' crisis, Pakistan swiftly reformed its military and diplomatic structures, streamlining command, unifying long-range strike assets, and establishing a sophisticated narrative management system. In contrast, India has delayed implementing similar necessary reforms, leaving its decision-making processes and communication infrastructure largely unchanged. This has created a significant 'velocity gap,' giving Pakistan a strategic advantage in future conflicts, enhanced by direct access to the US President and anticipated Chinese support. The article warns that India's slow pace in adapting risks a worse outcome in the next potential crisis.",
+      "id": "1779882569422hjzsps",
+      "url": "https://takshashila.org.in/content/publications/20260402-Fertilizer-Geopolitics.html",
+      "title": "Geopolitics of Fertiliser Supply in India",
+      "metadataRaw": "Apr 2, 2026 Narayan Ramachandran, Dr Y Nithiyanandam, Anupam Manur",
+      "publishedDate": "2026-04-02T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-27T11:49:29.422Z",
+      "summary": "India relies heavily on imported fertilizers, making it vulnerable to geopolitical risks like disruptions at critical maritime chokepoints and over-dependence on a few supplier nations. The article details supply routes for key fertilizers (DAP, MoP, Urea) and highlights threats like armed conflict, Houthi attacks, and GPS spoofing. To address these issues, a short-term strategy involves diversifying supply sources, exploring alternate routes, and increasing strategic reserves. A long-term solution focuses on reforming India's domestic fertilizer subsidy system to reduce overuse and overall demand.",
       "topics": [
-        "Military Modernization",
-        "Geopolitical Strategy",
-        "Crisis Management"
-      ],
-      "issues": [
-        "India-Pakistan Military Imbalance",
-        "Crisis Communication and Diplomacy"
-      ],
-      "mainIdeas": [
-        "Pakistan significantly reformed its military command, strike capabilities, and public messaging processes after Op Sindoor to achieve faster action and decision-making during crises.",
-        "India's institutional reforms have stalled, leaving it with the same slow decision-making and fragmented communication structures that hindered its response in the previous crisis.",
-        "Pakistan has cultivated direct diplomatic channels to the US President, demonstrating an ability to influence international crisis outcomes, and is preparing for augmented support from China in any future conflict with India."
-      ]
-    },
-    {
-      "id": "1779803875673oc36v",
-      "url": "https://www.ndtv.com/opinion/why-india-should-be-watching-chinas-new-shipborne-drone-closely-11479352",
-      "title": "Hellish Difficulty’: Why India Should Be Keeping An Eye On China’s New ‘Shipborne’ Drone",
-      "metadataRaw": "May 11, 2026 Anushka Saxena NDTV",
-      "publishedDate": "2026-05-11T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T13:57:55.673Z",
-      "summary": "The article text was not provided. The content shared was an error message indicating that access to the specified URL was denied, preventing analysis of the article titled 'Hellish Difficulty’: Why India Should Be Keeping An Eye On China’s New ‘Shipborne’ Drone'.",
-      "topics": [],
-      "issues": [],
-      "mainIdeas": []
-    },
-    {
-      "id": "17798038691926p3mv",
-      "url": "https://nationalinterest.org/blog/silk-road-rivalries/did-operation-sindoor-deter-pakistan",
-      "title": "Did Operation Sindoor Deter Pakistan?",
-      "metadataRaw": "May 12, 2026 Aishwaria Sonavane The National Interest",
-      "publishedDate": "2026-05-12T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T13:57:49.192Z",
-      "summary": "The provided text is a security block message from a website, not an article. Therefore, I cannot analyze any article content or provide a summary, topics, issues, or main ideas.",
-      "topics": [],
-      "issues": [],
-      "mainIdeas": []
-    },
-    {
-      "id": "1779803864954jo9zd6",
-      "url": "https://moneycontrol.com/news/opinion/pakistan-the-indispensable-interlocutor-faces-a-deepening-internal-security-crisis-13915764.html",
-      "title": "Pakistan, the indispensable interlocutor, faces a deepening internal security crisis",
-      "metadataRaw": "May 12, 2026 Aishwaria Sonavane Moneycontrol",
-      "publishedDate": "2026-05-12T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T13:57:44.954Z",
-      "summary": "Pakistan is playing a significant international role as a mediator between Iran and the US, yet it faces a severe and escalating internal security crisis at home. The country is grappling with an increasing number of deadly attacks from both Islamist groups, such as the TTP and ISKP, and Baloch insurgents. Militants are also adopting new tactics, including the use of commercial drones. Efforts to stop cross-border attacks from Afghanistan have largely failed, highlighting a difficult domestic situation despite Pakistan's elevated diplomatic profile.",
-      "topics": [
-        "Internal Security",
-        "Foreign Policy",
-        "Regional Stability"
-      ],
-      "issues": [
-        "Domestic Militancy in Pakistan",
-        "Pakistan-Afghanistan Border Security",
-        "Militant Use of Drone Technology"
-      ],
-      "mainIdeas": [
-        "Pakistan's efforts as an international peacemaker are overshadowed by a deepening and complex security crisis within its own borders.",
-        "Militant attacks by Islamist groups and Baloch insurgents are increasing in frequency, lethality, and tactical sophistication, including the adoption of commercial drones.",
-        "Attempts to prevent cross-border militant operations from Afghanistan have failed due to the Taliban's refusal to act against groups like the TTP, suggesting a long-term regional security challenge for Pakistan."
-      ]
-    },
-    {
-      "id": "1779803855953z7kny",
-      "url": "https://frontline.thehindu.com/world-affairs/iran-nuclear-crisis/article70924731.ece",
-      "title": "How Washington blew up nuclear restraint",
-      "metadataRaw": "May 13, 2026 Anil Raman The Frontline",
-      "publishedDate": "2026-05-13T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T13:57:35.953Z",
-      "summary": "The article contends that US policy, particularly under Donald Trump, has systematically dismantled the global architecture for limiting nuclear weapons. Actions like withdrawing from the Iran nuclear deal and launching wars based on questionable intelligence have significantly weakened international non-proliferation efforts. This has created a more unstable global environment, pushing US allies to reassess their security and encouraging other nations to consider developing their own nuclear capabilities. The resulting lack of arms control agreements between major powers is making the world a much less predictable place.",
-      "topics": [
-        "Nuclear Weapons Policy",
-        "International Security",
-        "US Foreign Policy"
-      ],
-      "issues": [
-        "Erosion of nuclear arms control agreements",
-        "Increased global nuclear proliferation risk"
-      ],
-      "mainIdeas": [
-        "The US has actively undermined decades of nuclear restraint architecture, most notably by abandoning the Iran nuclear deal and using ambiguous nuclear threats.",
-        "This approach has inadvertently signaled to other nations that possessing nuclear weapons might be necessary for their security, increasing global proliferation interest.",
-        "The breakdown of arms control agreements between major nuclear powers has created a dangerously unstable global nuclear environment with no clear rules or restraints."
-      ]
-    },
-    {
-      "id": "1779789106095vc8dxt",
-      "url": "https://www.ndtv.com/opinion/germanys-first-military-strategy-in-77-years-is-a-wake-up-call-for-india-11403231",
-      "title": "Germany’s First ‘Military Strategy’ In 77 Years Is A Wake-Up Call For India",
-      "metadataRaw": "Apr 24, 2026 Anil Raman Hindu",
-      "publishedDate": "2026-04-24T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:51:46.095Z",
-      "summary": "The article text was not provided, preventing any analysis or extraction of information. Please provide the content to proceed with the request.",
-      "topics": [],
-      "issues": [],
-      "mainIdeas": []
-    },
-    {
-      "id": "17797891034299asjuu",
-      "url": "https://indianexpress.com/article/opinion/columns/the-strait-of-hormuz-lpg-condom-coke-cooking-urea-war-iran-10656739",
-      "title": "The Strait of Hormuz and the ‘tadka’ of geopolitics",
-      "metadataRaw": "Apr 26, 2026 Anupam Manur The Indian Express",
-      "publishedDate": "2026-04-26T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:51:43.429Z",
-      "summary": "A distant conflict, specifically impacting the Strait of Hormuz, is causing widespread shortages and price hikes for everyday goods in India, from cooking gas and food exports to soft drinks and even condoms. This situation forces Indian consumers and businesses to ration and seek alternatives, revealing how global supply chain disruptions directly affect local economies and daily life. The article highlights India's vulnerability due to its reliance on imports passing through critical trade chokepoints.",
-      "topics": [
-        "Global Trade",
-        "Economic Impacts",
-        "Supply Chain Management"
-      ],
-      "issues": [
-        "Disruption of trade routes (Strait of Hormuz)",
-        "Commodity shortages and price inflation"
-      ],
-      "mainIdeas": [
-        "Geopolitical events and disruptions to key trade routes like the Strait of Hormuz have a direct, significant impact on the availability and cost of everyday consumer goods in distant countries like India.",
-        "India's high reliance on imports for essential items, such as LPG, urea, and raw materials, makes its economy vulnerable to these global supply chain chokepoints.",
-        "While markets and consumers are adapting to these shortages by finding substitutes and new methods, the crisis exposes underlying dependencies and the need for diversification of supply sources."
-      ]
-    },
-    {
-      "id": "17797890949880jwv3g",
-      "url": "https://indianexpress.com/article/opinion/columns/anthropic-claude-how-india-should-prepare-for-the-mythos-era-10661497",
-      "title": "How India should prepare for the Mythos era",
-      "metadataRaw": "Apr 29, 2026 Bharath Reddy,Shobhankita Reddy The Indian Express",
-      "publishedDate": "2026-04-29T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:51:34.988Z",
-      "summary": "Anthropic's new AI model, Claude Mythos, can identify thousands of software vulnerabilities, posing a significant challenge to cybersecurity for governments and businesses alike. The article highlights that while experts debate the immediate threat level, future AI models will undoubtedly possess such capabilities. It urges India to build comprehensive cybersecurity resilience across individuals, organizations, and legal frameworks to prepare for this new era of AI-driven threats. This includes improving basic cyber hygiene, adopting defensive AI tools, and reforming laws to incentivize vulnerability fixing rather than penalizing discovery.",
-      "topics": [
-        "Cybersecurity",
-        "Artificial Intelligence",
-        "National Security"
-      ],
-      "issues": [
-        "AI-driven Cybersecurity Threats",
-        "India's Cybersecurity Policy"
-      ],
-      "mainIdeas": [
-        "Advanced AI models like Claude Mythos are rapidly enhancing the ability to find software vulnerabilities, creating a new, intensified cybersecurity threat landscape.",
-        "India needs to implement a comprehensive strategy for cybersecurity resilience, including individual cyber hygiene, organizational defense tools, and crucial legal reforms.",
-        "The dual-use nature of powerful AI models means they can be used for both defense and offense, making controlled access and proactive national preparedness essential."
-      ]
-    },
-    {
-      "id": "1779789076038hvtlup",
-      "url": "https://indianexpress.com/article/opinion/columns/xi-trump-beijing-us-china-summit-tech-ai-ceo-taiwan-iran-tariffs-trade-10692511",
-      "title": "Xi looks to open China’s doors. How amenable will Trump be?",
-      "metadataRaw": "May 16, 2026 Anushka Saxena Indian Express",
-      "publishedDate": "2026-05-16T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:51:16.038Z",
-      "summary": "Chinese President Xi Jinping and US President Donald Trump recently met in Beijing, where Xi proposed a framework for a stable, albeit competitive, US-China relationship, aiming to avoid conflict. China significantly heightened its warnings regarding Taiwan, emphasizing it as the most critical issue in bilateral ties, and outlined 'four red lines' for the relationship. Concurrently, Xi engaged with American CEOs, signaling China's interest in continued economic cooperation and market access for US businesses. The overall message from Beijing was a call for stability and mutual benefit, with the future depending on Washington's willingness to engage with this approach.",
-      "topics": [
-        "US-China Relations",
         "Geopolitics",
-        "International Trade"
+        "Supply Chain Security",
+        "Agricultural Policy"
       ],
       "issues": [
-        "Taiwan Strait tensions",
-        "US-China economic competition and cooperation"
+        "Vulnerability of Fertilizer Supply Chains",
+        "Distortion of Domestic Fertilizer Market"
       ],
       "mainIdeas": [
-        "China is actively pursuing a framework for stable competition with the US, aiming to prevent major conflicts while managing differences.",
-        "Taiwan is China's foremost 'red line,' with Beijing escalating its warnings about potential military conflict if the US mishandles the issue.",
-        "China is open to increasing economic engagement with American businesses to maintain stability and pursue mutual prosperity, provided it aligns with China's broader development goals."
+        "India's significant dependence on imported fertilizers faces substantial geopolitical risks due to vulnerable maritime chokepoints and concentrated supplier nations.",
+        "A two-part strategy is necessary: short-term actions include diversifying import sources and routes, and increasing strategic reserves to protect against immediate disruptions.",
+        "Long-term solutions require reforming India's deeply subsidized fertilizer market, especially for urea, to reduce overuse and align consumption with agricultural needs, thereby decreasing import demand."
       ]
     },
     {
-      "id": "1779789069478c04r59",
-      "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/a-great-power-summit-that-sends-a-message-to-the-middle-powers",
-      "title": "A great-power summit that sends a message to the middle powers",
-      "metadataRaw": "May 17, 2026 Anushka Saxena Times of India",
-      "publishedDate": "2026-05-17T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:51:09.478Z",
-      "summary": "The recent US-China summit underscored a deeply competitive relationship that both countries aim to manage, rather than resolve. While the US focused on securing trade deals and market access, the broader outcome signals a shift in US foreign policy towards bilateral negotiations. This approach suggests a decreased reliance on traditional alliances, indicating to other nations that they may need to become more self-reliant and diversify their international partnerships.",
+      "id": "17798825877956c2dr",
+      "url": "https://takshashila.org.in/content/publications/20260401-India-seaweed-opportunity.html",
+      "title": "Proposal for a Right-Based Seaweed Cultivation System in India",
+      "metadataRaw": "Apr 1, 2026 Devleena Bhattacharjee, Shambhavi Naik, Anupam Manur",
+      "publishedDate": "2026-04-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-27T11:49:47.795Z",
+      "summary": "The article proposes a shift in India's seaweed cultivation policy from a registration-only system to a lease-based tenure framework. Currently, farmers lack secure, exclusive rights over their marine cultivation areas, which prevents them from accessing finance and attracting private investment. A robust leasing system would grant farmers bankable rights, allowing them to secure loans, invest in infrastructure, and legally protect their sites. This change is crucial for unlocking the significant potential of India's seaweed industry, which offers benefits in job creation, import reduction, revenue generation, and environmental sustainability.",
       "topics": [
-        "International Relations",
-        "Trade & Economics",
-        "Geopolitics"
+        "Economic Development",
+        "Agricultural Policy",
+        "Aquaculture"
       ],
       "issues": [
-        "US-China Competition Management",
-        "Future of US Alliances"
+        "Lack of secure property rights for marine cultivators",
+        "Limited access to finance and private investment"
       ],
       "mainIdeas": [
-        "The US and China accept their long-term competition and are focused on keeping it controlled rather than seeking a major breakthrough.",
-        "The US is increasingly prioritizing direct bilateral deals and market access, which may diminish the role of its traditional alliance system in its overall strategy.",
-        "This shift means other countries, particularly those traditionally relying on the US for balancing China, will need to enhance their own capabilities and diversify their international relationships."
-      ]
-    },
-    {
-      "id": "1779789060402qo1ow",
-      "url": "https://www.ndtv.com/opinion/hangor-inside-the-5-billion-submarine-set-china-is-making-for-pakistan-11511860",
-      "title": "PNS Hangor: Inside The $5 Billion Submarine Fleet Pakistan Is Buying From China",
-      "metadataRaw": "May 18, 2026 Anushka Saxena NDTV",
-      "publishedDate": "2026-05-18T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:51:00.402Z",
-      "summary": "The article text was not provided, preventing a detailed analysis. Therefore, a summary, topics, issues, and main ideas cannot be extracted from the content.",
-      "topics": [
-        "Article Unavailable"
-      ],
-      "issues": [
-        "Content Missing"
-      ],
-      "mainIdeas": [
-        "No content was provided for analysis."
-      ]
-    },
-    {
-      "id": "17797890561055myk1c",
-      "url": "https://www.moneycontrol.com/news/opinion/india-s-first-digital-census-a-geospatial-blueprint-for-growth-13922358.html",
-      "title": "India’s First Digital Census: A geospatial blueprint for growth",
-      "metadataRaw": "May 18, 2026 Dr Y Nithiyanandam Money Control",
-      "publishedDate": "2026-05-18T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:50:56.105Z",
-      "summary": "India is undertaking its first fully digital census, an ambitious project aimed at creating a 'digital twin' of the country by linking population data with physical infrastructure. This initiative has the potential to revolutionize economic planning, infrastructure development, and overall governance. However, the process is currently encountering significant challenges, including low public awareness, technical glitches, an outdated questionnaire, and difficulties for both citizens and enumerators. The article suggests that improvements in communication, user support, questionnaire relevance, and extended timelines are crucial for the census to achieve its transformative goals and foster broad public participation.",
-      "topics": [
-        "Digital Governance",
-        "National Development",
-        "Data Management"
-      ],
-      "issues": [
-        "Digital Census Implementation Challenges",
-        "Public Participation and Awareness"
-      ],
-      "mainIdeas": [
-        "India's digital census offers a unique opportunity to create a comprehensive, geographically linked dataset for more informed national planning and infrastructure development.",
-        "Successful implementation hinges on overcoming practical hurdles like low public engagement, technical platform issues, and the need for better support for both citizens and field workers.",
-        "Modernizing the census questionnaire, providing accessible user support, and extending the participation window are critical steps to ensure accurate data collection and broad civic participation."
-      ]
-    },
-    {
-      "id": "17797890457402efna",
-      "url": "https://www.theprint.in/opinion/as-washington-reopens-to-china-its-closing-the-door-on-india/2935888/",
-      "title": "As Washington reopens to China, it’s closing the door on India",
-      "metadataRaw": "May 20, 2026 Anil Raman The Print",
-      "publishedDate": "2026-05-20T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:50:45.740Z",
-      "summary": "US domestic politics, fueled by anti-immigrant sentiment, is increasingly targeting Indian immigration through proposed H-1B visa restrictions and dismissive rhetoric. These actions are undermining the long-standing US-India strategic partnership, particularly its crucial human and technological linkages. This shift is leading to a redirection of Indian talent away from the US and prompting India to re-evaluate its foreign policy and seek alliances with other global partners.",
-      "topics": [
-        "US Domestic Politics",
-        "Immigration",
-        "International Relations"
-      ],
-      "issues": [
-        "US-India Bilateral Relations",
-        "Skilled Immigration Policies"
-      ],
-      "mainIdeas": [
-        "Domestic political incentives in the US are driving a significant shift towards anti-Indian immigration policies and rhetoric, including severe restrictions on work visas.",
-        "These policy changes are eroding the human and technological foundations of the US-India strategic partnership, leading skilled Indian talent to consider opportunities outside the US.",
-        "The escalating anti-Indian sentiment in the US is prompting India to reassess its foreign policy, diversify its international alliances, and strengthen its own domestic capabilities."
-      ]
-    },
-    {
-      "id": "1779789036063l3gv5",
-      "url": "https://www.ndtv.com/opinion/rubio-visits-india-as-trump-administration-declares-its-sharpest-attack-on-indian-immigrants-11536458",
-      "title": "Rubio Is In India, But Trump’s America Just Launched Its Sharpest Attack On Indian Immigrants",
-      "metadataRaw": "May 23, 2026 Anil Raman NDTV",
-      "publishedDate": "2026-05-23T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:50:36.063Z",
-      "summary": "The provided article text was an error message indicating 'permission denied' to access the content. Therefore, the article content could not be read or summarized.",
-      "topics": [],
-      "issues": [],
-      "mainIdeas": []
-    },
-    {
-      "id": "1779789034441zbmo48",
-      "url": "https://www.timesofindia.indiatimes.com/blogs/toi-edit-page/48-heat-360-plan",
-      "title": "48° heat, 360° plan",
-      "metadataRaw": "Jun 22, 2026 Dr Y Nithiyanandam Times of India",
-      "publishedDate": "2026-06-22T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-26T09:50:34.441Z",
-      "summary": "India is experiencing a growing threat from extreme heat, which is significantly impacting public health, economic productivity, and even national security readiness. Unlike more visible disasters, heatwaves affect vast regions for extended periods and are often an under-recognized challenge. Currently, severe heatwave conditions are widespread across many parts of the country, leading to high risks of heat illness and stroke. Addressing this complex issue will require diverse strategies tailored to specific micro-regions, as there is no simple solution.",
-      "topics": [
-        "Climate Change Impacts",
-        "Public Health",
-        "Economic Impact"
-      ],
-      "issues": [
-        "Extreme Heat in India",
-        "Disaster Preparedness"
-      ],
-      "mainIdeas": [
-        "Extreme heat is an intensifying and under-recognized threat in India, with broad consequences for health, economy, and national security.",
-        "Heatwaves, though less visually dramatic than other disasters, affect vast areas for long durations, making them a pervasive challenge.",
-        "Current severe heat conditions across India pose significant health risks to the population.",
-        "Effective solutions will require region-specific strategies, indicating that a one-size-fits-all approach is insufficient."
-      ]
-    },
-    {
-      "id": "1779460561049tvubgr",
-      "url": "https://www.indianexpress.com/article/explained/explained-climate/expert-summer-intensity-factors-mitigation-data-heat-10697560",
-      "title": "Expert Explains What makes this summer particularly intense for India, and how better data collection can help",
-      "metadataRaw": "May 19, 2026 Dr Y Nithiyanandam Indian Express",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-22T14:36:01.049Z",
-      "summary": "India is experiencing an unusually intense and prolonged heatwave this summer, driven by a combination of global climate change trends like El Niño and local factors such as urbanization and dry spells. This extreme heat severely impacts public health, reduces worker productivity, and harms ecosystems, with vulnerable populations suffering the most. The article emphasizes that accurate, localized data and geospatial technologies are essential for understanding specific heat patterns. These tools can help develop effective, targeted solutions to mitigate the heat's escalating effects.",
-      "topics": [
-        "Climate Change Impacts",
-        "Public Health",
-        "Urban Planning"
-      ],
-      "issues": [
-        "India's Severe Heatwaves",
-        "Data Gaps in Climate Response"
-      ],
-      "mainIdeas": [
-        "The current extreme heat in India results from both global warming trends and specific local conditions, intensifying its impact beyond normal seasonal patterns.",
-        "This heat significantly harms people's health, their ability to work, and the natural environment, with a disproportionate effect on disadvantaged groups.",
-        "Developing effective solutions requires more detailed, location-specific data and advanced mapping tools to create tailored strategies for reducing heat's impact."
-      ]
-    },
-    {
-      "id": "17794603113259pmgdr",
-      "url": "https://ndtv.com/opinion/pakistans-taliban-blowback-is-entering-a-dangerous-new-phase-11517107",
-      "title": "3 Blasts In A Week: Pakistan’s Taliban Blowback Is Entering A Dangerous New Phase",
-      "metadataRaw": "May 20, 2026 Aishwaria Sonavane NDTV",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-22T14:31:51.325Z",
-      "summary": "Pakistan is experiencing a dangerous escalation in domestic terrorism, particularly in its northwest, with a recent series of high-impact attacks by the Tehreek-e-Taliban Pakistan (TTP). These attacks highlight the TTP's increased tactical sophistication and organizational resilience, despite years of Pakistani counter-terrorism efforts. This growing internal instability is severely straining Pakistan's relationship with the Afghan Taliban and is undermining its economic prospects and ability to project itself as a stable international power.",
-      "topics": [
-        "Internal Security",
-        "Terrorism",
-        "Regional Instability"
-      ],
-      "issues": [
-        "Resurgence of TTP activities in Pakistan",
-        "Deterioration of Pakistan-Afghan Taliban relations"
-      ],
-      "mainIdeas": [
-        "The Tehreek-e-Taliban Pakistan (TTP) has evolved into a highly capable and resilient insurgent group, able to execute complex, high-impact attacks despite Pakistan's sustained military operations.",
-        "Pakistan's efforts to curb the TTP, including diplomatic pressure on the Afghan Taliban and cross-border airstrikes, have been largely ineffective in degrading the group's operational strength.",
-        "The escalating terrorism crisis is damaging Pakistan's international standing, diverting its military focus, and jeopardizing vital foreign investments and economic recovery plans."
+        "India's current seaweed cultivation policy, based on simple registration, is insufficient because it does not provide farmers with the secure, exclusive rights needed to attract private investment and institutional credit.",
+        "Implementing a system of bankable, exclusive leases for marine cultivation areas is crucial for unlocking the full economic and social potential of the seaweed sector in India.",
+        "The growth of the seaweed industry can significantly contribute to job creation, reduce India's reliance on imported products, generate substantial revenue, and offer environmental benefits like carbon sequestration."
       ]
     }
   ],

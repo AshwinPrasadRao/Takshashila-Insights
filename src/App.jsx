@@ -65,10 +65,16 @@ function App() {
     return ['All', ...Array.from(topics)].slice(0, 7); // Limit to top 7 for UI
   }, [articles]);
 
+  // Newest first, by published date (falling back to when we scraped it).
+  const sortedArticles = useMemo(() => {
+    const dateOf = a => new Date(a.publishedDate || a.dateAdded || 0).getTime() || 0;
+    return [...articles].sort((a, b) => dateOf(b) - dateOf(a));
+  }, [articles]);
+
   const filteredArticles = useMemo(() => {
-    if (activeFilter === 'All') return articles;
-    return articles.filter(a => a.topics?.includes(activeFilter));
-  }, [articles, activeFilter]);
+    if (activeFilter === 'All') return sortedArticles;
+    return sortedArticles.filter(a => a.topics?.includes(activeFilter));
+  }, [sortedArticles, activeFilter]);
 
   return (
     <div className="app-container">

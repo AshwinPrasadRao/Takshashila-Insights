@@ -19,6 +19,11 @@ const DATA_FILE = path.join(__dirname, '../src/data/articles.json');
 // when there's a large backlog of news items.
 const MAX_NEW_PER_SOURCE = 15;
 
+// When a fetch returns a paywall/login/error page (HTTP 200 but not the
+// article), Gemini "summarizes" the error text. Detect those summaries so we
+// drop the item instead of storing a useless card.
+const FAILURE_SUMMARY_RE = /permission denied|error message|could not be (read|summarized|accessed)|not (provided|accessible|available)|access the content|unable to (provide|summarize|access)/i;
+
 // Source pages on the Takshashila site. `kind` distinguishes external op-eds
 // (links point to third-party publishers) from internal research outputs
 // (links are relative paths to content/publications/*.html).
@@ -76,6 +81,10 @@ async function extractArticleText(url) {
   try {
     console.log(`Fetching article: ${url}`);
     const response = await fetch(url);
+    if (!response.ok) {
+      console.error(`Skipping ${url}: HTTP ${response.status} ${response.statusText}`);
+      return '';
+    }
     const html = await response.text();
     const doc = new JSDOM(html, { url });
     const reader = new Readability(doc.window.document);
@@ -194,6 +203,12 @@ async function run() {
       const aiData = await summarizeWithGemini(textContent, article.title, article.url);
       if (!aiData) continue;
 
+      // Guard against the model summarizing an error/paywall page.
+      if (!aiData.summary || FAILURE_SUMMARY_RE.test(aiData.summary)) {
+        console.log(`Skipping ${article.url}: summary indicates failed extraction.`);
+        continue;
+      }
+
       existingData.articles.unshift({
         id: new Date().getTime().toString() + Math.random().toString(36).substring(7),
         url: article.url,
@@ -211,6 +226,12 @@ async function run() {
       console.error(`Error processing ${article.url}:`, err.message);
     }
   }
+
+  // Persist newest-first so both the site and the email render in order.
+  existingData.articles.sort((a, b) => {
+    const dateOf = x => new Date(x.publishedDate || x.dateAdded || 0).getTime() || 0;
+    return dateOf(b) - dateOf(a);
+  });
 
   existingData.lastUpdated = new Date().toISOString();
   fs.writeFileSync(DATA_FILE, JSON.stringify(existingData, null, 2));
