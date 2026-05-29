@@ -27,6 +27,31 @@
       ]
     },
     {
+      "id": "17800277330785hdq6p",
+      "url": "https://www.moneycontrol.com/news/opinion/the-quad-lives-but-needs-course-correction-by-the-us-to-thrive-13933355.html",
+      "title": "The Quad lives but needs course correction by the US to thrive",
+      "metadataRaw": "May 28, 2026 Lokendra Sharma Moneycontrol",
+      "publishedDate": "2026-05-28T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-29T04:08:53.078Z",
+      "summary": "The recent Quad foreign ministers' meeting in New Delhi aimed to reinvigorate the partnership among the US, India, Australia, and Japan. Despite announcing new initiatives like port infrastructure in Fiji and a critical minerals framework, the partnership is merely being kept alive. This is due to challenges from the second Trump administration, including US trade disputes with allies and a perceived shift towards engaging with China. For the Quad to truly thrive, the US needs to regain allies' trust and recommit politically to the Indo-Pacific agenda.",
+      "topics": [
+        "International Alliances",
+        "US Foreign Policy",
+        "Regional Security"
+      ],
+      "issues": [
+        "US Foreign Policy Shifts",
+        "Alliance Cohesion"
+      ],
+      "mainIdeas": [
+        "The Quad alliance is currently facing significant headwinds due to changes in US foreign policy under the second Trump presidency.",
+        "While recent initiatives from the Quad foreign ministers' meeting are positive, they are insufficient to make the partnership thrive without deeper political alignment and a shift in US strategy.",
+        "For the Quad to fully achieve its potential, the US must rebuild trust with its allies and maintain a consistent focus on the Indo-Pacific region, avoiding distractions from other global conflicts."
+      ]
+    },
+    {
       "id": "1779460561049tvubgr",
       "url": "https://www.indianexpress.com/article/explained/explained-climate/expert-summer-intensity-factors-mitigation-data-heat-10697560",
       "title": "Expert Explains What makes this summer particularly intense for India, and how better data collection can help",
@@ -488,6 +513,31 @@
       ]
     },
     {
+      "id": "1780027768038qq32k",
+      "url": "https://takshashila.org.in/content/publications/20260429-Nvidia-and-China-India.html",
+      "title": "Should the US Sell Advanced GPUs to China? An Indian Perspective",
+      "metadataRaw": "Apr 29, 2026 Pranay Kotasthane",
+      "publishedDate": "2026-04-29T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:09:28.038Z",
+      "summary": "The article argues that US restrictions on advanced AI chip sales to China are not effectively hindering China's overall AI capability, as China is adapting by leveraging other parts of the AI ecosystem. From India's viewpoint, a diverse global AI ecosystem, including Chinese open-source contributions, is beneficial as it reduces India's reliance on a single supplier. The unpredictable nature of US policies on chip access poses a significant strategic risk for India, which relies heavily on imported computing infrastructure. Therefore, India prioritizes securing stable access to powerful computing and promoting a variety of AI models.",
+      "topics": [
+        "AI Policy",
+        "Technology Trade",
+        "Global Supply Chains"
+      ],
+      "issues": [
+        "US-China Technology Rivalry",
+        "AI Chip Access"
+      ],
+      "mainIdeas": [
+        "US export controls on advanced AI chips are not effectively stopping China's overall AI development; China is compensating by innovating in other areas of the AI technology stack.",
+        "India benefits from a competitive and diverse global AI ecosystem, including Chinese open-source models, to avoid becoming overly dependent on any single technology supplier.",
+        "The unpredictable and changing US policies regarding access to advanced AI chips create significant uncertainty and strategic risk for countries like India that rely on imported computing infrastructure."
+      ]
+    },
+    {
       "id": "17797890949880jwv3g",
       "url": "https://indianexpress.com/article/opinion/columns/anthropic-claude-how-india-should-prepare-for-the-mythos-era-10661497",
       "title": "How India should prepare for the Mythos era",
@@ -535,6 +585,31 @@
         "Geopolitical events and disruptions to key trade routes like the Strait of Hormuz have a direct, significant impact on the availability and cost of everyday consumer goods in distant countries like India.",
         "India's high reliance on imports for essential items, such as LPG, urea, and raw materials, makes its economy vulnerable to these global supply chain chokepoints.",
         "While markets and consumers are adapting to these shortages by finding substitutes and new methods, the crisis exposes underlying dependencies and the need for diversification of supply sources."
+      ]
+    },
+    {
+      "id": "17800277764012cgpr8",
+      "url": "https://takshashila.org.in/content/publications/20260423-West-Asian-War-Impact-On-Artificial-Intelligence.html",
+      "title": "Impact Of The West Asian War On AI Development and Diffusion",
+      "metadataRaw": "Apr 23, 2026 Bharath Reddy, Shobhankita Reddy",
+      "publishedDate": "2026-04-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:09:36.401Z",
+      "summary": "The West Asian conflict reveals significant weaknesses in the global AI supply chain, affecting semiconductor production and driving up costs due to disruptions in key materials and energy routes. The war also demonstrates AI's dual role, being used for rapid target generation in combat while commercial AI infrastructure itself has become a military target. This instability threatens to strain the massive global AI investment cycle, potentially consolidating market power and increasing access costs for developing nations. For countries like India, this highlights the need for increased defense AI research and diplomatic efforts to ensure human control over autonomous weapons.",
+      "topics": [
+        "Artificial Intelligence",
+        "Global Supply Chains",
+        "Geopolitics"
+      ],
+      "issues": [
+        "AI Supply Chain Vulnerability",
+        "Military Use of AI"
+      ],
+      "mainIdeas": [
+        "The West Asian war exposes critical vulnerabilities in the global AI supply chain, from raw materials to energy, leading to increased costs and potentially restricting AI development.",
+        "AI is now both a powerful tool for military operations, enabling rapid target identification, and a direct target for kinetic strikes, establishing a new risk category for commercial infrastructure.",
+        "Ongoing geopolitical instability and rising economic pressures could significantly stress the current wave of AI investments, leading to market concentration and limiting AI access for many countries."
       ]
     },
     {
@@ -863,6 +938,106 @@
       ]
     },
     {
+      "id": "1780027786487x8rpmed",
+      "url": "https://takshashila.org.in/content/publications/China-Ga-Ge-Export-Restrictions-29032026.html",
+      "title": "Sand Slipping Through Fingers",
+      "metadataRaw": "Mar 30, 2026 Amit Kumar, Pranay Kotasthane",
+      "publishedDate": "2026-03-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:09:46.488Z",
+      "summary": "China's efforts between 2023 and 2025 to use its control over gallium and germanium production as leverage against the US ultimately failed to achieve sustained impact. While Beijing's export restrictions and a temporary ban caused significant price spikes for these critical materials, they did not lead to a contraction in US industrial consumption. The US successfully maintained its supply through rapid diversification of import sources, increased domestic production of certain components, and investment in recycling and alternative materials. This demonstrates the US's ability to adapt and build resilience against supply chain disruptions caused by geopolitical actions.",
+      "topics": [
+        "International Trade",
+        "Supply Chain Resilience",
+        "Geopolitics"
+      ],
+      "issues": [
+        "Critical Mineral Supply",
+        "Export Controls"
+      ],
+      "mainIdeas": [
+        "China's export controls on critical minerals can cause price volatility but may not achieve sustained strategic leverage if targeted countries rapidly adapt.",
+        "The US effectively countered China's restrictions by diversifying import sources, expanding domestic production, and investing in material substitution and recycling.",
+        "Weaponizing dominance in critical raw material production can accelerate efforts by affected nations to secure alternative supplies and develop their own domestic capabilities."
+      ]
+    },
+    {
+      "id": "1780027795542d95miy",
+      "url": "https://takshashila.org.in/content/publications/20260327-Turbulence-Ahead-Indian-Airline-Industry.html",
+      "title": "Turbulence Ahead for the Indian Airline Industry",
+      "metadataRaw": "Mar 27, 2026 Anupam Manur",
+      "publishedDate": "2026-03-27T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:09:55.542Z",
+      "summary": "The Indian airline industry is facing severe financial strain due to escalating jet fuel prices caused by geopolitical conflicts and the ongoing closure of key airspaces. These factors, combined with India's percentage-based aviation fuel taxes and a depreciating rupee, have significantly increased operational costs for carriers. While the government has removed airfare caps, allowing airlines to raise prices and implement fuel surcharges, this is expected to reduce passenger demand. Immediate tax relief on aviation fuel is suggested as a crucial step, alongside longer-term structural reforms like bringing jet fuel under the Goods and Services Tax (GST).",
+      "topics": [
+        "Aviation Industry",
+        "Economics",
+        "Geopolitics"
+      ],
+      "issues": [
+        "Airline Operating Costs",
+        "Impact of Geopolitical Conflicts on Air Travel"
+      ],
+      "mainIdeas": [
+        "Geopolitical conflicts and airspace closures are significantly increasing operational costs for Indian airlines through higher fuel prices and longer flight routes.",
+        "India's tax structure for aviation fuel, which levies percentage-based taxes, amplifies cost burdens for carriers compared to global counterparts.",
+        "Immediate government intervention through tax relief on aviation fuel is essential to support the industry, while structural reforms like integrating jet fuel into the GST framework are needed for long-term stability."
+      ]
+    },
+    {
+      "id": "1780027816749wesk1q",
+      "url": "https://takshashila.org.in/content/publications/20260318-Policy-Responses-to-India-LPG-Supply-Crisis.html",
+      "title": "Policy Responses to India’s LPG Supply Crisis",
+      "metadataRaw": "Mar 18, 2026 Anupam Manur, Anisree Suresh",
+      "publishedDate": "2026-03-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:10:16.749Z",
+      "summary": "India is experiencing a severe Liquid Petroleum Gas (LPG) shortage because a conflict in West Asia has effectively closed the Strait of Hormuz, the primary route for 90% of its LPG imports. This crisis is worsened by India's heavy reliance on imports, limited domestic production, and minimal strategic storage capacity. While immediate government measures prioritize household supply and boost domestic production, they have led to a thriving black market and widespread disruptions in the commercial and food service sectors. The article suggests that long-term solutions involve diversifying cooking energy sources, building strategic reserves, and reforming internal pricing and subsidy systems.",
+      "topics": [
+        "Energy Security",
+        "Economic Impact",
+        "Government Policy"
+      ],
+      "issues": [
+        "India's LPG Supply Crisis",
+        "Geopolitical Impact on Trade Routes"
+      ],
+      "mainIdeas": [
+        "India's high dependence on LPG imports, particularly through the Strait of Hormuz, makes its energy supply vulnerable to geopolitical conflicts.",
+        "Immediate government responses to the LPG shortage, while aiming to stabilize household supply, have created significant negative economic consequences for businesses, inflation, and employment.",
+        "Sustainable solutions require a long-term strategy of diversifying cooking fuel sources, building strategic energy reserves, and reforming internal LPG pricing and subsidy structures."
+      ]
+    },
+    {
+      "id": "1780027806308xfchff",
+      "url": "https://takshashila.org.in/content/publications/20260318-LPG-Geopolitics.html",
+      "title": "Geopolitics of LPG Supply in India",
+      "metadataRaw": "Mar 18, 2026 Narayan Ramachandran, Dr Y Nithiyanandam",
+      "publishedDate": "2026-03-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:10:06.308Z",
+      "summary": "India heavily depends on imported LPG for household cooking, with the majority sourced from the Persian Gulf through critical, conflict-prone sea routes. Regional instability, particularly around the Strait of Hormuz and Bab el-Mandeb, creates significant vulnerabilities for these vital supply lines. To bolster its energy security, India must implement short-term measures like diversifying suppliers and promoting efficient household use, alongside long-term strategies such as boosting domestic production, establishing strategic reserves, and shifting towards electricity-based cooking supported by a green energy grid. These actions are crucial to reduce reliance on vulnerable sea routes and enhance energy independence.",
+      "topics": [
+        "Energy Supply",
+        "International Trade Routes",
+        "Geopolitical Risks"
+      ],
+      "issues": [
+        "Vulnerable LPG Supply Chains",
+        "Maritime Security in Conflict Zones"
+      ],
+      "mainIdeas": [
+        "India's substantial reliance on imported LPG from the Middle East makes its cooking fuel supply highly susceptible to disruptions in narrow sea passages.",
+        "Regional conflicts and the threat of attacks on shipping in crucial choke points like the Strait of Hormuz directly endanger India's access to essential energy resources.",
+        "India requires immediate diplomatic efforts and diversified sourcing, combined with long-term plans to increase domestic production, build emergency reserves, and transition households to electric cooking to secure its future energy needs."
+      ]
+    },
+    {
       "id": "1779941227463brwenf",
       "url": "https://takshashila.org.in/content/publications/EU-Rearm-India-09032026.html",
       "title": "European Rearmament",
@@ -887,7 +1062,209 @@
         "Despite efforts to create a unified European defense industry, national interests and protectionism continue to hinder full integration and efficiency.",
         "India has a clear opportunity to become a supplier for Europe's defense needs, particularly for high-volume military supplies, provided it addresses EU concerns about its ties with Russia."
       ]
+    },
+    {
+      "id": "1780027827288v96ras",
+      "url": "https://takshashila.org.in/content/publications/15-FYP-China-04-03-2026.html",
+      "title": "Previewing China’s 15th Five-Year Plan",
+      "metadataRaw": "Mar 4, 2026 Amit Kumar, Manoj Kewalramani",
+      "publishedDate": "2026-03-04T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:10:27.288Z",
+      "summary": "The article previews China's upcoming 15th Five-Year Plan (2026-2030), outlining five key economic priorities: shifting to a consumption-driven economy, addressing industrial overproduction, implementing proactive fiscal policies, achieving technological independence, and modernizing its industrial system. It highlights that current plans to boost consumer spending are insufficient, hindered by ideological resistance to welfare and fiscal constraints, alongside a priority for technological competition. Beijing aims to manage its industrial output and strengthen its manufacturing base, particularly in high-tech sectors, while navigating significant economic challenges like deflation and mounting debt.",
+      "topics": [
+        "Chinese Economic Policy",
+        "National Development Plans",
+        "Industrial Strategy"
+      ],
+      "issues": [
+        "Domestic Consumption Stimulation",
+        "Industrial Overproduction",
+        "Technological Independence"
+      ],
+      "mainIdeas": [
+        "China's 15th Five-Year Plan is a crucial step towards its 2035 goal of \"basic socialist modernization,\" introducing a new economic growth model.",
+        "Despite calls for a consumption-driven economy, the plan's proposed measures are unlikely to significantly boost household spending, largely due to the government's reluctance to increase welfare and its focus on funding technological competition.",
+        "Beijing is committed to tackling industrial overcapacity and maintaining its manufacturing base, while strategically investing in high-tech industries to achieve independence in key technologies amid global competition."
+      ]
+    },
+    {
+      "id": "1780027838789fqpwgr",
+      "url": "https://takshashila.org.in/content/publications/20260217-state-of-ai-governance-2025.html",
+      "title": "State of AI Governance, 2025",
+      "metadataRaw": "Feb 17, 2026 Arindam Goswami, Bharath Reddy, Sridhar Krishna, Anwesha Sen, Shobhankita Reddy",
+      "publishedDate": "2026-02-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:10:38.789Z",
+      "summary": "The year 2025 was marked by intense global competition in AI, with major world powers prioritizing innovation and technological leadership over strict regulatory oversight. The United States under the Trump administration rolled back federal AI safety rules, leading to a fragmented regulatory landscape at the state level. Meanwhile, the EU continued implementing its comprehensive AI Act despite industry resistance, and countries like China and India focused on balancing growth with domestic capabilities and self-regulation, respectively. International efforts to establish common AI governance standards mostly resulted in discussions without binding agreements, underscoring a trend towards national interests driving AI policy.",
+      "topics": [
+        "AI Governance",
+        "Geopolitics",
+        "Technology Policy"
+      ],
+      "issues": [
+        "Global AI Competition",
+        "Regulatory Fragmentation"
+      ],
+      "mainIdeas": [
+        "In 2025, leading global powers prioritized accelerating AI innovation and securing technological dominance over establishing robust safety and accountability regulations.",
+        "AI governance became increasingly fragmented, with national interests and geopolitical competition driving diverse approaches, such as US federal deregulation contrasted with EU framework building and state-level actions.",
+        "Despite international forums discussing AI governance, there was a notable lack of binding global agreements, reflecting a trend where national sovereignty and competitive advantage outweighed unified international standards."
+      ]
+    },
+    {
+      "id": "17800278476963onbrr",
+      "url": "https://takshashila.org.in/content/publications/20260209-USC-on-India.html",
+      "title": "Evolution of US Congressional perspectives towards India: 1947-2024",
+      "metadataRaw": "Feb 9, 2026 Abhishek Kadiyala",
+      "publishedDate": "2026-02-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:10:47.696Z",
+      "summary": "This article examines how the US Congress's view of India has changed from 1947 to 2024, influenced by both internal Congressional workings and external global factors. It outlines four historical phases, showing that internal factors drove perspectives early on, while global conditions became more influential later. The study points out a long-standing lack of a consistent, organized Congressional policy towards India, which the current Congress is reportedly trying to fix. The goal is to provide Indian policymakers with insights to better engage with the US Congress and strengthen bilateral ties.",
+      "topics": [
+        "US-India Relations",
+        "Congressional Foreign Policy",
+        "Historical Analysis"
+      ],
+      "issues": [
+        "Evolution of US Congressional perspectives on India",
+        "Factors shaping US foreign policy towards India"
+      ],
+      "mainIdeas": [
+        "US Congressional views on India have shifted significantly over time, driven by a mix of internal institutional dynamics and broader international conditions.",
+        "Historically, the US Congress did not have a consistent, long-term policy framework for its relationship with India, a gap that is now being addressed.",
+        "A sustained and focused engagement from Congress, often formalized through agreements, is essential for building a resilient and stable partnership between the US and India."
+      ]
+    },
+    {
+      "id": "17800278581340a6t1s",
+      "url": "https://takshashila.org.in/content/publications/20260206-generative-ai-and-copyright-consultation.html",
+      "title": "Takshashila Policy Advisory - Working Paper on Generative AI and Copyright (Part 1)",
+      "metadataRaw": "Feb 6, 2026 Bharath Reddy",
+      "publishedDate": "2026-02-06T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:10:58.134Z",
+      "summary": "This article critiques a proposed Indian government policy, \"One Nation, One License, One Payment,\" which aims to compensate creators whose data trains AI and support startups. It argues that this policy, despite its noble goals, would stifle innovation, drive AI companies away from India, and fail to effectively benefit individual creators. The author advocates for an alternative market-driven approach that includes text and data mining exceptions with opt-outs and supports data cooperatives.",
+      "topics": [
+        "AI Regulation",
+        "Intellectual Property",
+        "Economic Policy"
+      ],
+      "issues": [
+        "AI Training Data Compensation",
+        "Balancing Innovation and Creator Rights"
+      ],
+      "mainIdeas": [
+        "The proposed government policy for AI and copyright in India is likely to harm domestic AI innovation and prove administratively unworkable due to its heavy-handed approach.",
+        "A centralized, government-mandated royalty collection system risks becoming a monopoly, inefficiently distributing funds, and failing to adequately compensate individual creators.",
+        "India should adopt a market-driven approach, incorporating text and data mining exceptions with opt-outs, promoting commercial data licensing through cooperatives, and strengthening existing competition regulators instead."
+      ]
+    },
+    {
+      "id": "17800278680839h5if7",
+      "url": "https://takshashila.org.in/content/publications/20260125-Sectoral-Plurilateral-Blocs.html",
+      "title": "India Must Architect Sectoral Plurilateral Blocs to Overcome Geopolitical Coercion",
+      "metadataRaw": "Jan 25, 2026 Lokendra Sharma, Abhishek Kadiyala, Arindam Goswami, Ashwin Prasad Rao, Nitin Pai",
+      "publishedDate": "2026-01-25T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:11:08.083Z",
+      "summary": "India's current foreign policy approach is facing challenges due to an unpredictable United States and an aggressive China. This article suggests that India should form focused, smaller alliances, known as \"sectoral plurilateral blocs,\" with other nations to build shared capabilities and reduce reliance on major global powers. These blocs would concentrate on critical areas like space, digital public infrastructure, and artificial intelligence. The aim is to create practical support systems that protect member countries from economic or political pressure, thereby increasing their collective influence and economic integration.",
+      "topics": [
+        "Geopolitics",
+        "International Relations Strategy",
+        "Economic Security"
+      ],
+      "issues": [
+        "Geopolitical Volatility",
+        "Technological and Supply Chain Dependence"
+      ],
+      "mainIdeas": [
+        "India's traditional foreign policy of balancing major powers is becoming ineffective in the current volatile global environment.",
+        "India should actively pursue the creation of specialized alliances with non-major powers in key sectors like space, digital technology, and AI.",
+        "These focused alliances aim to build collective capabilities and resilience, serving as practical safeguards against economic and political coercion from dominant global players."
+      ]
+    },
+    {
+      "id": "1780027887106zdq9nl",
+      "url": "https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html",
+      "title": "India Should Double Down on Rare Earth Recycling",
+      "metadataRaw": "Jan 23, 2026 Tannmay Kumarr Baid, Pranay Kotasthane, Narayan Ramachandran",
+      "publishedDate": "2026-01-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:11:27.106Z",
+      "summary": "India faces significant supply chain vulnerability due to China's near-monopoly on rare earth elements, which are crucial for modern technology. The article proposes that India should focus on \"urban mining\" – recovering rare earths from electronic waste – as a strategic solution. This approach offers a secure, domestic, and environmentally friendlier alternative to primary mining. To facilitate this, the authors recommend specific government policies like classifying rare earth components as high-value, providing financial incentives, and streamlining regulations for recycling.",
+      "topics": [
+        "Supply Chain Management",
+        "Resource Security",
+        "Recycling Technology"
+      ],
+      "issues": [
+        "China's Control over Rare Earths",
+        "India's Industrial Vulnerability"
+      ],
+      "mainIdeas": [
+        "India's reliance on China for rare earths poses a significant economic and strategic risk, exacerbated by China's use of export restrictions.",
+        "\"Urban mining\"—recovering rare earths from electronic waste—is India's most viable and sustainable strategy to build domestic supply chain security.",
+        "Implementing specific government policies, such as financial incentives, value classification for e-waste, and regulatory changes, is crucial to develop a thriving rare earth recycling industry in India."
+      ]
+    },
+    {
+      "id": "1780027876013eo6y6s",
+      "url": "https://takshashila.org.in/content/publications/20260123-China-Politburo-Meetings-Study-Sessions-2025.html",
+      "title": "High Politics in China",
+      "metadataRaw": "Jan 23, 2026 Manoj Kewalramani, Kumari Krishna",
+      "publishedDate": "2026-01-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:11:16.013Z",
+      "summary": "This article outlines the key discussions and decisions from the Chinese Politburo meetings and study sessions held throughout 2025. These gatherings serve to clarify the Communist Party's official policy and strategic direction across various priority areas. Major themes include upholding centralized Party leadership, promoting a balanced 'high-quality development' model, and addressing both domestic and external challenges. The sessions also focused on social stability, technological self-reliance, and planning for the upcoming 15th Five-Year Plan.",
+      "topics": [
+        "Chinese Politics",
+        "Economic Policy",
+        "Social Governance"
+      ],
+      "issues": [
+        "Economic Growth and Stability",
+        "Environmental Protection",
+        "Technological Development"
+      ],
+      "mainIdeas": [
+        "Centralized Party leadership under Xi Jinping is consistently reinforced as essential for all government and social initiatives.",
+        "China's economic strategy prioritizes 'high-quality development,' aiming to balance growth with sustainability, risk management (like local government debt and real estate), and expanding domestic consumption.",
+        "Significant emphasis is placed on national security, strengthening social governance at the local level, and achieving self-reliance in key technologies, particularly artificial intelligence."
+      ]
+    },
+    {
+      "id": "178002789748526xh6",
+      "url": "https://takshashila.org.in/content/publications/20260116-Shanti-Act-Advances-Reform-Streamlines-and-Dilutes-Liability.html",
+      "title": "Shanti Act Advances Reform, Streamlines and Dilutes Liability",
+      "metadataRaw": "Jan 16, 2026 Lokendra Sharma",
+      "publishedDate": "2026-01-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-29T04:11:37.485Z",
+      "summary": "The Shanti Act of 2025 has significantly reformed India's nuclear energy sector, replacing older laws and ending the government's long-standing monopoly on nuclear power plant operations. It aims to boost nuclear capacity to 100 GW by 2047 and supports national decarbonization efforts. The legislation allows private sector involvement, strengthens the nuclear regulator, and streamlines liability for accidents, though it removes some avenues for affected parties to seek additional compensation from operators.",
+      "topics": [
+        "Nuclear Energy Policy",
+        "Economic Reform",
+        "Infrastructure Development"
+      ],
+      "issues": [
+        "Nuclear Liability Reform",
+        "Private Sector Participation in Nuclear Energy"
+      ],
+      "mainIdeas": [
+        "The Shanti Act opens India's nuclear power generation sector to private companies, ending decades of government monopoly.",
+        "The new law streamlines and increases operator liability for nuclear accidents but also limits additional recourse for affected parties under other laws.",
+        "Achieving India's ambitious nuclear energy expansion goals requires not only these reforms but also investment in indigenous reactor technology and advanced waste management solutions."
+      ]
     }
   ],
-  "lastUpdated": "2026-05-28T04:07:13.035Z"
+  "lastUpdated": "2026-05-29T04:11:37.485Z"
 }
