@@ -863,6 +863,56 @@
       ]
     },
     {
+      "id": "17802012151382op0fi",
+      "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/the-real-supply-chain-crisis",
+      "title": "The Real Supply Chain Crisis",
+      "metadataRaw": "Apr 16, 2026 Pranay Kotasthane Times of India",
+      "publishedDate": "2026-04-16T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-31T04:20:15.139Z",
+      "summary": "The article argues that the real vulnerability in supply chains isn't about physical materials like oil or rare metals, as markets typically find alternatives. Instead, the greater threat stems from hard-to-replace \"knowledge-based chokepoints.\" The author criticizes governments for reacting to material scarcity alarms with slow-moving industrial policies that often miss the core issue. It recommends that governments shift their focus to addressing these more complex, knowledge-based weaknesses.",
+      "topics": [
+        "Supply Chain Management",
+        "Government Policy",
+        "Economic Security"
+      ],
+      "issues": [
+        "Supply Chain Resilience",
+        "Effectiveness of Government Interventions"
+      ],
+      "mainIdeas": [
+        "The primary risk to supply chains comes from unique knowledge or expertise that is concentrated and difficult to substitute, rather than a lack of physical materials.",
+        "Current government strategies, which often involve industrial policies to secure material supplies, are frequently ineffective and misdirected.",
+        "Governments should prioritize identifying and resolving these complex \"knowledge-based chokepoints\" to truly strengthen supply chains."
+      ]
+    },
+    {
+      "id": "1780201223317d6bwj",
+      "url": "https://indianexpress.com/article/opinion/columns/trump-is-blockading-the-system-that-america-built-10634779",
+      "title": "Trump is Blockading the System America Built",
+      "metadataRaw": "Apr 14, 2026 Anil Raman Indian Express",
+      "publishedDate": "2026-04-14T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-31T04:20:23.317Z",
+      "summary": "President Trump announced a unilateral blockade of the Strait of Hormuz, a critical global oil shipping route, without allied consultation or a clear operational plan. This action is expected to primarily hurt other nations dependent on Gulf oil, while the US, a major oil producer, stands to benefit by shifting demand to American exports. The article suggests this move is a deliberate strategy to create chaos and gain advantage, ultimately undermining the international trade system the US helped build. It highlights the significant negative impact on countries like India and the broader global economy.",
+      "topics": [
+        "International Relations",
+        "Global Economy",
+        "US Foreign Policy"
+      ],
+      "issues": [
+        "Disruption of Global Trade",
+        "Oil Market Volatility"
+      ],
+      "mainIdeas": [
+        "President Trump's decision to blockade the Strait of Hormuz is a unilateral move lacking planning and allied support, threatening a vital global trade route.",
+        "This action is designed to benefit American oil producers by cutting off Gulf supply, while disproportionately harming US allies and other nations reliant on that oil.",
+        "The article argues this behavior represents a pattern of creating international crises to gain advantage, which undermines the stable global order previously supported by the US."
+      ]
+    },
+    {
       "id": "17798825585112nzxul",
       "url": "https://takshashila.org.in/content/publications/Shahed-Iran-Drone-Strategy-14042026.html",
       "title": "The Shahed Drone",
@@ -1566,6 +1616,31 @@
       ]
     },
     {
+      "id": "17802012314351sy7dc",
+      "url": "https://takshashila.org.in/content/publications/20251121-juggernaut-or-embers-of-a-dying-fire.html",
+      "title": "Juggernaut or Embers of a Dying Fire: China’s Technology Landscape and Its Implications for India",
+      "metadataRaw": "Nov 21, 2025 Shobhankita Reddy, Pranay Kotasthane",
+      "publishedDate": "2025-11-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-31T04:20:31.435Z",
+      "summary": "The article analyzes China's rapid emergence as a technological powerhouse, attributing its success to significant state investment in human capital and infrastructure, along with a focused top-down government strategy. It notes that this progress has occurred despite the Communist Party's tight control over information. However, the piece also highlights growing challenges for China's tech sector due to intensified state control under Xi Jinping, increasing global distrust, and internal structural weaknesses. Finally, it suggests a calibrated strategy for India to protect its national interests while strategically leveraging China's technological advancements.",
+      "topics": [
+        "Technology Development",
+        "Geopolitics",
+        "Economic Strategy"
+      ],
+      "issues": [
+        "China's technological advancement and its global impact",
+        "India's strategy to navigate China's tech influence"
+      ],
+      "mainIdeas": [
+        "China's rapid tech development stems from heavy investment in education and infrastructure, combined with a strong top-down state focus, going beyond simple explanations like intellectual property theft.",
+        "Despite its impressive advancements, China's technology sector faces significant headwinds from increased state control, growing international distrust, and internal weaknesses such as reliance on foreign advanced chips.",
+        "India needs a balanced approach to China's technology, protecting its own interests from Chinese tech exports and investments while also finding ways to benefit from China's technological progress."
+      ]
+    },
+    {
       "id": "1780113421399nfbkf3",
       "url": "https://takshashila.org.in/content/publications/20251117-China-s-Green-Hydrogen-Landscape.html",
       "title": "China’s Green Hydrogen Landscape",
@@ -1664,7 +1739,82 @@
         "The reorganization addresses past problems within the former Strategic Support Force, such as poor resource sharing and internal inefficiencies, by placing new specialized units under direct central command.",
         "This move aims to enhance the military's ability to wage modern, technology-driven wars, improve overall combat effectiveness, and ensure accountability, including countering corruption risks."
       ]
+    },
+    {
+      "id": "1780201238815hlc6tj",
+      "url": "https://takshashila.org.in/content/publications/20251029-Building-Indias-Data-Centres.html",
+      "title": "Building India’s Data Centres",
+      "metadataRaw": "Oct 29, 2025 Anwesha Sen",
+      "publishedDate": "2025-10-29T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-31T04:20:38.815Z",
+      "summary": "India currently generates a large portion of the world's data but possesses very little domestic data center capacity, making it vulnerable to external geopolitical pressures and hindering its technological independence. This article argues that developing robust local data center infrastructure is crucial for India to strengthen its position in the global technology supply chain, drive economic growth, and ensure reliable access to emerging technologies like AI. The paper identifies critical barriers such as high capital requirements and an underdeveloped power grid, recommending policy reforms and infrastructure modernization.",
+      "topics": [
+        "Digital Infrastructure",
+        "Economic Development",
+        "Technology Policy"
+      ],
+      "issues": [
+        "India's Data Center Deficit",
+        "Technological Self-Reliance"
+      ],
+      "mainIdeas": [
+        "Developing domestic data centers is crucial for India's national security and economic independence, reducing its reliance on foreign technology platforms and strengthening its global tech presence.",
+        "Expanding data center infrastructure will significantly boost India's economy by attracting investments, creating skilled jobs, and improving digital access across all regions.",
+        "Modernizing India's power grid and addressing barriers like high capital costs, skill shortages, and network effects are essential steps to build a competitive domestic data center market."
+      ]
+    },
+    {
+      "id": "1780201243865ae8vz8",
+      "url": "https://takshashila.org.in/content/publications/20251024-State-of-Indian-geospatial-portals.html",
+      "title": "State of India’s Geospatial Portals",
+      "metadataRaw": "Oct 24, 2025 Swathi Kalyani",
+      "publishedDate": "2025-10-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-31T04:20:43.865Z",
+      "summary": "This article examines India's current geospatial portal system, highlighting key platforms that provide access to location-based information. It identifies major obstacles to their effectiveness, including technical infrastructure issues, poor coordination between government agencies, and regulatory limitations. Despite India's strong technical capabilities and supportive policies, the author concludes that these platforms can only reach their full potential by improving user interfaces, establishing clear legal frameworks, and prioritizing practical user needs over technical complexity.",
+      "topics": [
+        "Geospatial Technology",
+        "Digital Infrastructure",
+        "Government Digital Services"
+      ],
+      "issues": [
+        "Usability and Accessibility of Digital Platforms",
+        "Inter-agency Data Integration Challenges"
+      ],
+      "mainIdeas": [
+        "India possesses a strong foundation in geospatial technology and policy, with various government-led portals for spatial data.",
+        "Many existing geospatial portals in India suffer from significant limitations, such as complex interfaces, inconsistent data quality, and restricted access, which hinder their widespread adoption and utility.",
+        "To maximize the impact of India's geospatial initiatives, it is critical to focus on enhancing user experience, streamlining legal and regulatory frameworks, and fostering better collaboration among different agencies."
+      ]
+    },
+    {
+      "id": "1780201250152u2k16i",
+      "url": "https://takshashila.org.in/content/publications/20251017-LEPF-Policy-Brief-AI-Based-Facial-Recognition-Technology-in-Operational-Policing.html",
+      "title": "AI-Based Facial Recognition Technology in Operational Policing",
+      "metadataRaw": "Oct 17, 2025 Madhukumar S, Parthasarathy C R",
+      "publishedDate": "2025-10-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-05-31T04:20:50.152Z",
+      "summary": "AI-based facial recognition technology (FRT) is increasingly being adopted by law enforcement globally, offering benefits like improved public safety and crime reduction. However, its use raises significant concerns regarding privacy, transparency, potential for bias, and accuracy issues. The article proposes that governments must intervene to regulate FRT's development and use. Key recommendations include establishing comprehensive technical standards for FRT hardware and software, building on existing surveillance regulations, and creating a central regulatory agency to oversee AI models and training data to ensure fairness, accuracy, and public trust.",
+      "topics": [
+        "Artificial Intelligence",
+        "Law Enforcement",
+        "Technology Regulation"
+      ],
+      "issues": [
+        "Regulation of AI Facial Recognition",
+        "Privacy and Bias in Policing Technology"
+      ],
+      "mainIdeas": [
+        "AI facial recognition offers significant benefits for law enforcement but requires robust regulation to address concerns around privacy, bias, and accuracy.",
+        "Governments should establish clear technical standards for FRT equipment and software, ensuring ethical deployment and fostering public confidence.",
+        "A central regulatory body is needed to govern the creation and testing of AI models and data used in FRT to ensure they are unbiased, accurate, and reflective of diverse populations."
+      ]
     }
   ],
-  "lastUpdated": "2026-05-30T03:57:30.843Z"
+  "lastUpdated": "2026-05-31T04:20:56.531Z"
 }
