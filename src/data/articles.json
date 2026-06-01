@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "17800277330785hdq6p",
+      "url": "https://www.moneycontrol.com/news/opinion/the-quad-lives-but-needs-course-correction-by-the-us-to-thrive-13933355.html",
+      "title": "The Quad lives but needs course correction by the US to thrive",
+      "metadataRaw": "May 28, 2026 Lokendra Sharma Moneycontrol",
+      "publishedDate": "2026-05-28T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-05-29T04:08:53.078Z",
+      "summary": "The recent Quad foreign ministers' meeting in New Delhi aimed to reinvigorate the partnership among the US, India, Australia, and Japan. Despite announcing new initiatives like port infrastructure in Fiji and a critical minerals framework, the partnership is merely being kept alive. This is due to challenges from the second Trump administration, including US trade disputes with allies and a perceived shift towards engaging with China. For the Quad to truly thrive, the US needs to regain allies' trust and recommit politically to the Indo-Pacific agenda.",
+      "topics": [
+        "International Alliances",
+        "US Foreign Policy",
+        "Regional Security"
+      ],
+      "issues": [
+        "US Foreign Policy Shifts",
+        "Alliance Cohesion"
+      ],
+      "mainIdeas": [
+        "The Quad alliance is currently facing significant headwinds due to changes in US foreign policy under the second Trump presidency.",
+        "While recent initiatives from the Quad foreign ministers' meeting are positive, they are insufficient to make the partnership thrive without deeper political alignment and a shift in US strategy.",
+        "For the Quad to fully achieve its potential, the US must rebuild trust with its allies and maintain a consistent focus on the Indo-Pacific region, avoiding distractions from other global conflicts."
+      ]
+    },
+    {
       "id": "1779789034441zbmo48",
       "url": "https://www.timesofindia.indiatimes.com/blogs/toi-edit-page/48-heat-360-plan",
       "title": "48° heat, 360° plan",
@@ -24,31 +49,6 @@
         "Heatwaves, though less visually dramatic than other disasters, affect vast areas for long durations, making them a pervasive challenge.",
         "Current severe heat conditions across India pose significant health risks to the population.",
         "Effective solutions will require region-specific strategies, indicating that a one-size-fits-all approach is insufficient."
-      ]
-    },
-    {
-      "id": "17800277330785hdq6p",
-      "url": "https://www.moneycontrol.com/news/opinion/the-quad-lives-but-needs-course-correction-by-the-us-to-thrive-13933355.html",
-      "title": "The Quad lives but needs course correction by the US to thrive",
-      "metadataRaw": "May 28, 2026 Lokendra Sharma Moneycontrol",
-      "publishedDate": "2026-05-28T00:00:00.000Z",
-      "type": "opinion",
-      "source": "Takshashila Opinion",
-      "dateAdded": "2026-05-29T04:08:53.078Z",
-      "summary": "The recent Quad foreign ministers' meeting in New Delhi aimed to reinvigorate the partnership among the US, India, Australia, and Japan. Despite announcing new initiatives like port infrastructure in Fiji and a critical minerals framework, the partnership is merely being kept alive. This is due to challenges from the second Trump administration, including US trade disputes with allies and a perceived shift towards engaging with China. For the Quad to truly thrive, the US needs to regain allies' trust and recommit politically to the Indo-Pacific agenda.",
-      "topics": [
-        "International Alliances",
-        "US Foreign Policy",
-        "Regional Security"
-      ],
-      "issues": [
-        "US Foreign Policy Shifts",
-        "Alliance Cohesion"
-      ],
-      "mainIdeas": [
-        "The Quad alliance is currently facing significant headwinds due to changes in US foreign policy under the second Trump presidency.",
-        "While recent initiatives from the Quad foreign ministers' meeting are positive, they are insufficient to make the partnership thrive without deeper political alignment and a shift in US strategy.",
-        "For the Quad to fully achieve its potential, the US must rebuild trust with its allies and maintain a consistent focus on the Indo-Pacific region, avoiding distractions from other global conflicts."
       ]
     },
     {
@@ -985,6 +985,29 @@
         "Starlink's technological superiority, Elon Musk's political influence, and his past actions create unique security and sovereignty concerns for India.",
         "Current Indian regulations for satellite internet providers are challenged by Starlink's capabilities, making it difficult to enforce rules regarding data handling and service availability.",
         "India should enhance its national broadband infrastructure and avoid over-reliance on a single foreign satellite internet provider by diversifying vendors for critical applications."
+      ]
+    },
+    {
+      "id": "178030966448285vxb",
+      "url": "https://www.moneycontrol.com/news/opinion/kalpakkam-s-fast-breeder-reactor-alone-will-not-lead-to-nuclear-rejuvenation-13885251.html",
+      "title": "Kalpakkam’s fast breeder reactor alone will not lead to nuclear rejuvenation",
+      "metadataRaw": "Apr 10, 2026 Lokendra Sharma Moneycontrol",
+      "publishedDate": "2026-04-10T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-01T10:27:44.482Z",
+      "summary": "India's recent achievement with the prototype fast breeder reactor, while significant, is not enough to meet the country's ambitious goal of increasing nuclear power capacity tenfold by 2047. To achieve this target, India needs to actively pursue technologies for direct thorium utilization. Simultaneously, the nation must also significantly expand its use of Pressurized Heavy Water Reactors (PHWRs).",
+      "topics": [
+        "Nuclear Energy",
+        "Energy Policy"
+      ],
+      "issues": [
+        "India's Nuclear Power Expansion"
+      ],
+      "mainIdeas": [
+        "A single technological milestone, like the fast breeder reactor, is insufficient to meet India's large-scale nuclear power targets.",
+        "India needs to adopt direct thorium utilization as a key strategy for future nuclear growth.",
+        "Expanding the deployment of Pressurized Heavy Water Reactors (PHWRs) is essential for rapid nuclear capacity increase."
       ]
     },
     {
@@ -1964,7 +1987,157 @@
         "Satellite imagery and open-source intelligence are crucial for verifying military claims and shaping public understanding of defense operations.",
         "Remote sensing technologies are becoming indispensable for developing credible and transparent security strategies in the future."
       ]
+    },
+    {
+      "id": "1780309670741rsywaq",
+      "url": "https://takshashila.org.in/content/publications/20250909-Geopolitics-of-Bengalurus-Yellow-Metro-Line.html",
+      "title": "Geopolitics of Bengaluru’s Yellow Metro Line",
+      "metadataRaw": "Sep 9, 2025 Tannmay Kumarr Baid, Pranay Kotasthane",
+      "publishedDate": "2025-09-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T10:27:50.741Z",
+      "summary": "Bengaluru's Yellow Metro Line is operating at a fraction of its capacity, causing overcrowding, because of a severe shortage of train sets. This delay is a direct result of geopolitical tensions between India and China, specifically new Indian government restrictions on Chinese companies after the 2020 Galwan clash. Although a Chinese firm won the contract as the lowest bidder, subsequent regulatory hurdles, visa issues for technical staff, and difficulties in component imports stalled manufacturing and delivery. The project's timeline was extended by over four years, leading to significant cost increases and highlighting the problems of inconsistent procurement policies.",
+      "topics": [
+        "Infrastructure Development",
+        "Geopolitics",
+        "Government Policy"
+      ],
+      "issues": [
+        "Impact of Geopolitical Tensions on Business",
+        "Government Procurement Policy Flaws"
+      ],
+      "mainIdeas": [
+        "Geopolitical tensions can severely delay and increase the cost of critical domestic infrastructure projects, negatively affecting citizens and local economies.",
+        "Relying solely on the 'lowest bidder' in government procurement without considering long-term strategic and geopolitical risks can lead to greater costs and complications.",
+        "Inconsistent government policies, especially those that change mid-project, create significant hurdles for businesses and can derail major development initiatives."
+      ]
+    },
+    {
+      "id": "1780309678922oet39h",
+      "url": "https://takshashila.org.in/content/publications/20250826-India's-Agricultural+Trade-Policies-and-Prospects.html",
+      "title": "India’s Agricultural Trade: Policies and Prospects",
+      "metadataRaw": "Aug 26, 2025 Anisree Suresh",
+      "publishedDate": "2025-08-26T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T10:27:58.922Z",
+      "summary": "India's agricultural trade policies have historically focused on protection through high tariffs, government price guarantees, and export bans to support farmers and ensure food security. However, these measures have led to higher consumer prices, damaged India's reputation as a reliable global supplier, and reduced its bargaining power in trade deals. The article suggests a middle path, advocating for selective liberalization in certain sectors while leveraging India's strengths in key exports like rice and spices to secure better international market access.",
+      "topics": [
+        "Indian Economy",
+        "Trade Policy",
+        "Agriculture"
+      ],
+      "issues": [
+        "Agricultural Trade Barriers",
+        "Domestic Market Distortions"
+      ],
+      "mainIdeas": [
+        "India's long-standing protectionist agricultural policies, aimed at food security and farmer welfare, have created negative consequences, including higher consumer costs and reduced global trade credibility.",
+        "Policies like the Minimum Support Price (MSP) distort domestic markets by encouraging specific crop production, which can make Indian agricultural exports less competitive internationally.",
+        "A strategic shift is needed, combining selective agricultural market liberalization with a focus on leveraging India's strong export products to improve its global trade position and economic outcomes."
+      ]
+    },
+    {
+      "id": "1780309683840lccd1s",
+      "url": "https://takshashila.org.in/content/publications/20250819-A-Primer-On-Nuclear-Fusion.html",
+      "title": "Towards Limitless Power: A Primer On Nuclear Fusion",
+      "metadataRaw": "Aug 19, 2025 Sridhar Krishna",
+      "publishedDate": "2025-08-19T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T10:28:03.840Z",
+      "summary": "Nuclear fusion, the process that powers the sun and stars, creates energy by combining hydrogen isotopes and offers a potentially limitless and clean power source. Significant progress has been made recently, including achieving net energy gain and maintaining plasma for longer durations, making commercialization seem more feasible. Traditionally a government-funded endeavor, fusion research is now attracting substantial private investment from companies like Microsoft and Amazon due to the immense energy demands of artificial intelligence.",
+      "topics": [
+        "Energy Technology",
+        "Scientific Research",
+        "Future Energy Sources"
+      ],
+      "issues": [
+        "Developing Clean Energy",
+        "Meeting AI's Energy Demands"
+      ],
+      "mainIdeas": [
+        "Nuclear fusion presents a viable path to limitless, clean energy production.",
+        "Recent scientific breakthroughs are accelerating the timeline for nuclear fusion's commercial viability.",
+        "The high energy requirements of artificial intelligence are driving significant private sector investment into fusion research."
+      ]
+    },
+    {
+      "id": "17803096921311f5wee",
+      "url": "https://takshashila.org.in/content/publications/20250731-Recommended-DIGIPIN.html",
+      "title": "Feedback on DHRUVA policy (DIGIPIN)",
+      "metadataRaw": "Jul 31, 2025 Dr Y Nithiyanandam, Swathi Kalyani",
+      "publishedDate": "2025-07-31T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T10:28:12.131Z",
+      "summary": "The DHRUVA policy (DIGIPIN) proposes a national digital addressing system for India, aiming to enhance governance and improve service delivery across the country. However, the article highlights significant potential challenges, including public concerns over data privacy, anticipated implementation delays, and legal ambiguities. Key recommendations focus on establishing a clear legal framework, creating robust data privacy and consent mechanisms, and simplifying the complex operational structure to ensure a successful and inclusive rollout. The overall goal is to mitigate risks and integrate this digital initiative smoothly for all users and stakeholders.",
+      "topics": [
+        "Digital Governance",
+        "National Infrastructure",
+        "Policy Implementation"
+      ],
+      "issues": [
+        "Data Privacy",
+        "Implementation Challenges"
+      ],
+      "mainIdeas": [
+        "A comprehensive legal framework and a clear implementation roadmap, including a grievance redressal system, must be established before the DIGIPIN system is widely implemented.",
+        "Robust, user-friendly data privacy and consent mechanisms are critical to address public concerns and ensure trust, especially given current data protection law deficiencies and diverse digital literacy levels.",
+        "The proposed multi-entity governance structure is overly complex and should be simplified to avoid operational chaos, improve security, and reduce costs associated with multiple handoffs."
+      ]
+    },
+    {
+      "id": "1780309699101njnnc",
+      "url": "https://takshashila.org.in/content/publications/20250626-pakistan-drone-ecosystem.html",
+      "title": "Pakistan’s Unmanned Aerial Vehicle Ecosystem",
+      "metadataRaw": "Jun 26, 2025 Adya Madhavan",
+      "publishedDate": "2025-06-26T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T10:28:19.101Z",
+      "summary": "Recent clashes between India and Pakistan in May marked an unprecedented level of drone use by both militaries. Pakistan's drone program is undergoing significant modernization and diversification, focusing on long-endurance aircraft. Its fleet includes both domestically developed systems and imports, primarily from China and Turkey.",
+      "topics": [
+        "Military Technology",
+        "Defense Strategy",
+        "Regional Security"
+      ],
+      "issues": [
+        "Pakistan's military modernization",
+        "Drone proliferation in South Asia"
+      ],
+      "mainIdeas": [
+        "The recent India-Pakistan conflict saw the most extensive use of drones to date.",
+        "Pakistan is actively modernizing and diversifying its unmanned aerial vehicle capabilities.",
+        "Pakistan's drone strategy involves a combination of indigenous production and international imports, notably from China and Turkey."
+      ]
+    },
+    {
+      "id": "17803097063350m46z",
+      "url": "https://takshashila.org.in/content/publications/20250615-TDD-Information-warfare.html",
+      "title": "Hacking Minds, Manipulating Machines: A Primer on Information Warfare",
+      "metadataRaw": "Jun 15, 2025 Nitin Pai, Lokendra Sharma",
+      "publishedDate": "2025-06-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T10:28:26.335Z",
+      "summary": "The article defines information warfare as using information to influence decisions for political objectives without physical force, noting its amplified scale and reach in the current Information Age. It highlights that all nations engage in information warfare, with authoritarian states often having an advantage due to their control over domestic information, though this comes at a cost. A core dilemma is raised regarding the potential for states empowered to safeguard citizens' cognitive autonomy to instead use that power against them.",
+      "topics": [
+        "Information Warfare",
+        "Geopolitics",
+        "Digital Security"
+      ],
+      "issues": [
+        "Global information control",
+        "Ethical use of state information power"
+      ],
+      "mainIdeas": [
+        "Information warfare, a tactic of influencing political outcomes through information rather than force, is vastly more impactful in the digital era.",
+        "Authoritarian governments possess a strategic advantage in information warfare due to their ability to tightly control domestic information environments, although this comes with trade-offs.",
+        "A critical concern is how to prevent states, which are equipped to protect citizens' thinking from external manipulation, from using these same tools to manipulate their own populations."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-01T04:49:27.005Z"
+  "lastUpdated": "2026-06-01T10:28:29.613Z"
 }
