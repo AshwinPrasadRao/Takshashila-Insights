@@ -10,15 +10,25 @@ dotenv.config({ path: path.join(__dirname, '../.env') });
 
 const DATA_FILE = path.join(__dirname, '../src/data/articles.json');
 const PORTAL_URL = 'https://ashwinprasadrao.github.io/Takshashila-Insights/';
-// Sent twice weekly (Mon & Thu), so a ~4-day window covers the gap between
-// sends without repeating much content.
-const DAYS_WINDOW = 4;
+// Each send shows the most recent insights, regardless of when they were
+// published, so a quiet stretch can never produce an empty or one-item email.
+// Sent twice weekly (Mon & Thu); consecutive sends may overlap by an item or
+// two during a quiet week — that's expected and fine.
+const MAX_OPINION = 5;
+const MAX_RESEARCH = 3;
 
 // Pick the best date we have for an article, falling back to when we scraped it.
+// A publishedDate later than when we scraped it (dateAdded) is impossible and
+// signals a bad scrape (e.g. a future date lifted from sidebar text), so we
+// ignore it and fall back to dateAdded — otherwise that one article would be the
+// only thing inside every send window.
 function articleDate(article) {
-  const d = article.publishedDate || article.dateAdded;
-  const parsed = d ? new Date(d) : null;
-  return parsed && !isNaN(parsed.getTime()) ? parsed : null;
+  const added = article.dateAdded ? new Date(article.dateAdded) : null;
+  let pub = article.publishedDate ? new Date(article.publishedDate) : null;
+  if (pub && isNaN(pub.getTime())) pub = null;
+  if (pub && added && pub.getTime() > added.getTime()) pub = null;
+  const d = pub || added;
+  return d && !isNaN(d.getTime()) ? d : null;
 }
 
 function renderCard(article) {
@@ -47,16 +57,16 @@ function renderSection(title, articles) {
   `;
 }
 
-function buildHtml({ opinion, research, weekLabel }) {
+function buildHtml({ opinion, research, dateLabel }) {
   const empty = opinion.length === 0 && research.length === 0;
   return `
     <div style="font-family: 'Inter', Arial, sans-serif; max-width: 640px; margin: 0 auto; color: #1F2328; line-height: 1.6;">
       <h1 style="color: #0969da; text-align: center; border-bottom: 2px solid #eaecef; padding-bottom: 10px;">
         Takshashila Insights Digest
       </h1>
-      <p style="text-align: center; color: #656d76;">Latest insights &middot; ${weekLabel}</p>
+      <p style="text-align: center; color: #656d76;">Latest insights &middot; ${dateLabel}</p>
       ${empty
-        ? `<p style="text-align: center; color: #656d76; margin-top: 30px;">No new op-eds or research were published in the last ${DAYS_WINDOW} days.</p>`
+        ? `<p style="text-align: center; color: #656d76; margin-top: 30px;">No insights are available right now.</p>`
         : renderSection('In the News', opinion) + renderSection('Research Outputs', research)}
       <p style="text-align: center; margin-top: 40px; font-size: 0.85em; color: #656d76;">
         Browse the full archive on the <a href="${PORTAL_URL}" style="color: #0969da;">Insights portal</a>.
@@ -79,19 +89,19 @@ async function sendNewsletter() {
   const data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8'));
   const articles = data.articles || [];
 
-  const cutoff = new Date(Date.now() - DAYS_WINDOW * 24 * 60 * 60 * 1000);
-  const recent = articles.filter(a => {
-    const d = articleDate(a);
-    return d && d >= cutoff;
-  });
+  // Newest-first by the date we trust (publishedDate, falling back to dateAdded),
+  // then take the most recent few of each kind. No time window — see MAX_* above.
+  const sorted = articles
+    .filter(a => articleDate(a))
+    .sort((a, b) => articleDate(b) - articleDate(a));
 
-  const opinion = recent.filter(a => a.type !== 'research');
-  const research = recent.filter(a => a.type === 'research');
+  const opinion = sorted.filter(a => a.type !== 'research').slice(0, MAX_OPINION);
+  const research = sorted.filter(a => a.type === 'research').slice(0, MAX_RESEARCH);
 
-  const weekLabel = `${cutoff.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' })} – ${new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}`;
-  const html = buildHtml({ opinion, research, weekLabel });
+  const dateLabel = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+  const html = buildHtml({ opinion, research, dateLabel });
 
-  console.log(`Found ${opinion.length} op-eds and ${research.length} research items in the last ${DAYS_WINDOW} days.`);
+  console.log(`Including latest ${opinion.length} op-eds and ${research.length} research items.`);
 
   // Generic SMTP config — works with Brevo (smtp-relay.brevo.com:587) and any
   // other SMTP provider without code changes. SENDER_EMAIL must be a sender
@@ -128,7 +138,7 @@ async function sendNewsletter() {
     from: `${SENDER_NAME} <${SENDER_EMAIL}>`,
     to: RECIPIENT_EMAIL,
     cc: CC || undefined,
-    subject: `Takshashila Insights — ${weekLabel}`,
+    subject: `Takshashila Insights — ${dateLabel}`,
     html,
   });
 

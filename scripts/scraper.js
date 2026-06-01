@@ -74,7 +74,16 @@ function parsePublishedDate(metadataStr) {
   const m = metadataStr.match(/([A-Z][a-z]{2,}\.?\s+\d{1,2},\s+\d{4})/);
   if (!m) return null;
   const d = new Date(m[1]);
-  return isNaN(d.getTime()) ? null : d.toISOString();
+  if (isNaN(d.getTime())) return null;
+  // A published date can't be in the future at scrape time. The site sometimes
+  // surfaces a stray future date (e.g. from sidebar/"upcoming" text); trusting it
+  // would pin a stale article to the top forever and dominate the email window.
+  // Drop it so downstream code falls back to dateAdded.
+  if (d.getTime() > Date.now()) {
+    console.log(`Ignoring future publishedDate "${m[1]}" from: ${metadataStr.slice(0, 60)}`);
+    return null;
+  }
+  return d.toISOString();
 }
 
 async function extractArticleText(url) {

@@ -3,6 +3,18 @@ import { ExternalLink, Tag, Hash, BookOpen, ChevronDown } from 'lucide-react';
 import data from './data/articles.json';
 import './index.css';
 
+// The date we trust for ordering/grouping. A publishedDate later than when we
+// scraped the article (dateAdded) is impossible — it comes from a bad scrape, so
+// fall back to dateAdded rather than letting that article jump to the top.
+function effectiveDate(a) {
+  const added = a.dateAdded ? new Date(a.dateAdded) : null;
+  let pub = a.publishedDate ? new Date(a.publishedDate) : null;
+  if (pub && isNaN(pub.getTime())) pub = null;
+  if (pub && added && pub.getTime() > added.getTime()) pub = null;
+  const d = pub || added;
+  return d && !isNaN(d.getTime()) ? d : null;
+}
+
 function ArticleCard({ article }) {
   return (
     <article className="article-card glass">
@@ -67,7 +79,7 @@ function App() {
 
   // Newest first, by published date (falling back to when we scraped it).
   const sortedArticles = useMemo(() => {
-    const dateOf = a => new Date(a.publishedDate || a.dateAdded || 0).getTime() || 0;
+    const dateOf = a => { const d = effectiveDate(a); return d ? d.getTime() : 0; };
     return [...articles].sort((a, b) => dateOf(b) - dateOf(a));
   }, [articles]);
 
@@ -81,8 +93,8 @@ function App() {
   const months = useMemo(() => {
     const map = new Map();
     filteredArticles.forEach(a => {
-      const d = new Date(a.publishedDate || a.dateAdded);
-      const label = isNaN(d.getTime())
+      const d = effectiveDate(a);
+      const label = !d
         ? 'Undated'
         : d.toLocaleString('en-IN', { month: 'long', year: 'numeric' });
       if (!map.has(label)) map.set(label, []);
