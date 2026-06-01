@@ -10,12 +10,11 @@ dotenv.config({ path: path.join(__dirname, '../.env') });
 
 const DATA_FILE = path.join(__dirname, '../src/data/articles.json');
 const PORTAL_URL = 'https://ashwinprasadrao.github.io/Takshashila-Insights/';
-// Each send shows the most recent insights, regardless of when they were
-// published, so a quiet stretch can never produce an empty or one-item email.
-// Sent twice weekly (Mon & Thu); consecutive sends may overlap by an item or
-// two during a quiet week — that's expected and fine.
-const MAX_OPINION = 5;
-const MAX_RESEARCH = 3;
+// Each send shows the latest few items exactly as the site orders them
+// (newest-first, op-eds and research mixed — no section split), so the email
+// mirrors the site's top cards. Sent twice weekly (Mon & Thu); a quiet week may
+// overlap by an item or two with the previous send — that's expected and fine.
+const MAX_ITEMS = 5;
 
 // Pick the best date we have for an article, falling back to when we scraped it.
 // A publishedDate later than when we scraped it (dateAdded) is impossible and
@@ -49,16 +48,8 @@ function renderCard(article) {
   `;
 }
 
-function renderSection(title, articles) {
-  if (articles.length === 0) return '';
-  return `
-    <h2 style="margin-top: 36px; color: #1F2328; border-bottom: 2px solid #eaecef; padding-bottom: 6px;">${title}</h2>
-    ${articles.map(renderCard).join('')}
-  `;
-}
-
-function buildHtml({ opinion, research, dateLabel }) {
-  const empty = opinion.length === 0 && research.length === 0;
+function buildHtml({ articles, dateLabel }) {
+  const empty = articles.length === 0;
   return `
     <div style="font-family: 'Inter', Arial, sans-serif; max-width: 640px; margin: 0 auto; color: #1F2328; line-height: 1.6;">
       <h1 style="color: #0969da; text-align: center; border-bottom: 2px solid #eaecef; padding-bottom: 10px;">
@@ -67,7 +58,7 @@ function buildHtml({ opinion, research, dateLabel }) {
       <p style="text-align: center; color: #656d76;">Latest insights &middot; ${dateLabel}</p>
       ${empty
         ? `<p style="text-align: center; color: #656d76; margin-top: 30px;">No insights are available right now.</p>`
-        : renderSection('In the News', opinion) + renderSection('Research Outputs', research)}
+        : articles.map(renderCard).join('')}
       <p style="text-align: center; margin-top: 40px; font-size: 0.85em; color: #656d76;">
         Browse the full archive on the <a href="${PORTAL_URL}" style="color: #0969da;">Insights portal</a>.
       </p>
@@ -90,18 +81,18 @@ async function sendNewsletter() {
   const articles = data.articles || [];
 
   // Newest-first by the date we trust (publishedDate, falling back to dateAdded),
-  // then take the most recent few of each kind. No time window — see MAX_* above.
+  // then take the most recent few overall — same order the site shows. No time
+  // window and no op-ed/research split — see MAX_ITEMS above.
   const sorted = articles
     .filter(a => articleDate(a))
     .sort((a, b) => articleDate(b) - articleDate(a));
 
-  const opinion = sorted.filter(a => a.type !== 'research').slice(0, MAX_OPINION);
-  const research = sorted.filter(a => a.type === 'research').slice(0, MAX_RESEARCH);
+  const latest = sorted.slice(0, MAX_ITEMS);
 
   const dateLabel = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
-  const html = buildHtml({ opinion, research, dateLabel });
+  const html = buildHtml({ articles: latest, dateLabel });
 
-  console.log(`Including latest ${opinion.length} op-eds and ${research.length} research items.`);
+  console.log(`Including latest ${latest.length} items.`);
 
   // Generic SMTP config — works with Brevo (smtp-relay.brevo.com:587) and any
   // other SMTP provider without code changes. SENDER_EMAIL must be a sender
