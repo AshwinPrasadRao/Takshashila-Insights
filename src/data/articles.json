@@ -938,6 +938,31 @@
       ]
     },
     {
+      "id": "1780289325623t1hv3",
+      "url": "https://www.moneycontrol.com/news/opinion/us-shifting-ai-chip-export-rules-are-a-chokepoint-hurting-allies-more-than-china-13887052.html",
+      "title": "US shifting AI chip export rules are a chokepoint, hurting allies more than China",
+      "metadataRaw": "Apr 13, 2026 Arindam Goswami Moneycontrol",
+      "publishedDate": "2026-04-13T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-01T04:48:45.623Z",
+      "summary": "The US has been implementing inconsistent and often-changing rules for exporting AI chips, with a recent controversial proposal tying sales to investment in US data centers being withdrawn. These fluid policies, intended to control technology access, disproportionately impact allies like India by forcing them into dependent positions rather than fostering true partnerships. The article argues that using chip access as a bargaining tool undermines US alliances and weakens the overall effectiveness of its technology restrictions. This approach leaves allies uncertain about US expectations and their own long-term AI development.",
+      "topics": [
+        "Technology Policy",
+        "International Trade",
+        "Geopolitical Strategy"
+      ],
+      "issues": [
+        "US AI Chip Export Rules",
+        "Impact on International Alliances"
+      ],
+      "mainIdeas": [
+        "The US's constantly shifting AI chip export rules create uncertainty for allies and weaken trust, rather than fostering cooperation.",
+        "Policies that demand investment or guarantees for chip access burden allies more than adversaries like China, making them reliant on US decisions.",
+        "Using access to crucial technology as a negotiation lever, instead of a foundation for strong partnerships, ultimately undermines the US's strategic goals and global influence."
+      ]
+    },
+    {
       "id": "1779882564158xjgus5",
       "url": "https://takshashila.org.in/content/publications/20260412-Starlink-and-Risks-For-India.html",
       "title": "Starlink and Risks for India",
@@ -1814,7 +1839,132 @@
         "Governments should establish clear technical standards for FRT equipment and software, ensuring ethical deployment and fostering public confidence.",
         "A central regulatory body is needed to govern the creation and testing of AI models and data used in FRT to ensure they are unbiased, accurate, and reflective of diverse populations."
       ]
+    },
+    {
+      "id": "178028933206274jc6",
+      "url": "https://takshashila.org.in/content/publications/20251015-Pak-Crypto-Implications.html",
+      "title": "Economic and Security Implications of Pakistan’s Cryptocurrency Push",
+      "metadataRaw": "Oct 15, 2025 Shobhankita Reddy, Anupam Manur",
+      "publishedDate": "2025-10-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T04:48:52.062Z",
+      "summary": "Pakistan's recent push to legalize and integrate cryptocurrency is primarily seen as a diplomatic effort to align with the Trump administration's pro-crypto stance. However, this move is likely to expose Pakistan's already fragile economy to significant new risks rather than solving existing financial problems. For India, a crypto-friendly Pakistan raises serious national security concerns, particularly regarding the potential for increased terror financing and money laundering by militant groups. The article advises India to closely monitor these developments and prepare appropriate responses to protect its interests.",
+      "topics": [
+        "Geopolitics",
+        "Economics",
+        "Cryptocurrency"
+      ],
+      "issues": [
+        "Pakistan's Cryptocurrency Policy",
+        "Regional Security Implications"
+      ],
+      "mainIdeas": [
+        "Pakistan's decision to legalize cryptocurrency is a risky economic strategy that could worsen its existing financial vulnerabilities.",
+        "The timing of Pakistan's crypto push appears to be a calculated move to gain diplomatic favor with the pro-crypto Trump administration.",
+        "A thriving crypto ecosystem in Pakistan poses significant national security threats to India, as it could facilitate terror financing and money laundering operations."
+      ]
+    },
+    {
+      "id": "1780289343898kso3w8",
+      "url": "https://takshashila.org.in/content/publications/20251014-Deciphering-the-Grey-Zone.html",
+      "title": "Deciphering the Grey Zone",
+      "metadataRaw": "Oct 14, 2025 Col Vikrant S Shinde",
+      "publishedDate": "2025-10-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T04:49:03.898Z",
+      "summary": "The article defines the 'Grey Zone' as an operational space where countries and other groups use various coercive tactics short of open warfare to achieve their goals. It emphasizes that these actions, which can include diplomatic, informational, military, and economic tools, are characterized by gradualism and managed escalation to avoid direct conflict. The paper introduces a framework to analyze these activities, showcasing their impact on India's security challenges through historical examples. Ultimately, it defines the Grey Zone as a continuous contest for strategic advantage, where directly claiming responsibility for actions can be a strategic choice rather than always needing deniability.",
+      "topics": [
+        "National Security",
+        "Geopolitics",
+        "Conflict Dynamics"
+      ],
+      "issues": [
+        "Evolving Nature of International Coercion",
+        "Strategic Competition Below War Threshold"
+      ],
+      "mainIdeas": [
+        "The 'Grey Zone' represents an operational space where actors engage in continuous coercive activities using various means short of open warfare to achieve geopolitical objectives.",
+        "These activities involve gradual pressure, careful management of escalation, and the integrated use of diverse tools across diplomatic, informational, military, and economic domains.",
+        "While plausible deniability is often associated with Grey Zone actions, the article argues that directly attributing such actions can also be a deliberate strategic choice."
+      ]
+    },
+    {
+      "id": "1780289352902q2ugbp",
+      "url": "https://takshashila.org.in/content/publications/20251013_Main_Battle_Tanks.html",
+      "title": "India Must Look Beyond Main Battle Tanks",
+      "metadataRaw": "Oct 12, 2025 Amit Kumar, Satya Sahu",
+      "publishedDate": "2025-10-12T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T04:49:12.902Z",
+      "summary": "The article argues that Main Battle Tanks (MBTs) are rapidly losing their operational value for the Indian Army. This is due to evolving threats like cheap drones and precision anti-tank weapons, increased battlefield surveillance, and the specific geographic challenges of India's borders. It suggests that India's current military doctrine, which heavily relies on MBTs, is outdated and financially burdensome given modern warfare realities. The authors advocate for a shift towards lighter, more agile, and networked alternative weapon systems.",
+      "topics": [
+        "Military Modernization",
+        "Defense Policy",
+        "Weapon Systems"
+      ],
+      "issues": [
+        "Relevance of Main Battle Tanks",
+        "Indian Army Strategy"
+      ],
+      "mainIdeas": [
+        "Main Battle Tanks (MBTs) are highly vulnerable and less effective on modern battlefields due to new threats like drones, precision missiles, and pervasive surveillance.",
+        "India's current military doctrine relies too heavily on MBTs, which is unsustainable given their high cost, logistical burden, and limited utility in diverse terrains.",
+        "The Indian Army should prioritize investing in lighter, agile, and network-centric alternatives to MBTs to better suit its strategic and geographic realities."
+      ]
+    },
+    {
+      "id": "1780289359006am0bik",
+      "url": "https://takshashila.org.in/content/publications/20250923-FASTER-Policy-Idea-for-job-creation.html",
+      "title": "FASTER – Policy Idea for Large-scale Job Creation",
+      "metadataRaw": "Sep 23, 2025 Kannan",
+      "publishedDate": "2025-09-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T04:49:19.006Z",
+      "summary": "India is experiencing widespread underemployment, with a large workforce stuck in low-productivity jobs. This article proposes Federally Administered Special Trade and Economic Regions (FASTERs) as a solution. These would be specific district-sized coastal areas with liberalized rules for labor, land, and business operations. The goal is to attract labor-intensive industries by creating an enabling environment, thereby generating millions of new jobs and fostering industrial growth.",
+      "topics": [
+        "Economics",
+        "Job Creation",
+        "Industrial Policy"
+      ],
+      "issues": [
+        "India's Underemployment Crisis",
+        "Structural Barriers to Industrial Growth"
+      ],
+      "mainIdeas": [
+        "India needs large-scale job creation to address its significant underemployment, particularly by transitioning workers into more productive roles in industry.",
+        "FASTERs are proposed as a new model: specially designated coastal zones offering flexible labor laws, easier land access, simplified regulations, and robust infrastructure to attract industries without relying on traditional subsidies.",
+        "These FASTERs could create up to 24 million jobs within three years by attracting major firms and a multitude of smaller businesses, with initial prototypes suggested for Puducherry and Daman-Dadra Nagar Haveli."
+      ]
+    },
+    {
+      "id": "1780289362844qaogi9",
+      "url": "https://takshashila.org.in/content/publications/20250914-from-pixxels-operation-sindoor.html",
+      "title": "From Pixels to Proof: Geospatial Image Analysis of India’s Operation Sindoor",
+      "metadataRaw": "Sep 14, 2025 Dr Y Nithiyanandam",
+      "publishedDate": "2025-09-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-01T04:49:22.844Z",
+      "summary": "This article analyzes India's Operation Sindoor, a military response to cross-border terrorism in May 2025. It uses high-resolution satellite imagery and open-source intelligence to verify strikes on nine terrorist sites in Pakistan and Pakistan Occupied Kashmir. The study confirms the precision of India's operations and highlights how geospatial intelligence is transforming modern warfare. It emphasizes the importance of satellite imagery in providing undeniable proof and shaping transparent security strategies.",
+      "topics": [
+        "Military Operations",
+        "Geospatial Intelligence",
+        "Counter-terrorism"
+      ],
+      "issues": [
+        "Verification of military strikes",
+        "Role of technology in modern conflict"
+      ],
+      "mainIdeas": [
+        "Geospatial analysis provides data-driven proof of military actions, such as India's precision strikes in Operation Sindoor.",
+        "Satellite imagery and open-source intelligence are crucial for verifying military claims and shaping public understanding of defense operations.",
+        "Remote sensing technologies are becoming indispensable for developing credible and transparent security strategies in the future."
+      ]
     }
   ],
-  "lastUpdated": "2026-05-31T04:20:56.531Z"
+  "lastUpdated": "2026-06-01T04:49:27.005Z"
 }
