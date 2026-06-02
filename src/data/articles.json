@@ -1,6 +1,55 @@
 {
   "articles": [
     {
+      "id": "1780374481797ii98wo",
+      "url": "https://www.timesofindia.indiatimes.com/blogs/toi-edit-page/can-googles-discom-licence-unlock-power-sector",
+      "title": "Can Google’s Discom Licence Unlock Power Sector?",
+      "metadataRaw": "Jun 1, 2026 Anwesha Sen Times of India",
+      "publishedDate": "2026-06-01T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-02T04:28:01.797Z",
+      "summary": "Andhra Pradesh has granted Google a power distribution license for its $15 billion data center project in Visakhapatnam. This makes Google the first private company in the state to receive such a license, allowing it to directly source and distribute 1GW of electricity for its campus. This is considered a major regulatory change with practical implications for the power sector.",
+      "topics": [
+        "Power Sector",
+        "Business Regulation",
+        "Infrastructure Development"
+      ],
+      "issues": [
+        "Power Distribution Policy",
+        "Private Investment in Utilities"
+      ],
+      "mainIdeas": [
+        "Google's new license empowers it to manage its own power supply for a large data center campus.",
+        "This decision represents a significant regulatory shift, allowing a private company to directly procure and distribute electricity in the state.",
+        "The move could potentially influence future policy and encourage further private sector participation in India's power sector."
+      ]
+    },
+    {
+      "id": "1780374475102cuk3u8",
+      "url": "https://timesofindia.indiatimes.com/toi-plus/business-economy/2-tax-tweaks-to-secure-growth-story/articleshow/131424878.cms",
+      "title": "2 Tax Tweaks To Secure Growth Story",
+      "metadataRaw": "Jun 1, 2026 Anupam Manur Times of India",
+      "publishedDate": "2026-06-01T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-02T04:27:55.103Z",
+      "summary": "Foreign investors are rapidly pulling money out of India, while Indian banks are struggling to attract enough deposits to lend. Though these two problems appear unrelated, the article states they are connected and stem from a single underlying issue in Indian finance.",
+      "topics": [
+        "Indian Economy",
+        "Financial Markets"
+      ],
+      "issues": [
+        "Foreign capital flight",
+        "Domestic bank liquidity"
+      ],
+      "mainIdeas": [
+        "India is currently experiencing a significant withdrawal of funds by foreign investors.",
+        "Indian banks are facing a critical shortage of deposits, which limits their ability to provide loans.",
+        "These two seemingly separate financial challenges are, in fact, symptoms of a single underlying problem in the Indian financial system."
+      ]
+    },
+    {
       "id": "17800277330785hdq6p",
       "url": "https://www.moneycontrol.com/news/opinion/the-quad-lives-but-needs-course-correction-by-the-us-to-thrive-13933355.html",
       "title": "The Quad lives but needs course correction by the US to thrive",
@@ -2089,6 +2138,31 @@
       ]
     },
     {
+      "id": "17803744938488velc9",
+      "url": "https://takshashila.org.in/content/publications/20250728-a-framework-to-assess-indias-economic-diplomacy.html",
+      "title": "A Framework to Assess India’s Economic Diplomacy in its Neighbourhood",
+      "metadataRaw": "Jul 28, 2025 Vanshika Saraf, Anushka Saxena",
+      "publishedDate": "2025-07-28T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-02T04:28:13.848Z",
+      "summary": "This article evaluates India's economic diplomacy with six of its neighbors, including Bangladesh and Sri Lanka, using a framework to assess various policy tools. It identifies three main goals for this diplomacy: promoting regional stability, solidifying India's position as a leading regional power while managing China's presence, and building trust and reputation. The analysis suggests that India should continue to use low-effort economic tools to foster interdependence and prioritize high-effort tools that can deliver significant and lasting results.",
+      "topics": [
+        "Economic Diplomacy",
+        "Foreign Policy",
+        "Regional Relations"
+      ],
+      "issues": [
+        "India's economic engagement in its neighborhood",
+        "Managing China's regional influence"
+      ],
+      "mainIdeas": [
+        "India's economic outreach in its neighborhood should focus on achieving regional stability, strengthening its regional leadership, and cultivating goodwill.",
+        "India should consistently use economic tools that require less effort to increase its economic ties with neighboring countries.",
+        "It is crucial for India to prioritize and invest in high-impact economic initiatives, even those that may be new or previously untried, if they promise substantial long-term benefits."
+      ]
+    },
+    {
       "id": "1780309699101njnnc",
       "url": "https://takshashila.org.in/content/publications/20250626-pakistan-drone-ecosystem.html",
       "title": "Pakistan’s Unmanned Aerial Vehicle Ecosystem",
@@ -2111,6 +2185,31 @@
         "The recent India-Pakistan conflict saw the most extensive use of drones to date.",
         "Pakistan is actively modernizing and diversifying its unmanned aerial vehicle capabilities.",
         "Pakistan's drone strategy involves a combination of indigenous production and international imports, notably from China and Turkey."
+      ]
+    },
+    {
+      "id": "1780374499375ih9mis",
+      "url": "https://takshashila.org.in/content/publications/20250617-Is-Space-the-Final-Frontier.html",
+      "title": "Is Space the Final Frontier",
+      "metadataRaw": "Jun 17, 2025 Ashwin Prasad Rao",
+      "publishedDate": "2025-06-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-02T04:28:19.375Z",
+      "summary": "Historically, control of the dominant strategic domain, like oceans, granted nations significant geopolitical power. Today, space has emerged as this new critical frontier, driving global competition due to an increasing reliance on its unique technologies. These space-based systems provide essential services like global communication, Earth observation, and precise navigation, which are vital for both civilian activities and military operations worldwide.",
+      "topics": [
+        "Space Technology",
+        "Global Power",
+        "International Relations"
+      ],
+      "issues": [
+        "Strategic Control of Space",
+        "Dependence on Satellite Systems"
+      ],
+      "mainIdeas": [
+        "Control over space is now a decisive factor in a nation's geopolitical advantage and power, similar to how control of the seas functioned historically.",
+        "Space-based technologies provide critical services for global communication, Earth observation, and precise navigation, impacting everything from military operations to daily civilian life.",
+        "The increasing reliance on space technologies has transformed space into a competitive arena among nations."
       ]
     },
     {
@@ -2137,7 +2236,57 @@
         "Authoritarian governments possess a strategic advantage in information warfare due to their ability to tightly control domestic information environments, although this comes with trade-offs.",
         "A critical concern is how to prevent states, which are equipped to protect citizens' thinking from external manipulation, from using these same tools to manipulate their own populations."
       ]
+    },
+    {
+      "id": "1780374507625sk8anr",
+      "url": "https://takshashila.org.in/content/publications/20250612-Taming-the-Skies.html",
+      "title": "Taming the Skies: Managing the Unmanned Airspace and Countering Rogue Drones",
+      "metadataRaw": "Jun 10, 2025 Col Vikrant S Shinde",
+      "publishedDate": "2025-06-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-02T04:28:27.625Z",
+      "summary": "The increasing use of drones offers both new benefits and risks. India has developed regulations and a policy framework to manage drone operations in low-level airspace. However, a comprehensive system is needed to manage all drone traffic and actively counter unauthorized drones, as current air defense systems focus on higher-altitude threats. The strategy involves improving existing rules to distinguish legal drone users from illegal ones, then deploying a counter-drone system to stop any unauthorized threats.",
+      "topics": [
+        "Drone Management",
+        "National Security",
+        "Airspace Regulation"
+      ],
+      "issues": [
+        "Managing low-level unmanned airspace",
+        "Countering unauthorized drone activity"
+      ],
+      "mainIdeas": [
+        "Drones introduce new opportunities and threats, necessitating specific management frameworks.",
+        "Existing regulations and policy frameworks for low-level drone operations need to be complemented by an active defense system.",
+        "A networked counter-drone system is crucial to fill current air defense gaps and neutralize rogue drone threats, working alongside drone traffic management."
+      ]
+    },
+    {
+      "id": "17803745160300wszsp",
+      "url": "https://takshashila.org.in/content/publications/20250606-Revisiting-Arms-Control-Paradigms.html",
+      "title": "Revisiting Arms Control Paradigms in the Age of LAWS: Towards a Framework for Human Control",
+      "metadataRaw": "Jun 6, 2025 Adya Madhavan",
+      "publishedDate": "2025-06-06T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-02T04:28:36.031Z",
+      "summary": "Lethal Autonomous Weapons Systems (LAWS) are causing significant debate because they allow machines to make critical lethal decisions, raising ethical and accountability worries. Despite these concerns, countries with advanced AI capabilities continue to develop them. International discussions on how to control LAWS are difficult due to disagreements on what LAWS actually are and what kind of rules should apply. This paper examines different government views, historical approaches to arms control, and the specific challenges LAWS pose, including India's role in these discussions.",
+      "topics": [
+        "Weapons Technology",
+        "International Security",
+        "Arms Control"
+      ],
+      "issues": [
+        "Regulating autonomous weapons",
+        "Maintaining human control in warfare"
+      ],
+      "mainIdeas": [
+        "Countries fundamentally disagree on whether to create strict international laws or more flexible guidelines for autonomous weapons, and what 'meaningful human control' truly entails.",
+        "Autonomous weapons present unique challenges for traditional arms control efforts because the underlying AI technology is dual-use, there is no universally accepted definition, and nations are reluctant to limit what they perceive as a military advantage.",
+        "The capacity of some autonomous systems to operate for extended periods increases the risks of errors and misidentifying targets, underscoring the critical need for their regulation."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-01T10:28:29.613Z"
+  "lastUpdated": "2026-06-02T04:28:41.546Z"
 }
