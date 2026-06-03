@@ -2286,7 +2286,105 @@
         "Autonomous weapons present unique challenges for traditional arms control efforts because the underlying AI technology is dual-use, there is no universally accepted definition, and nations are reluctant to limit what they perceive as a military advantage.",
         "The capacity of some autonomous systems to operate for extended periods increases the risks of errors and misidentifying targets, underscoring the critical need for their regulation."
       ]
+    },
+    {
+      "id": "17804621013096qj85n",
+      "url": "https://takshashila.org.in/content/publications/20240406-Comments-On-Demand-For_Grants.html",
+      "title": "Comments on Demand for Grants (DFGs) by Ministry of Science and Technology in the Union Budget (FY 2025-26)",
+      "metadataRaw": "May 24, 2025 Shambhavi Naik, Sarthak Pradhan",
+      "publishedDate": "2025-05-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-03T04:48:21.310Z",
+      "summary": "This document analyzes the budget requests, known as Demand for Grants (DFGs), submitted by the Ministry of Science and Technology for the fiscal year 2025-26. The analysis reveals that the Ministry allocates a disproportionately low amount of its total budget to research expenditure. Furthermore, several departments within the Ministry are not fully utilizing the research funds they have been allocated. The document concludes by offering specific recommendations for the budgets proposed by the Department of Biotechnology and the Department of Science and Technology.",
+      "topics": [
+        "Government Budgeting",
+        "Science and Technology Policy",
+        "Research and Development"
+      ],
+      "issues": [
+        "Insufficient Research Funding",
+        "Under-utilization of Allocated Budgets"
+      ],
+      "mainIdeas": [
+        "The Ministry of Science and Technology's proposed budget shows very low spending on research compared to its overall funds.",
+        "Departments within the Ministry are not using their research budgets effectively or completely.",
+        "Recommendations are provided to improve the budget allocation and utilization for specific science departments."
+      ]
+    },
+    {
+      "id": "1780462109459eergy7",
+      "url": "https://takshashila.org.in/content/publications/20250503-Biotechnology-through-a-SamajSarkarBazaar-lens.html",
+      "title": "Biotechnology through a Samaj-Sarkaar-Bazaar lens",
+      "metadataRaw": "May 23, 2025 Shambhavi Naik",
+      "publishedDate": "2025-05-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-03T04:48:29.459Z",
+      "summary": "This article introduces the \"Samaj (Society), Sarkaar (Government), and Bazaar (Market)\" framework to understand how interactions between society, government, and markets influence overall progress. It applies this model to examine biotechnology, detailing the specific roles each actor plays and their real-world impact. The paper argues that for new technologies like biotech, decisions should be based on evidence, with society, government, and market roles adapting to specific situations to ensure effective growth.",
+      "topics": [
+        "Biotechnology Policy",
+        "Economic Governance"
+      ],
+      "issues": [
+        "Managing biotechnology development",
+        "Roles of stakeholders in technological progress"
+      ],
+      "mainIdeas": [
+        "The Samaj-Sarkaar-Bazaar framework offers a model for understanding the interplay between society, government, and markets in driving progress.",
+        "This framework is useful for analyzing and guiding growth in biotechnology, with distinct roles for each of the three actors.",
+        "For emerging technologies, evidence-based decision-making should be paramount, requiring adaptable roles from society, government, and the market to steer growth effectively."
+      ]
+    },
+    {
+      "id": "1780462117786exfzro",
+      "url": "https://takshashila.org.in/content/publications/20250521-ai-governance-healthcare.html",
+      "title": "A Framework For The Governance Of AI In Healthcare For India: An Exploratory Model",
+      "metadataRaw": "May 21, 2025 Shambhavi Naik, Bharath Reddy",
+      "publishedDate": "2025-05-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-03T04:48:37.786Z",
+      "summary": "AI in healthcare offers significant opportunities to improve patient outcomes in India. However, effective governance is essential to manage potential risks while encouraging its adoption. This involves understanding public needs, addressing market gaps, and focusing on practical improvements like better data, accountability in healthcare systems, and training medical staff. A long-term view is crucial for addressing ethical concerns and unforeseen consequences as AI technology evolves.",
+      "topics": [
+        "Healthcare Technology",
+        "AI Regulation",
+        "Public Policy in India"
+      ],
+      "issues": [
+        "Integrating AI into India's healthcare system",
+        "Developing a framework for governing AI in healthcare"
+      ],
+      "mainIdeas": [
+        "AI has strong potential to improve healthcare outcomes in India, but it requires careful management to succeed.",
+        "Effective governance balances promoting AI use with mitigating its risks, focusing on public benefit and addressing market inefficiencies.",
+        "Key governance actions include improving data quality, ensuring accountability in healthcare systems, training medical personnel, and planning for ethical impacts and unexpected issues over different time horizons."
+      ]
+    },
+    {
+      "id": "1780462123843b2obu",
+      "url": "https://takshashila.org.in/content/publications/20250514-chinas-local-governments.html",
+      "title": "China’s Local Governments: Can they pull the weight of the country’s economy?",
+      "metadataRaw": "May 14, 2025 Amit Kumar",
+      "publishedDate": "2025-05-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-03T04:48:43.843Z",
+      "summary": "China's economy is undergoing a structural slowdown, with its ability to meet growth targets largely dependent on local governments, which manage most national spending. These local governments are facing a worsening financial situation, marked by declining revenues from both general budgets and land sales, alongside a significant increase in their debt. This fiscal stress, exacerbated by central government restrictions on debt and increasing expenditure mandates, severely limits their capacity to support the national economy.",
+      "topics": [
+        "Chinese Economy",
+        "Government Finance"
+      ],
+      "issues": [
+        "Local Government Debt in China",
+        "China's Economic Slowdown"
+      ],
+      "mainIdeas": [
+        "China's national economic growth targets are heavily reliant on the performance and fiscal health of its local governments.",
+        "Local governments are experiencing severe financial difficulties due to sharp declines in revenue sources and a substantial increase in their debt.",
+        "The financial challenges faced by local governments are significantly hindering their ability to effectively stimulate and maintain economic activity across the country."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-02T04:28:41.546Z"
+  "lastUpdated": "2026-06-03T04:48:49.284Z"
 }
