@@ -2534,7 +2534,157 @@
         "Economic strength and skilled talent are considered more vital for India's national power in the coming decade than military or raw technological power.",
         "There is strong public support for India to develop its own semiconductor capabilities, either through design or manufacturing, and to adopt a nuanced policy for securing technology supply chains."
       ]
+    },
+    {
+      "id": "1780632950516aidzjo",
+      "url": "https://takshashila.org.in/content/publications/20250423-IPR-tech-politics-underlying-power-transitions.html",
+      "title": "Indian Public Policy Review | Diffusion, innovation and the tech-politics underlying power transitions",
+      "metadataRaw": "Apr 23, 2025 Lokendra Sharma, Arindam Goswami",
+      "publishedDate": "2025-04-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-05T04:15:50.517Z",
+      "summary": "This article reviews a framework that argues the widespread adoption of general-purpose technologies, rather than just leading in specific tech sectors, determines which nations become great powers. It applies this historical perspective to India, seeking lessons for emerging powers navigating the current Fourth Industrial Revolution. The core idea is that the diffusion of technology is crucial for a rising nation's success on the global stage.",
+      "topics": [
+        "Technology",
+        "Global Power Shifts",
+        "Economic Strategy"
+      ],
+      "issues": [
+        "Technology Adoption",
+        "National Economic Power"
+      ],
+      "mainIdeas": [
+        "The broad spread and use of general-purpose technologies are more important than leadership in specific tech sectors for a nation to become a global power.",
+        "Historical industrial revolutions demonstrate that the widespread use of technology influences changes in global leadership.",
+        "India can gain insights from these historical patterns to help shape its strategy as it rises in the current technological age."
+      ]
+    },
+    {
+      "id": "17806329566936gnxch",
+      "url": "https://takshashila.org.in/content/publications/20250416-state-of-ai-governance-2024.html",
+      "title": "State of AI Governance, 2024",
+      "metadataRaw": "Apr 16, 2025 Bharath Reddy, Rijesh Panicker, Sridhar Krishna, Arindam Goswami, Anwesha Sen, Adya Madhavan",
+      "publishedDate": "2025-04-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-05T04:15:56.693Z",
+      "summary": "This report analyzes the global state of AI governance in 2024, examining approaches by countries, companies, and international groups. It details how major players like the US, EU, China, and India are developing AI policies with varying priorities such as market growth, individual rights, national security, or indigenous development. The report compares these strategies based on their focus on transparency, innovation, geopolitical aims, societal impact, and government oversight. It concludes that while efforts are underway, a unified global approach to AI regulation is not yet established.",
+      "topics": [
+        "AI Policy",
+        "Global Governance",
+        "Technology Regulation"
+      ],
+      "issues": [
+        "Divergent National AI Strategies",
+        "Geopolitical Competition in AI"
+      ],
+      "mainIdeas": [
+        "Major global players like the US, EU, and China are adopting distinct AI governance strategies that reflect their unique economic, political, and security priorities.",
+        "Effective AI governance requires balancing multiple goals, including fostering innovation, ensuring transparency, addressing geopolitical concerns, and protecting public welfare.",
+        "Despite efforts by individual companies and international forums, a consistent and coordinated global framework for AI regulation is still developing."
+      ]
+    },
+    {
+      "id": "1780632972816g2dphc",
+      "url": "https://takshashila.org.in/content/publications/20250410-skys-the-limit.html",
+      "title": "The Sky’s the Limit: Understanding China’s UCAV Exports",
+      "metadataRaw": "Apr 10, 2025 Adya Madhavan",
+      "publishedDate": "2025-04-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-05T04:16:12.816Z",
+      "summary": "China has become a dominant global exporter of armed drones (UCAVs), especially to countries in West Asia and Central Africa. These exports serve China's economic interests and expand its geopolitical influence, often targeting nations involved in its Belt and Road Initiative. This success is underpinned by a robust domestic manufacturing ecosystem, which benefits from key government policies that promote high-tech production and military-civilian collaboration.",
+      "topics": [
+        "Military Technology",
+        "International Trade",
+        "Geopolitics"
+      ],
+      "issues": [
+        "Global Proliferation of Military Drones",
+        "China's Expanding International Influence"
+      ],
+      "mainIdeas": [
+        "China is a leading exporter of armed drones, with significant sales to around 18 countries, including key partners like Pakistan and Saudi Arabia.",
+        "China uses its drone exports to achieve both economic gains and broader strategic goals, often targeting countries that are part of its Belt and Road Initiative or are important for its regional ambitions.",
+        "A strong domestic manufacturing base and supportive government policies, such as 'Made in China 2025' and 'Military-Civil Fusion', are crucial to China's ability to develop and export advanced military drone systems."
+      ]
+    },
+    {
+      "id": "1780632966558tx11vj",
+      "url": "https://takshashila.org.in/content/publications/20250410-satellite-internet-explained.html",
+      "title": "Satellite Internet Explained",
+      "metadataRaw": "Apr 10, 2025 Ashwin Prasad Rao",
+      "publishedDate": "2025-04-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-05T04:16:06.558Z",
+      "summary": "Satellite internet is crucial for global connectivity, national security, and economic stability, overcoming ground-based network limitations by offering resilient, worldwide coverage through megaconstellations. This 'internet in the sky' has broad applications, including military operations, disaster response, and essential public services. Its dual-use nature creates complex security considerations, necessitating strategic investment, integration into critical services, and international regulation.",
+      "topics": [
+        "Satellite Technology",
+        "Global Connectivity",
+        "National Security"
+      ],
+      "issues": [
+        "Global Digital Divide",
+        "Security of Dual-Use Technologies"
+      ],
+      "mainIdeas": [
+        "Satellite internet provides resilient, global connectivity that overcomes limitations of ground-based networks.",
+        "New satellite megaconstellations are expanding access to space-based internet.",
+        "The technology's dual-use for both civilian and military purposes creates complex security considerations that require strategic management and regulation."
+      ]
+    },
+    {
+      "id": "17806329810674n60sc",
+      "url": "https://takshashila.org.in/content/publications/20250401-TDD-Securing-the-Electronic-Hardware-Supply-Chain.html",
+      "title": "Securing the Electronic Hardware Supply Chain: A Cost-Benefit Analysis Framework",
+      "metadataRaw": "Apr 1, 2025 Arindam Goswami, Colonel KPM Das, Rijesh Panicker",
+      "publishedDate": "2025-04-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-05T04:16:21.067Z",
+      "summary": "The article addresses the growing concern over the security of electronic hardware supply chains. It proposes a new systematic approach that balances national security needs with practical implementation challenges. This involves setting up a dedicated institutional structure and using a quantitative cost-benefit analysis framework. This data-driven method helps policymakers decide on the appropriate level of security for specific products based on their importance, vulnerability, and potential harm, moving beyond general, less effective policies.",
+      "topics": [
+        "Supply Chain Security",
+        "Technology Policy",
+        "National Security"
+      ],
+      "issues": [
+        "Electronic Hardware Supply Chain Vulnerability",
+        "Ineffective Policy-Making for Technology Security"
+      ],
+      "mainIdeas": [
+        "Current approaches to securing electronic supply chains are often broad and not effective enough for specific threats.",
+        "A new data-driven system, using cost-benefit analysis, is needed to assess the true value and impact of security measures for specific electronic products.",
+        "Policies should be customized based on a product's importance and vulnerability, moving away from a single, generic approach."
+      ]
+    },
+    {
+      "id": "1780632987406l4gfs",
+      "url": "https://takshashila.org.in/content/publications/20250330-future-of-india-us-trade.html",
+      "title": "The Future of India-US Trade",
+      "metadataRaw": "Mar 30, 2025 Shikha Tomar, Anisree Suresh, Anupam Manur",
+      "publishedDate": "2025-03-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-05T04:16:27.406Z",
+      "summary": "The article analyzes the evolving trade relationship between India and the US, highlighting India's historical reliance on tariffs and the challenges posed by a global shift towards protectionism. It argues that India must implement strategic reforms, including gradual tariff reductions and pursuing a Free Trade Agreement (FTA) with the US, to overcome trade friction and unlock its economic potential. The US, particularly under the Trump administration, is pushing for greater market access in India and threatening reciprocal tariffs if a broad trade agreement is not finalized.",
+      "topics": [
+        "International Trade",
+        "Bilateral Economic Relations",
+        "Trade Policy"
+      ],
+      "issues": [
+        "India-US Trade Friction",
+        "Tariff Barriers and Market Access"
+      ],
+      "mainIdeas": [
+        "India needs to reform its trade policies, moving away from protectionism, to strengthen its economic relationship with the US.",
+        "The US, under the Trump administration, is pressuring India to reduce tariffs and provide broader market access, threatening punitive measures if an FTA is not achieved.",
+        "Despite increased cooperation in other sectors, trade relations between India and the US are strained by disagreements over tariffs, intellectual property, and India's domestic manufacturing policies."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-04T04:42:20.089Z"
+  "lastUpdated": "2026-06-05T04:16:32.248Z"
 }
