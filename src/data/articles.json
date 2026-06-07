@@ -2711,6 +2711,31 @@
       ]
     },
     {
+      "id": "17808062807490wwmbp",
+      "url": "https://takshashila.org.in/content/publications/20230322-chinas-two-front-conundrum.html",
+      "title": "China’s Two-Front Conundrum: A Perspective on the India-China Border Situation",
+      "metadataRaw": "Mar 22, 2025 Amit Kumar",
+      "publishedDate": "2025-03-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-07T04:24:40.749Z",
+      "summary": "This article suggests that China's actions on the India-China border since 2020 are a result of its concern about facing threats from two directions. It points out that China has historically felt this type of security pressure. The author argues there's a link between China's insecurity about these two potential fronts and rising tensions along its border with India, concluding that Beijing uses border instability as a way to manage its wider security challenges.",
+      "topics": [
+        "International Relations",
+        "Security Issues",
+        "Asian Affairs"
+      ],
+      "issues": [
+        "India-China Border Tensions",
+        "China's National Security Strategy"
+      ],
+      "mainIdeas": [
+        "China's aggressive border behavior with India stems from its perceived need to manage threats from multiple directions.",
+        "China has a long-standing historical concern about facing threats on two fronts.",
+        "Beijing uses instability along the border as a deliberate tactic to address its broader security anxieties."
+      ]
+    },
+    {
       "id": "1780718309366y8564",
       "url": "https://takshashila.org.in/content/publications/20250211-Indias-Industrial-Policies.html",
       "title": "India’s Industrial Policies: Rejecting the Old Status Quo and Creating the New",
@@ -2783,7 +2808,133 @@
         "Major barriers to urban job creation are poor infrastructure, restrictive land rules, weak local government authority, and insufficient funding for cities.",
         "To unlock cities' potential, the government needs to invest more in infrastructure, ease land use regulations, give more power to local urban bodies, and improve their financial independence."
       ]
+    },
+    {
+      "id": "1780806289221j207fs",
+      "url": "https://takshashila.org.in/content/publications/20250127-decoding-chinas-approach-to-de-escalation.html",
+      "title": "Decoding China’s Approach to Escalation & De-Escalation in the South China Sea",
+      "metadataRaw": "Jan 27, 2025 Anushka Saxena",
+      "publishedDate": "2025-01-27T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-07T04:24:49.221Z",
+      "summary": "This article analyzes China's tactics for increasing and decreasing tensions with the Philippines in the South China Sea. It identifies China's main goals, which include opposing the Philippines' international legal actions and its closer ties with the US, while asserting historical claims over disputed areas. China employs a specific strategy involving discrediting rival claims, offering incentives, using naval intimidation, and setting boundaries. The piece details numerous recent clashes, such as ramming and water cannon incidents around Second Thomas Shoal and Scarborough Shoal, alongside diplomatic and naming disputes.",
+      "topics": [
+        "Geopolitics",
+        "Maritime Disputes",
+        "International Security"
+      ],
+      "issues": [
+        "South China Sea Conflict",
+        "China-Philippines Maritime Rights"
+      ],
+      "mainIdeas": [
+        "China's actions in the South China Sea are primarily driven by its disapproval of the Philippines involving international bodies and partnering with the US, alongside its assertion of historical claims.",
+        "China uses a '4-D' strategy to achieve its objectives: delegitimizing the claims of other nations, offering incentives to gain political support, deterring opponents with naval power, and setting clear 'red lines'.",
+        "The conflict is marked by frequent, aggressive incidents like ramming and water cannon attacks against Philippine vessels, highlighting a fundamental disagreement between China's historical claims and international maritime law."
+      ]
+    },
+    {
+      "id": "17808062990579y8jtq",
+      "url": "https://takshashila.org.in/content/publications/20250104-framework-for-governing-emerging-technologies.html",
+      "title": "A Framework for Governing Emerging Technologies",
+      "metadataRaw": "Jan 4, 2025 Shambhavi Naik, Bharath Reddy",
+      "publishedDate": "2025-01-04T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-07T04:24:59.057Z",
+      "summary": "The article proposes a structured framework for governing emerging technologies, acknowledging the \"pacing problem\" where technological advancement outstrips regulatory capacity. It highlights the challenge of balancing innovation, mitigating risks, and navigating geopolitical considerations in policy-making. The framework outlines key steps, including deeply understanding a technology's ecosystem, identifying diverse stakeholders and their concerns, and evaluating policy options against competing objectives. This approach aims to bring analytical rigor to addressing the complexities of regulating new technologies throughout their lifecycle.",
+      "topics": [
+        "Technology Policy",
+        "Governance Frameworks",
+        "Emerging Technologies"
+      ],
+      "issues": [
+        "The widening gap between rapid technological advancement and the ability to create effective regulations.",
+        "How to balance fostering innovation with managing risks, ensuring national security, and addressing complex global supply chain dependencies."
+      ],
+      "mainIdeas": [
+        "A structured policy framework is essential for effective governance of rapidly evolving technologies, aiming to close the 'pacing problem' gap.",
+        "Effective policymaking requires a comprehensive understanding of a technology's full ecosystem, including its lifecycle, supply chain, national competitiveness, and potential societal and environmental impacts.",
+        "Policy decisions must carefully consider the diverse interests and concerns of all stakeholders while balancing competing objectives such as economic growth, risk management, and strategic independence."
+      ]
+    },
+    {
+      "id": "1780806305074zb1le",
+      "url": "https://takshashila.org.in/content/publications/20250101-Derisking-Indias-Trade-With-China.html",
+      "title": "De-risking India’s Trade with China: Identifying Strategic and Critical Vulnerabilities",
+      "metadataRaw": "Jan 1, 2025 Amit Kumar",
+      "publishedDate": "2025-01-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-07T04:25:05.074Z",
+      "summary": "This paper examines India's high import dependence on China in categories like organic chemicals, machinery, and electrical equipment, which represent over two-thirds of its total imports from China. The study assessed if this reliance creates a strategic vulnerability for India. It found that most imported items are low to moderately complex and can be easily replaced. Therefore, any trade disruption initiated by China would likely cause only short-to-medium-term economic challenges for India.",
+      "topics": [
+        "Trade Relations",
+        "Economic Security",
+        "Supply Chain Analysis"
+      ],
+      "issues": [
+        "India's Trade Vulnerability to China",
+        "Supply Chain Resilience"
+      ],
+      "mainIdeas": [
+        "India has a significant import reliance on China across several key product categories.",
+        "Most of these imported products from China are not highly complex, suggesting they can be easily replaced from other sources.",
+        "Any potential trade disruptions or weaponization of trade by China would likely cause only temporary economic challenges for India."
+      ]
+    },
+    {
+      "id": "1780806312366q7jhpb",
+      "url": "https://takshashila.org.in/content/publications/20241224-delimitation-in-jk.html",
+      "title": "Delimitation in J&K: A Constitutional Exercise Towards Political Ends",
+      "metadataRaw": "Dec 24, 2024 Vikrant S Shinde",
+      "publishedDate": "2024-12-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-07T04:25:12.367Z",
+      "summary": "The article analyzes the recent redrawing of electoral boundaries (delimitation) in Jammu and Kashmir, a constitutional process initiated after the region's reorganization into a Union Territory. This exercise increased the total number of assembly seats, distributing them in a way that, proportionally, gave more seats to the Jammu region than the Kashmir region. It also introduced reservations for Scheduled Castes and Scheduled Tribes for the first time, while considering geographical features and connectivity alongside population. The commission also recommended representation for Kashmiri Migrants and Displaced Persons from Pakistan-Occupied J&K.",
+      "topics": [
+        "Indian Politics",
+        "Electoral Systems",
+        "Regional Governance"
+      ],
+      "issues": [
+        "Jammu and Kashmir Political Reorganization",
+        "Electoral Boundary Redrawing"
+      ],
+      "mainIdeas": [
+        "The delimitation process in J&K, conducted after the abrogation of Article 370, aimed to establish new political representation for the region as a Union Territory.",
+        "The new allocation of assembly seats proportionally benefited the Jammu region more than the Kashmir region, and introduced significant reservations for Scheduled Castes and Tribes.",
+        "The commission's methodology, which included geographic and connectivity considerations beyond just population, sets a precedent for future delimitation exercises in India.",
+        "Recommendations were made to ensure representation for Kashmiri Migrants and Displaced Persons from Pakistan-Occupied J&K in the legislative assembly."
+      ]
+    },
+    {
+      "id": "1780806318698bnd38m",
+      "url": "https://takshashila.org.in/content/publications/20241218-jet-engines.html",
+      "title": "Jet Engines: Technology, Supply Chain and Ecosystem",
+      "metadataRaw": "Dec 18, 2024 Avinash Shet",
+      "publishedDate": "2024-12-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-07T04:25:18.698Z",
+      "summary": "The article emphasizes that developing jet engines is a highly advanced technological field, crucial for both military strength and commercial aviation leadership. India currently relies on imports for jet engines, but aims to achieve self-reliance in this area for strategic and technological independence. This document serves as a guide to jet engine technology, its global supply chain, and India's indigenous development efforts. The ultimate goal is to help policymakers strengthen India's aerospace industry and position it as a major global aviation player.",
+      "topics": [
+        "Aerospace Technology",
+        "National Security",
+        "Industrial Policy"
+      ],
+      "issues": [
+        "India's reliance on imported jet engines",
+        "Challenges of indigenous jet engine development"
+      ],
+      "mainIdeas": [
+        "Mastering jet engine technology grants strategic military superiority and economic advantages in commercial aviation.",
+        "Achieving self-reliance in jet engine development is critical for India's strategic and technological independence in aerospace and defense.",
+        "Understanding the intricate design, manufacturing, and supply chain of jet engines is essential for policymakers to strengthen national aerospace capabilities."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-06T03:58:54.906Z"
+  "lastUpdated": "2026-06-07T04:25:22.818Z"
 }
