@@ -2934,7 +2934,132 @@
         "Achieving self-reliance in jet engine development is critical for India's strategic and technological independence in aerospace and defense.",
         "Understanding the intricate design, manufacturing, and supply chain of jet engines is essential for policymakers to strengthen national aerospace capabilities."
       ]
+    },
+    {
+      "id": "1780893667008c5dpa",
+      "url": "https://takshashila.org.in/content/publications/20241217-survey-of-military-ai-technologies.html",
+      "title": "A Survey of Military AI Technologies",
+      "metadataRaw": "Dec 17, 2024 Adya Madhavan, Satya Sahu",
+      "publishedDate": "2024-12-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-08T04:41:07.008Z",
+      "summary": "This article surveys military Artificial Intelligence (AI) technologies, explaining the motivations behind defense sector investments despite concerns about autonomy and ethics. It details AI's three core functions—automation, prediction, and analytics—and their application across diverse military areas, including autonomous vehicles, target identification, and logistics. The document distinguishes between older rule-based \"Handcrafted Knowledge\" systems and modern, data-driven \"Machine Learning\" systems, emphasizing the latter's adaptability and current prevalence. Ultimately, the full transformative potential of military AI is currently limited by compatibility issues with existing defense infrastructure and the ongoing need for technological refinement.",
+      "topics": [
+        "Military Technology",
+        "Artificial Intelligence",
+        "Defense Strategy"
+      ],
+      "issues": [
+        "Integration of AI into military systems",
+        "Ethical and operational challenges of military AI"
+      ],
+      "mainIdeas": [
+        "Military AI is broadly used for automation, prediction, and data analysis across various functions, from autonomous vehicles to logistics support.",
+        "The current focus in military AI is on \"narrow AI\" systems, particularly adaptable Machine Learning models, rather than theoretical human-like general AI.",
+        "While AI holds significant transformative potential for defense, its full impact is presently limited by the need to overcome existing legacy military systems and refine the technologies for practical use."
+      ]
+    },
+    {
+      "id": "1780893657259l0cj2y",
+      "url": "https://takshashila.org.in/content/publications/20241217-pulse-of-the-people.html",
+      "title": "Pulse of the People: State of India-China Relations",
+      "metadataRaw": "Dec 17, 2024 Anushka Saxena, Manoj Kewalramani, Amit Kumar",
+      "publishedDate": "2024-12-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-08T04:40:57.259Z",
+      "summary": "A recent survey indicates that most Indians see the border dispute as the main reason for current tensions with China, with China's regional influence being the second major concern. Despite these issues, a significant portion of the public supports continued economic ties with China, including trade and investment. While most favor aligning with the US-led West, there's also a preference for India to act as a peace-broker in regional conflicts, like a potential Taiwan Strait crisis.",
+      "topics": [
+        "International Relations",
+        "Public Opinion",
+        "Geopolitics"
+      ],
+      "issues": [
+        "India-China Border Dispute",
+        "China's Regional Influence"
+      ],
+      "mainIdeas": [
+        "The Indian public primarily identifies the border dispute as the central cause of tension with China, followed by China's growing influence in India's neighborhood.",
+        "Despite geopolitical concerns, there is broad support among Indians for continued economic engagement with China, including trade, investment, and the welcoming of Chinese talent when needed.",
+        "Most Indians favor aligning with the US-led West if forced to choose, and support India acting as a peace-broker in potential conflicts like a Taiwan Strait scenario."
+      ]
+    },
+    {
+      "id": "1780893650835zco8fw",
+      "url": "https://takshashila.org.in/content/publications/20241217-assessing-nature-of-indias-critical-minerals.html",
+      "title": "Assessing the Nature of India’s Critical Minerals Vulnerabilities vis-à-vis China",
+      "metadataRaw": "Dec 17, 2024 Rakshith Shetty",
+      "publishedDate": "2024-12-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-08T04:40:50.835Z",
+      "summary": "India faces significant vulnerabilities in its supply of critical minerals, which are crucial for its economic growth and national security, due to a high dependency on imports, especially from China. A study identified six key minerals where China is India's primary supplier, including Lithium, Silicon, and Titanium. These three are considered \"critical vulnerabilities\" because they impact national security and India lacks the ability to produce them on its own. The remaining three, Bismuth, Tellurium, and Graphite, are \"strategic vulnerabilities\" that India can address with focused investment over time.",
+      "topics": [
+        "Critical Minerals",
+        "India-China Relations",
+        "Economic Security"
+      ],
+      "issues": [
+        "India's Dependence on China for Critical Minerals",
+        "China's Control over Global Mineral Supply Chains"
+      ],
+      "mainIdeas": [
+        "India heavily depends on China for several critical minerals essential for its advanced technology and clean energy goals, making it vulnerable.",
+        "Silicon, Lithium, and Titanium are identified as major weaknesses for India, posing national security risks because China dominates their processing and India lacks sufficient alternatives.",
+        "China actively uses its global control of critical mineral supply chains as a strategic tool to gain geopolitical leverage."
+      ]
+    },
+    {
+      "id": "178089367717782sdlc",
+      "url": "https://takshashila.org.in/content/publications/20241208-india-australia-free-trade-agreement.html",
+      "title": "India-Australia Free Trade Agreement: Learnings and Prospects",
+      "metadataRaw": "Dec 8, 2024 Anisree Suresh",
+      "publishedDate": "2024-12-08T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-08T04:41:17.177Z",
+      "summary": "The India-Australia Economic Cooperation and Trade Agreement (ECTA) aims to significantly boost trade and economic ties between the two nations by reducing tariffs on a wide range of goods and services. The agreement facilitates market access for both countries, with India benefiting from access for labor-intensive goods and Australia for resources and agricultural products. It also seeks to streamline regulatory processes and facilitate the movement of professionals. However, its long-term success hinges on India addressing internal regulatory complexities, improving utilization of the agreement, and continuing to reduce non-tariff barriers.",
+      "topics": [
+        "International Trade",
+        "Economic Policy",
+        "Bilateral Relations"
+      ],
+      "issues": [
+        "India-Australia Trade Relations",
+        "Free Trade Agreement Implementation Challenges"
+      ],
+      "mainIdeas": [
+        "The ECTA deepens trade between India and Australia by significantly cutting tariffs and easing the movement of professionals and services.",
+        "While the agreement offers substantial economic opportunities and helps diversify supply chains away from over-reliance on single markets, its full potential is dependent on India overcoming its regulatory and procedural hurdles.",
+        "The agreement provides mutual market access, with both nations reducing duties on a large portion of each other's exports, signaling a stronger, more integrated economic partnership."
+      ]
+    },
+    {
+      "id": "1780893684520agwawq",
+      "url": "https://takshashila.org.in/content/publications/20241121-AI-Adoption.html",
+      "title": "AI Adoption - Think Tasks, not Jobs",
+      "metadataRaw": "Nov 21, 2024 Arindam Gowami, Sridhar Krishna",
+      "publishedDate": "2024-11-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-08T04:41:24.520Z",
+      "summary": "This article examines how artificial intelligence (AI) will change jobs, particularly in service industries. It argues that while AI will transform employment, it's unlikely to cause mass unemployment in the near future, partly because its adoption is often slow due to implementation costs and process changes. The document emphasizes that some tasks will transition to AI, creating new roles for managing these systems, and highlights the crucial need for workers to gain new skills. It recommends that governments support skill development and businesses shift their workforce to roles that work with AI.",
+      "topics": [
+        "Artificial Intelligence",
+        "Future of Work",
+        "Economic Adaptation"
+      ],
+      "issues": [
+        "AI's effect on jobs",
+        "Workforce training for AI"
+      ],
+      "mainIdeas": [
+        "AI will automate specific tasks within jobs, rather than eliminate entire job categories, especially in the service industry.",
+        "Mass unemployment from AI is not expected soon, as real-world AI adoption is gradual and new human roles will emerge to manage AI.",
+        "To thrive in an AI-driven economy, workers must acquire new skills, and businesses need to prepare their employees for roles that complement AI."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-07T04:25:22.818Z"
+  "lastUpdated": "2026-06-08T04:41:29.251Z"
 }
