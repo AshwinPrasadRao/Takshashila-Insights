@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "178106479556658ijgf",
+      "url": "https://takshashila.org.in/content/publications/20260608-journey-of-japans-defence.html",
+      "title": "Journey of Japan’s Defence Transformation",
+      "metadataRaw": "Jun 8, 2026 Vanshika Saraf",
+      "publishedDate": "2026-06-08T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-10T04:13:15.566Z",
+      "summary": "Japan is significantly transforming its defense strategy, moving from a post-World War II pacifist stance to a more active security approach. This change is driven by growing regional threats, particularly from China, North Korea, and Russia. It involves reinterpreting constitutional limits on military force, substantially increasing defense spending, and developing new capabilities such as counterstrike capacity. This evolution maintains Japan’s foundational identity while adapting to current security needs, primarily through policy reinterpretations rather than formal constitutional amendments.",
+      "topics": [
+        "Japan's Defense Policy",
+        "Geopolitics",
+        "Military Modernization"
+      ],
+      "issues": [
+        "Japan's Security Transformation",
+        "Indo-Pacific Regional Security"
+      ],
+      "mainIdeas": [
+        "Japan is making a fundamental shift from a defensive-only military posture to a more proactive security role due to rising regional threats.",
+        "This transformation is occurring through reinterpreting existing laws and making policy changes, rather than a full constitutional rewrite, to develop new military capabilities.",
+        "Major changes include allowing collective self-defense, acquiring the ability to strike enemy bases if attacked, and doubling defense spending to match NATO standards."
+      ]
+    },
+    {
+      "id": "1781064776522jz668",
+      "url": "https://www.hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html",
+      "title": "Let’s make critical minerals deal work",
+      "metadataRaw": "Jun 5, 2026 Shobhankita Reddy,Pranay Kotasthane Hindustan Times",
+      "publishedDate": "2026-06-05T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-10T04:12:56.522Z",
+      "summary": "Recent partnerships between the US, India, and Quad nations aim to secure critical mineral supplies and lessen dependence on China. The article argues that China's market power comes from its dominance in mineral processing, not just raw material mining. For these initiatives to succeed, partner countries must collaborate to counter China's pricing strategies, build up processing and manufacturing capabilities, boost recycling, and engage with other resource-rich nations.",
+      "topics": [
+        "Global Economy",
+        "Resource Management",
+        "International Trade"
+      ],
+      "issues": [
+        "Critical Mineral Supply Chains",
+        "China's Economic Influence"
+      ],
+      "mainIdeas": [
+        "Securing critical mineral supplies requires international partnerships that tackle China's strong hold on mineral processing, not just raw material extraction.",
+        "Partners must implement varied strategies, including countering China's artificial price suppression and investing in manufacturing and recycling capabilities outside China.",
+        "Long-term success depends on differentiating approaches for various minerals and expanding cooperation to resource-rich nations, focusing on existing mines."
+      ]
+    },
+    {
+      "id": "1781064783166zlr2p",
+      "url": "https://www.moneycontrol.com/news/opinion/no-shortcut-to-power-india-cannot-afford-the-illusion-of-cheap-weapons-13940819.html",
+      "title": "No Shortcut to Power: India cannot afford the illusion of cheap weapons",
+      "metadataRaw": "Jun 4, 2026 Yusuf Unjhawala Moneycontrol",
+      "publishedDate": "2026-06-04T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-10T04:13:03.167Z",
+      "summary": "The article argues that military power requires a comprehensive and balanced approach, not just reliance on cheap, expendable systems like drones. For a rising global power like India, effective defense relies on conventional forces for deterrence, territorial control, and long-term sustainment in conflicts. India faces unique challenges from Pakistan and China that demand a diverse and robust military, supported by a strong domestic defense industry, to secure its interests and prevent wars.",
+      "topics": [
+        "Defense Policy",
+        "Military Modernization",
+        "National Security"
+      ],
+      "issues": [
+        "India's Military Strategy",
+        "Conventional vs. Asymmetric Warfare"
+      ],
+      "mainIdeas": [
+        "Wars are won by comprehensive military strength (controlling territory, dominating escalation, sustaining combat), not by the cheapest weapons, and conventional forces remain critical for these functions.",
+        "India needs a balanced military force that includes both conventional platforms (like aircraft carriers and fighter jets) and asymmetric capabilities to effectively deter and respond to distinct threats from Pakistan and China.",
+        "A robust defense industrial base and the ability to sustain long conflicts through rapid production and replenishment are essential for modern warfare, an area where India currently has shortcomings."
+      ]
+    },
+    {
       "id": "1780374481797ii98wo",
       "url": "https://www.timesofindia.indiatimes.com/blogs/toi-edit-page/can-googles-discom-licence-unlock-power-sector",
       "title": "Can Google’s Discom Licence Unlock Power Sector?",
@@ -2936,6 +3011,31 @@
       ]
     },
     {
+      "id": "1781064801115v9twos",
+      "url": "https://takshashila.org.in/content/publications/20241217-A-Survey-of-Military-AI-Technologies.html",
+      "title": "A Survey of Military AI Technologies",
+      "metadataRaw": "Dec 17, 2024 Satya Shoova Sahu, Adya Madhavan",
+      "publishedDate": "2024-12-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-10T04:13:21.115Z",
+      "summary": "Militaries globally are increasing investments in artificial intelligence (AI) to enhance defense capabilities, despite ethical and safety concerns surrounding autonomous systems. The article explores how AI is used for automation, prediction, and analysis across various military applications, from autonomous vehicles to logistics. While AI is already being implemented, its full transformative impact is currently hindered by technological limitations and the need to significantly modify existing military systems and operations.",
+      "topics": [
+        "Military Technology",
+        "Artificial Intelligence",
+        "Defense Innovation"
+      ],
+      "issues": [
+        "Military AI Development",
+        "Challenges of AI Integration"
+      ],
+      "mainIdeas": [
+        "Governments and militaries are aggressively investing in AI to maintain technological superiority and leverage AI's benefits in defense.",
+        "AI serves diverse military functions, including automating processes, aiding prediction, and improving data analysis, applied in areas like autonomous vehicles, decision support, and logistics.",
+        "The complete realization of AI's transformative potential in the military is currently constrained by technical hurdles and the necessity of adapting both the technology and existing operational systems."
+      ]
+    },
+    {
       "id": "1780893667008c5dpa",
       "url": "https://takshashila.org.in/content/publications/20241217-survey-of-military-ai-technologies.html",
       "title": "A Survey of Military AI Technologies",
@@ -3059,7 +3159,32 @@
         "Mass unemployment from AI is not expected soon, as real-world AI adoption is gradual and new human roles will emerge to manage AI.",
         "To thrive in an AI-driven economy, workers must acquire new skills, and businesses need to prepare their employees for roles that complement AI."
       ]
+    },
+    {
+      "id": "1781064809659vgbqyr",
+      "url": "https://takshashila.org.in/content/publications/20241113-A-Primer-on-AI-Chips.html",
+      "title": "A Primer on AI Chips",
+      "metadataRaw": "Nov 13, 2024 Ashwin Prasad Rao, Satya Shoova Sahu",
+      "publishedDate": "2024-11-13T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-10T04:13:29.659Z",
+      "summary": "The growing demand for AI technologies like machine learning has created an urgent need for specialized AI chips, which power systems in both cloud data centers and at the network edge. The AI chip ecosystem, comprising accelerators, memory, and networking, is heavily controlled by a handful of major companies. NVIDIA's strong position in the GPU market and its proprietary software ecosystem raise concerns about national reliance on a single provider for critical AI infrastructure. The article highlights the importance for policymakers to understand these technology dependencies and support the development of alternative hardware and software solutions to foster a more robust and diverse AI chip market.",
+      "topics": [
+        "Artificial Intelligence",
+        "Technology Industry",
+        "National Security & Technology"
+      ],
+      "issues": [
+        "AI Chip Market Concentration",
+        "Technological Dependencies"
+      ],
+      "mainIdeas": [
+        "The rapid growth of AI drives significant demand for specialized computing hardware, creating a complex ecosystem of chips, memory, and networking.",
+        "A small number of companies, particularly NVIDIA, dominate the global AI chip market, leading to concerns about single points of failure and national reliance on foreign tech.",
+        "Policymakers must actively work to understand and address these technological dependencies by promoting diverse hardware and software options to build a more resilient AI future."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-09T04:01:35.763Z"
+  "lastUpdated": "2026-06-10T04:13:35.821Z"
 }
