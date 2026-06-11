@@ -26,6 +26,31 @@
       ]
     },
     {
+      "id": "17811519160145p6tr",
+      "url": "https://x.com/YusufDFI/status/2063222320597271023?s=20",
+      "title": "Quality Control Orders (QCO) Must Reflect How Supply Chains Actually Work",
+      "metadataRaw": "Jun 6, 2026 Yusuf Unjhawala X (Twitter)",
+      "publishedDate": "2026-06-06T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-11T04:25:16.014Z",
+      "summary": "India is introducing new quality control orders (QCO) to improve product standards, a necessary step for boosting its manufacturing sector and integrating into global supply chains. The article highlights the importance of these orders being practical and reflective of real-world supply chain operations. This approach is crucial to ensure the regulations effectively support India's economic goals without creating undue complexities.",
+      "topics": [
+        "Manufacturing",
+        "Global Trade",
+        "Regulatory Policy"
+      ],
+      "issues": [
+        "India's product quality regulations",
+        "Integration into global supply chains"
+      ],
+      "mainIdeas": [
+        "India is implementing higher product quality standards to support its manufacturing growth.",
+        "These quality improvements are essential for India to participate more effectively in global markets.",
+        "Quality control policies must be designed to realistically align with how international supply chains operate."
+      ]
+    },
+    {
       "id": "1781064776522jz668",
       "url": "https://www.hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html",
       "title": "Let’s make critical minerals deal work",
@@ -3184,7 +3209,57 @@
         "A small number of companies, particularly NVIDIA, dominate the global AI chip market, leading to concerns about single points of failure and national reliance on foreign tech.",
         "Policymakers must actively work to understand and address these technological dependencies by promoting diverse hardware and software options to build a more resilient AI future."
       ]
+    },
+    {
+      "id": "178115192978012iysn",
+      "url": "https://takshashila.org.in/content/publications/20241111-indias-turn-towards-myanmar.html",
+      "title": "Overcoming a Strategic Blindspot: India’s Turn Towards Myanmar",
+      "metadataRaw": "Nov 11, 2024 Vanshika Saraf",
+      "publishedDate": "2024-11-11T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-11T04:25:29.780Z",
+      "summary": "India considers its relationship with Myanmar essential for its broader regional strategy, especially given instability with neighbors and China's growing influence. The article details India's engagement across security, economic, and connectivity sectors, aimed at securing its borders, accessing energy, and linking to Southeast Asia. However, internal political instability in Myanmar, increased Chinese involvement, and human rights concerns pose significant challenges. India must carefully navigate these complexities to advance its long-term objectives and maintain regional stability.",
+      "topics": [
+        "Regional Strategy",
+        "Bilateral Relations",
+        "Geopolitical Competition"
+      ],
+      "issues": [
+        "Myanmar's Political Instability",
+        "India-China Competition in the Region"
+      ],
+      "mainIdeas": [
+        "India views a strong relationship with Myanmar as critical for its national security, economic growth, and to improve connectivity with Southeast Asia, especially in light of China's expanding regional influence.",
+        "India is actively engaged in Myanmar through defense cooperation, economic investments in trade and energy, and infrastructure projects like highways and port development.",
+        "Significant challenges, including Myanmar's internal conflicts, China's growing footprint, and human rights concerns, require India to adopt a pragmatic and balanced diplomatic approach to protect its strategic interests."
+      ]
+    },
+    {
+      "id": "1781151945374g29pg8",
+      "url": "https://takshashila.org.in/content/publications/20241023-environmental-cooperation.html",
+      "title": "Environmental Cooperation: An Imperative for Subcontinental Thinking",
+      "metadataRaw": "Oct 23, 2024 Adya Madhavan, Pranay Kotasthane, Nitin Pai, Anand Arni, Dr Y. Nithiyanandam",
+      "publishedDate": "2024-10-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-11T04:25:45.375Z",
+      "summary": "India and Pakistan, despite historical tensions, face severe, shared environmental challenges like air pollution, extreme heat, and glacial melt, which transcend national borders. These issues profoundly impact public health, livability, food and water security, and economic stability in both countries. Given the interconnected nature of these problems, subcontinental cooperation is crucial for effective mitigation, offering a potential pathway to improve strained bilateral relations. Young populations in both nations will bear the brunt of these issues, highlighting the urgent need for joint action.",
+      "topics": [
+        "Environmental Issues",
+        "Bilateral Relations",
+        "Climate Change Impacts"
+      ],
+      "issues": [
+        "India-Pakistan Environmental Cooperation",
+        "Transboundary Climate Threats"
+      ],
+      "mainIdeas": [
+        "India and Pakistan must collaborate on environmental issues like air pollution, extreme heat, and glacial melt because these problems cross borders and severely affect both nations.",
+        "The economic and social costs of inaction, including impacts on public health, food and water security, and livability, are immense and far greater than the historical conflicts between the two countries.",
+        "Environmental cooperation offers a practical and urgent path for both countries to address critical shared threats and could potentially improve their long-strained relationship."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-10T04:13:35.821Z"
+  "lastUpdated": "2026-06-11T04:25:49.807Z"
 }
