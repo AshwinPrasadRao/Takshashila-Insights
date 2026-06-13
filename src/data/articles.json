@@ -3286,6 +3286,31 @@
       ]
     },
     {
+      "id": "1781324225998nyzqyb",
+      "url": "https://takshashila.org.in/content/publications/20241110-indias-economic-future.html",
+      "title": "India’s Economic Future: The Pitfalls of Following South Korea’s Industrial Playbook",
+      "metadataRaw": "Nov 10, 2024 Anisree Suresh",
+      "publishedDate": "2024-11-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-13T04:17:05.998Z",
+      "summary": "This article examines South Korea's economic transformation, highlighting its initial success with export promotion and innovation, but also the deep flaws in its industrial policies that contributed to the 1997 financial crisis. It warns India against directly replicating South Korea's earlier industrial approach, especially given its current 'Make in India' and Production Linked Incentive schemes, which risk fostering inefficiency. The author advocates for India to prioritize market-driven growth, competition, innovation, and global value chain integration, while reducing excessive state intervention.",
+      "topics": [
+        "Economic Policy",
+        "Industrial Development",
+        "International Trade"
+      ],
+      "issues": [
+        "India's Industrial Strategy",
+        "South Korea's 1997 Financial Crisis"
+      ],
+      "mainIdeas": [
+        "South Korea's rapid economic growth was intertwined with structural problems, such as excessive state control, reliance on credit, and protectionism, which ultimately led to its 1997 financial crisis.",
+        "India should learn from South Korea's mistakes and avoid industrial policies, like its early protectionist and subsidy-heavy models, that could encourage inefficiency and over-leveraging in its own economy.",
+        "For sustainable and stable economic growth, India needs to focus on fostering competition, reducing government interference, and integrating into global supply chains, rather than relying on protectionist measures and incentives."
+      ]
+    },
+    {
       "id": "1781239106033v2uu3f",
       "url": "https://takshashila.org.in/content/publications/20241101-delhi-kabul-indo-afghan-relations.html",
       "title": "From Delhi to Kabul: Navigating Indo-Afghan Relations",
@@ -3362,6 +3387,31 @@
       ]
     },
     {
+      "id": "178132423326267qj9p",
+      "url": "https://takshashila.org.in/content/publications/20241015-contours-modus-vivendi-china.html",
+      "title": "Contours of a New Modus Vivendi with China",
+      "metadataRaw": "Oct 15, 2024 Manoj Kewalramani",
+      "publishedDate": "2024-10-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-13T04:17:13.262Z",
+      "summary": "This paper proposes a new approach for India to manage its relationship with China. It suggests that while the relationship will likely remain unpredictable due to inherent reasons, both countries benefit from maintaining some stability. India's strategy should focus on increasing its own strength to negotiate from a powerful position. It also recommends establishing new ways for engagement and oversight between the two nations.",
+      "topics": [
+        "Geopolitics",
+        "Foreign Policy",
+        "National Security"
+      ],
+      "issues": [
+        "India-China Relations",
+        "Regional Stability"
+      ],
+      "mainIdeas": [
+        "India needs to develop a new and practical strategy for managing its relationship with China.",
+        "The relationship between India and China is expected to remain volatile, but both countries need a degree of stability.",
+        "India should focus on strengthening its own national power to engage with China from a position of strength, while also creating new systems for interaction and monitoring."
+      ]
+    },
+    {
       "id": "17812391226498etuhh",
       "url": "https://takshashila.org.in/content/publications/20241015-chinese-analysts-indias-climate-change-diplomacy.html",
       "title": "How Chinese Analysts View India’s Climate Change Diplomacy",
@@ -3384,6 +3434,107 @@
         "Chinese analysts believe India's climate diplomacy involves a dual approach: forming alliances with developing nations while also engaging with developed countries, often prioritizing economic growth and poverty eradication.",
         "There is perceived potential for China and India to cooperate on climate change, especially in developing and transferring green technologies, though India's 'Make in India' policies are seen as a barrier.",
         "Some Chinese analyses suggest that U.S. protectionist measures are detrimental to India's green manufacturing, hinting at a shared challenge for both China and India against American trade policies."
+      ]
+    },
+    {
+      "id": "178132424003220dlfe",
+      "url": "https://takshashila.org.in/content/publications/20241007-usa-counter-chinas-dominance-chips.html",
+      "title": "USA’s Options to Counter China’s Increasing Dominance in Legacy Chips",
+      "metadataRaw": "Oct 7, 2024 Satya Shoova Sahu, Amit Kumar",
+      "publishedDate": "2024-10-07T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-13T04:17:20.032Z",
+      "summary": "China's increasing market share in legacy semiconductor chips presents significant geoeconomic and security risks for the US. Traditional strategies like export controls and tariffs are unlikely to be effective or sustainable in countering this trend. The article proposes that 'friendshoring' legacy chip production to India is the most viable long-term solution. India is considered an ideal partner due to its geopolitical alignment, generous government subsidies, and cost advantages.",
+      "topics": [
+        "Semiconductor Industry",
+        "Geopolitics",
+        "Supply Chain Management"
+      ],
+      "issues": [
+        "China's dominance in legacy chip production",
+        "US supply chain vulnerability"
+      ],
+      "mainIdeas": [
+        "China's growing control over legacy semiconductor chips creates economic and security risks, providing it with potential leverage against the US and its allies.",
+        "Traditional US denial strategies, such as export controls or tariffs, are unlikely to effectively curb China's dominance in legacy chips due to their high cost, China's self-sufficiency, and potential negative impacts on Western industries.",
+        "Friendshoring legacy chip production to geopolitically aligned partners, especially India, offers the most practical and sustainable long-term solution to diversify the global supply chain."
+      ]
+    },
+    {
+      "id": "1781324249324wf2rwh",
+      "url": "https://takshashila.org.in/content/publications/20241006-drones-modern-warfare.html",
+      "title": "Traffic in the Air: Drones in Modern Warfare",
+      "metadataRaw": "Oct 6, 2024 Anushka Saxena",
+      "publishedDate": "2024-10-06T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-13T04:17:29.324Z",
+      "summary": "Modern conflicts heavily feature drones for various military tasks, from intelligence gathering to targeted attacks, exemplified by their use in Ukraine and China. Despite being labeled \"unmanned,\" these systems require extensive human involvement for successful operation, including pilots, ground crews, and data management. While a powerful addition to a nation's arsenal, drones are an evolution rather than a revolution in warfare, and their real costs involve significant personnel investment.",
+      "topics": [
+        "Military Technology",
+        "Modern Warfare Tactics",
+        "Defense Budgets"
+      ],
+      "issues": [
+        "Human Role in Drone Warfare",
+        "Actual Costs of Drone Operations"
+      ],
+      "mainIdeas": [
+        "Drones are integral to current military operations, employed across diverse functions by various nations.",
+        "The notion of \"unmanned\" systems is inaccurate, as extensive human crews are essential for drone deployment, operation, and maintenance.",
+        "Drones enhance existing military capabilities but are not fundamentally revolutionary; they represent a significant evolutionary step.",
+        "Evaluating drone costs must consider the substantial expenses associated with specialized personnel and comprehensive operational support, not just the hardware itself."
+      ]
+    },
+    {
+      "id": "1781324255953efgdw",
+      "url": "https://takshashila.org.in/content/publications/20250925-Ethical-Frameworks-for-Deployment-of-Synthetic-Biology.html",
+      "title": "Ethical Frameworks for Deployment of Synthetic Biology in the Indo-Pacific",
+      "metadataRaw": "Sep 25, 2024 Henry Dixson, Daniel Pavlich, Dirk Van Der Kley, Shambhav Naik, Saurabh Todi",
+      "publishedDate": "2024-09-25T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-13T04:17:35.953Z",
+      "summary": "This article presents a series of ethical frameworks for guiding the use of Synthetic Biology (SynBio) technologies, particularly within the Indo-Pacific region. It argues that current global rules for SynBio are incomplete and do not adequately represent the views of countries in this populous area. The proposed frameworks offer practical guidance for assessing ethical risks, managing genetic data responsibly, and engaging the public about SynBio applications. These tools are intended as a starting point for stakeholders to address the complex ethical challenges posed by this rapidly advancing field.",
+      "topics": [
+        "Biotechnology Governance",
+        "Public Policy",
+        "Regional Development"
+      ],
+      "issues": [
+        "Ethical oversight of emerging technologies",
+        "Data governance and privacy"
+      ],
+      "mainIdeas": [
+        "Current global regulations for Synthetic Biology (SynBio) are insufficient and lack diverse perspectives, especially from the Indo-Pacific region.",
+        "The article introduces three practical frameworks to help decision-makers in the Indo-Pacific manage SynBio's ethical risks, handle genetic data responsibly, and engage the public effectively.",
+        "These frameworks are designed to be accessible tools that provide foundational principles for addressing the complex challenges and opportunities presented by SynBio."
+      ]
+    },
+    {
+      "id": "1781324261131llno2j",
+      "url": "https://takshashila.org.in/content/publications/20240922-chinese-analysts-global-south-leadership.html",
+      "title": "Cooperate or Compete?: What Chinese Analysts Think of India’s ‘Global South’ Leadership",
+      "metadataRaw": "Sep 22, 2024 Anushka Saxena",
+      "publishedDate": "2024-09-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-13T04:17:41.131Z",
+      "summary": "Both India and China are increasingly vying to position themselves as leaders of the 'Global South,' a group of developing nations, to bolster their international influence. Chinese analysts have critically assessed India's claim to this leadership. Their main arguments are that China is an undeniable part of the Global South and that India's close ties to Western countries, along with its own limitations, hinder its ability to effectively lead these nations.",
+      "topics": [
+        "Geopolitics",
+        "International Competition",
+        "Developing Nations"
+      ],
+      "issues": [
+        "India-China Rivalry",
+        "Leadership of Developing Nations"
+      ],
+      "mainIdeas": [
+        "India and China are competing for influence by seeking to lead the 'Global South'.",
+        "Chinese analysts argue that China must be considered part of the 'Global South'.",
+        "Chinese commentators believe India's ambition to lead the 'Global South' is weakened by its Western alignment and internal challenges."
       ]
     },
     {
@@ -3487,5 +3638,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-12T04:39:14.730Z"
+  "lastUpdated": "2026-06-13T04:17:45.102Z"
 }
