@@ -3538,6 +3538,31 @@
       ]
     },
     {
+      "id": "1781412262587xjcbw7",
+      "url": "https://takshashila.org.in/content/publications/20240909-us-india-economic-ties-recommendations.html",
+      "title": "US-India Economic Ties: To the Next Level and Beyond (Policy Recommendations)",
+      "metadataRaw": "Sep 9, 2024 Aparna Pande, Sarthak Pradhan, Anupam Manur, Narayan Ramachandran",
+      "publishedDate": "2024-09-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-14T04:44:22.587Z",
+      "summary": "This article outlines policy recommendations from joint US-India roundtables aimed at strengthening economic ties and reaching $500 billion in bilateral trade by 2030. It proposes actions across trade and investment, human capital, and technology to enhance the partnership. Key suggestions include reducing trade barriers, making India's regulatory environment more predictable, and fostering greater collaboration in talent exchange and emerging technologies.",
+      "topics": [
+        "Economic Diplomacy",
+        "International Business",
+        "Technology Cooperation"
+      ],
+      "issues": [
+        "Trade and Investment Barriers",
+        "Regulatory and Bureaucratic Hurdles in India"
+      ],
+      "mainIdeas": [
+        "India needs to reduce tariffs, streamline regulations, and create a more predictable business environment to attract foreign investment and boost trade.",
+        "Both the US and India should facilitate easier movement of skilled professionals and promote greater collaboration in education and research.",
+        "The two countries should increase cooperation in emerging technologies and coordinate their approach to global tech competition."
+      ]
+    },
+    {
       "id": "1781239135204o2p9xr",
       "url": "https://takshashila.org.in/content/publications/20240906-Karnataka%20-16th-Finance-Commission.html",
       "title": "Karnataka at the 16th Finance Commission: Concerns, Prospects, and a Way Forward",
@@ -3560,6 +3585,31 @@
         "Karnataka's share of central government funds decreased because the previous funding formula penalized states with higher economic growth.",
         "The method for distributing funds among states needs to be adjusted to avoid penalizing economically dynamic states and to accurately reflect their ability to generate tax revenue.",
         "States that protect forests and the environment should receive more financial support, recognizing the national benefits of their conservation efforts."
+      ]
+    },
+    {
+      "id": "178141226993394u4as",
+      "url": "https://takshashila.org.in/content/publications/20240903-china-russia-power-asymmetry.html",
+      "title": "China-Russia Relationship: Assessing the Power Asymmetry",
+      "metadataRaw": "Sep 3, 2024 Amit Kumar",
+      "publishedDate": "2024-09-03T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-14T04:44:29.933Z",
+      "summary": "This article examines the relationship between Russia and China, highlighting a significant imbalance in power despite strong strategic alignment. It finds that Russia heavily relies on China for diplomatic and financial resources to pursue its geopolitical objectives, with China having replaced the EU as Russia's primary economic partner due to Western sanctions. While military ties are more balanced, Russia's overall and growing dependence on China is presented as an alarming trend, particularly for countries like India.",
+      "topics": [
+        "Geopolitics",
+        "International Trade",
+        "Bilateral Relations"
+      ],
+      "issues": [
+        "Russia's increasing reliance on China across diplomatic and economic fronts",
+        "The impact of Western sanctions on Russia's global economic and political ties"
+      ],
+      "mainIdeas": [
+        "Russia has become increasingly reliant on China for diplomatic and financial support to achieve its international goals.",
+        "Western sanctions have forced Russia to pivot economically towards China, making China its top economic partner and significantly increasing Russia's dependence.",
+        "Despite relatively balanced military ties, Russia's growing overall dependence on China is viewed with concern by other nations."
       ]
     },
     {
@@ -3636,7 +3686,132 @@
         "Free trade agreements work best between countries that already trade a lot, and including social or environmental rules in these deals can be problematic for developing countries.",
         "Global trade rules are evolving towards a system where the WTO provides basic standards, while bigger regional agreements set additional rules."
       ]
+    },
+    {
+      "id": "1781412276169vhxs0lhu",
+      "url": "https://takshashila.org.in/content/publications/20240731-Indias-Whey-Protein-Market.html",
+      "title": "India’s Whey Protein Market: Demand and Supply Conundrum",
+      "metadataRaw": "Jul 31, 2024 Anisree Suresh",
+      "publishedDate": "2024-07-31T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-14T04:44:36.169Z",
+      "summary": "India's whey protein market is struggling with high demand and low domestic production, leading to a significant deficit. This supply gap is worsened by import restrictions, an unorganized dairy sector limiting private company growth, and issues with productivity and product quality. To improve the situation, the market needs to encourage more private sector involvement, enhance dairy product quality and output, and ease import rules to boost competitiveness and growth.",
+      "topics": [
+        "Indian Business",
+        "Food & Agriculture",
+        "Market Analysis"
+      ],
+      "issues": [
+        "Dairy Sector Challenges",
+        "Import-Export Policy"
+      ],
+      "mainIdeas": [
+        "India faces a substantial deficit in its whey protein market due to strong demand and inadequate domestic manufacturing capacity.",
+        "The market's ability to meet demand is hampered by government import restrictions, the dominance of unorganized dairy businesses, and low productivity and quality within the dairy sector.",
+        "Resolving the supply issue requires increased private sector participation, improved dairy production quality and efficiency, and a relaxation of import policies."
+      ]
+    },
+    {
+      "id": "17814122831780kbvgs",
+      "url": "https://takshashila.org.in/content/publications/20240725-Reimagining-Social-Security-for-21st-Century-India.html",
+      "title": "Reimagining Social Security for 21st Century India: A radical approach - Multi-Contributor Social Security (MCSS) system",
+      "metadataRaw": "Jul 25, 2024 Arindam Gowami",
+      "publishedDate": "2024-07-25T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-14T04:44:43.178Z",
+      "summary": "India's current social security system faces challenges with insufficient coverage and funding, requiring an urgent update to expand its reach and diversify financial sources. The article proposes a Multi-Contributor Social Security (MCSS) system, where various entities like governments, employers, and individuals can contribute to designated accounts. A key feature allows contributors to choose specific recipients and define the purpose of their contributions. This system aims to create a reliable social safety net that is not solely dependent on employers or the government.",
+      "topics": [
+        "Social Welfare",
+        "Public Policy",
+        "Financial Systems"
+      ],
+      "issues": [
+        "Social Security Reform in India",
+        "Funding Social Safety Nets"
+      ],
+      "mainIdeas": [
+        "India's social security system is currently inadequate in terms of coverage and funding.",
+        "A new Multi-Contributor Social Security (MCSS) system is proposed to allow diverse sources to contribute.",
+        "The MCSS system aims to create a more robust social safety net by enabling direct connections between contributors and recipients, reducing reliance on government or employers."
+      ]
+    },
+    {
+      "id": "178141229035844w2bp",
+      "url": "https://takshashila.org.in/content/publications/20240722-chinese-analysts-india-taiwan-relations.html",
+      "title": "What do Chinese Analysts think of India-Taiwan Relations?",
+      "metadataRaw": "Jul 22, 2024 Anushka Saxena",
+      "publishedDate": "2024-07-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-14T04:44:50.358Z",
+      "summary": "China is closely observing the growing relationship between India and Taiwan, particularly in trade, technology, and labor. Beijing considers Taiwan a breakaway province and expects diplomatic partners, including India, to adhere to its \"one China\" principle. Chinese analysts are actively discussing these expanding ties and their potential impact on mainland China. This article will explore these Chinese perspectives on the theoretical, economic, and challenging aspects of the India-Taiwan relationship.",
+      "topics": [
+        "Geopolitics",
+        "Diplomacy",
+        "Regional Dynamics"
+      ],
+      "issues": [
+        "India-Taiwan Relations",
+        "China's 'One China' Policy"
+      ],
+      "mainIdeas": [
+        "China views the expanding India-Taiwan relationship as a direct challenge to its claim over Taiwan.",
+        "Chinese experts are actively analyzing the implications of growing India-Taiwan cooperation across various sectors.",
+        "The article will detail these Chinese analytical viewpoints regarding the foundations and challenges posed by India-Taiwan ties."
+      ]
+    },
+    {
+      "id": "17814122970351cb64f",
+      "url": "https://takshashila.org.in/content/publications/20240716-De-Dollarisation-Trends-Discussion-Document.html",
+      "title": "De-dollarisation: Temporary blip, prolonged dip, or inevitable demise?",
+      "metadataRaw": "Jul 16, 2024 Anupam Manur",
+      "publishedDate": "2024-07-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-14T04:44:57.035Z",
+      "summary": "The article suggests that while the dollar's role in global trade and reserves is gradually lessening, no currency is currently positioned to replace it. Despite concerns raised by the US using the dollar for sanctions, it remains the most trusted global asset. The author suggests \"de-monopolisation\" is a more accurate term for this trend. It advises countries like India to diversify their currency portfolios and use other currencies for regional trade, while not promoting the Chinese Renminbi.",
+      "topics": [
+        "Global Finance",
+        "Currency Trends",
+        "International Commerce"
+      ],
+      "issues": [
+        "Future of the US Dollar",
+        "Geopolitical Use of Currencies"
+      ],
+      "mainIdeas": [
+        "The dollar's global influence is slowly declining, but its position as the top currency is not immediately threatened.",
+        "Using the dollar for sanctions has made some nations wary, yet it continues to be seen as a safe investment.",
+        "Countries should diversify their currency holdings and explore using other currencies for regional trade, specifically advising against promoting the Chinese Renminbi."
+      ]
+    },
+    {
+      "id": "1781412304530rad3zc",
+      "url": "https://takshashila.org.in/content/publications/20240710-What-Should-India's-Critical-Technology-Policy-Look-Like.html",
+      "title": "What Should India’s Critical Technology Policy Look Like?",
+      "metadataRaw": "Jul 10, 2024 Saurabh Todi",
+      "publishedDate": "2024-07-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-14T04:45:04.531Z",
+      "summary": "National power in the information age hinges on critical and emerging technologies (CETs), which are crucial for security and economic growth. While many countries have clear strategies for CETs, India currently lacks a cohesive plan, relying on isolated actions. This paper proposes a step-by-step framework for India to develop, prioritize, and implement policies for these vital technologies. The framework will be illustrated using examples like mRNA vaccines and Small Modular Reactors.",
+      "topics": [
+        "Technology Policy",
+        "National Security",
+        "Economic Growth"
+      ],
+      "issues": [
+        "India's Technology Strategy Gap",
+        "Prioritizing Critical Technologies"
+      ],
+      "mainIdeas": [
+        "India's national power and economic future depend on its approach to critical and emerging technologies.",
+        "The country currently lacks a unified strategy for these technologies, relying on piecemeal efforts.",
+        "A new framework is needed to guide India in identifying, developing, and making policy decisions about critical technologies, ensuring they align with national goals."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-13T04:17:45.102Z"
+  "lastUpdated": "2026-06-14T04:45:07.341Z"
 }
