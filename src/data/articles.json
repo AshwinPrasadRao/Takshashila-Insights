@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": "178158599289342p0e",
+      "url": "https://www.moneycontrol.com/news/opinion/pakistan-s-growing-satellite-network-challenges-india-s-military-secrecy-13946928.html",
+      "title": "Pakistan’s growing satellite network challenges India’s military secrecy",
+      "metadataRaw": "Jun 11, 2026 Yusuf Unjhawala Moneycontrol",
+      "publishedDate": "2026-06-11T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-16T04:59:52.893Z",
+      "summary": "Pakistan is significantly expanding its satellite network, enhancing its independent capability to monitor India's military infrastructure and activities. This growing surveillance, combined with China's existing capabilities, allows for persistent observation, enabling the detection of any deviations from normal military routines. To counter this, India must adapt its operational security by making its activities less predictable, strengthening physical concealment, and employing military deception, rather than solely relying on technological responses. This doctrinal shift is crucial as the nature of battlefield observation evolves.",
+      "topics": [
+        "Military Technology",
+        "National Security",
+        "Regional Dynamics"
+      ],
+      "issues": [
+        "Military Surveillance",
+        "Operational Security"
+      ],
+      "mainIdeas": [
+        "Pakistan's growing satellite network provides it with greater independent surveillance and targeting capabilities over India, adding to a broader Sino-Pakistani intelligence system.",
+        "Persistent satellite observation allows adversaries to establish 'baselines' of normal military activity, making it easier to detect unusual preparations or movements.",
+        "India must adapt its military doctrine by disrupting predictable patterns, enhancing physical and electronic concealment, and using deception, rather than just increasing its own satellite count."
+      ]
+    },
+    {
+      "id": "1781586001015mqfght",
+      "url": "https://www.moneycontrol.com/news/opinion/small-modular-reactors-may-not-solve-the-power-crisis-but-they-could-shape-the-future-13945363.html/amp",
+      "title": "Small modular reactors may not solve the power crisis, but they could shape the future",
+      "metadataRaw": "Jun 10, 2026 Anwesha Sen Moneycontrol",
+      "publishedDate": "2026-06-10T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-16T05:00:01.015Z",
+      "summary": "India's power grid faces significant daily stress from high demand and fluctuating renewable energy supply, exacerbated by slow-to-respond traditional plants and global conflicts affecting gas imports. Despite efforts to expand renewables, many projects are stalled due to logistical issues. To address this, India is exploring Small Modular Reactors (SMRs) as a faster-to-build nuclear option, though the article suggests their full impact needs more thorough consideration.",
+      "topics": [
+        "Energy Security",
+        "Infrastructure Development",
+        "Nuclear Technology"
+      ],
+      "issues": [
+        "India's Energy Shortage",
+        "Grid Reliability"
+      ],
+      "mainIdeas": [
+        "India's national power grid is under significant strain, struggling to meet peak demand due to unreliable energy sources and supply chain disruptions.",
+        "Despite ambitious renewable energy goals, many projects are not operational due to development and transmission issues, leaving a major gap in power generation.",
+        "Small Modular Reactors (SMRs) are being considered as a quicker way to boost nuclear power, but their actual impact and viability need more detailed evaluation."
+      ]
+    },
+    {
       "id": "1781239076557mmul6n",
       "url": "https://www.moneycontrol.com/news/opinion/india-s-structural-power-gap-is-now-shaping-its-diplomacy-13945373.html",
       "title": "India’s structural power gap is now shaping its diplomacy",
@@ -3937,6 +3987,31 @@
       ]
     },
     {
+      "id": "17815860108018zl6th",
+      "url": "https://takshashila.org.in/content/publications/20240604-DFGS-%20by-Ministry-of-Science-and-Technology-in-the-Union-Budget.html",
+      "title": "Comments on Demand for Grants (DFGs) by Ministry of Science and Technology in the Union Budget (FY 2024-25)",
+      "metadataRaw": "Jun 4, 2024 Shambhavi Naik, Sarthak Pradhan",
+      "publishedDate": "2024-06-04T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-16T05:00:10.801Z",
+      "summary": "The Takshashila Institution recently hosted a conference to discuss the tension between social media and democratic elections, particularly concerning the spread of misleading information. One presented paper analyzed institutional approaches in various countries for tackling election-related falsehoods and misrepresentation. Another paper explored how technology influences elections and political choices, examining its use by political parties and its impact on India's technology ecosystem.",
+      "topics": [
+        "Social Media",
+        "Elections",
+        "Technology"
+      ],
+      "issues": [
+        "Election Misinformation",
+        "Technology's Impact on Democracy"
+      ],
+      "mainIdeas": [
+        "Different countries employ various institutional mechanisms to address election-related misinformation and false information.",
+        "Technology significantly influences elections and political decision-making processes.",
+        "The interplay between political parties and government structures shapes the technological landscape within countries, particularly in India."
+      ]
+    },
+    {
       "id": "1781499603957optyw",
       "url": "https://takshashila.org.in/content/publications/20240604-Comments-On-Demand-For-Grants.html",
       "title": "Comments on Demand for Grants (DFGs) by Ministry of Science and Technology in the Union Budget (FY 2024-25)",
@@ -3959,6 +4034,31 @@
         "India's Ministry of Science and Technology is seeing less money spent on research and departments not using all their budget.",
         "A full review of budget effectiveness isn't possible because the government didn't release detailed performance goals.",
         "The report suggests specific changes for the budgets of the Space, Biotechnology, and Science & Technology departments."
+      ]
+    },
+    {
+      "id": "1781586017824ngja39",
+      "url": "https://takshashila.org.in/content/publications/20240520-tensions-social-media-democracy.html",
+      "title": "Tensions Between Social Media and Democracy",
+      "metadataRaw": "May 20, 2024 Bharat Sharma, Satya Shoova Sahu",
+      "publishedDate": "2024-05-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-16T05:00:17.825Z",
+      "summary": "This article summarizes a conference by The Takshashila Institution, which explored the challenges social media poses to democracy, particularly concerning elections. It highlights two papers presented at the event. The first paper examined how different countries, including India, the EU, and the US, are institutionally responding to election-related misinformation. The second paper analyzed technology's multifaceted influence on elections and political decision-making, focusing on its use by political parties and how government structures shape India's technological landscape.",
+      "topics": [
+        "Social Media",
+        "Democracy",
+        "Elections"
+      ],
+      "issues": [
+        "Election Misinformation",
+        "Technology's Impact on Elections"
+      ],
+      "mainIdeas": [
+        "Social media creates significant challenges for democratic processes, especially during elections, due to the spread of misinformation, disinformation, and malinformation.",
+        "Various countries are implementing and analyzing institutional mechanisms to counter election-related misinformation.",
+        "Technology profoundly influences elections and political decision-making, with political parties actively using these tools and governments playing a role in shaping the digital environment."
       ]
     },
     {
@@ -3985,7 +4085,31 @@
         "There's currently no clear standard for identifying a critical technology or for determining the appropriate governmental response.",
         "The paper introduces a framework designed to help identify these technologies and inform policy decisions, with a particular focus on India's needs."
       ]
+    },
+    {
+      "id": "17815860335314s60c",
+      "url": "https://takshashila.org.in/content/publications/20240416-India-Cannot-Afford-to-Ignore-Manufacturing.html",
+      "title": "India Cannot Afford to Ignore Manufacturing",
+      "metadataRaw": "Apr 16, 2024 Sridhar Krishna",
+      "publishedDate": "2024-04-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-16T05:00:33.531Z",
+      "summary": "Economists Raghuram Rajan and Rohit Lamba argue that India's current economic direction is not effectively delivering on its promise of prosperity. They recommend a strong focus on the services sector instead of manufacturing, along with increased investment in education and healthcare. They also suggest decentralizing power to local governments. The authors criticize large subsidies for manufacturing, pointing out that these efforts create very few jobs.",
+      "topics": [
+        "Indian Economy",
+        "Economic Development"
+      ],
+      "issues": [
+        "India's Economic Strategy",
+        "Job Creation"
+      ],
+      "mainIdeas": [
+        "India's current economic path is not efficiently leading to desired prosperity.",
+        "A better strategy involves prioritizing services, increasing spending on education and healthcare, and empowering local governments.",
+        "Large manufacturing subsidies are ineffective at creating significant employment."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-15T05:02:17.207Z"
+  "lastUpdated": "2026-06-16T05:00:38.225Z"
 }
