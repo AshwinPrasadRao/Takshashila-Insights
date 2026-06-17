@@ -301,6 +301,31 @@
       ]
     },
     {
+      "id": "17816714738567110ng",
+      "url": "https://www.thehindu.com/opinion/op-ed/india-and-australia-bridging-the-trade-and-trust-barrier/article71022165.ece%20-%20Geostrategy",
+      "title": "India and Australia — bridging the trade and trust barrier",
+      "metadataRaw": "May 26, 2026 Raja Karthikeya,Vaibhav Jain The Hindu",
+      "publishedDate": "2026-05-26T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-17T04:44:33.856Z",
+      "summary": "India and Australia are discussing a comprehensive trade agreement (CECA) to expand their existing partnership, driven by India's need for trade expansion. While bilateral trade has increased, it remains imbalanced, with Australian exports to India dominating. The main sticking point is agriculture, where Australia seeks greater market access, but India prioritizes protecting its vast number of small farmers from foreign competition. The article suggests moving beyond simple market access by focusing on cooperation in agricultural technology, standards, and investment to create a more balanced relationship.",
+      "topics": [
+        "International Trade",
+        "Bilateral Economic Relations",
+        "Agricultural Policy"
+      ],
+      "issues": [
+        "India-Australia Trade Imbalance",
+        "Agricultural Market Access"
+      ],
+      "mainIdeas": [
+        "India and Australia are working towards a more comprehensive trade agreement (CECA), but current trade heavily favors Australia, especially in merchandise and services.",
+        "A key challenge is reconciling Australia's desire for full market access, particularly in agriculture, with India's need to protect its small farmers who rely on agriculture for livelihood and food security.",
+        "Instead of just tariff cuts, the two countries should focus on cooperation in agricultural technology, investment in India's agricultural infrastructure, and mutual recognition of standards to build a more balanced and complementary partnership."
+      ]
+    },
+    {
       "id": "1779460561049tvubgr",
       "url": "https://www.indianexpress.com/article/explained/explained-climate/expert-summer-intensity-factors-mitigation-data-heat-10697560",
       "title": "Expert Explains What makes this summer particularly intense for India, and how better data collection can help",
@@ -759,6 +784,31 @@
         "China is crucial to sustaining Iran's supply of Shahed drones.",
         "Beijing provides support through intermediaries, technology transfers, and extensive networks.",
         "Iran's Shahed drones are characterized as effective and low-cost weapons."
+      ]
+    },
+    {
+      "id": "1781671485008ui4gr",
+      "url": "https://www.thehindu.com/news/international/how-is-the-next-un-chief-being-chosen-explained/article70924504.ece",
+      "title": "How is the next UN chief being chosen? | Explained",
+      "metadataRaw": "May 1, 2026 Raja Karthikeya The Hindu",
+      "publishedDate": "2026-05-01T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-17T04:44:45.008Z",
+      "summary": "The article explains the process for electing the next UN Secretary-General, a crucial role often described as the world's chief diplomat. Candidates are currently presenting their platforms to the UN General Assembly, but the Security Council's five permanent members hold significant power in the final selection. This election comes at a critical time, as the UN grapples with a deep financial crisis, political gridlock within the Security Council, and increasing questions about its effectiveness in preventing global conflicts and achieving development goals.",
+      "topics": [
+        "International Organizations",
+        "Global Governance",
+        "Leadership Selection"
+      ],
+      "issues": [
+        "UN Funding Crisis",
+        "Security Council Paralysis"
+      ],
+      "mainIdeas": [
+        "The UN Secretary-General holds a vital position as the organization's chief administrator and global diplomatic voice, especially during periods of international challenges.",
+        "The election process for the Secretary-General gives disproportionate influence to the permanent members of the Security Council, limiting the broader membership's say.",
+        "The incoming Secretary-General faces the daunting task of revitalizing the UN amidst severe financial strains, political divisions, and doubts about its ability to address pressing global issues."
       ]
     },
     {
@@ -4087,6 +4137,106 @@
       ]
     },
     {
+      "id": "1781671491637m5k0hg",
+      "url": "https://takshashila.org.in/content/publications/20240516-operations-PLA-WTC.html",
+      "title": "Assessing Operations and ‘Jointness’ in the PLA Western Theater Command",
+      "metadataRaw": "May 16, 2024 Anushka Saxena",
+      "publishedDate": "2024-05-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-17T04:44:51.638Z",
+      "summary": "China's military has undergone major reforms since 2015, focusing on creating a modern, integrated fighting force for the digital age. The Western Theater Command (WTC) plays a crucial role in securing China's southern and southwestern borders, including the challenging regions of Xinjiang and Tibet. The WTC is actively training for both traditional and new types of warfare, integrating its services for complex operations. This document specifically assesses the WTC's structure, training, and warfighting priorities, with a focus on its implications for India.",
+      "topics": [
+        "Chinese Military",
+        "Defense Modernization",
+        "Regional Security"
+      ],
+      "issues": [
+        "China's Military Reforms",
+        "Border Defense Strategies"
+      ],
+      "mainIdeas": [
+        "The Chinese military is significantly modernizing to operate as an integrated, high-tech force.",
+        "The Western Theater Command is central to China's border security in its southwestern areas and is adapting to advanced combat techniques.",
+        "This analysis examines the WTC's operational readiness and capabilities, considering its impact on India."
+      ]
+    },
+    {
+      "id": "1781671497813oarbqd",
+      "url": "https://takshashila.org.in/content/publications/2024059-A-Survey-of-Chip-Based-Hardware-Backdoors.html",
+      "title": "A Survey of Chip-Based Hardware Backdoors",
+      "metadataRaw": "May 9, 2024 Satya Shoova Sahu",
+      "publishedDate": "2024-05-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-17T04:44:57.814Z",
+      "summary": "This article discusses chip-based hardware backdoors, which are hidden entry points in semiconductor chips that allow unauthorized access and control, posing severe risks to critical systems and consumer electronics. These backdoors can be inserted at various stages of the global chip supply chain, including design, fabrication, and assembly. Despite the significant threats, there's a striking lack of publicly confirmed real-world incidents, largely due to the extreme difficulty in detecting them. The document concludes that proactive policy efforts are needed to build a more resilient and trustworthy semiconductor ecosystem.",
+      "topics": [
+        "Cybersecurity",
+        "Technology Supply Chain",
+        "National Security"
+      ],
+      "issues": [
+        "Hardware Security Vulnerabilities",
+        "Global Supply Chain Risks"
+      ],
+      "mainIdeas": [
+        "Chip-based hardware backdoors are a severe but difficult-to-detect security threat inherent in nearly all modern technology.",
+        "The complex global process of making computer chips provides many opportunities for malicious actors to insert these backdoors.",
+        "Strengthening the security and trustworthiness of the semiconductor industry requires new policies and active measures."
+      ]
+    },
+    {
+      "id": "1781671503269elupxh",
+      "url": "https://takshashila.org.in/content/publications/20240501-quad-cooperation-in-biofuels.html",
+      "title": "A Case for Quad Cooperation in Biofuels",
+      "metadataRaw": "May 1, 2024 Bharat Sharma",
+      "publishedDate": "2024-05-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-17T04:45:03.269Z",
+      "summary": "This article advocates for the Quad group to establish a dedicated focus on the biofuels sector, which would benefit their national economies and build trust among the member countries. It highlights two main areas for cooperation: creating consistent standards and increasing manufacturing capacity for sustainable aviation fuels, and boosting collaborative research and development for advanced, third-generation biofuels. The goal is to build a shared research environment that supports the long-term use of these new fuel technologies.",
+      "topics": [
+        "Bioenergy",
+        "International Cooperation",
+        "Economic Development"
+      ],
+      "issues": [
+        "Biofuel Production & Research",
+        "Sustainable Aviation Fuels"
+      ],
+      "mainIdeas": [
+        "The Quad should prioritize cooperation in biofuels to strengthen member economies and foster mutual trust.",
+        "Member countries should work together on sustainable aviation fuels by standardizing policies and increasing manufacturing.",
+        "Joint research, especially leveraging India's expertise in advanced biofuels, is essential for future commercial deployment."
+      ]
+    },
+    {
+      "id": "1781671510713erizo",
+      "url": "https://takshashila.org.in/content/publications/20240416-Financial-Flows-of-the-Blue-Continent.html",
+      "title": "Financial Flows of the Blue Continent - A Case Study of Potential Pacific-India-Australia Collaboration",
+      "metadataRaw": "Apr 16, 2024 Josiah W Neal",
+      "publishedDate": "2024-04-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-17T04:45:10.713Z",
+      "summary": "This paper suggests India, Australia, Papua New Guinea, and Fiji work together to create a new payment system for the Pacific Islands, based on India's successful Unified Payments Interface technology. The goal is to build an open, efficient system that makes financial services more accessible to everyone in the region. Funding would come from existing development programs. This collaboration also shows how countries like India and Australia can partner to help developing nations improve their financial infrastructure.",
+      "topics": [
+        "Financial Technology",
+        "International Development",
+        "Regional Cooperation"
+      ],
+      "issues": [
+        "Financial Inclusion in Pacific Islands",
+        "Building Efficient Regional Payment Systems"
+      ],
+      "mainIdeas": [
+        "Using India's digital payment system can significantly improve financial access and efficiency in the Pacific Islands.",
+        "Collaboration between countries like India and Australia is a practical way to support development in emerging economies.",
+        "Adopting open-source solutions and understanding local financial needs are key to successful technology implementation and avoiding long-term dependency."
+      ]
+    },
+    {
       "id": "17815860335314s60c",
       "url": "https://takshashila.org.in/content/publications/20240416-India-Cannot-Afford-to-Ignore-Manufacturing.html",
       "title": "India Cannot Afford to Ignore Manufacturing",
@@ -4111,5 +4261,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-16T05:00:38.225Z"
+  "lastUpdated": "2026-06-17T04:45:15.396Z"
 }
