@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1782017507043j6ts2",
+      "url": "https://takshashila.org.in/content/publications/ChinaArms-20062026.html",
+      "title": "Weapons ‘Made in China’",
+      "metadataRaw": "Jun 20, 2026 Anushka Saxena",
+      "publishedDate": "2026-06-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-21T04:51:47.043Z",
+      "summary": "China has grown into a major arms exporter, but many of its widely sold weapons, like the VT-4 tank and CH-4B drone, are experiencing significant performance problems with international customers. While China primarily sells to developing nations, these buyers are increasingly looking for alternative suppliers or building their own defense capabilities. The future of China's arms exports faces hurdles from the potential resurgence of US and Russian arms sales, increased US sanctions on Chinese defense firms, and ongoing operational issues that could prevent deeper military partnerships. Despite this, Beijing sees arms sales as a way to earn money, test its equipment, and gain influence globally.",
+      "topics": [
+        "Global Arms Trade",
+        "China's Military Industry",
+        "International Geopolitics"
+      ],
+      "issues": [
+        "Quality of Chinese Military Exports",
+        "Impact of US Sanctions on China's Defense Industry"
+      ],
+      "mainIdeas": [
+        "Many Chinese weapons systems exported globally have shown significant performance and reliability issues, causing some buyers to look elsewhere.",
+        "China uses its arms exports as a strategic tool to expand its geopolitical influence, foster economic dependencies, and test its military equipment in real-world scenarios.",
+        "The US is increasingly using sanctions and trade restrictions against Chinese defense companies, which complicates Beijing's ability to grow its military-industrial complex and export market."
+      ]
+    },
+    {
       "id": "178158599289342p0e",
       "url": "https://www.moneycontrol.com/news/opinion/pakistan-s-growing-satellite-network-challenges-india-s-military-secrecy-13946928.html",
       "title": "Pakistan’s growing satellite network challenges India’s military secrecy",
@@ -4682,7 +4707,158 @@
         "India needs to implement a national policy and system for wastewater surveillance to enhance its public health response and preparedness.",
         "Integrating data from all population segments, particularly marginalized groups, into wastewater surveillance is essential for promoting health equity."
       ]
+    },
+    {
+      "id": "178201751315814ppi",
+      "url": "https://takshashila.org.in/content/publications/20230928-china-UAVs-drone-autonomy.html",
+      "title": "China’s Approach to Military Unmanned Aerial Vehicles and Drone Autonomy",
+      "metadataRaw": "Sep 28, 2023 Anushka Saxena",
+      "publishedDate": "2023-09-28T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-21T04:51:53.158Z",
+      "summary": "China is heavily investing in military drones, integrating them with autonomous and AI systems to achieve advanced warfare capabilities. The country uses a 'Military-Civilian Fusion' strategy to build a robust drone industry, supplying them for various military functions like intelligence gathering and ground attacks. This effort includes deploying drones in areas like the PLA Western Theater Command and focuses on developing new autonomous systems for future conflicts. The article analyzes China's current drone policy, use cases, and future directions.",
+      "topics": [
+        "Military Technology",
+        "Defense Policy",
+        "Artificial Intelligence"
+      ],
+      "issues": [
+        "China's Drone Development",
+        "Autonomous Weapons Systems"
+      ],
+      "mainIdeas": [
+        "China is making significant investments in military drones and their autonomous capabilities, driven by a goal of 'intelligentised' warfare.",
+        "The country's 'Military-Civilian Fusion' strategy is central to rapidly advancing its drone industry and military applications.",
+        "China is actively deploying and testing these advanced drone systems for various combat and support roles, from surveillance to electronic warfare."
+      ]
+    },
+    {
+      "id": "1782017518441ofheqq",
+      "url": "https://takshashila.org.in/content/publications/20230927-chinas-vision-new-world-order.html",
+      "title": "China’s Vision for a New World Order: GDI, GSI & GCI",
+      "metadataRaw": "Sep 27, 2023 Manoj Kewalramani",
+      "publishedDate": "2023-09-27T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-21T04:51:58.441Z",
+      "summary": "China's leadership is proposing an alternative global vision through its \"community of common destiny\" concept. President Xi Jinping has launched the Global Development Initiative (GDI), Global Security Initiative (GSI), and Global Civilisation Initiative (GCI) to achieve this. These initiatives represent a more assertive foreign policy aimed at securing China's interests and reshaping international rules and norms. Ultimately, China seeks to create a global environment favorable to its own development and security.",
+      "topics": [
+        "Global Politics",
+        "China's Strategy",
+        "International Development"
+      ],
+      "issues": [
+        "China's Role in Global Order",
+        "Changing International Norms"
+      ],
+      "mainIdeas": [
+        "China is actively promoting a new vision for how the world should operate, using its GDI, GSI, and GCI programs.",
+        "These efforts show China taking a much more active role in global affairs to protect its own government, economic growth, and security.",
+        "Through these initiatives, China is influencing global rules and standards in ways that differ from current liberal international practices."
+      ]
+    },
+    {
+      "id": "1782017532308e1nv4e",
+      "url": "https://takshashila.org.in/content/publications/20230904-Regulatory-Mechanism-for-Over-The-Top-Communication-Services-and-Selective-Banning-of-OTT-Services.html",
+      "title": "Takshashila Policy Advisory - Regulatory Mechanism for Over-The-Top (OTT) Communication Services and Selective Banning of OTT Services",
+      "metadataRaw": "Sep 24, 2023 Bharath Reddy, Rijesh Panicker",
+      "publishedDate": "2023-09-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-21T04:52:12.308Z",
+      "summary": "This article argues that Over-The-Top (OTT) communication services should not be heavily regulated or selectively banned. It explains that OTTs differ from traditional telecom, actually boost data demand for providers, and drive innovation. Imposing stringent regulations or bans would harm consumer welfare, impede growth, and push users towards less secure or unregulated platforms. The author concludes that despite valid intentions to curb malicious content, such measures create more problems than solutions, including disrupting vital information during crises and causing economic harm.",
+      "topics": [
+        "Digital Policy",
+        "Technology Regulation",
+        "Internet Services"
+      ],
+      "issues": [
+        "Regulation of digital communication platforms",
+        "Impact of selective bans on online services"
+      ],
+      "mainIdeas": [
+        "Over-regulating OTT communication services harms consumer welfare and stifles innovation.",
+        "Selective bans on OTT services are ineffective and push users towards less secure or unregulated alternatives.",
+        "Bans disrupt crucial information flow during emergencies and cause economic hardship, especially for small businesses."
+      ]
+    },
+    {
+      "id": "1782017525058kixwu",
+      "url": "https://takshashila.org.in/content/publications/20230904-Open-RAN-Challenges-and-Pathways-for-Adoption.html",
+      "title": "Takshashila Discussion Document - Open RAN: Challenges and Pathways for Adoption",
+      "metadataRaw": "Sep 24, 2023 Bharath Reddy",
+      "publishedDate": "2023-09-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-21T04:52:05.058Z",
+      "summary": "Open RAN, originally an initiative to increase competition and diversify suppliers in mobile networks, has gained geopolitical significance due to market concentration and bans on Chinese vendors. It aims to enhance network security, reliability, and supply chain resilience, but faces challenges related to increased complexity and security vulnerabilities. Successful adoption requires robust regulatory oversight, extensive operator training, and strategic pilot deployments to demonstrate its scalability and effectiveness. The technology also offers a way to balance cost-efficiency and security by carefully choosing components from various international suppliers.",
+      "topics": [
+        "Telecommunications",
+        "Cybersecurity",
+        "Geopolitics"
+      ],
+      "issues": [
+        "Vendor Concentration in Telecom",
+        "Securing Open RAN Deployments"
+      ],
+      "mainIdeas": [
+        "Open RAN, initially a commercial effort to boost market competition, has evolved into a strategic tool with geopolitical importance for national security and reliable supply chains.",
+        "Successfully adopting Open RAN demands focused efforts in regulatory evaluation, specialized training for operators, and collaborative pilot projects to address its inherent security and integration challenges.",
+        "The strategic deployment of Open RAN can help manage costs and security risks by allowing for the selective sourcing of components, including potentially non-intelligent parts from Chinese suppliers, to reduce critical dependencies."
+      ]
+    },
+    {
+      "id": "1782017537495j7ebbq",
+      "url": "https://takshashila.org.in/content/publications/20230921-what-is-quad-doing-indo-pacific.html",
+      "title": "What is the Quad Doing in the Indo-Pacific?",
+      "metadataRaw": "Sep 21, 2023 Bharat Sharma",
+      "publishedDate": "2023-09-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-21T04:52:17.495Z",
+      "summary": "This article outlines the priorities and activities of the Quad, a strategic dialogue between India, the US, Australia, and Japan, in the Indo-Pacific region. The group focuses on shared objectives across domains such as infrastructure, energy, and cybersecurity, which are detailed in statements from their leaders and ministers. The Quad has also established various working groups to pursue these multi-sectoral goals. The piece further recommends specific areas for enhanced cooperation, including critical technologies like semiconductors, biotechnology, and space, as well as strengthening maritime security and governance.",
+      "topics": [
+        "Geopolitics",
+        "International Cooperation",
+        "Regional Security"
+      ],
+      "issues": [
+        "Indo-Pacific Stability",
+        "Quad's Strategic Role"
+      ],
+      "mainIdeas": [
+        "The Quad aims to achieve shared goals in the Indo-Pacific across several key sectors, including infrastructure, energy, and cybersecurity.",
+        "The group has established various working groups and initiatives to pursue its multi-sectoral focus.",
+        "Key recommendations for the Quad include expanding cooperation in critical technology areas like semiconductors, biotechnology, and space, and strengthening maritime security and governance in the region."
+      ]
+    },
+    {
+      "id": "1782017547698t7103s",
+      "url": "https://takshashila.org.in/content/publications/20230726-Local-Body-Delimitation.html",
+      "title": "Role of Local Bodies in Strengthening Grassroots Democracy during the Delimitation Exercise",
+      "metadataRaw": "Jul 26, 2023 Anisree Suresh",
+      "publishedDate": "2023-07-26T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-21T04:52:27.698Z",
+      "summary": "The article analyzes the challenges posed by India's upcoming delimitation exercise, which will redraw electoral constituency boundaries after decades. It highlights concerns about unequal political representation between states, fiscal imbalances where economically stronger states contribute more but fear losing influence, and issues of governance due to varied population sizes in constituencies. The paper argues that significantly empowering local governments financially and administratively is a crucial solution to address these systemic challenges, promote equitable development, and strengthen democracy at the grassroots level.",
+      "topics": [
+        "Indian Politics",
+        "Governance Reform",
+        "Public Policy"
+      ],
+      "issues": [
+        "Electoral System Reform",
+        "Fiscal Federalism",
+        "Decentralization of Power"
+      ],
+      "mainIdeas": [
+        "The upcoming redrawing of electoral boundaries in India will bring to light existing problems related to fair representation and the financial relationship between states.",
+        "States that have managed population growth effectively and contribute more economically fear a reduction in their political influence, while more populous states are expected to gain more seats.",
+        "Strengthening local governments with greater financial resources and administrative control is essential to balance these disparities, improve public service delivery, and make governance more responsive to local needs."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-20T04:11:11.339Z"
+  "lastUpdated": "2026-06-21T04:52:28.728Z"
 }
