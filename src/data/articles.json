@@ -4834,6 +4834,55 @@
       ]
     },
     {
+      "id": "1782104445473v2t1q",
+      "url": "https://takshashila.org.in/content/publications/20230811-mitigation-of-antimicrobial-resistance-amr-in-g20.html",
+      "title": "Mitigation of Antimicrobial Resistance (AMR) in G20",
+      "metadataRaw": "Aug 11, 2023 Aniket Shevade, Shambhavi Naik",
+      "publishedDate": "2023-08-11T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-22T05:00:45.473Z",
+      "summary": "Antimicrobial Resistance (AMR) poses a recognized global threat to health security, yet current policy responses have been largely ineffective and limited to health-specific interventions. This resistance is fueled by factors such as sustained, irresponsible antibiotic use in both humans and animals, as well as climate change. Tackling AMR effectively demands widespread global collaborative efforts. This analysis reviews AMR's significance, existing policies, national action plans, and funding within G20 countries, underscoring the critical need for concerted international cooperation.",
+      "topics": [
+        "Public Health",
+        "Global Cooperation"
+      ],
+      "issues": [
+        "Antimicrobial Resistance",
+        "Insufficient Global Health Responses"
+      ],
+      "mainIdeas": [
+        "AMR is a critical global health threat driven by widespread antibiotic misuse and environmental factors like climate change.",
+        "Current global and national policies, particularly within the G20, are insufficient and too narrowly focused to effectively combat AMR.",
+        "Global, multi-sector cooperation is essential to develop comprehensive and effective strategies for mitigating antimicrobial resistance."
+      ]
+    },
+    {
+      "id": "1782104459660ppw7po",
+      "url": "https://takshashila.org.in/content/publications/20230809-Mitigation-of-Antimicrobial-resistance.html",
+      "title": "Takshashila Working Paper - IPPR Journal Article - Mitigation of Antimicrobial Resistance (AMR) in G20",
+      "metadataRaw": "Aug 9, 2023 Shambhavi Naik, Aniket Shevade",
+      "publishedDate": "2023-08-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-22T05:00:59.660Z",
+      "summary": "Antimicrobial resistance (AMR) poses a significant global health security threat, yet policy responses have largely been confined to health-related interventions. The article highlights that AMR is driven by global factors like widespread antibiotic misuse and climate change, necessitating comprehensive international collaboration for effective management. It provides an overview of existing AMR policies, national action plans, and funding in G20 countries, emphasizing the urgent need for concerted global action.",
+      "topics": [
+        "Global Health",
+        "Public Policy",
+        "International Cooperation"
+      ],
+      "issues": [
+        "Antimicrobial Resistance",
+        "Global Health Security"
+      ],
+      "mainIdeas": [
+        "Antimicrobial resistance is a serious global health risk that current policies are not adequately addressing.",
+        "Effective management of AMR requires going beyond health-focused interventions to tackle its global drivers, such as antibiotic overuse and climate change.",
+        "International cooperation and concerted action, particularly among G20 nations, are crucial for mitigating the threat of AMR."
+      ]
+    },
+    {
       "id": "1782017547698t7103s",
       "url": "https://takshashila.org.in/content/publications/20230726-Local-Body-Delimitation.html",
       "title": "Role of Local Bodies in Strengthening Grassroots Democracy during the Delimitation Exercise",
@@ -4860,5 +4909,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-21T04:52:28.728Z"
+  "lastUpdated": "2026-06-22T05:01:03.315Z"
 }
