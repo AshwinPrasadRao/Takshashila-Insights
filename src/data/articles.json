@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1782187356319kd8b4a",
+      "url": "https://takshashila.org.in/content/publications/cleantech-evaluation-framework-22062026.html",
+      "title": "Clean Technology Evaluation Framework",
+      "metadataRaw": "Jun 22, 2026 Bhumika Sevkani",
+      "publishedDate": "2026-06-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:02:36.319Z",
+      "summary": "This article introduces a framework for India to evaluate and prioritize emerging clean energy technologies. The framework assesses technologies across seven dimensions, including their market applicability, scalability, export potential, domestic manufacturing capacity, resource availability, and supply chain concentration, especially concerning China. Its main objective is to help India strengthen its energy security and create economic growth opportunities by identifying technologies where it can build competitive advantages. Applying the framework to Solid-State Batteries and Fuel Cell Electric Vehicles shows their promise but also highlights current challenges in cost, infrastructure, and supply chains.",
+      "topics": [
+        "Clean Energy Strategy",
+        "Economic Development",
+        "Technology Evaluation"
+      ],
+      "issues": [
+        "India's Energy Security",
+        "Developing Domestic Clean Technology Manufacturing"
+      ],
+      "mainIdeas": [
+        "India needs a clear method to pick new clean technologies that benefit both its energy security and economy, not just environmental goals.",
+        "Relying on imports for clean tech components, as seen with solar and batteries, creates vulnerabilities and misses economic opportunities.",
+        "The framework helps policymakers analyze new technologies comprehensively, guiding strategic investments to build domestic capabilities and compete globally."
+      ]
+    },
+    {
       "id": "1782017507043j6ts2",
       "url": "https://takshashila.org.in/content/publications/ChinaArms-20062026.html",
       "title": "Weapons ‘Made in China’",
@@ -4834,6 +4859,56 @@
       ]
     },
     {
+      "id": "1782187369568rkzsfo",
+      "url": "https://takshashila.org.in/content/publications/20231108-Mitigation-of-Antimicrobial-Resistance-in-G20.html",
+      "title": "IPPR Journal Article - Mitigation of Antimicrobial Resistance (AMR) in G20",
+      "metadataRaw": "Aug 11, 2023 Shambhavi Naik",
+      "publishedDate": "2023-08-11T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:02:49.568Z",
+      "summary": "Antimicrobial resistance (AMR) is a significant global health threat, caused by factors such as irresponsible antibiotic use in humans and animals, and climate change. Despite its severity, responses have largely been limited to health interventions, failing to integrate into broader public policy. The article highlights that effective management of AMR requires global collaborative efforts, noting the current landscape of policies and funding within G20 countries. It emphasizes the urgent need for concerted international cooperation to address this critical issue.",
+      "topics": [
+        "Global Health",
+        "Public Policy",
+        "International Cooperation"
+      ],
+      "issues": [
+        "Antimicrobial Resistance (AMR)",
+        "Inadequate global health policy"
+      ],
+      "mainIdeas": [
+        "Antimicrobial resistance (AMR) is a global health security threat driven by factors beyond just healthcare, including environmental factors.",
+        "Current policy responses to AMR are insufficient, primarily focusing on health interventions and lacking broader integration into public policy frameworks.",
+        "Addressing AMR effectively requires urgent, concerted action and international cooperation, particularly among G20 nations, to develop comprehensive strategies and funding."
+      ]
+    },
+    {
+      "id": "1782187364611yg97xh",
+      "url": "https://takshashila.org.in/content/publications/20230811-Defining-Strategic-and-Critical-Vulnerabilities.html",
+      "title": "IPPR Journal Article - Defining Strategic and Critical Vulnerabilities in Asymmetrical Trade Interdependence",
+      "metadataRaw": "Aug 11, 2023 Amit Kumar",
+      "publishedDate": "2023-08-11T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:02:44.611Z",
+      "summary": "Global economic integration has created situations where some countries hold disproportionate economic power, making economic pressure a common tool in international relations. While nations aim to reduce their economic weaknesses, there's a current lack of clear definitions to differentiate between general trade dependence and truly critical vulnerabilities. This article introduces a practical framework, using a series of tests, to determine when trade in a specific product poses a critical risk to a country. This aims to prevent a one-size-fits-all approach to managing such dependencies.",
+      "topics": [
+        "Global Trade",
+        "Economic Security",
+        "Geopolitical Strategy"
+      ],
+      "issues": [
+        "Managing Trade Dependencies",
+        "Preventing Economic Coercion"
+      ],
+      "mainIdeas": [
+        "Unequal global economic ties empower some countries to use economic pressure against others.",
+        "Current policy lacks a clear way to distinguish general trade reliance from critical national vulnerabilities.",
+        "The paper introduces a practical framework to identify trade relationships that pose critical risks, aiming for more targeted policy solutions."
+      ]
+    },
+    {
       "id": "1782104445473v2t1q",
       "url": "https://takshashila.org.in/content/publications/20230811-mitigation-of-antimicrobial-resistance-amr-in-g20.html",
       "title": "Mitigation of Antimicrobial Resistance (AMR) in G20",
@@ -4855,6 +4930,31 @@
         "AMR is a critical global health threat driven by widespread antibiotic misuse and environmental factors like climate change.",
         "Current global and national policies, particularly within the G20, are insufficient and too narrowly focused to effectively combat AMR.",
         "Global, multi-sector cooperation is essential to develop comprehensive and effective strategies for mitigating antimicrobial resistance."
+      ]
+    },
+    {
+      "id": "1782187378997rflja",
+      "url": "https://takshashila.org.in/content/publications/20230810-Structuring-Integrated-Theatre-Commands-for-India.html",
+      "title": "Structuring Integrated Theatre Commands for India",
+      "metadataRaw": "Aug 10, 2023 Shrikrishna Upadhyaya",
+      "publishedDate": "2023-08-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:02:58.997Z",
+      "summary": "India is undertaking a significant military reform to establish Integrated Theatre Commands (ITCs), building on a recently passed bill that streamlines command and control for joint forces. This article details a proposed structure for these ITCs, dividing India's defense into four geographically and threat-based theatres: a Northern Command (China-focused), a Western Command (Pakistan-focused), and two maritime commands for the South-West and South-East. The plan also redefines the military's top-level command structure, transferring operational authority from individual service chiefs to the new theatre commanders to foster better joint planning and execution.",
+      "topics": [
+        "Military Reform",
+        "Defense Strategy",
+        "National Security"
+      ],
+      "issues": [
+        "Restructuring India's Armed Forces",
+        "Integrated Military Operations"
+      ],
+      "mainIdeas": [
+        "The Inter-Services Organisations Bill, 2023, is a foundational step for India to implement Integrated Theatre Commands, centralizing command and disciplinary powers over personnel from different services.",
+        "India's defense should be reorganized into four distinct theatre commands—North, West, South-West Maritime, and South-East Maritime—each tailored to specific geographic threats and operational needs.",
+        "A new top military command system is proposed, including a Joint Commanders and Staff Committee, which shifts operational responsibility from individual service chiefs to the new theatre commanders for enhanced jointness and efficiency."
       ]
     },
     {
@@ -4883,6 +4983,56 @@
       ]
     },
     {
+      "id": "1782187384870u2avp",
+      "url": "https://takshashila.org.in/content/publications/20230708-Global-Distributed-Network-Of-Medical-Supplies.html",
+      "title": "Think20 Policy Brief - Towards a Global Yet Distributed Network of Stockpiles of Essential Medical Supplies",
+      "metadataRaw": "Jul 28, 2023 Saurabh Todi, Shambhavi Naik",
+      "publishedDate": "2023-07-28T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:03:04.870Z",
+      "summary": "The COVID-19 pandemic highlighted the urgent need for a coordinated global approach to future health emergencies, especially for less wealthy countries. This policy brief proposes that G20 nations endorse and contribute to a global network of essential medical supply stockpiles. The World Health Organization (WHO) would identify necessary items, determine host countries, and manage the release of supplies through regional hubs during crises. This system aims to ensure a rapid and effective international response.",
+      "topics": [
+        "Global Health",
+        "Emergency Preparedness",
+        "International Cooperation"
+      ],
+      "issues": [
+        "Pandemic Response",
+        "Medical Supply Gaps"
+      ],
+      "mainIdeas": [
+        "The COVID-19 pandemic exposed a critical gap in global preparedness for health emergencies, particularly impacting low-income countries.",
+        "G20 countries should establish and contribute to a globally distributed stockpile of essential medical supplies to improve future pandemic response capabilities.",
+        "The World Health Organization (WHO) would play a central role in identifying necessary items, determining storage locations, and coordinating the distribution of supplies during a crisis."
+      ]
+    },
+    {
+      "id": "17821873938315drglh",
+      "url": "https://takshashila.org.in/content/publications/20230726-Reform-the-Censor-Board.html",
+      "title": "Takshashila Issue Brief - A Lost Opportunity to Reform the Censor Board",
+      "metadataRaw": "Jul 26, 2023 Shrikrishna Upadhyaya",
+      "publishedDate": "2023-07-26T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:03:13.831Z",
+      "summary": "India's Parliament is currently considering minor amendments to film censorship laws, but these changes do not address the core problem of government control over film content. The article argues that the existing state-run Censor Board frequently imposes moral and political views, limiting creative freedom and viewer choice. It proposes a new system that replaces state censorship with a market-based model where private companies, overseen by an independent Indian Movie Authority, certify films based only on age appropriateness. This reform aims to reduce government interference, expand choices for filmmakers and audiences, and effectively manage the growing volume of online content.",
+      "topics": [
+        "Media Policy",
+        "Regulatory Reform",
+        "Freedom of Speech"
+      ],
+      "issues": [
+        "Film Censorship in India",
+        "Government Overreach in Media"
+      ],
+      "mainIdeas": [
+        "Current amendments to India's film censorship laws are inadequate and fail to address the fundamental problems of state control and potential misuse of power.",
+        "A complete overhaul of the film certification system is needed, moving away from government censorship towards a private, market-based model.",
+        "This new framework should involve an independent regulatory authority overseeing multiple private certifiers, who would assign ratings based solely on age, thereby promoting artistic freedom and consumer choice."
+      ]
+    },
+    {
       "id": "1782017547698t7103s",
       "url": "https://takshashila.org.in/content/publications/20230726-Local-Body-Delimitation.html",
       "title": "Role of Local Bodies in Strengthening Grassroots Democracy during the Delimitation Exercise",
@@ -4907,7 +5057,183 @@
         "States that have managed population growth effectively and contribute more economically fear a reduction in their political influence, while more populous states are expected to gain more seats.",
         "Strengthening local governments with greater financial resources and administrative control is essential to balance these disparities, improve public service delivery, and make governance more responsive to local needs."
       ]
+    },
+    {
+      "id": "17821877139406lez4c",
+      "url": "https://takshashila.org.in/content/publications/20230708-Early-Warning-Disease-Outbreaks_Final-For-Upload.html",
+      "title": "SThink20 Policy Brief - Global Teams for Early Warning, Detection, and Response to Disease Outbreaks",
+      "metadataRaw": "Jul 8, 2023 Harshit Kukreja, Shambhavi Naik",
+      "publishedDate": "2023-07-08T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:08:33.940Z",
+      "summary": "The COVID-19 pandemic and other recent outbreaks like SARS and Ebola demonstrated that existing global health regulations have failed to effectively detect and contain disease spread. This policy brief recommends the formation of G20-led global teams specifically designed for early warning, detection, and rapid response to future health threats. These teams would be based in member nations, focusing on data collection and identifying emerging risks, with the G20 also ensuring quick financial assistance to affected countries.",
+      "topics": [
+        "Public Health",
+        "International Cooperation",
+        "Pandemic Preparedness"
+      ],
+      "issues": [
+        "Global Health Security Failures",
+        "Disease Outbreak Management"
+      ],
+      "mainIdeas": [
+        "Current international health regulations are insufficient for effectively managing global disease outbreaks.",
+        "The G20 should create specialized global teams to enhance early detection and rapid response to health threats.",
+        "Fast access to financial resources is critical for countries impacted by disease outbreaks."
+      ]
+    },
+    {
+      "id": "1782187726429bxg0a",
+      "url": "https://takshashila.org.in/content/publications/20230630-TPB-Sustaining-Outer-Space.html",
+      "title": "Think20 Policy Brief - Sustaining Outer Space: An SSA Data-Sharing Arrangement for the G20",
+      "metadataRaw": "Jun 30, 2023 Pranav R Satyanath",
+      "publishedDate": "2023-06-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:08:46.430Z",
+      "summary": "This article emphasizes that Earth’s orbits should be treated as an extension of our planet's environment, making orbital sustainability a key concern for the G20. It points out that the rapidly increasing number of satellites, combined with insufficient monitoring, makes space operations increasingly unsafe. The brief proposes that the G20 establish a Space Situational Awareness (SSA) data-sharing arrangement, overseen by the United Nations, to provide a complete view of activities in space. This collaborative network, utilizing G20 capabilities and commercial technology, aims to significantly improve safety for all space operations.",
+      "topics": [
+        "Space Policy",
+        "International Cooperation",
+        "Environmental Sustainability"
+      ],
+      "issues": [
+        "Space debris and operational safety for satellites",
+        "Lack of a coordinated global system for monitoring space activities"
+      ],
+      "mainIdeas": [
+        "Outer space should be treated as an extension of Earth's environment, making its sustainability a part of the global development agenda.",
+        "The growing number of objects in orbit necessitates a unified, global approach to track space activities and prevent collisions.",
+        "The G20 should lead an initiative to create a shared data system for Space Situational Awareness (SSA) to improve safety and management in space."
+      ]
+    },
+    {
+      "id": "17821877198423iheqt",
+      "url": "https://takshashila.org.in/content/publications/20230630-Sustaining-Outer-Space-An-SSA-Data-Sharing-Arrangement-for-the-G20.html",
+      "title": "Sustaining Outer Space: An SSA Data-Sharing Arrangement for the G20",
+      "metadataRaw": "Jun 30, 2023 Pranav R Satyanath",
+      "publishedDate": "2023-06-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:08:39.842Z",
+      "summary": "The article emphasizes that Earth's orbits are an extension of our planet's environment, making orbital sustainability a crucial concern for the G20. With the number of satellites set to rise dramatically, there's an urgent need for better mechanisms to monitor space activities and ensure safety. The author proposes that the G20 integrate outer space into its Sustainable Development Goals agenda and establish a Space Situational Awareness (SSA) data-sharing arrangement. This arrangement, leveraging G20 member capabilities and commercial technologies, would create a comprehensive network to enhance safety for spacecraft and astronauts alike.",
+      "topics": [
+        "Space Policy",
+        "Global Cooperation",
+        "Environmental Sustainability"
+      ],
+      "issues": [
+        "Space Debris",
+        "Orbital Congestion and Safety"
+      ],
+      "mainIdeas": [
+        "The G20 must recognize outer space sustainability as an environmental imperative and incorporate it into the Sustainable Development Goals.",
+        "The rapid increase in orbiting satellites demands a robust, collaborative system to monitor space activities and ensure operational safety.",
+        "A G20-led Space Situational Awareness (SSA) data-sharing arrangement, utilizing member states' resources and commercial technology, is essential for creating a safer orbital environment."
+      ]
+    },
+    {
+      "id": "1782187733217vvm5tl",
+      "url": "https://takshashila.org.in/content/publications/20230620-indias-biotechnology-ecosystem-swot-analysis.html",
+      "title": "India’s Biotechnology Ecosystem: A SWOT Analysis",
+      "metadataRaw": "Jun 20, 2023 Shambhavi Naik",
+      "publishedDate": "2023-06-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:08:53.217Z",
+      "summary": "India considers biotechnology vital for its national progress and security. A review of the country's biotech industry highlights its advantages, such as government support, a large workforce, and cost-effective expansion capabilities. However, it suffers from low investment, limited basic research, an underdeveloped regulatory system, and a shortage of specialized talent. To strengthen this sector, the study recommends increasing funds, improving workforce skills, and enhancing global partnerships.",
+      "topics": [
+        "Biotechnology",
+        "Economic Development",
+        "Innovation Policy"
+      ],
+      "issues": [
+        "Developing India's Biotechnology Sector",
+        "Challenges in Scientific Research and Investment"
+      ],
+      "mainIdeas": [
+        "India's biotechnology sector has inherent strengths but is hindered by underinvestment and a lack of skilled professionals.",
+        "Key barriers include insufficient funding, a weak regulatory framework, and a need for more fundamental research.",
+        "To grow the sector, India must boost funding, enhance workforce skills, and expand international collaborations."
+      ]
+    },
+    {
+      "id": "17821877420561al35s",
+      "url": "https://takshashila.org.in/content/publications/20230608-New-Agenda-for-Peace.html",
+      "title": "Takshashila Policy Advisory - Proposals for the U.N’s New Agenda for Peace",
+      "metadataRaw": "Jun 8, 2023 Shambhavi Naik, Pranav R Satyanath, Shrikrishna Upadhyaya, Saurabh Todi",
+      "publishedDate": "2023-06-08T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:09:02.057Z",
+      "summary": "This article outlines three proposals for updating global security frameworks to address modern threats. It suggests a Global No-First Use Treaty for nuclear weapons to slow proliferation and arms races, arguing it's more realistic than immediate disarmament. The article also calls for strengthening the Biological Weapons Convention with an expert group and mandatory reporting to counter emerging bioweapon risks from new technologies. Lastly, it proposes a Global Space Situational Awareness Treaty to increase transparency and ensure the safe, sustainable use of outer space amidst growing commercial and military activities.",
+      "topics": [
+        "Global Security",
+        "International Cooperation",
+        "Technology Governance"
+      ],
+      "issues": [
+        "Nuclear Arms Control",
+        "Bioweapon Threats",
+        "Space Security"
+      ],
+      "mainIdeas": [
+        "Existing international treaties are no longer sufficient to address current security challenges, particularly those stemming from new technologies and changing global dynamics.",
+        "Focusing on realistic and actionable measures, such as a pledge against the first use of nuclear weapons and mandatory reporting for biological threats, is crucial for improving global stability.",
+        "Increasing transparency and fostering global data sharing are vital for managing risks, preventing weaponization, and ensuring the peaceful and sustainable use of critical domains like outer space."
+      ]
+    },
+    {
+      "id": "1782187747901mbk37r",
+      "url": "https://takshashila.org.in/content/publications/20230607-analysing-indias-position-on-the-information-technology-agreement.html",
+      "title": "Analysing India’s Position on the Information Technology Agreement",
+      "metadataRaw": "Jun 7, 2023 Satya Shoova Sahu, Miheer Karandikar",
+      "publishedDate": "2023-06-07T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:09:07.901Z",
+      "summary": "India has been a signatory to the WTO's Information Technology Agreement (ITA-1) since 1997, committing to eliminate tariffs on IT products, but has recently faced a WTO ruling for imposing tariffs that go against these commitments. India argues that ITA-1 negatively impacted its domestic IT manufacturing and increased its reliance on imports. However, the analysis suggests India's manufacturing issues are more due to a lack of complementary industrial and investment policies rather than solely the ITA-1 itself. The article recommends India uphold its ITA-1 commitments, explore joining the expanded ITA-2, and use free trade agreements to integrate into global IT supply chains.",
+      "topics": [
+        "Global Trade",
+        "Technology Industry",
+        "Economic Policy"
+      ],
+      "issues": [
+        "India's IT trade tariffs",
+        "Government support for domestic manufacturing"
+      ],
+      "mainIdeas": [
+        "India's current tariff policies on IT products are inconsistent with its international trade commitments under the ITA-1.",
+        "The problems in India's domestic IT manufacturing sector are primarily caused by insufficient industrial and investment policies, not just the ITA-1.",
+        "India should honor its ITA-1 obligations and use new policy tools like investment incentives and free trade agreements to boost its IT manufacturing and integrate into global supply chains."
+      ]
+    },
+    {
+      "id": "1782187753414eznkw9",
+      "url": "https://takshashila.org.in/content/publications/20230601-Biological-Weapons-Convention.html",
+      "title": "Think20 Policy Brief - BWC Scientific Experts Group to Combat Biological Threats",
+      "metadataRaw": "Jun 1, 2023 Saurabh Todi, Shambhavi Naik",
+      "publishedDate": "2023-06-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-23T04:09:13.414Z",
+      "summary": "Rapid advancements in biotechnology have made it easier to manipulate microorganisms, creating new biosecurity risks that current systems are not equipped to assess. The COVID-19 pandemic demonstrated the severe potential for harm from biological threats, similar to what a bioweapon could unleash. This policy brief proposes establishing a Scientific Expert Group within the Biological Weapons Convention. This group would evaluate risks from new technologies, monitor emerging biological threats, and suggest necessary countermeasures.",
+      "topics": [
+        "Biosecurity",
+        "Global Health",
+        "Technology Governance"
+      ],
+      "issues": [
+        "Preventing Biological Warfare",
+        "Assessing Biotechnology Risks"
+      ],
+      "mainIdeas": [
+        "Current systems are insufficient to assess biosecurity risks posed by rapidly advancing biotechnology, as highlighted by the COVID-19 pandemic.",
+        "A dedicated Scientific Expert Group is needed within the Biological Weapons Convention to proactively assess new technological risks and monitor evolving biological threats.",
+        "This group would recommend practical countermeasures to protect against both natural and man-made biological dangers."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-22T05:01:03.315Z"
+  "lastUpdated": "2026-06-23T04:09:13.414Z"
 }
