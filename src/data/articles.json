@@ -26,6 +26,31 @@
       ]
     },
     {
+      "id": "1782273796485j0zdfj",
+      "url": "https://takshashila.org.in/content/publications/policy-advisory-draft-regulations-ai-courts.html",
+      "title": "Takshashila Policy Advisory: Draft Regulations for Use of Artificial Intelligence in Courts, 2026",
+      "metadataRaw": "Jun 20, 2026 Bharath Reddy",
+      "publishedDate": "2026-06-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-24T04:03:16.485Z",
+      "summary": "This article analyzes a draft set of regulations for using Artificial Intelligence in court systems, praising its proactive approach to address existing case backlogs. It commends the clear guidelines on what AI can and cannot do in courts, specifically prohibiting algorithmic judgments. The advisory proposes five key amendments to strengthen the regulations' practical enforceability. These include ensuring independent audits, assessing human overreliance on AI, applying risk-based verification for generative AI, establishing measurable bias detection standards, and designing better incentives for private sector involvement.",
+      "topics": [
+        "Artificial Intelligence",
+        "Judicial Reform",
+        "Public Policy"
+      ],
+      "issues": [
+        "AI Regulation in Courts",
+        "Effective Technology Implementation"
+      ],
+      "mainIdeas": [
+        "The draft regulations for AI in courts are a commendable first step towards improving judicial efficiency and addressing capacity limitations, with clear rules on permissible and prohibited uses.",
+        "Several practical adjustments are needed for the regulations to be effective, such as requiring independent audits, testing for human overreliance on AI, and applying risk-based verification for generative AI outputs.",
+        "To ensure fairness and successful adoption, the regulations must include measurable standards for detecting and managing inherent AI bias, and also create attractive incentives for private companies to contribute their expertise without deterring them."
+      ]
+    },
+    {
       "id": "1782017507043j6ts2",
       "url": "https://takshashila.org.in/content/publications/ChinaArms-20062026.html",
       "title": "Weapons ‘Made in China’",
@@ -4859,6 +4884,31 @@
       ]
     },
     {
+      "id": "1782273804696r4xxme",
+      "url": "https://takshashila.org.in/content/publications/20230830-latest-developments-chinese-economy.html",
+      "title": "Assessing the Latest Developments in the Chinese Economy",
+      "metadataRaw": "Aug 30, 2023 Anushka Saxena, Amit Kumar, Manoj Kewalramani",
+      "publishedDate": "2023-08-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-24T04:03:24.696Z",
+      "summary": "China's expected strong economic rebound after ending its Zero-COVID policy has been much weaker than anticipated, revealing systemic issues in the first half of 2023. The economy faces persistent challenges, including soft domestic consumer demand, a fragile property sector, rising local government debt, and declining foreign trade and investment. The government has opted for minor policy adjustments instead of a large stimulus package, while increased state intervention continues to hinder private sector growth.",
+      "topics": [
+        "Chinese Economy",
+        "Economic Policy",
+        "International Trade"
+      ],
+      "issues": [
+        "China's Domestic Economic Slowdown",
+        "Property Sector Instability"
+      ],
+      "mainIdeas": [
+        "China's post-Zero-COVID economic recovery is weaker than expected, with systemic weaknesses appearing in consumer demand, property, and local government finances.",
+        "Key factors driving the slowdown include a decline in domestic consumption, a fragile real estate market with links to local government debt, and reduced foreign investment.",
+        "The government's limited stimulus measures and ongoing state intervention are impeding a stronger recovery, particularly for the private sector."
+      ]
+    },
+    {
       "id": "1782187369568rkzsfo",
       "url": "https://takshashila.org.in/content/publications/20231108-Mitigation-of-Antimicrobial-Resistance-in-G20.html",
       "title": "IPPR Journal Article - Mitigation of Antimicrobial Resistance (AMR) in G20",
@@ -5059,6 +5109,31 @@
       ]
     },
     {
+      "id": "17822738115355c1vd",
+      "url": "https://takshashila.org.in/content/publications/20230720-vulnerabilities-asymmetrical-trade-independence.html",
+      "title": "Defining Dependence-induced Vulnerabilities in Asymmetrical Trade Interdependence: A Conceptual Framework",
+      "metadataRaw": "Jul 20, 2023 Amit Kumar",
+      "publishedDate": "2023-07-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-24T04:03:31.535Z",
+      "summary": "Global economic integration has led to an imbalance of economic power, causing some nations to increasingly use economic pressure. This has intensified debates about vulnerabilities stemming from economic dependence, and how to reduce them. However, current decision-making struggles due to a lack of clear definitions for dependence and various types of vulnerabilities, leading to a broad, often ineffective approach. The article proposes a new framework to precisely define and classify critical vulnerabilities in trade between countries.",
+      "topics": [
+        "International Trade",
+        "Economic Policy",
+        "National Security"
+      ],
+      "issues": [
+        "Economic Coercion",
+        "Trade Vulnerabilities"
+      ],
+      "mainIdeas": [
+        "Unequal economic power among nations allows some to exert influence through economic means.",
+        "Current policy-making on trade vulnerabilities is hampered by a lack of clear definitions for different levels of dependence and risk.",
+        "A new framework is needed to accurately identify and address critical vulnerabilities in international trade."
+      ]
+    },
+    {
       "id": "17821877139406lez4c",
       "url": "https://takshashila.org.in/content/publications/20230708-Early-Warning-Disease-Outbreaks_Final-For-Upload.html",
       "title": "SThink20 Policy Brief - Global Teams for Early Warning, Detection, and Response to Disease Outbreaks",
@@ -5235,5 +5310,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-23T04:09:13.414Z"
+  "lastUpdated": "2026-06-24T04:03:40.088Z"
 }
