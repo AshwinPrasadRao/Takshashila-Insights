@@ -76,6 +76,31 @@
       ]
     },
     {
+      "id": "1782360195706gs1k8",
+      "url": "https://www.moneycontrol.com/news/opinion/military-ai-needs-meaningful-human-oversight-not-formal-approval-13946269.html",
+      "title": "Military AI needs meaningful human oversight, not formal approval",
+      "metadataRaw": "Jun 12, 2026 Adya Madhavan Moneycontrol",
+      "publishedDate": "2026-06-12T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-25T04:03:15.706Z",
+      "summary": "The article discusses how military AI, exemplified by systems like Project Maven, is rapidly advancing from simple data processing to suggesting strike targets. It highlights a common public misunderstanding, confusing complex targeting AI with chatbots. The core issue is that formal 'human in the loop' oversight is often insufficient due to 'automation bias,' where humans tend to accept AI recommendations without deep scrutiny. Effective governance must focus on ensuring meaningful human judgment, accountability, and the quality of oversight rather than just structural frameworks.",
+      "topics": [
+        "Military Technology",
+        "AI Governance",
+        "Ethical Technology"
+      ],
+      "issues": [
+        "Ineffective human oversight in military AI",
+        "Risks of automation bias in military decision-making"
+      ],
+      "mainIdeas": [
+        "Military AI systems evolve rapidly from basic data tools to complex targeting systems, often without sufficient ethical consideration at each stage.",
+        "Formal 'human in the loop' frameworks are inadequate because humans are prone to 'automation bias,' accepting AI recommendations without meaningful scrutiny.",
+        "Effective governance for military AI requires focusing on the quality of human oversight, accountability, and specific standards for human reviewers, rather than just formal approval or definitional debates."
+      ]
+    },
+    {
       "id": "178158599289342p0e",
       "url": "https://www.moneycontrol.com/news/opinion/pakistan-s-growing-satellite-network-challenges-india-s-military-secrecy-13946928.html",
       "title": "Pakistan’s growing satellite network challenges India’s military secrecy",
@@ -5308,7 +5333,183 @@
         "A dedicated Scientific Expert Group is needed within the Biological Weapons Convention to proactively assess new technological risks and monitor evolving biological threats.",
         "This group would recommend practical countermeasures to protect against both natural and man-made biological dangers."
       ]
+    },
+    {
+      "id": "17823602256628e542n",
+      "url": "https://takshashila.org.in/content/publications/20230509-The-Quad-Agenda-for-Semiconductors-Biotechnology-and-Space.html",
+      "title": "Takshashila Issue Brief - The Quad Agenda for Semiconductors, Biotechnology, and Space",
+      "metadataRaw": "May 29, 2023 Srikrishna Upadhyaya",
+      "publishedDate": "2023-05-29T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-25T04:03:45.662Z",
+      "summary": "The article discusses the Quad's expanding focus beyond traditional security to critical economic and technological areas following a recent leaders' summit. It argues that an economic agenda, built on \"bubbles of trust,\" is essential for strengthening shared security and geopolitical interests in the Indo-Pacific. The piece outlines specific recommendations for collaboration in semiconductors, biotechnology, and space, aiming to create a more resilient and open global economic system.",
+      "topics": [
+        "International Alliances",
+        "Technology Policy",
+        "Economic Development"
+      ],
+      "issues": [
+        "Secure Supply Chains",
+        "Collaborative Research & Development"
+      ],
+      "mainIdeas": [
+        "The Quad should prioritize economic cooperation in critical technologies to strengthen shared security and geopolitical goals in the Indo-Pacific region.",
+        "Member countries should form \"bubbles of trust\" to facilitate collaboration in semiconductor manufacturing, biotechnology, and space, moving beyond national self-sufficiency.",
+        "Concrete proposals include diversifying semiconductor supply chains, establishing a biotech manufacturing hub in India, and exploring a joint space station to enhance resilience and innovation."
+      ]
+    },
+    {
+      "id": "1782360234283clskta",
+      "url": "https://takshashila.org.in/content/publications/20230526-the-china-taiwan-saga.html",
+      "title": "The China-Taiwan Saga",
+      "metadataRaw": "May 26, 2023 Anushka Saxena",
+      "publishedDate": "2023-05-26T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-25T04:03:54.284Z",
+      "summary": "The article examines the strained relationship between China and Taiwan, highlighting China's attempts to isolate Taiwan and the US's supportive actions which heighten tensions. It notes that Taiwanese public opinion firmly opposes unification, and businesses are relocating operations away from mainland China. While China has not abandoned the option of using force, an immediate invasion is not expected, as conflict would severely damage China's economic aspirations. The paper advises countries like India to advocate for peace and stability in the region, and to enhance economic and maritime partnerships with Taiwan without adopting an anti-China stance.",
+      "topics": [
+        "Geopolitics",
+        "Regional Security",
+        "International Trade"
+      ],
+      "issues": [
+        "China-Taiwan Strait Stability",
+        "Cross-Strait Economic Relations"
+      ],
+      "mainIdeas": [
+        "The relationship between China and Taiwan is increasingly unstable, driven by Chinese pressure and US support for Taiwan.",
+        "Despite threats, China is unlikely to invade Taiwan soon because a conflict would severely undermine its economic development goals.",
+        "Taiwanese public opinion is strongly against unification, and businesses are shifting away from economic reliance on mainland China.",
+        "India should publicly advocate for peace in the Taiwan Strait and build economic and maritime partnerships with Taiwan and other regional countries."
+      ]
+    },
+    {
+      "id": "17823602402873b9xto",
+      "url": "https://takshashila.org.in/content/publications/20230516-An-Comparative-Study-of-State-Rules-Based-on-the-Biological-Diversity-Act-2002.pdf.html",
+      "title": "Takshashila Discussion Document – An Comparative Study of State Rules Based on the Biological Diversity Act, 2002",
+      "metadataRaw": "May 16, 2023 Shambhavi Naik, Adithi Gurkar, Rahul Rajasekar, Ruturaj Gowaikar, Atul Kumar Gupta",
+      "publishedDate": "2023-05-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-25T04:04:00.287Z",
+      "summary": "India's Biological Diversity Act of 2002 was enacted to protect biodiversity, ensure sustainable resource use, and fairly share benefits. However, the Act has been controversial and needs improvements to meet its objectives while allowing for resource utilization. This paper compares the various rules states have implemented to support this national law. The goal is to find best practices and suggest ways to make these regulations consistent across India.",
+      "topics": [
+        "Environmental Regulations",
+        "Biodiversity Protection",
+        "Law Implementation"
+      ],
+      "issues": [
+        "Challenges in India's biodiversity law",
+        "Inconsistent state-level environmental rules"
+      ],
+      "mainIdeas": [
+        "The national law for biodiversity protection in India needs to be strengthened due to past controversies and implementation issues.",
+        "States have created different rules to apply this national law, leading to inconsistencies.",
+        "A study of these state rules can help find better ways to implement the law and create a more uniform system nationwide."
+      ]
+    },
+    {
+      "id": "17823602605065zed5e",
+      "url": "https://takshashila.org.in/content/publications/20230515-time-to-launch-the-us-india-trade-relationship-into-another-orbit.html",
+      "title": "Time to Launch the US-India Trade Relationship into Another Orbit",
+      "metadataRaw": "May 15, 2023 Narayan Ramachandran, Pranay Kotasthane, Anupam Manur, Sarthak Pradhan",
+      "publishedDate": "2023-05-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-25T04:04:20.506Z",
+      "summary": "The US is now India's largest trading partner, presenting a major opportunity to grow trade as both nations focus on building resilient supply chains and reducing dependence on China. With Prime Minister Modi's upcoming visit, the goal is to significantly boost economic ties, targeting $500 billion in bilateral trade by 2030 and $1 trillion by 2040. The article proposes strategies such as expanding ministerial dialogues to include trade officials, fostering state-level partnerships, and focusing on high-technology sectors to achieve these ambitious targets.",
+      "topics": [
+        "International Trade",
+        "Bilateral Economic Relations",
+        "Trade Policy"
+      ],
+      "issues": [
+        "Strengthening US-India trade",
+        "Supply chain diversification"
+      ],
+      "mainIdeas": [
+        "The US and India plan to significantly increase bilateral trade, aiming for $1 trillion by 2040, by building on their strong existing economic relationship.",
+        "Achieving these trade goals requires concrete steps like expanding high-level government dialogues to include commerce representatives and encouraging partnerships between individual states in both countries.",
+        "A strategic focus on high-technology sectors, resolving business frictions, and promoting people-to-people exchanges are crucial for deepening economic ties and fostering resilient supply chains."
+      ]
+    },
+    {
+      "id": "1782360253118pxv97l",
+      "url": "https://takshashila.org.in/content/publications/20230515-Interrogating-Power-and-Legitimacy-in-the-Information-Age-from-an-Indian-Perspective.html",
+      "title": "Book Chapter - Interrogating Power and Legitimacy in the Information Age from an Indian Perspective",
+      "metadataRaw": "May 15, 2023 Nitin Pai, Pranay Kotasthane",
+      "publishedDate": "2023-05-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-25T04:04:13.118Z",
+      "summary": "The article examines how the Information Age is fundamentally transforming concepts of power and legitimacy in international relations, noting that many global political structures are still rooted in the Industrial Age. It argues that power is increasingly exercised by influencing human minds and perceptions rather than solely through military or economic might. This shift makes power more accessible, potentially reduces the importance of traditional force, and empowers non-state actors. Furthermore, the article highlights that gaining and maintaining legitimacy in this new age is challenging for states, as digital tools enable easy exposure of failures and the rapid delegitimization of established narratives.",
+      "topics": [
+        "Information Technology",
+        "Geopolitics",
+        "Governance"
+      ],
+      "issues": [
+        "Global Power Dynamics",
+        "Digital Influence"
+      ],
+      "mainIdeas": [
+        "The Information Age redefines power by shifting its focus from traditional military and economic strength to influencing human cognition and perceptions.",
+        "This new form of power is easier to acquire, can be accumulated more quickly, and enables non-state actors, such as internet companies, to exert significant influence in international affairs.",
+        "States face growing challenges in maintaining legitimacy because widespread information allows for easy exposure of their shortcomings and the rapid undermining of their narratives by various actors."
+      ]
+    },
+    {
+      "id": "1782360272300a4php9",
+      "url": "https://takshashila.org.in/content/publications/20230513-T20_PolicyBrief_TF1_Data-Asymmetry-SupplyChain.html",
+      "title": "Think20 Policy Brief - Reducing Data Asymmetry to Strengthen Supply Chains",
+      "metadataRaw": "May 13, 2023 Amit Kumar, Anushka Saxena",
+      "publishedDate": "2023-05-13T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-25T04:04:32.300Z",
+      "summary": "The article proposes that G20 nations must work together to close information gaps among businesses involved in supply chains to prevent disruptions. It argues that the G20 is ideally placed to create a framework for this, building on its previous experience with data initiatives. The proposal is for the G20's next data initiative to specifically focus on making supply chains more resilient by promoting open and efficient data sharing.",
+      "topics": [
+        "Supply Chain Management",
+        "Global Economy",
+        "International Policy"
+      ],
+      "issues": [
+        "Supply Chain Disruptions",
+        "Information Gaps"
+      ],
+      "mainIdeas": [
+        "Uneven access to critical data among supply chain partners is a key reason for disruptions.",
+        "The G20 is the most suitable group to address this problem due to its economic influence and past data-sharing efforts.",
+        "Future G20 initiatives should prioritize secure and transparent data sharing to improve supply chain resilience globally."
+      ]
+    },
+    {
+      "id": "17823602804127c14jg",
+      "url": "https://takshashila.org.in/content/publications/20230508-quad-should-commit-to-bio-hub-in-india.html",
+      "title": "The Quad should Commit to a Bio-hub in India",
+      "metadataRaw": "May 8, 2023 Saurabh Todi, Shambhavi Naik, Dirk Van Der Kley, Daniel Pavlich",
+      "publishedDate": "2023-05-08T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-25T04:04:40.412Z",
+      "summary": "Modern biotechnology is poised to revolutionize global industries, offering biological alternatives for a significant portion of current economic inputs, from plastics to food. This field holds immense economic promise, with the power to transform sectors worth trillions, and also carries significant strategic and social importance for national security, health, and energy. To capitalize on these opportunities and reduce potential vulnerabilities, the article suggests that the Quad countries establish a shared biomanufacturing hub in India. This hub would leverage each member's unique capabilities to foster innovation and strengthen crucial supply chains.",
+      "topics": [
+        "Biotechnology Development",
+        "Economic Strategy",
+        "International Collaboration"
+      ],
+      "issues": [
+        "Ensuring resilient supply chains for critical emerging technologies",
+        "Capitalizing on the economic and strategic potential of biotechnology"
+      ],
+      "mainIdeas": [
+        "Biotechnology is a rapidly advancing field with the potential to transform major global industries and create vast economic value.",
+        "Control over biotechnology's production and intellectual property will be key for future economic growth, national security, and societal well-being.",
+        "The Quad should establish a biomanufacturing hub in India to foster innovation, strengthen supply chain resilience, and secure leadership in this vital sector."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-24T04:03:40.088Z"
+  "lastUpdated": "2026-06-25T04:04:50.927Z"
 }
