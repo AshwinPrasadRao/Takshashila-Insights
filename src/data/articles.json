@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "1782447024610z6ic2r",
+      "url": "https://www.moneycontrol.com/news/opinion/us-iran-talks-an-engagement-based-on-american-delusions-13958313.html",
+      "title": "US-Iran talks: An engagement based on American delusions",
+      "metadataRaw": "Jun 25, 2026 Yusuf Unjhawala Moneycontrol",
+      "publishedDate": "2026-06-25T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-26T04:10:24.610Z",
+      "summary": "The ongoing negotiations between the United States and Iran are likely to achieve only a temporary ceasefire, not lasting peace, due to fundamentally different objectives. Washington incorrectly assumes Iran desires full normalization and integration into a Western-led system, while Tehran primarily seeks sanctions relief, economic benefits, and time to rebuild to ensure regime survival. Furthermore, critical regional players like Gulf states and Israel, whose support is vital for any lasting agreement, are not formally involved in the talks, complicating any genuine resolution.",
+      "topics": [
+        "US-Iran Relations",
+        "International Negotiations",
+        "Middle East Politics"
+      ],
+      "issues": [
+        "Divergent Objectives in US-Iran Talks",
+        "Regional Stability in the Middle East"
+      ],
+      "mainIdeas": [
+        "The United States and Iran are negotiating with entirely different end goals; the US seeks full normalization and integration, while Iran prioritizes sanctions relief and regime survival.",
+        "Iran uses negotiations to gain time, secure economic benefits like frozen asset release, and rebuild its capabilities without being pressured to fundamentally change its behavior.",
+        "Key regional stakeholders, including Gulf Arab states and Israel, are not formally involved in the negotiations, making any potential agreement fragile and unlikely to address their security concerns adequately."
+      ]
+    },
+    {
+      "id": "17824470398303ydntn",
+      "url": "https://www.thehindu.com/opinion/op-ed/the-world-that-china-desires-and-is-shaping/article71134262.ece/amp",
+      "title": "The world that China desires & is shaping",
+      "metadataRaw": "Jun 23, 2026 Manoj Kewalramani The Hindu",
+      "publishedDate": "2026-06-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-26T04:10:39.830Z",
+      "summary": "The article explains that China is not simply defending the current international system, but is actively working to change its core principles while preserving the institutional framework. As the U.S. creates global instability, China is subtly redefining norms around security, human rights, and democracy through various global initiatives. This approach aims to align international standards with Beijing's objectives, often favoring authoritarian governance. The main concern is not the collapse of global institutions, but the gradual erosion of fundamental values like state equality and individual rights.",
+      "topics": [
+        "Global Power Dynamics",
+        "China's Foreign Policy",
+        "International Governance"
+      ],
+      "issues": [
+        "China's revision of global norms",
+        "Future of international principles"
+      ],
+      "mainIdeas": [
+        "China is actively working to change the underlying rules and values of the global system, especially regarding human rights and national independence, rather than just upholding the current system.",
+        "Beijing uses international organizations and its own initiatives to promote its version of global principles, which often supports authoritarian governments and increases its own power.",
+        "The main concern is that these changes could gradually weaken key international standards like equal treatment for nations and protection for individual rights, even if global institutions remain in place."
+      ]
+    },
+    {
+      "id": "17824470323699rwxad",
+      "url": "https://www.deccanherald.com/opinion/towards-clean-sports-4048641",
+      "title": "Towards clean sport",
+      "metadataRaw": "Jun 23, 2026 Malathi Renati The Deccan Herald",
+      "publishedDate": "2026-06-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-26T04:10:32.369Z",
+      "summary": "The article begins by identifying the 1982 Asian Games in New Delhi as India's initial serious encounter with a doping crisis. However, this event was merely the start of a much deeper, systemic problem. It highlights a long-standing culture where those involved in doping faced no repercussions, contributing to the issue's persistence for decades.",
+      "topics": [
+        "Sports Doping",
+        "Sports Governance",
+        "Integrity in Sports"
+      ],
+      "issues": [
+        "Historical doping problems",
+        "Lack of accountability in sports"
+      ],
+      "mainIdeas": [
+        "The 1982 Asian Games revealed India's first significant doping crisis.",
+        "This crisis was a symptom of a larger, entrenched problem within sports.",
+        "A pervasive culture of impunity allowed doping to continue unchecked for decades."
+      ]
+    },
+    {
       "id": "1782187356319kd8b4a",
       "url": "https://takshashila.org.in/content/publications/cleantech-evaluation-framework-22062026.html",
       "title": "Clean Technology Evaluation Framework",
@@ -23,6 +98,31 @@
         "India needs a clear method to pick new clean technologies that benefit both its energy security and economy, not just environmental goals.",
         "Relying on imports for clean tech components, as seen with solar and batteries, creates vulnerabilities and misses economic opportunities.",
         "The framework helps policymakers analyze new technologies comprehensively, guiding strategic investments to build domestic capabilities and compete globally."
+      ]
+    },
+    {
+      "id": "17824470539984ckwis",
+      "url": "https://www.thehindu.com/opinion/op-ed/moving-from-drone-purchases-to-drone-partnerships/article71123226.ece",
+      "title": "Moving from drone purchases to drone partnerships",
+      "metadataRaw": "Jun 20, 2026 Adya Madhavan The Hindu",
+      "publishedDate": "2026-06-20T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-26T04:10:53.998Z",
+      "summary": "The Indian government is investing $2 billion to boost its domestic drone industry, signaling a shift towards procuring smaller, cheaper military drones. However, traditional military purchasing methods are ill-suited for the rapid technological advancements and quick obsolescence of tactical drones. The article proposes moving from simple hardware purchases to a 'managed service contract' model. This approach would foster long-term partnerships between the military and manufacturers, ensuring continuous upgrades and adaptability to evolving threats.",
+      "topics": [
+        "Defense Technology",
+        "Government Procurement",
+        "Military Modernization"
+      ],
+      "issues": [
+        "Outdated military purchasing processes",
+        "Rapid obsolescence of tactical defense technology"
+      ],
+      "mainIdeas": [
+        "The shift to smaller, cheaper military drones requires a fundamental change in how defense systems are acquired.",
+        "Current transactional procurement models cannot keep up with the fast-paced evolution and short shelf-life of drone technology.",
+        "A partnership-based 'managed service' approach would ensure continuous upgrades, maintenance, and collaboration, making drone capabilities more sustainable and adaptable."
       ]
     },
     {
@@ -73,6 +173,31 @@
         "Many Chinese weapons systems exported globally have shown significant performance and reliability issues, causing some buyers to look elsewhere.",
         "China uses its arms exports as a strategic tool to expand its geopolitical influence, foster economic dependencies, and test its military equipment in real-world scenarios.",
         "The US is increasingly using sanctions and trade restrictions against Chinese defense companies, which complicates Beijing's ability to grow its military-industrial complex and export market."
+      ]
+    },
+    {
+      "id": "1782447063273sykcbt",
+      "url": "https://www.moneycontrol.com/news/opinion/here-s-how-to-ensure-stability-in-a-world-tending-to-disorderliness-13953203.html",
+      "title": "Here’s how to ensure stability in a world tending to disorderliness",
+      "metadataRaw": "Jun 18, 2026 Arindam Goswami Moneycontrol",
+      "publishedDate": "2026-06-18T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-26T04:11:03.273Z",
+      "summary": "The current global disorder, characterized by economic pressure tactics and increased military spending, results from a failure of international coordination. Despite this, the article argues that stability is achievable, as nations historically build cooperative systems out of self-interest. It proposes practical tools to restore order, including better information sharing, securing critical supply chains with guarantees, and creating redundancies for essential goods. These measures can encourage countries to move away from coercion and prevent unintended escalations, with key nations leading the effort.",
+      "topics": [
+        "International Relations",
+        "Global Stability",
+        "Economic Security"
+      ],
+      "issues": [
+        "Geopolitical Disorder",
+        "Weaponization of Trade"
+      ],
+      "mainIdeas": [
+        "Current global instability is a result of poor coordination, but history shows that even self-interested nations can build stable, cooperative international systems.",
+        "To promote stability, countries should enhance transparency through advance notice for restrictions, secure critical supply chain access with guarantees, and build redundancies for essential goods to reduce reliance on single sources.",
+        "These practical steps can be initiated by a core group of influential nations, creating a system that benefits all participants and discourages the use of economic leverage as a weapon."
       ]
     },
     {
@@ -2385,6 +2510,31 @@
         "India needs large-scale job creation to address its significant underemployment, particularly by transitioning workers into more productive roles in industry.",
         "FASTERs are proposed as a new model: specially designated coastal zones offering flexible labor laws, easier land access, simplified regulations, and robust infrastructure to attract industries without relying on traditional subsidies.",
         "These FASTERs could create up to 24 million jobs within three years by attracting major firms and a multitude of smaller businesses, with initial prototypes suggested for Puducherry and Daman-Dadra Nagar Haveli."
+      ]
+    },
+    {
+      "id": "1782447073938l3be4g",
+      "url": "https://takshashila.org.in/content/publications/china-epc-renewable-18092025.html",
+      "title": "China’s Renewable Edge",
+      "metadataRaw": "Sep 18, 2025 Bhumika Sevkani",
+      "publishedDate": "2025-09-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:11:13.938Z",
+      "summary": "Chinese firms are rapidly becoming key players in the global renewable energy market due to increasing worldwide demand. They are particularly adept as Engineering, Procurement, and Construction (EPC) contractors, successfully implementing projects across numerous developing countries. This strategy enables China to expand its global footprint through technical expertise and efficient project delivery, while also managing financial risks. Host countries benefit by gaining access to affordable renewable energy infrastructure, which supports their energy transition goals without leading to unsustainable debt.",
+      "topics": [
+        "Renewable Energy",
+        "Global Business",
+        "Economic Development"
+      ],
+      "issues": [
+        "Renewable energy infrastructure deployment",
+        "Role of Chinese contractors in global energy projects"
+      ],
+      "mainIdeas": [
+        "Chinese firms are effectively using their Engineering, Procurement, and Construction (EPC) capabilities to secure a leading role in the global renewable energy landscape.",
+        "This approach allows Chinese companies to expand their international presence through technical proficiency and efficient project execution, while mitigating financial risks.",
+        "Developing countries benefit from these engagements by getting affordable renewable energy infrastructure to achieve their energy transition goals without taking on excessive debt."
       ]
     },
     {
@@ -5509,7 +5659,182 @@
         "Control over biotechnology's production and intellectual property will be key for future economic growth, national security, and societal well-being.",
         "The Quad should establish a biomanufacturing hub in India to foster innovation, strengthen supply chain resilience, and secure leadership in this vital sector."
       ]
+    },
+    {
+      "id": "17824470808769ok39",
+      "url": "https://takshashila.org.in/content/publications/20230503-T20PB.html",
+      "title": "Think20 Policy Brief - The Case for a G20-Led Climate Change Relocation Insurance System",
+      "metadataRaw": "May 3, 2023 Shrikrishna Upadhyaya, Pranay Kotasthane",
+      "publishedDate": "2023-05-03T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:11:20.876Z",
+      "summary": "Climate change is projected to cause widespread population displacement and refugee crises, creating significant humanitarian, economic, and security concerns globally. This policy brief proposes that the G20 establish a Global Climate Change Relocation Insurance (GCCRI) system. This system would allow individuals at risk to purchase insurance to protect their land, property, and livelihoods from climate disasters. The G20 would benefit by addressing historical climate contributions, preventing uncontrolled migration crises, and enabling more organized refugee relocation.",
+      "topics": [
+        "Climate Change",
+        "International Cooperation",
+        "Risk Management"
+      ],
+      "issues": [
+        "Climate Migration",
+        "Disaster Preparedness"
+      ],
+      "mainIdeas": [
+        "Climate change will trigger large-scale population movement, posing major humanitarian, economic, and security challenges worldwide.",
+        "A Global Climate Change Relocation Insurance (GCCRI) system, led by the G20, is proposed to help individuals buy protection against climate-related losses.",
+        "This system aims to prevent chaotic refugee crises, facilitate organized relocation, and address the historical climate responsibilities of developed nations."
+      ]
+    },
+    {
+      "id": "1782447087296b42zr7",
+      "url": "https://takshashila.org.in/content/publications/20230419-DFG.html",
+      "title": "Takshashila Policy Advisory - Comments to the Parliamentary Standing Committee on Science and Technology, Environment, Forests and Climate Change on Demand for Grants in theUnion Budget for FY 2023-24",
+      "metadataRaw": "Apr 19, 2023 Shambhavi Naik, Pradeep Mohandas, Sarthak Pradhan, Aditya Ramanathan, Harshit Kukreja, Saurabh Todi",
+      "publishedDate": "2023-04-19T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:11:27.296Z",
+      "summary": "This document offers detailed comments to India's Parliamentary Standing Committee on Science and Technology, Environment, Forests, and Climate Change. It specifically analyzes the budget requests, known as 'Demand for Grants,' for the 2023-24 fiscal year. The analysis covers general budgetary trends across related government ministries and departments, with a particular focus on the Departments of Space, Biotechnology, Science & Technology, Scientific and Industrial Research, and Atomic Energy.",
+      "topics": [
+        "Government Finance",
+        "Science & Technology Policy",
+        "Environmental Governance"
+      ],
+      "issues": [
+        "Government budget allocation",
+        "Parliamentary oversight of public spending"
+      ],
+      "mainIdeas": [
+        "The document provides expert commentary on proposed government spending for critical science, technology, and environment sectors.",
+        "It presents an analysis of financial trends within these key departments to inform parliamentary decision-making.",
+        "Specific feedback is given on funding for areas like space research, biotechnology, and atomic energy."
+      ]
+    },
+    {
+      "id": "1782447094902poddzu",
+      "url": "https://takshashila.org.in/content/publications/20230417-Assessing-arguments-against-closer-India-US-Ties.html",
+      "title": "Takshashila Discussion Document - Assessing Arguments Against Closer India-US Ties",
+      "metadataRaw": "Apr 17, 2023 Yusuf Unjhawala",
+      "publishedDate": "2023-04-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:11:34.902Z",
+      "summary": "The article analyzes arguments against closer ties between India and the United States, noting that some Indian factions view the US as an unreliable partner due to historical and ideological reasons. It argues that while some concerns are understandable, others are unfounded and could harm India's crucial security and economic development. The author asserts that India, as a rising power focused on economic growth, critically needs its partnership with the US and Europe for technology, investment, and export markets, highlighting a strategic opportunity for deeper engagement.",
+      "topics": [
+        "Foreign Policy",
+        "Geopolitics",
+        "Economics"
+      ],
+      "issues": [
+        "India-US Relations",
+        "India's Economic Growth Strategy"
+      ],
+      "mainIdeas": [
+        "Arguments against closer India-US ties, while sometimes based on historical suspicion, often underestimate India's current strength and the practical benefits of the partnership.",
+        "Partnerships with the US and Europe are vital for India's economic development, providing essential technology, investment, and market access.",
+        "India is a rising global power with its own agency, and current geopolitical conditions offer a strategic opportunity to strengthen its crucial ties with the US."
+      ]
+    },
+    {
+      "id": "1782447102343tb7h8l",
+      "url": "https://takshashila.org.in/content/publications/20230411-India%E2%80%99s-Space-Policy-and-Counter-Space-Capabilities.html",
+      "title": "Strategic Analysis Journal Article - India’s Space Policy and Counter-Space Capabilities",
+      "metadataRaw": "Apr 11, 2023 Anushka Saxena",
+      "publishedDate": "2023-04-11T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:11:42.343Z",
+      "summary": "India is an expanding player in the global space industry, driven by national security needs like data collection, satellite communication, and the goal of deterring potential adversaries such as China and Pakistan. This article examines India's existing space infrastructure, including ISRO and private sector involvement, along with its current space assets and anti-satellite capabilities. Based on this, it proposes future directions for India’s space policy and its ability to counter threats in space.",
+      "topics": [
+        "Space Programs",
+        "National Security",
+        "Technology Development"
+      ],
+      "issues": [
+        "Space Militarization",
+        "India-China Relations",
+        "India-Pakistan Relations"
+      ],
+      "mainIdeas": [
+        "India's space sector is growing significantly and is a key contributor to the global space economy.",
+        "India's space policy and capabilities are primarily shaped by its national security interests, including gathering intelligence, improving communication, and deterring regional adversaries.",
+        "The article will analyze India's current space infrastructure and assets to recommend future strategies for its space policy and its ability to respond to threats in space."
+      ]
+    },
+    {
+      "id": "1782447109067c2qmawp",
+      "url": "https://takshashila.org.in/content/publications/20230320-AI-Race-AI-Hardware.html",
+      "title": "Takshashila Issue Brief - AI Race Must Not Overlook AI Hardware",
+      "metadataRaw": "Mar 20, 2023 Shrikrishna Upadhyaya, Pranay Kotasthane",
+      "publishedDate": "2023-03-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:11:49.067Z",
+      "summary": "While the popular discourse on Artificial Intelligence largely centers on software applications, the article emphasizes the critical importance of AI hardware—the underlying computing infrastructure. Specialized AI chips, designed for functions like training and inference, represent a rapidly growing and differentiating factor in the semiconductor market. The brief proposes that India can strategically enter the AI hardware sector by focusing on manufacturing less complex inference chips. To achieve this, it recommends policy actions such as building dedicated factories, supporting open-source designs, and fostering international collaborations.",
+      "topics": [
+        "Artificial Intelligence",
+        "Semiconductor Industry",
+        "Technology Policy"
+      ],
+      "issues": [
+        "Developing AI hardware manufacturing capabilities",
+        "Strengthening India's semiconductor supply chain"
+      ],
+      "mainIdeas": [
+        "AI hardware, not just software, is a crucial and often overlooked component essential for the continued advancement and performance of AI technology.",
+        "Specialized AI chips, particularly for inference, present a significant and growing market opportunity within the global semiconductor industry.",
+        "India has a strategic chance to establish itself in the AI hardware sector by prioritizing the production of AI inference chips through focused government initiatives and international partnerships."
+      ]
+    },
+    {
+      "id": "1782447116469p4nl3",
+      "url": "https://takshashila.org.in/content/publications/20230309-india-china-border-tactics-talks.html",
+      "title": "India-China Border: Tactics, Talks and Transgressions",
+      "metadataRaw": "Mar 9, 2023 Anushka Saxena, Amit Kumar",
+      "publishedDate": "2023-03-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:11:56.470Z",
+      "summary": "Chinese military actions along the Line of Actual Control since 2020 have severely damaged mutual trust with India, transforming their bilateral relationship. These actions are part of China's larger goal to assert dominance in Asia, aiming to pressure India into accepting its regional leadership. As tensions are expected to continue, India needs a comprehensive strategy beyond just border control. This strategy should include sustained military readiness, employing unconventional countermeasures, strengthening its naval power, forming alliances against China, and significantly increasing defense spending for modernization.",
+      "topics": [
+        "International Relations",
+        "Defense and Security",
+        "Geopolitics"
+      ],
+      "issues": [
+        "India-China Border Dispute",
+        "Regional Power Dynamics in Asia"
+      ],
+      "mainIdeas": [
+        "China's border aggression is a deliberate strategic move to establish regional dominance, not merely a territorial dispute.",
+        "The sustained military standoff has fundamentally broken down trust between India and China, reshaping their future relations.",
+        "India must adopt a broad, long-term strategy that includes military modernization, asymmetric warfare, naval development, and strategic partnerships to counter China's regional ambitions."
+      ]
+    },
+    {
+      "id": "1782447124908cgwthv",
+      "url": "https://takshashila.org.in/content/publications/20230303-G20-strengthening-research.html",
+      "title": "Takshashila Discussion Document-Strengthening research, promoting innovation through richer collaboration",
+      "metadataRaw": "Mar 3, 2023 Shambhavi Naik",
+      "publishedDate": "2023-03-03T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-26T04:12:04.908Z",
+      "summary": "India's G20 Presidency has made strengthening research collaboration a central focus for cooperation. This document was prepared in September 2022 as a submission to the Indian government, suggesting ways to accelerate this collaboration.",
+      "topics": [
+        "International Cooperation",
+        "Science & Technology Policy",
+        "Government Initiatives"
+      ],
+      "issues": [
+        "Strengthening Research Collaboration",
+        "G20 Priorities"
+      ],
+      "mainIdeas": [
+        "Boosting research collaboration is a core objective of India's G20 Presidency.",
+        "A proposal was submitted to the Indian government detailing steps to speed up this international cooperation."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-25T04:04:50.927Z"
+  "lastUpdated": "2026-06-26T04:12:07.244Z"
 }
