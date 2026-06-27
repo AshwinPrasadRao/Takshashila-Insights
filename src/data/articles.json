@@ -76,6 +76,31 @@
       ]
     },
     {
+      "id": "17825325828048i4rzl",
+      "url": "https://indianexpress.com/article/opinion/columns/on-ai-the-us-and-china-have-an-outdated-arms-race-mindset-10750886",
+      "title": "On AI, the US and China have an outdated arms race mindset",
+      "metadataRaw": "Jun 22, 2026 Bharath Reddy The Indian Express",
+      "publishedDate": "2026-06-22T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-27T03:56:22.805Z",
+      "summary": "The article argues that the US and China are mistakenly approaching Artificial Intelligence (AI) as a zero-sum arms race, implementing restrictive policies like engineer travel bans and software suspensions. This viewpoint, the author contends, misunderstands AI's nature as an easily reproducible technology, unlike nuclear weapons. Instead, the piece advocates for a \"geopolitical innovation race\" framework, urging countries to focus on widespread AI adoption, international partnerships, and open-source development to realize its full economic and societal benefits. It suggests that the real value of AI lies in its practical application across various sectors, not just its invention or containment.",
+      "topics": [
+        "Artificial Intelligence",
+        "Global Competition",
+        "Technology Policy"
+      ],
+      "issues": [
+        "US and China's AI policy strategies",
+        "The impact of restrictive AI policies"
+      ],
+      "mainIdeas": [
+        "The US and China's current strategy of treating AI like a weapon in an arms race is misguided and counterproductive.",
+        "AI is a general-purpose technology whose value comes from widespread adoption and practical use across many sectors, rather than just frontier development or containment.",
+        "Countries should prioritize policies that foster AI adoption, build diverse international partnerships, and promote open-source models to ensure broader access and resilience."
+      ]
+    },
+    {
       "id": "1782187356319kd8b4a",
       "url": "https://takshashila.org.in/content/publications/cleantech-evaluation-framework-22062026.html",
       "title": "Clean Technology Evaluation Framework",
@@ -5661,6 +5686,31 @@
       ]
     },
     {
+      "id": "178253259507356676o",
+      "url": "https://takshashila.org.in/content/publications/20230504-Improving-Ease-of-Doing-Business.html",
+      "title": "Takshashila Discussion Document - Improving Ease of Doing Business in India",
+      "metadataRaw": "May 4, 2023 Sudisha Mishra, Sridhar Krishna",
+      "publishedDate": "2023-05-04T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-27T03:56:35.073Z",
+      "summary": "This document examines the difficulties of doing business in India, despite its large consumer market and low labor costs. It highlights that extensive compliance requirements and inadequate infrastructure deter companies from investing and growing. The article emphasizes that simplifying business operations is directly linked to job creation. Ultimately, improving India's business environment is essential for generating employment for its growing young population and tackling high unemployment rates.",
+      "topics": [
+        "Business Environment",
+        "Economic Policy",
+        "Employment"
+      ],
+      "issues": [
+        "Ease of Doing Business in India",
+        "India's Unemployment"
+      ],
+      "mainIdeas": [
+        "Despite its potential, India's business environment is hampered by excessive regulations and poor infrastructure, discouraging investment.",
+        "There is a direct relationship between simplifying business processes and increasing job creation.",
+        "Improving government policies for businesses is crucial to address high unemployment and underemployment among India's youth."
+      ]
+    },
+    {
       "id": "17824470808769ok39",
       "url": "https://takshashila.org.in/content/publications/20230503-T20PB.html",
       "title": "Think20 Policy Brief - The Case for a G20-Led Climate Change Relocation Insurance System",
@@ -5787,6 +5837,31 @@
       ]
     },
     {
+      "id": "1782532602069hg9vll",
+      "url": "https://takshashila.org.in/content/publications/20230314-rebooting-ai-in-india.html",
+      "title": "Rebooting AI in India",
+      "metadataRaw": "Mar 14, 2023 Shailesh Chitnis",
+      "publishedDate": "2023-03-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-27T03:56:42.069Z",
+      "summary": "India is significantly lagging behind its G20 peers in artificial intelligence development, with a growing disparity between its contributions and those of leading nations like the US and China. The article notes a lack of urgency among Indian policymakers and business leaders despite this widening gap. To jumpstart its AI efforts, the piece proposes launching BharatAI, a privately-funded research and development firm focused on fundamental AI problems. This high-impact initiative, estimated at $250 million over five years, aims to establish India's central hub for AI innovation.",
+      "topics": [
+        "Artificial Intelligence",
+        "Economic Development",
+        "Technology Policy"
+      ],
+      "issues": [
+        "India's AI competitiveness",
+        "National AI strategy"
+      ],
+      "mainIdeas": [
+        "India is currently performing poorly in global AI development and is falling behind other major economies.",
+        "There is an urgent need for India to implement agile and immediate strategies to accelerate its AI capabilities.",
+        "A key proposal is the creation of BharatAI, a privately-funded R&D firm, to become the central hub for fundamental AI innovation in India."
+      ]
+    },
+    {
       "id": "1782447116469p4nl3",
       "url": "https://takshashila.org.in/content/publications/20230309-india-china-border-tactics-talks.html",
       "title": "India-China Border: Tactics, Talks and Transgressions",
@@ -5834,7 +5909,82 @@
         "Boosting research collaboration is a core objective of India's G20 Presidency.",
         "A proposal was submitted to the Indian government detailing steps to speed up this international cooperation."
       ]
+    },
+    {
+      "id": "1782532609808kkehtb",
+      "url": "https://takshashila.org.in/content/publications/20230208-WHO-Pandemic-Treaty.html",
+      "title": "Takshashila Discussion Document – WHO Pandemic Treaty – Proposed Zero Draft – Annotated Explainer",
+      "metadataRaw": "Feb 28, 2023 Saurabh Todi, Shambhavi Naik",
+      "publishedDate": "2023-02-28T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-27T03:56:49.808Z",
+      "summary": "This document introduces an analysis of the \"Zero draft of the WHO CA+\" treaty, which was prepared for the Intergovernmental Negotiating Body's meeting in early 2023. It explains that the full draft treaty is reproduced within the document, accompanied by detailed annotations. These annotations are designed to provide context for readers, highlighting various issues and discussion points within the proposed provisions and summarizing any referenced existing treaties.",
+      "topics": [
+        "Global Health Governance",
+        "International Treaties",
+        "Pandemic Preparedness"
+      ],
+      "issues": [
+        "Review of the WHO Pandemic Treaty draft",
+        "Identifying problematic clauses in international health agreements"
+      ],
+      "mainIdeas": [
+        "The document aims to provide a comprehensive analysis of the proposed WHO pandemic treaty draft for negotiating bodies and interested parties.",
+        "Its primary purpose is to offer context and highlight specific issues or discussion points within the treaty's provisions.",
+        "The analysis includes summaries of related existing agreements and detailed comments on new proposals within the draft treaty."
+      ]
+    },
+    {
+      "id": "1782532621186h5t3l",
+      "url": "https://takshashila.org.in/content/publications/20230224-One-year-of-Russia-Ukraine%20War.html",
+      "title": "Takshashila Issue Brief - One Year of Russia-Ukraine War",
+      "metadataRaw": "Feb 24, 2023 Srikrishna Upadhyaya, Manoj Kewalramani",
+      "publishedDate": "2023-02-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-27T03:57:01.187Z",
+      "summary": "The article reviews the first year of the Russia-Ukraine war, detailing its global impact and complex diplomatic responses. Western nations support Ukraine with aid and sanctions, while China backs Russia, and India maintains a neutral stance to protect its interests. The war has caused humanitarian crises, global economic disruptions, and nuclear threats. The author suggests India should lessen its reliance on Russian military supplies and align its foreign policy with countries that enhance its national security and economic strength.",
+      "topics": [
+        "International Conflict",
+        "Global Diplomacy",
+        "Foreign Policy Analysis"
+      ],
+      "issues": [
+        "Russia-Ukraine War Escalation",
+        "India's Foreign Policy Challenges"
+      ],
+      "mainIdeas": [
+        "The Russia-Ukraine war has created significant global consequences, impacting international relations, economies, and humanitarian efforts, with the serious threat of nuclear escalation.",
+        "Major global players like the US, China, and India have responded to the conflict differently, each navigating the situation based on their national interests and existing relationships.",
+        "For India to truly make independent foreign policy choices, it must diversify its military suppliers away from Russia and align with countries that boost its economic strength and overall national power."
+      ]
+    },
+    {
+      "id": "1782532626516dst50k",
+      "url": "https://takshashila.org.in/content/publications/20230214-chinese-economy-birds-eye-view.html",
+      "title": "Chinese Economy: A Bird’s Eye View",
+      "metadataRaw": "Feb 14, 2023 Amit Kumar, Anushka Saxena",
+      "publishedDate": "2023-02-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-27T03:57:06.516Z",
+      "summary": "The Chinese economy is showing signs of recovery following the end of its strict zero-COVID policy and easing property sector rules, with most financial institutions forecasting around 5% GDP growth. However, despite these positive short-term projections, significant long-term structural challenges persist that are likely to be ignored in the immediate push for growth. Recent policy shifts indicate a focus on stimulating the economy through easier fiscal and monetary policies, supporting sectors like property, and boosting domestic consumption. While some areas like industrial upgrades and green technologies may advance, deeper reforms for issues like social security and fiscal systems are unlikely. Furthermore, while broad economic decoupling isn't happening, foreign confidence in China's policy predictability has been damaged, especially concerning emerging technologies.",
+      "topics": [
+        "Chinese Economy",
+        "Economic Policy",
+        "Global Economic Relations"
+      ],
+      "issues": [
+        "Post-COVID Economic Recovery",
+        "Long-term Structural Economic Reforms"
+      ],
+      "mainIdeas": [
+        "China's economy is expected to grow significantly in the short term after lifting COVID restrictions, but this focus on immediate growth will likely delay necessary long-term structural reforms.",
+        "Current economic policies prioritize boosting confidence, employment, and stability in sectors like property, while critical reforms such as fiscal, tax, and social security enhancements are being postponed.",
+        "While China remains central to the global economy, its policy actions have eroded foreign investor confidence, particularly regarding emerging technologies where friction is increasing."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-26T04:12:07.244Z"
+  "lastUpdated": "2026-06-27T03:57:11.141Z"
 }
