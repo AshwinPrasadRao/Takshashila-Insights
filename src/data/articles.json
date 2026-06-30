@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1782792304338rchdzb",
+      "url": "https://indianexpress.com/article/opinion/columns/global-south-is-becoming-another-india-china-arena-10757821",
+      "title": "Global South is becoming another India-China arena",
+      "metadataRaw": "Jun 26, 2026 Anushka Saxena Indian Express",
+      "publishedDate": "2026-06-26T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-06-30T04:05:04.339Z",
+      "summary": "India and China are increasingly competing for influence among developing nations, often referred to as the \"Global South.\" China is actively asserting its leadership within this group, using a recent White Paper and public statements to promote its \"win-win\" approach and criticize others, including India, for perceived opportunism. Beijing views India's separate summits for these nations without Chinese participation as a direct challenge. The article suggests that India should counter China's narrative by showcasing its practical track record and contributions rather than just engaging in rhetorical competition.",
+      "topics": [
+        "Geopolitics",
+        "International Competition",
+        "Economic Diplomacy"
+      ],
+      "issues": [
+        "India-China Rivalry",
+        "Leadership in Developing Nations"
+      ],
+      "mainIdeas": [
+        "China is aggressively positioning itself as the primary leader and voice for developing nations, often seeking to marginalize India's role.",
+        "China's claims of \"win-win\" cooperation for developing nations sometimes contradict its actual dealings, such as those related to debt and infrastructure projects.",
+        "To effectively compete, India should focus on demonstrating its tangible contributions and reliable partnerships with developing nations rather than just matching China's rhetoric."
+      ]
+    },
+    {
       "id": "1782447024610z6ic2r",
       "url": "https://www.moneycontrol.com/news/opinion/us-iran-talks-an-engagement-based-on-american-delusions-13958313.html",
       "title": "US-Iran talks: An engagement based on American delusions",
@@ -6282,7 +6307,132 @@
         "A new strategy is required to counter modern bioweapon threats, one that emphasizes staying current with technological advancements.",
         "Nations should enhance their domestic health and surveillance systems, lead international conventions, and invest in emerging technologies to deter biosecurity threats."
       ]
+    },
+    {
+      "id": "1782792320473rwslya",
+      "url": "https://takshashila.org.in/content/publications/20230314-Rebooting-AI-in-India.html",
+      "title": "Clingendael Report – Enhancing India–EU Engagement on ‘Meta-Critical’ Technologies: A Case for Collaboration on Semiconductors",
+      "metadataRaw": "Jan 5, 2023 Pranay Kotasthane",
+      "publishedDate": "2023-01-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-30T04:05:20.473Z",
+      "summary": "The article suggests that technology can significantly deepen the partnership between India and the European Union. Both parties are aligned on concerns like digital control and power distribution, share democratic values, and have complementary strengths, with India strong in human capital and the EU in expertise and capital. The India-EU Trade and Technology Council is identified as a crucial platform to forge stronger ties and expand global technology access.",
+      "topics": [
+        "Technology Policy",
+        "International Partnerships",
+        "Trade Relations"
+      ],
+      "issues": [
+        "Digital Sovereignty",
+        "Technology Collaboration"
+      ],
+      "mainIdeas": [
+        "Technology offers a significant avenue for strengthening collaboration between India and the EU.",
+        "India and the EU share common interests, values, and complementary strengths in the technology sector.",
+        "The India-EU Trade and Technology Council is a key mechanism for advancing their tech partnership and global technology access."
+      ]
+    },
+    {
+      "id": "1782792315514zyc5d",
+      "url": "https://takshashila.org.in/content/publications/20230105-Enhancing-India%E2%80%93EU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html",
+      "title": "Clingendael Report – Enhancing India–EU Engagement on ‘Meta-Critical’ Technologies: A Case for Collaboration on Semiconductors",
+      "metadataRaw": "Jan 5, 2023 Pranay Kotasthane",
+      "publishedDate": "2023-01-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-30T04:05:15.514Z",
+      "summary": "The article suggests that technology offers a promising path to strengthen the partnership between India and the European Union. Both parties share common interests in digital sovereignty and democratic values, while also possessing complementary strengths, such as India's human capital and the EU's expertise and infrastructure. The India-EU Trade and Technology Council is identified as a crucial platform to deepen these ties and expand global technology access. This collaboration, especially concerning areas like semiconductors, aims to benefit both regions and the world.",
+      "topics": [
+        "Technology Collaboration",
+        "International Partnerships",
+        "Digital Policy"
+      ],
+      "issues": [
+        "India-EU Technology Engagement",
+        "Semiconductor Collaboration"
+      ],
+      "mainIdeas": [
+        "Technology is a powerful catalyst for aligning India and the EU due to their shared interests, values, and complementary strengths.",
+        "Key areas of convergence include concerns over digital sovereignty and a commitment to democratic values.",
+        "The India-EU Trade and Technology Council is an important forum for fostering deeper collaboration and widening global technology access."
+      ]
+    },
+    {
+      "id": "178279232874668metv",
+      "url": "https://takshashila.org.in/content/publications/20221230-indias-options-against-chinese-aggression.html",
+      "title": "India’s Options against Chinese Military Aggression",
+      "metadataRaw": "Dec 30, 2022 Shrikrishna Upadhyaya",
+      "publishedDate": "2022-12-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-30T04:05:28.746Z",
+      "summary": "Chinese military aggression along the India-China border is a consistent pattern, driven by its territorial claims and a broader aim to project power and deter closer alignments with the U.S. The article argues that India's current defensive approach is insufficient against these incursions. It proposes that India adopt a more assertive strategy, including showing readiness for extended confrontations on land and developing asymmetric responses like cyber warfare. Crucially, India should rebalance its security focus towards the maritime domain in the Indo-Pacific, leveraging its navy and forming alliances to counter China's influence.",
+      "topics": [
+        "India-China Relations",
+        "Military Strategy",
+        "Regional Security"
+      ],
+      "issues": [
+        "Border Disputes",
+        "Geopolitical Power Dynamics"
+      ],
+      "mainIdeas": [
+        "China's repeated military incursions along the India-China border are deliberate and part of a strategy to assert territorial claims and project its global power.",
+        "India must move beyond simply defending its borders and adopt a more proactive military posture, including signaling a willingness to escalate if necessary and developing asymmetric countermeasures.",
+        "Shifting India's strategic focus to strengthening its naval presence and forming alliances in the Indo-Pacific region is a critical way to counter China's growing influence and deter its aggression."
+      ]
+    },
+    {
+      "id": "1782792334808pn81kn",
+      "url": "https://takshashila.org.in/content/publications/20221223-open-tech-strategy-for-india.html",
+      "title": "An Open Tech Strategy for India",
+      "metadataRaw": "Dec 23, 2022 Nitin Pai, Pranay Kotasthane",
+      "publishedDate": "2022-12-23T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-30T04:05:34.808Z",
+      "summary": "This article outlines a proposed open technology strategy for India, highlighting how open-source software, hardware, and standards can drive technological independence, economic growth, and skill development. It suggests specific policy actions for the Indian government, such as prioritizing open-source in its purchases and education, funding open-source projects, and promoting open standards. The document is presented as a draft seeking public feedback and contributions.",
+      "topics": [
+        "Technology Strategy",
+        "Public Policy",
+        "Economic Growth"
+      ],
+      "issues": [
+        "India's tech independence and innovation",
+        "Government use and promotion of open technologies"
+      ],
+      "mainIdeas": [
+        "Adopting an open technology strategy, encompassing software, hardware, and standards, is crucial for India to achieve self-reliance in technology, stimulate its economy, and develop its workforce.",
+        "Key government actions should include mandating open-source first in procurement, funding open-source initiatives, and actively shaping global technology standards.",
+        "This approach also helps build public trust and ensures broader access to technology, aligning with democratic principles."
+      ]
+    },
+    {
+      "id": "1782792342514za8ife",
+      "url": "https://takshashila.org.in/content/publications/20221130-Takshashila-Issue-Brief-Chinas-Zero-COVID-Policy-Protests.html",
+      "title": "Takshashila Issue Brief - China’s Zero COVID Policy & Protests",
+      "metadataRaw": "Nov 30, 2022 Shrikrishna Upadhyaya, Harshit Kukreja",
+      "publishedDate": "2022-11-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-06-30T04:05:42.515Z",
+      "summary": "Widespread protests have erupted across China against the government's strict \"Zero-COVID\" policy, which has caused significant social and economic disruption. This policy, characterized by harsh lockdowns and mass testing, is deeply tied to the Chinese leadership's perceived legitimacy and its narrative of successful pandemic control. While the government has responded with censorship and some localized easing, a complete shift away from the policy is not expected immediately, though further adjustments and a gradual reopening are likely, with a focus on vaccinating vulnerable populations.",
+      "topics": [
+        "Public Health Policy",
+        "Government Governance",
+        "Social Unrest"
+      ],
+      "issues": [
+        "China's Zero-COVID Policy",
+        "Government Response to Dissent"
+      ],
+      "mainIdeas": [
+        "China's stringent \"Zero-COVID\" policy is facing unprecedented public protests due to its severe impact on daily life and the economy, challenging the government's authority.",
+        "The policy is critical for the Chinese leadership's legitimacy and its narrative of effective governance, making a complete abandonment politically difficult despite growing internal and external pressure.",
+        "While protests may lead to gradual policy adjustments and a slow opening, a full pivot away from the \"Zero-COVID\" approach is unlikely in the short term, with the focus shifting towards targeted vaccination efforts for vulnerable groups."
+      ]
     }
   ],
-  "lastUpdated": "2026-06-29T04:26:15.125Z"
+  "lastUpdated": "2026-06-30T04:05:46.641Z"
 }
