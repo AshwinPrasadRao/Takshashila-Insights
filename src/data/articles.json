@@ -6559,6 +6559,31 @@
       ]
     },
     {
+      "id": "1782964847774zslmlg",
+      "url": "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter.html",
+      "title": "Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of India’s Defence Financing",
+      "metadataRaw": "Nov 7, 2022 Pranay Kotasthane",
+      "publishedDate": "2022-11-07T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-02T04:00:47.774Z",
+      "summary": "India's defense budget is facing severe constraints due to a decade of slow economic growth, made worse by the recent pandemic. This has led the government to prioritize other spending over defense, effectively reducing its share of the national budget. A major issue is that rising personnel costs, especially military pensions, are now absorbing funds desperately needed for buying new equipment and modernizing the armed forces. As a result, India is struggling to fund essential military upgrades, even as it faces increasing security threats.",
+      "topics": [
+        "National Security Funding",
+        "Economic Policy",
+        "Military Resources"
+      ],
+      "issues": [
+        "India's Defence Budget Shortfalls",
+        "Funding for Military Modernization"
+      ],
+      "mainIdeas": [
+        "India's economy has been weak for a decade, and the pandemic has worsened this, leading to reduced overall funds for government spending, including defense.",
+        "The government has been allocating a smaller portion of its total budget to defense, choosing to spend more on other areas when faced with limited resources.",
+        "A significant portion of the defense budget is being consumed by salaries and pensions, leaving little money for buying new weapons or upgrading military equipment, which is critical for national security."
+      ]
+    },
+    {
       "id": "1782879715490iojzs",
       "url": "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-India%E2%80%99s-Defence-Financing.html",
       "title": "Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of India’s Defence Financing",
@@ -6582,7 +6607,83 @@
         "Rising personnel costs, especially defense pensions, are crowding out capital expenditure needed for modernizing India's armed forces and acquiring new defense platforms.",
         "Despite increasing security threats, particularly from China, India lacks the financial space for rapid military modernization without significant, non-incremental reforms to its defense financing strategy."
       ]
+    },
+    {
+      "id": "1782964861960s0vn2x",
+      "url": "https://takshashila.org.in/content/publications/20221104-Examining-the-Opportunities-and-Challenges-for-India%E2%80%99s-Human-Spaceflight-Programme.html",
+      "title": "Takshashila Discussion Document - Examining the Opportunities and Challenges for India’s Human Spaceflight Programme",
+      "metadataRaw": "Nov 4, 2022 Pranav R Satyanath",
+      "publishedDate": "2022-11-04T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-02T04:01:01.960Z",
+      "summary": "India's human spaceflight program, which began with Gaganyaan in 2018, is now looking to establish a space station in low-Earth orbit. This analysis explores different ways India can achieve this, including international partnerships and the role of private companies. It suggests that India has strong potential to collaborate with Japan and Australia, while direct government collaboration with the US is less likely due to differing national priorities. India faces a strategic choice between building its own station, partnering with others, or simply purchasing space services from other countries.",
+      "topics": [
+        "Space Exploration",
+        "International Cooperation",
+        "Technology Development"
+      ],
+      "issues": [
+        "India's Space Program Expansion",
+        "Funding and Partnerships for Space Projects"
+      ],
+      "mainIdeas": [
+        "India's next major goal in space is to establish its own space station in Earth's orbit, building on its human spaceflight program.",
+        "Working with other countries, particularly Japan and Australia, offers a strong and practical path for India to develop a space station.",
+        "Private companies are increasingly important in the development of space stations, creating new collaboration opportunities for India.",
+        "India must decide between costly independent development, forming international partnerships, or simply buying space station services from other nations."
+      ]
+    },
+    {
+      "id": "1782964869016b3e3ft",
+      "url": "https://takshashila.org.in/content/publications/20221003-Biotechnology-Initiative-for-India.html",
+      "title": "Takshashila Issue Brief - Biotechnology Initiative for India",
+      "metadataRaw": "Oct 3, 2022 Srikrishna Upadhyaya, Shambhavi Naik",
+      "publishedDate": "2022-10-03T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-02T04:01:09.016Z",
+      "summary": "The U.S. government has launched a national initiative to boost its biotechnology and biomanufacturing sectors, aiming to accelerate innovation and grow its bioeconomy across various industries. This creates a significant opportunity for India to strengthen its own biotech industry, aspiring to become both self-reliant and a global export leader. The article outlines India's high-level strategy for achieving this, which includes economic value drivers, strategic public investments, and regulatory reforms. It also emphasizes the potential for collaboration in biotechnology with partners like the Quad countries.",
+      "topics": [
+        "Biotechnology Industry",
+        "National Economic Strategy",
+        "International Cooperation"
+      ],
+      "issues": [
+        "Strengthening India's Biotechnology Sector",
+        "Global Biomanufacturing and Supply Chain Development"
+      ],
+      "mainIdeas": [
+        "The U.S. is making substantial investments to expand its domestic biotechnology and biomanufacturing capacity.",
+        "India has a prime opportunity to become a global biotech leader by implementing specific strategies, including financial incentives, public funding, and regulatory improvements.",
+        "There is significant potential for India to collaborate on advanced biotechnology with the U.S. and other Quad member countries."
+      ]
+    },
+    {
+      "id": "1782964877224x2lm2s",
+      "url": "https://takshashila.org.in/content/publications/20220926-TDS-AI-Hardware-Ecosystem-in-India.html",
+      "title": "Takshashila Discussion SlideDoc - An AI Hardware Ecosystem in India: A SWOT Analysis",
+      "metadataRaw": "Sep 26, 2022 Arjun Gargeyas, Anup Rajput, Samparna Tripathy",
+      "publishedDate": "2022-09-26T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-02T04:01:17.224Z",
+      "summary": "This document explores how India can develop its domestic AI hardware capabilities, analyzing global trends like the shift towards specialized AI chips. It identifies India's strengths in semiconductor design but points out weaknesses in research, supply chains, and investment climate. The article proposes key policy priorities, including establishing a dedicated manufacturing facility for AI inference chips, supporting open-source design, and fostering international collaboration. This approach aims to leverage AI hardware for practical policy solutions across important sectors.",
+      "topics": [
+        "Technology Policy",
+        "Economic Development",
+        "International Cooperation"
+      ],
+      "issues": [
+        "India's AI Hardware Strategy",
+        "Global Semiconductor Competition"
+      ],
+      "mainIdeas": [
+        "India has a significant opportunity to build its own AI hardware industry by focusing on application-specific chips and utilizing its existing design expertise.",
+        "A comprehensive national policy is essential to overcome current weaknesses in research and development, supply chain infrastructure, and investment.",
+        "Strategic international partnerships, especially with the US and Quad nations, are crucial for integrating India's AI hardware efforts into the global technological landscape."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-01T04:21:59.357Z"
+  "lastUpdated": "2026-07-02T04:01:21.053Z"
 }
