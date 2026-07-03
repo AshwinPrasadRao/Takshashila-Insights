@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "17830503140624p8htv",
+      "url": "https://www.moneycontrol.com/news/opinion/why-indian-companies-spend-less-on-research-13961796.html",
+      "title": "Why Indian companies spend less on research",
+      "metadataRaw": "Jun 30, 2026 Arindam Goswami Moneycontrol",
+      "publishedDate": "2026-06-30T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-03T03:45:14.063Z",
+      "summary": "The article argues that India's low research and development (R&D) spending by companies is primarily a problem of firm size and sector, rather than a lack of willingness to invest. Most Indian firms are too small to fund cutting-edge research or operate in industries that don't require it, unlike global giants. The author suggests that simply demanding higher R&D percentages is ineffective; instead, India needs to focus on fostering the growth of larger, high-value businesses, both through exports and increased domestic income, which will naturally lead to higher R&D investments.",
+      "topics": [
+        "Business & Economics",
+        "Innovation & Technology",
+        "Corporate Strategy"
+      ],
+      "issues": [
+        "Low R&D investment by Indian companies",
+        "Strategies for fostering economic growth and innovation in India"
+      ],
+      "mainIdeas": [
+        "Indian companies spend less on R&D mainly because most are too small or operate in sectors where extensive research is not a core requirement.",
+        "Significant R&D investment capacity is directly linked to a firm's revenue scale and its position in high-value, technology-intensive sectors.",
+        "To boost R&D, India should prioritize building larger, high-value businesses through exports or a growing domestic market for sophisticated goods, rather than just urging existing firms to increase their R&D-to-sales ratios."
+      ]
+    },
+    {
       "id": "1782792304338rchdzb",
       "url": "https://indianexpress.com/article/opinion/columns/global-south-is-becoming-another-india-china-arena-10757821",
       "title": "Global South is becoming another India-China arena",
@@ -6635,6 +6660,56 @@
       ]
     },
     {
+      "id": "1783050325248738npd",
+      "url": "https://takshashila.org.in/content/publications/20221012-Womens-Labour-Force-Participation.html",
+      "title": "Takshashila Discussion Document - Women’s Labour Force Participation in India",
+      "metadataRaw": "Oct 12, 2022 Sudisha Mishra, Sridhar Krishna",
+      "publishedDate": "2022-10-12T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-03T03:45:25.248Z",
+      "summary": "Women's participation in India's workforce has significantly declined over the last two decades. This drop is attributed to a combination of factors, including limited job types, increased education levels, lack of technology access, and automation in agriculture. This trend is damaging to India's economic health, as a large segment of its potential workforce is not employed. The article advocates for a major policy revolution to address these social, economic, and financial issues for women, drawing inspiration from Bangladesh's success.",
+      "topics": [
+        "Economic Development",
+        "Social Policy",
+        "Gender Equality"
+      ],
+      "issues": [
+        "Women's Labor Force Participation in India",
+        "Economic Growth Constraints"
+      ],
+      "mainIdeas": [
+        "India is experiencing a substantial and economically detrimental decline in women's workforce participation.",
+        "This decline is caused by a complex interplay of social, educational, and technological factors, alongside job market changes.",
+        "A fundamental policy shift is required to remove barriers preventing women from entering and staying in the workforce, with lessons potentially drawn from other countries like Bangladesh."
+      ]
+    },
+    {
+      "id": "17830503322877j2577",
+      "url": "https://takshashila.org.in/content/publications/20221003-Comments-on-the-Draft-Drugs-Medical-Devices-And-Cosmetics-Bill-2022.html",
+      "title": "Takshashila Policy Advisory - Comments on the Draft Drugs, Medical Devices And Cosmetics Bill, 2022",
+      "metadataRaw": "Oct 3, 2022 Dr Harshit Kukreja, Shambhavi Naik",
+      "publishedDate": "2022-10-03T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-03T03:45:32.287Z",
+      "summary": "The Takshashila Policy Advisory reviewed India's Draft Drugs, Medical Devices And Cosmetics Bill, 2022, which aims to update regulations for the pharmaceutical sector. While supporting the goal of improving drug quality, the advisory highlighted several areas for improvement. Recommendations include privatizing drug testing, bringing health supplements and traditional medicines under stricter quality control, and implementing post-market surveillance for adverse effects. The advisory also called for stronger enforcement through clear manufacturing guidelines and increased penalties for low-quality drugs.",
+      "topics": [
+        "Healthcare Policy",
+        "Pharmaceutical Regulation",
+        "Public Safety"
+      ],
+      "issues": [
+        "Drug Quality Standards",
+        "Regulatory Oversight Gaps"
+      ],
+      "mainIdeas": [
+        "The new bill needs to be more comprehensive by including health supplements and applying consistent quality standards to traditional medicines.",
+        "The government should outsource drug testing to the private sector to improve efficiency and testing capacity.",
+        "Stronger enforcement measures, including mandatory post-market surveillance and harsher penalties for poor-quality drugs, are essential to protect public health."
+      ]
+    },
+    {
       "id": "1782964869016b3e3ft",
       "url": "https://takshashila.org.in/content/publications/20221003-Biotechnology-Initiative-for-India.html",
       "title": "Takshashila Issue Brief - Biotechnology Initiative for India",
@@ -6683,7 +6758,82 @@
         "A comprehensive national policy is essential to overcome current weaknesses in research and development, supply chain infrastructure, and investment.",
         "Strategic international partnerships, especially with the US and Quad nations, are crucial for integrating India's AI hardware efforts into the global technological landscape."
       ]
+    },
+    {
+      "id": "1783050340531symm5o",
+      "url": "https://takshashila.org.in/content/publications/20220918-An-Indian-Approach-to-Technology-Diplomacy.html",
+      "title": "Takshashila Discussion Document - An Indian Approach to Technology Diplomacy",
+      "metadataRaw": "Sep 18, 2022 Arjun Gargeyas",
+      "publishedDate": "2022-09-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-03T03:45:40.531Z",
+      "summary": "Technology has become a central element in foreign policy, driven by national growth, unique advantages, and supply chain dependencies. This document proposes that India adopt a comprehensive 'techplomacy' strategy. The aim is for India to use its technological capabilities as a credible diplomatic tool to advance its national and global interests.",
+      "topics": [
+        "Technology",
+        "Foreign Policy",
+        "India"
+      ],
+      "issues": [
+        "India's technology diplomacy strategy",
+        "Leveraging technology for geopolitical influence"
+      ],
+      "mainIdeas": [
+        "India should identify and use its technology strengths to gain diplomatic leverage.",
+        "India needs to rethink strict self-reliance in new technologies and instead lead international cooperation efforts.",
+        "India can learn from China's approach to using technology to expand its global influence and boost domestic technological development simultaneously."
+      ]
+    },
+    {
+      "id": "1783050344988pj2k7i",
+      "url": "https://takshashila.org.in/content/publications/20220905-Public-Access-to-Knowledge-Resources.html",
+      "title": "Takshashila Issue Brief - Public Access to Knowledge Resources",
+      "metadataRaw": "Sep 5, 2022 Shrikrishna Upadhyaya",
+      "publishedDate": "2022-09-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-03T03:45:44.988Z",
+      "summary": "The article discusses the global movement towards making publicly funded research freely accessible, referencing a new US mandate for immediate open access to all federal agency research. It then examines India's current, more limited, open access policy, which only covers research from two government departments and struggles with high subscription fees from international publishers. To address these gaps, the article proposes that India establish a National Public Research Database (NPRD) and develop a family of high-quality, open-access journals to ensure broad public access to domestic research and create credible local publishing alternatives.",
+      "topics": [
+        "Open Access",
+        "Research Policy",
+        "Public Information"
+      ],
+      "issues": [
+        "Access to publicly funded research",
+        "High cost of academic journal subscriptions"
+      ],
+      "mainIdeas": [
+        "The US has significantly advanced the open access movement by mandating immediate public availability for all taxpayer-funded research.",
+        "India's current open access policies are insufficient, being limited in scope and failing to overcome the financial barriers posed by international academic publishers.",
+        "India should implement a comprehensive national strategy, including a central research database and the establishment of high-quality open journals, to provide broad public access to research and develop a strong domestic publishing platform."
+      ]
+    },
+    {
+      "id": "1783050349861vu4kq8",
+      "url": "https://takshashila.org.in/content/publications/20220828-Sri-Lankas-Economic-Crisis.html",
+      "title": "Takshashila Case Study - Sri Lanka’s Economic Crisis",
+      "metadataRaw": "Aug 28, 2022 Aarushi Kataria, Anupam Manur, Sarthak Pradhan",
+      "publishedDate": "2022-08-28T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-03T03:45:49.861Z",
+      "summary": "Sri Lanka's economic crisis, which escalated in 2022, led to widespread public protests due to severe shortages of food, fuel, and other essentials, high inflation, and a collapsing job market. The crisis has deep roots in the country's history, including a lack of industrial growth, the financial burden of its civil war, and economic policies favoring one group. Recent terror attacks and the pandemic further damaged the crucial tourism sector, exacerbating the problem. A significant shift towards expensive foreign loans also contributed to the country's economic downfall, offering valuable lessons for other developing nations on debt management and sound economic policies.",
+      "topics": [
+        "Economics",
+        "Developing Nations",
+        "Government Policy"
+      ],
+      "issues": [
+        "Sri Lanka's Economic Crisis",
+        "National Debt Management"
+      ],
+      "mainIdeas": [
+        "Sri Lanka's economic collapse is a result of long-standing issues like insufficient industrialization and the cost of civil conflict, compounded by recent global events and poor policy decisions.",
+        "A key factor in the crisis was the country's increasing reliance on costly foreign debt, making it highly vulnerable to economic shocks.",
+        "The Sri Lankan experience provides important lessons for other developing economies, highlighting the need to diversify income, avoid irresponsible tax cuts, control public spending, and manage debt carefully."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-02T04:01:21.053Z"
+  "lastUpdated": "2026-07-03T03:45:54.454Z"
 }
