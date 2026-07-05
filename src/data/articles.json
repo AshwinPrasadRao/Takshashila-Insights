@@ -6960,6 +6960,31 @@
       ]
     },
     {
+      "id": "1783223788592eelg8",
+      "url": "https://takshashila.org.in/content/publications/20220810-the-rise-of-monkeypox-in-india.html",
+      "title": "The Rise of Monkeypox in India",
+      "metadataRaw": "Aug 10, 2022 Harshit Kukreja",
+      "publishedDate": "2022-08-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-05T03:56:28.592Z",
+      "summary": "Monkeypox is an emerging health threat in India, with cases reported as part of a larger global outbreak that led the WHO to declare it a Public Health Emergency. The virus's spread is attributed to declining immunity from stopped smallpox vaccinations and potential viral mutations. While less infectious than COVID-19, it poses a risk, particularly in resource-deficient regions. The article outlines necessary government actions for India, including targeted vaccinations, improved testing, and public education campaigns.",
+      "topics": [
+        "Public Health",
+        "Disease Management",
+        "Government Policy"
+      ],
+      "issues": [
+        "Monkeypox Outbreak",
+        "Epidemic Preparedness"
+      ],
+      "mainIdeas": [
+        "Monkeypox represents a new health challenge for India and the world, largely due to a widespread lack of smallpox immunity.",
+        "Despite being less contagious than COVID-19, the virus requires proactive measures to prevent its significant spread and potential harm.",
+        "Key government responses should include focused vaccination efforts, enhancing diagnostic capabilities, public awareness, and establishing a national system to monitor infectious diseases."
+      ]
+    },
+    {
       "id": "1783136306551fmbtaf",
       "url": "https://takshashila.org.in/content/publications/20220810-Takshashila-Issue-Brief-The-Rise-of-Monkeypox-in-India.html",
       "title": "Takshashila Issue Brief - The Rise of Monkeypox in India",
@@ -6983,7 +7008,132 @@
         "Though less contagious than COVID-19, monkeypox still presents a serious risk, and countries like India need to prepare for its potential impact.",
         "Effective government responses include targeted vaccinations for close contacts, improving diagnostic testing and healthcare worker training, and implementing public information campaigns."
       ]
+    },
+    {
+      "id": "1783223796895np3saq",
+      "url": "https://takshashila.org.in/content/publications/20220805-Killing-of-al-Zawahiri-Raises%20-More-Questions-than-Provides-Answers.html",
+      "title": "Takshashila Issue Brief - Killing of al-Zawahiri Raises More Questions than Provides Answers",
+      "metadataRaw": "Aug 5, 2022 Srikrishna Upadhyaya, Anand Arni, Pranay Kotasthane",
+      "publishedDate": "2022-08-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-05T03:56:36.895Z",
+      "summary": "Ayman al-Zawahiri, the leader of al-Qaeda, was reportedly killed by a US drone strike in Kabul, Afghanistan. This event strongly suggests the Taliban has not honored its counter-terrorism commitments made in the Doha Agreement, as he was found in their capital. The article raises questions about the Haqqani Network's role, given its strong ties to Pakistan's intelligence services, and speculates that complex dealings might have been involved in al-Zawahiri's presence or even his killing.",
+      "topics": [
+        "Global Terrorism",
+        "Regional Politics",
+        "US Foreign Policy"
+      ],
+      "issues": [
+        "Taliban's failure to meet counter-terrorism pledges",
+        "Pakistan's alleged support for extremist groups"
+      ],
+      "mainIdeas": [
+        "The killing of al-Zawahiri in Kabul indicates the Taliban has not fulfilled its promise to prevent terror groups from operating in Afghanistan.",
+        "The powerful Haqqani Network, a key part of the Taliban government and closely linked to Pakistan's intelligence, likely knew about or facilitated al-Zawahiri's presence.",
+        "There is reason to suspect that Pakistan and the Haqqanis might have been involved in the events surrounding al-Zawahiri's death, possibly seeking strategic benefits or concessions."
+      ]
+    },
+    {
+      "id": "1783223813002gezwm8",
+      "url": "https://takshashila.org.in/content/publications/20220722-Restarting-the-Post-Pandemic-Indian-Economy.html",
+      "title": "Takshashila-Hudson Blue Paper - Restarting the Post-Pandemic Indian Economy",
+      "metadataRaw": "Jul 22, 2022 Aparna Pande, Pranay Kotasthane, Sarthak Pradhan",
+      "publishedDate": "2022-07-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-05T03:56:53.002Z",
+      "summary": "This report outlines how India can restart its post-pandemic economy by strengthening its partnership with the United States. It recommends that India simplify trade rules and attract more foreign investment by removing protectionist barriers. The report also calls for greater technological cooperation between the two nations on digital security and defense, along with better opportunities for skilled workers to move between India and the US. These steps aim to unlock mutual economic and strategic benefits.",
+      "topics": [
+        "Economic Growth",
+        "Bilateral Cooperation",
+        "Trade and Investment"
+      ],
+      "issues": [
+        "India's Regulatory Environment for Business",
+        "US-India Technology and Security Partnership"
+      ],
+      "mainIdeas": [
+        "India must urgently implement economic reforms, such as reducing trade barriers and simplifying investment rules, to attract foreign capital and achieve its growth potential.",
+        "The United States and India should increase collaboration across technology, defense, and trade to counter global challenges and build resilient supply chains.",
+        "Both countries stand to gain by making it easier for skilled professionals and talent to move and collaborate, addressing labor needs and fostering innovation."
+      ]
+    },
+    {
+      "id": "1783223803906b2u0zgq",
+      "url": "https://takshashila.org.in/content/publications/20220722-India-US-Relationship-from-Strength-to-Strength.html",
+      "title": "Takshashila Issue Brief - Growing India-U.S. Relationship from Strength to Strength",
+      "metadataRaw": "Jul 22, 2022 Shrikrishna Upadhyaya",
+      "publishedDate": "2022-07-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-05T03:56:43.906Z",
+      "summary": "This article highlights the growing strategic partnership between India and the U.S., particularly in the context of Indian Prime Minister Modi's state visit. It argues for India to pursue even stronger ties to advance its strategic and economic goals amidst global power competition. The brief emphasizes expanding cooperation in areas like defence, emerging technology, and space, and sets an ambitious target for bilateral trade. Ultimately, it advocates for deepening the relationship as beneficial for India's national interests.",
+      "topics": [
+        "International Relations",
+        "Bilateral Trade",
+        "Defense & Technology"
+      ],
+      "issues": [
+        "Strengthening India-U.S. Partnership",
+        "Global Power Competition"
+      ],
+      "mainIdeas": [
+        "India should proactively strengthen its strategic and economic ties with the U.S., leveraging the current global environment to its advantage.",
+        "A primary goal of the partnership should be to boost bilateral trade significantly, with a proposed target of $1 trillion by 2040, alongside enhanced cooperation in defense and emerging technologies.",
+        "Concerns about India losing foreign policy independence through closer U.S. ties are unfounded; instead, the partnership can offer India greater negotiation power and help achieve its national objectives."
+      ]
+    },
+    {
+      "id": "1783223819370iy5bzi",
+      "url": "https://takshashila.org.in/content/publications/20220721-xis-military-reforms-efficacy.html",
+      "title": "Xi’s Military Reforms and its Efficacy in Furthering China’s National Security Objectives",
+      "metadataRaw": "Jul 21, 2022 Suyash Desai, Manoj Kewalramani",
+      "publishedDate": "2022-07-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-05T03:56:59.370Z",
+      "summary": "Chinese President Xi Jinping initiated major military reforms in late 2015 with the goal of modernizing the People's Liberation Army (PLA) and making it a world-class force by 2049. These reforms aimed to remove obstacles and boost the PLA's combat effectiveness. However, an assessment indicates that while the reforms have made the PLA a stronger regional force, they have only had a limited impact on preparing it to meet key strategic and security objectives. The article suggests there is still significant work required for these reforms to fully achieve their intended outcomes.",
+      "topics": [
+        "China",
+        "Military Affairs",
+        "National Security"
+      ],
+      "issues": [
+        "China's Military Modernization Efforts",
+        "Effectiveness of Military Reforms"
+      ],
+      "mainIdeas": [
+        "China launched significant military reforms in 2015 to modernize the PLA and enhance its combat readiness.",
+        "The reforms are intended to transform the PLA into a top-tier global military by 2049.",
+        "Despite making the PLA a better-equipped regional force, the reforms have not yet fully prepared it to meet China's broader strategic and national security goals."
+      ]
+    },
+    {
+      "id": "17832238246895977w",
+      "url": "https://takshashila.org.in/content/publications/20220705-Nutritional-Outcomes-in-Karnataka-Analysis-and-Recommendations.html",
+      "title": "Takshashila Discussion Document - Nutritional Outcomes in Karnataka: Analysis and Recommendations",
+      "metadataRaw": "Jul 5, 2022 Shambhavi Naik, Harshit Kukreja",
+      "publishedDate": "2022-07-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-05T03:57:04.689Z",
+      "summary": "Karnataka continues to struggle with poor nutritional outcomes, showing minimal improvement over the past decade in key indicators like child stunting, wasting, and infant mortality. An analysis of existing government programs and health data highlights the need for significant changes. The main recommendations focus on improving data collection and measuring the true impact of schemes, reducing the heavy burden on Anganwadi workers, and updating interventions based on current evidence.",
+      "topics": [
+        "Public Health",
+        "Child Development",
+        "Government Policy"
+      ],
+      "issues": [
+        "Child Malnutrition",
+        "Program Effectiveness"
+      ],
+      "mainIdeas": [
+        "Nutritional health indicators in Karnataka have shown negligible improvement for children over the last decade.",
+        "The state needs better data collection and methods to measure the actual impact of its nutrition-related programs.",
+        "Reducing the workload on Anganwadi staff and introducing new, evidence-based interventions are crucial for improving nutrition outcomes."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-04T03:38:29.536Z"
+  "lastUpdated": "2026-07-05T03:57:08.422Z"
 }
