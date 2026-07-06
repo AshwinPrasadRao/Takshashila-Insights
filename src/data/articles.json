@@ -7110,6 +7110,31 @@
       ]
     },
     {
+      "id": "17833105877543a9zgq",
+      "url": "https://takshashila.org.in/content/publications/20220705-nutritional-outcomes-in-karnataka-analysis-and-recommendations.html",
+      "title": "Nutritional Outcomes in Karnataka: Analysis and Recommendations",
+      "metadataRaw": "Jul 5, 2022 Shambhavi Naik, Harshit Kukreja",
+      "publishedDate": "2022-07-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-06T04:03:07.754Z",
+      "summary": "Karnataka has seen minimal improvement in nutritional outcomes over the last decade, with child stunting and wasting rates remaining largely unchanged. Infant and under-five mortality rates have also shown only slight reductions. An analysis of current nutrition indicators and government programs suggests a need for significant modifications. Key recommendations include improving data collection, reducing dependence on the Anganwadi workforce, and updating interventions based on new evidence.",
+      "topics": [
+        "Public Health",
+        "Nutrition",
+        "Government Policy"
+      ],
+      "issues": [
+        "Poor Nutritional Outcomes in Karnataka",
+        "Effectiveness of Public Health Programs"
+      ],
+      "mainIdeas": [
+        "Nutritional health indicators in Karnataka have shown little to no significant improvement over the past decade.",
+        "Better data collection and measurement of program impact are essential to improve nutritional outcomes.",
+        "Government interventions need modification, including reducing reliance on the Anganwadi workforce and incorporating current evidence into strategies."
+      ]
+    },
+    {
       "id": "17832238246895977w",
       "url": "https://takshashila.org.in/content/publications/20220705-Nutritional-Outcomes-in-Karnataka-Analysis-and-Recommendations.html",
       "title": "Takshashila Discussion Document - Nutritional Outcomes in Karnataka: Analysis and Recommendations",
@@ -7133,7 +7158,132 @@
         "The state needs better data collection and methods to measure the actual impact of its nutrition-related programs.",
         "Reducing the workload on Anganwadi staff and introducing new, evidence-based interventions are crucial for improving nutrition outcomes."
       ]
+    },
+    {
+      "id": "1783310593349zzdh2",
+      "url": "https://takshashila.org.in/content/publications/20220615-The-Role-of-Semiconductors-in-Military-and-Defence-Technology.html",
+      "title": "CAPS Journal Article - The Role of Semiconductors in Military and Defence Technology",
+      "metadataRaw": "Jun 15, 2022 Arjun Gargeyas",
+      "publishedDate": "2022-06-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-06T04:03:13.349Z",
+      "summary": "Semiconductors are a critical area of competition between countries and are essential for modern military and defense technology. Countries rely on these components to build advanced military systems. India, specifically, is increasing its domestic defense production and semiconductor supply chain, making it vital to understand how these technologies improve its military and national security. The article highlights that the specific impact of semiconductors on military tech is often overlooked but crucial.",
+      "topics": [
+        "Technology",
+        "Defense",
+        "Global Competition"
+      ],
+      "issues": [
+        "Semiconductor Supply Chains",
+        "Military Technology Advancement"
+      ],
+      "mainIdeas": [
+        "Modern military and defense systems fundamentally rely on semiconductors.",
+        "Control over semiconductor technology is a key factor in today's global competition.",
+        "India must understand and leverage the importance of semiconductors to strengthen its national defense."
+      ]
+    },
+    {
+      "id": "17833105974426z1ts9",
+      "url": "https://takshashila.org.in/content/publications/20220613-Takshashila-Techno-Strategic-Doctrine.html",
+      "title": "Takshashila Doctrine Document - A Techno-Strategic Doctrine for India",
+      "metadataRaw": "Jun 13, 2022 By the Takshashila High Tech Geopolitics Department",
+      "publishedDate": "2022-06-13T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-06T04:03:17.442Z",
+      "summary": "This document outlines India's \"Techno-Strategic Doctrine,\" which positions technology as crucial for the nation's development, power, and prosperity in the Information Age. It aims to establish India as a major global power by investing in advanced scientific and technological capabilities and leveraging them for national goals and sustainability. Key approaches include developing a vast talent pool, advocating for open technology, and fostering international cooperation to ensure access to essential resources, while also protecting citizen rights and data.",
+      "topics": [
+        "Technology Policy",
+        "National Strategy",
+        "Economic Development"
+      ],
+      "issues": [
+        "Technological Independence",
+        "Global Technology Governance"
+      ],
+      "mainIdeas": [
+        "Technology is fundamental to India's national power, development, and the overall prosperity of its citizens.",
+        "India plans to become a leading global power by investing significantly in science and technology, building a large pool of talent, and leveraging these capabilities for national objectives.",
+        "The country will champion open technologies and international collaboration to secure access to resources, while also protecting its technological independence and the digital rights of its citizens."
+      ]
+    },
+    {
+      "id": "17833106021294xje16",
+      "url": "https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayog%E2%80%99s-Draft-Battery-Swapping-Policy.html",
+      "title": "Takshashila Policy Advisory - Comments on NITI Aayog’s Draft Battery Swapping Policy",
+      "metadataRaw": "Jun 9, 2022 Pranay Kotasthane",
+      "publishedDate": "2022-06-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-06T04:03:22.129Z",
+      "summary": "This article provides feedback on India's Draft Battery Swapping Policy, highlighting areas needing improvement. It recommends strengthening safety guidelines to include fire safety and shipping procedures, mandating specific compliance standards for Electric Vehicles and batteries, and clarifying data privacy measures for remote monitoring. The commentary also emphasizes the need for a clear mechanism for assigning liability among battery providers, manufacturers, and users, and suggests removing self-certification to enhance safety. Finally, it proposes increasing inspection capacity through private agencies and establishing a unified council with representatives from various government ministries for better coordination and implementation.",
+      "topics": [
+        "Electric Vehicles (EVs)",
+        "Public Policy",
+        "Infrastructure"
+      ],
+      "issues": [
+        "EV Battery Swapping Policy Gaps",
+        "Regulatory Framework for EVs"
+      ],
+      "mainIdeas": [
+        "The Draft Battery Swapping Policy needs clearer and more comprehensive guidelines on safety, technical standards, and data privacy to ensure a robust and secure battery swapping ecosystem.",
+        "The policy must define clear liability frameworks for all stakeholders and avoid self-certification to prevent safety risks.",
+        "Effective implementation requires increasing inspection capacity, potentially through private agencies, and establishing a multi-stakeholder council for coordinated oversight and decision-making."
+      ]
+    },
+    {
+      "id": "1783310607943b31ohg",
+      "url": "https://takshashila.org.in/content/publications/20220606-How-States%20-Negotiated-in-the-UN%E2%80%99s-OEWG-on-Space-Threats.html",
+      "title": "Takshashila Discussion Document - How States Negotiated in the UN’s OEWG on Space Threats",
+      "metadataRaw": "Jun 6, 2022 Pranav R Satyanath",
+      "publishedDate": "2022-06-06T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-06T04:03:27.943Z",
+      "summary": "The UN's Open-ended Working Group recently met to discuss reducing threats in space, revealing significant disagreements among nations on several fronts. Key areas of contention include defining what constitutes a space weapon or threat, establishing clear guidelines for responsible behavior in space, and agreeing on whether existing international laws apply to activities in outer space. There is also a debate about whether space security issues should be kept separate from discussions about managing space debris. The discussions highlighted a division, with Western states preferring non-legally binding measures and Russia and China pushing for legally binding treaties.",
+      "topics": [
+        "Space Security",
+        "International Relations",
+        "Arms Control"
+      ],
+      "issues": [
+        "Regulation of Space Weapons",
+        "International Cooperation on Space Use"
+      ],
+      "mainIdeas": [
+        "Nations disagree on fundamental aspects of space security, including defining threats, identifying responsible behaviors, and applying international law to space.",
+        "There is a clear divide between countries favoring non-binding guidelines for space conduct and those advocating for formal, legally-binding international treaties.",
+        "The discussions revealed a lack of consensus on whether space security should be treated distinctly from space sustainability and debris management."
+      ]
+    },
+    {
+      "id": "17833106139459jewqa",
+      "url": "https://takshashila.org.in/content/publications/20220503-Harnessing-trade-policies-to-build-Indias-semiconductor-industry.html",
+      "title": "Harnessing Trade Policy to Build India’s Semiconductor Industry",
+      "metadataRaw": "May 30, 2022 Pranay Kotasthane, Arjun Gargeyas",
+      "publishedDate": "2022-05-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-06T04:03:33.945Z",
+      "summary": "India has committed nearly $10 billion to develop its domestic semiconductor industry through national programs and industrial policies. However, the article highlights that relying solely on these policies may not be effective. Instead, it argues that trade policies and technology transfers are crucial for building a successful semiconductor ecosystem, drawing lessons from countries like Taiwan and Japan. India would benefit from a deeper understanding and utilization of these tools to achieve its goals in the microchip sector.",
+      "topics": [
+        "Technology",
+        "Trade Policy",
+        "Economic Development"
+      ],
+      "issues": [
+        "India's Semiconductor Industry Growth",
+        "Global Technology Supply Chains"
+      ],
+      "mainIdeas": [
+        "India's current strategy, focused heavily on domestic industrial policies for semiconductors, might not be sufficient on its own.",
+        "Open trade policies and access to technology transfers are critical for developing an efficient and competitive semiconductor industry, a lesson learned from successful nations like Taiwan and Japan.",
+        "India needs to integrate trade policies and technology transfer agreements more deeply into its national strategy to foster efficiency and growth in its microchip sector."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-05T03:57:08.422Z"
+  "lastUpdated": "2026-07-06T04:03:38.105Z"
 }
