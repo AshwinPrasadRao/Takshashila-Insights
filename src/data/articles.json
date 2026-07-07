@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1783396433174n13oa",
+      "url": "https://timesofindia.indiatimes.com/blogs/voices/takaichis-india-visit-marks-the-next-phase-of-the-india-japan-partnership",
+      "title": "Takaichi’s India visit marks the next phase of the India–Japan partnership",
+      "metadataRaw": "Jul 3, 2026 Vanshika Saraf Times of India",
+      "publishedDate": "2026-07-03T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-07T03:53:53.174Z",
+      "summary": "Japanese Prime Minister Takaichi's first visit to India marks a new phase for the India-Japan partnership, aiming to build on the strong foundation laid by previous leaders. While the relationship has advanced significantly in areas like economic security and technology, some sectors such as defense and civil nuclear cooperation have not met expectations. The visit presents an opportunity to address these underperforming areas and deliver more practical outcomes, leveraging closely aligned policy priorities and Japan's consistent view of India as a critical strategic partner.",
+      "topics": [
+        "Bilateral Relations",
+        "Economic Cooperation",
+        "Regional Security"
+      ],
+      "issues": [
+        "Underperformance in defense and nuclear cooperation",
+        "Translating strategic alignment into practical outcomes"
+      ],
+      "mainIdeas": [
+        "Prime Minister Takaichi's visit aims to evolve the India-Japan partnership beyond established frameworks into tangible, practical outcomes, building on previous successes.",
+        "Despite strong ideological affinity and economic progress, key areas like defense technology transfer and civil nuclear energy collaboration have underperformed and need revitalization.",
+        "The consistent strategic importance Japan places on India, coupled with aligned policy priorities, sets the stage for a deeper partnership focused on economic resilience, technological leadership, and regional stability in the Indo-Pacific."
+      ]
+    },
+    {
       "id": "17830503140624p8htv",
       "url": "https://www.moneycontrol.com/news/opinion/why-indian-companies-spend-less-on-research-13961796.html",
       "title": "Why Indian companies spend less on research",
@@ -7260,6 +7285,31 @@
       ]
     },
     {
+      "id": "1783396444852bptswa",
+      "url": "https://takshashila.org.in/content/publications/20220530-Harnessing%20Trade%20Policy%20to%20Build%20Indias-Semiconductor-Industry.html",
+      "title": "Harnessing Trade Policy to Build India’s Semiconductor Industry",
+      "metadataRaw": "May 30, 2022 Pranay Kotasthane, Arjun Gargeyas",
+      "publishedDate": "2022-05-30T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-07T03:54:04.852Z",
+      "summary": "India has committed nearly $10 billion to build its domestic semiconductor industry, primarily through government-led industrial policies. However, the article argues that relying solely on industrial policies is not enough. It highlights that trade policies and technology transfer agreements are equally critical for success, pointing to how they helped nations like Taiwan and Japan develop their microchip sectors. For its program to thrive, India needs to prioritize and integrate these trade-related strategies alongside its current industrial focus.",
+      "topics": [
+        "Semiconductor Industry Development",
+        "International Trade Policy",
+        "Industrial Strategy"
+      ],
+      "issues": [
+        "Building India's Semiconductor Capacity",
+        "Effective Technology Acquisition"
+      ],
+      "mainIdeas": [
+        "India's current strategy for building its semiconductor industry relies heavily on direct government spending and domestic industrial policies.",
+        "Successful semiconductor industries in other countries have also significantly benefited from open trade policies and technology transfer agreements, which are often overlooked.",
+        "To ensure its program succeeds, India must focus more on leveraging trade policies and securing technology transfers in addition to its domestic industrial support."
+      ]
+    },
+    {
       "id": "17833106139459jewqa",
       "url": "https://takshashila.org.in/content/publications/20220503-Harnessing-trade-policies-to-build-Indias-semiconductor-industry.html",
       "title": "Harnessing Trade Policy to Build India’s Semiconductor Industry",
@@ -7283,7 +7333,82 @@
         "Open trade policies and access to technology transfers are critical for developing an efficient and competitive semiconductor industry, a lesson learned from successful nations like Taiwan and Japan.",
         "India needs to integrate trade policies and technology transfer agreements more deeply into its national strategy to foster efficiency and growth in its microchip sector."
       ]
+    },
+    {
+      "id": "1783396450744fziu28",
+      "url": "https://takshashila.org.in/content/publications/20220524-Addressing-the-Jobs-Crisis.html",
+      "title": "Takshashila Discussion Document - Addressing the Jobs Crisis",
+      "metadataRaw": "May 24, 2022 Sridhar Krishna, Aarushi Kataria",
+      "publishedDate": "2022-05-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-07T03:54:10.744Z",
+      "summary": "India faces a critical job shortage, needing to create 20 million jobs annually to accommodate new entrants and agricultural workers. Without this, the country risks a major humanitarian crisis. Achieving this goal requires a 10% annual economic growth rate and effective job creation policies. The document suggests solutions like funding skill development, building new cities, facilitating emigration, boosting women's workforce participation, improving credit access, and supporting the gig economy, alongside structural reforms in infrastructure and labor laws.",
+      "topics": [
+        "Economic Development",
+        "Workforce Management",
+        "Social Stability"
+      ],
+      "issues": [
+        "India's Employment Crisis",
+        "Sustainable Economic Growth"
+      ],
+      "mainIdeas": [
+        "India must create 20 million jobs yearly to prevent a humanitarian crisis, driven by its large youth population and agricultural surplus.",
+        "Achieving this goal requires a 10% annual GDP growth and strong job creation policies.",
+        "A broad set of reforms are proposed, including skill development, urban expansion, and improving conditions for women and the gig economy, alongside infrastructure and legal changes."
+      ]
+    },
+    {
+      "id": "1783396460843i4v06",
+      "url": "https://takshashila.org.in/content/publications/20220521-estimating-the-impact-of-covid-19-in-india-from-life-insurance-claims.html",
+      "title": "Estimating the Impact of COVID-19 in India from Life Insurance Claims",
+      "metadataRaw": "May 21, 2022 Mihir Mahajan, Shekhar Sathe",
+      "publishedDate": "2022-05-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-07T03:54:20.843Z",
+      "summary": "This article estimates the impact of COVID-19 in India during 2020 and 2021 by analyzing death claims from Indian life insurers. It reports a conservative estimate of 0.56 million unregistered deaths in 2020 and three million additional deaths in 2021 compared to pre-pandemic levels. These figures suggest a much higher mortality impact than the Indian government's official count of 0.481 million COVID-19 deaths for the same period.",
+      "topics": [
+        "Public Health",
+        "Data Analysis",
+        "India"
+      ],
+      "issues": [
+        "COVID-19 Mortality Underreporting",
+        "Public Health Data Accuracy"
+      ],
+      "mainIdeas": [
+        "Alternative data sources, such as life insurance claims, can provide a more accurate picture of a public health crisis's impact.",
+        "India's COVID-19 death toll in 2020-2021 was significantly higher than official government reports indicated.",
+        "There is a major gap between official statistics and independent estimates regarding pandemic-related deaths in India."
+      ]
+    },
+    {
+      "id": "1783396455982px7bct",
+      "url": "https://takshashila.org.in/content/publications/20220521-Estimating-Covid-Deaths-from-Insurance-Claims.html",
+      "title": "EPW Journal Article - Estimating the Impact of COVID-19 in India from Life Insurance Claims",
+      "metadataRaw": "May 21, 2022 Mihir Mahajan, Shekhar Sathe",
+      "publishedDate": "2022-05-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-07T03:54:15.982Z",
+      "summary": "This article analyzes death claims from Indian life insurers to re-estimate the impact of COVID-19 in India during 2020 and 2021. It conservatively suggests 0.56 million missing death registrations for 2020 alone. For 2021, the study estimates three million additional deaths compared to pre-pandemic levels in 2019. These figures are significantly higher than the Indian government's official count of 0.481 million COVID-19 deaths for the same period.",
+      "topics": [
+        "Public Health",
+        "Data Analysis",
+        "India"
+      ],
+      "issues": [
+        "COVID-19 Mortality Rates",
+        "Discrepancy in Death Statistics"
+      ],
+      "mainIdeas": [
+        "Using life insurance data offers an alternative method to estimate pandemic-related deaths.",
+        "The actual number of COVID-19 deaths in India appears to be substantially higher than officially reported by the government.",
+        "Millions of additional deaths occurred in India during the pandemic that were not officially attributed to COVID-19."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-06T04:03:38.105Z"
+  "lastUpdated": "2026-07-07T03:54:29.317Z"
 }
