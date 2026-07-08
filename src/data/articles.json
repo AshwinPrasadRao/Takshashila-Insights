@@ -7408,7 +7408,181 @@
         "The actual number of COVID-19 deaths in India appears to be substantially higher than officially reported by the government.",
         "Millions of additional deaths occurred in India during the pandemic that were not officially attributed to COVID-19."
       ]
+    },
+    {
+      "id": "178348082592355484b",
+      "url": "https://takshashila.org.in/content/publications/20220516-Manur_India-Imports-1991.pdf.html",
+      "title": "From Protectionism to Global Integration: India’s Trade Policy Before and After 1991",
+      "metadataRaw": "May 16, 2022 Anupam Manur",
+      "publishedDate": "2022-05-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-08T03:20:25.923Z",
+      "summary": "Before 1991, India's trade policy was largely protectionist, characterized by heavy import restrictions and a tendency to reverse any attempts at liberalization. A severe balance-of-payments crisis in 1991 forced the government to implement significant reforms, including currency devaluation and broad reductions in trade barriers. These post-1991 reforms led to substantially higher economic growth, increased trade as a percentage of India's economy, and a larger global share for Indian goods and services.",
+      "topics": [
+        "India's Economy",
+        "Trade Policy",
+        "Economic Reforms"
+      ],
+      "issues": [
+        "India's Economic Liberalization",
+        "Impact of Trade Policy on Growth"
+      ],
+      "mainIdeas": [
+        "India's early trade policy was protectionist and often reversed liberalization attempts, hindering economic progress.",
+        "The 1991 balance-of-payments crisis was a crucial turning point that triggered comprehensive economic reforms in India.",
+        "Post-1991 trade liberalization reforms significantly boosted India's economic growth and integrated it further into global trade."
+      ]
+    },
+    {
+      "id": "1783480831296dia4nn",
+      "url": "https://takshashila.org.in/content/publications/20220505-sri-lanka-russia-ukraine-war.html",
+      "title": "Sri Lanka & the Russia-Ukraine War",
+      "metadataRaw": "May 5, 2022 Shrey Khanna",
+      "publishedDate": "2022-05-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-08T03:20:31.297Z",
+      "summary": "Sri Lanka has maintained neutrality in the Russia-Ukraine war due to its long-standing ties with Russia, though it also allowed space for Ukrainian protests. The conflict severely worsened Sri Lanka's already fragile economy, disrupting tea exports due to Western sanctions on Russia and halting tourism recovery. Surging global fuel and food prices led to significant inflation, which ultimately undermined the government's legitimacy and caused widespread economic and political instability within the country.",
+      "topics": [
+        "Geopolitics",
+        "Economics",
+        "National Stability"
+      ],
+      "issues": [
+        "Economic Crisis in Sri Lanka",
+        "Impact of Russia-Ukraine War"
+      ],
+      "mainIdeas": [
+        "Sri Lanka adopted a neutral stance in the Russia-Ukraine conflict, balancing its relationship with Russia with allowing local protests.",
+        "The war significantly exacerbated Sri Lanka's existing economic difficulties, particularly affecting its tea exports and hindering tourism recovery.",
+        "Resulting global inflation, specifically in fuel and food prices, directly led to political instability and a loss of public trust in the Sri Lankan government."
+      ]
+    },
+    {
+      "id": "1783480836592hrbhmq",
+      "url": "https://takshashila.org.in/content/publications/20220503-A-Case-for-India-Taiwan-Collaboration-on-Semiconductors.html",
+      "title": "Complement to Succeed: A Case for India-Taiwan Collaboration on Semiconductors",
+      "metadataRaw": "May 3, 2022 Pranay Kotasthane, Arjun Gargeyas",
+      "publishedDate": "2022-05-03T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-08T03:20:36.592Z",
+      "summary": "The article argues for a strong partnership between India and Taiwan in the semiconductor industry, highlighting their complementary strengths. Taiwan is a global leader in chip manufacturing and assembly, while India excels in chip design and has a large skilled workforce. This collaboration is crucial for creating a more resilient global semiconductor supply chain, addressing vulnerabilities exposed by recent crises, and meeting the demands of new technologies. Key areas for cooperation include research and development, integrated circuit design, manufacturing, and assembly, with government support playing a vital role.",
+      "topics": [
+        "Semiconductors",
+        "International Trade",
+        "Economic Strategy"
+      ],
+      "issues": [
+        "Semiconductor Supply Chain Security",
+        "Geopolitical Technology Competition"
+      ],
+      "mainIdeas": [
+        "India and Taiwan possess distinct but complementary strengths in the semiconductor sector, making a partnership highly beneficial for both.",
+        "A collaborative effort between India and Taiwan is necessary to diversify and strengthen the global semiconductor supply chain, reducing dependencies and enhancing resilience.",
+        "Potential collaboration spans research, chip design, manufacturing (focusing on less advanced but essential nodes), and assembly, requiring supportive government policies and investment."
+      ]
+    },
+    {
+      "id": "178348084541564sq2r",
+      "url": "https://takshashila.org.in/content/publications/20220415-A-Background-to-India%E2%80%99s-Position-in-the-Advanced-Computing-Age.html",
+      "title": "Takshashila Discussion Document - A Background to India’s Position in the Advanced Computing Age",
+      "metadataRaw": "Apr 15, 2022 Arjun Gargeyas, Siddharth Bannerjee",
+      "publishedDate": "2022-04-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-08T03:20:45.415Z",
+      "summary": "Computational power, including high-performance and quantum computing, is a critical resource driving technological advancement globally. Nations and private companies are engaged in a significant race to develop their own advanced computing capabilities for strategic advantage. This document provides an overview of this global landscape and assesses India's current position and available options. It highlights that India's domestic computing infrastructure, including supercomputers and quantum programs, is still in its early stages of development.",
+      "topics": [
+        "Advanced Computing",
+        "Technology Strategy",
+        "National Development"
+      ],
+      "issues": [
+        "India's Advanced Computing Capacity",
+        "Global Tech Competition"
+      ],
+      "mainIdeas": [
+        "High-performance and quantum computing are the primary drivers in the advanced computing era.",
+        "Only a select group of technologically advanced and financially strong countries currently dominate the global advanced computing landscape.",
+        "India's domestic computing capabilities are still in their infancy, with a limited supercomputer program and no dedicated state-funded quantum computing initiative."
+      ]
+    },
+    {
+      "id": "1783480850242obovga",
+      "url": "https://takshashila.org.in/content/publications/20220324-The-Semiconductor-Question-in-the-Russia-Ukraine-Conflict.html",
+      "title": "Takshashila Issue Paper - The Semiconductor Question in the Russia-Ukraine Conflict",
+      "metadataRaw": "Mar 24, 2022 Pranay Kotasthane, Arjun Gargeyas, Aditya Prateek",
+      "publishedDate": "2022-03-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-08T03:20:50.242Z",
+      "summary": "The ongoing conflict between Russia and Ukraine has brought attention to potential disruptions in global technology supply chains, particularly for semiconductors. While both countries supply crucial materials like Neon and Palladium for chip manufacturing, the paper argues that current dependencies are not critical, and alternatives are in place. The main impact will be on Russia, which faces a severe lack of imported chips due to US sanctions, threatening its strategic industries. However, Russia might seek ways to bypass these restrictions, although Chinese firms face risks of secondary sanctions if they supply chips.",
+      "topics": [
+        "Technology Supply Chains",
+        "Geopolitics",
+        "Semiconductors"
+      ],
+      "issues": [
+        "Impact of Sanctions on Russia",
+        "Global Chip Production Stability"
+      ],
+      "mainIdeas": [
+        "Existing dependencies on Russia and Ukraine for key semiconductor materials are not critical, with alternatives in place.",
+        "US sanctions and export controls will lead to a significant shortage of chip imports for Russia, harming its strategic economic sectors.",
+        "Russia may try to find ways around these sanctions, but Chinese semiconductor firms could face penalties if they export chips to Russia."
+      ]
+    },
+    {
+      "id": "1783480857334ay73eh",
+      "url": "https://takshashila.org.in/content/publications/20220316-afghanistan-pakistan-relations-road-ahead.html",
+      "title": "Afghanistan-Pakistan Relations: Road Ahead",
+      "metadataRaw": "Mar 16, 2022 Shrey Khanna",
+      "publishedDate": "2022-03-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-08T03:20:57.334Z",
+      "summary": "After six months, the Taliban has solidified its interim government in Afghanistan. However, this has coincided with a rise in TTP militant activity in Pakistan and increasing tensions along the shared border. These developments are significantly impacting relations between Afghanistan and Pakistan. Ultimately, Pakistan's deteriorating internal security environment will dictate the future of its relationship with Afghanistan, rather than any perceived strategic gains from the Taliban's takeover.",
+      "topics": [
+        "Regional Affairs",
+        "Security Challenges"
+      ],
+      "issues": [
+        "Afghanistan-Pakistan Border Tensions",
+        "Militancy in Pakistan"
+      ],
+      "mainIdeas": [
+        "The Taliban's stable government in Afghanistan is creating new security challenges for Pakistan.",
+        "Pakistan is experiencing increased internal militant activity and border disputes as a direct consequence.",
+        "Pakistan's own worsening security situation will be the primary factor shaping its future relationship with Afghanistan."
+      ]
+    },
+    {
+      "id": "1783480861911lo96da",
+      "url": "https://takshashila.org.in/content/publications/20220315-De-Dollarising-V1.0.pdf.html",
+      "title": "Takshashila Research Note - De-Dollarising Nexus: A Mirage",
+      "metadataRaw": "Mar 15, 2022 Anupam Manur, Aditya Pareek",
+      "publishedDate": "2022-03-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-08T03:21:01.911Z",
+      "summary": "Russia's economy is facing a severe downturn due to international sanctions, leading to currency depreciation and potential inflation. This isolation from global financial systems, including SWIFT, is forcing Russia to increasingly rely on China. While both nations may explore alternative trading mechanisms, the article suggests that attempts to significantly challenge the dollar's global dominance or create a rival trading bloc are currently not feasible or sustainable in the long run.",
+      "topics": [
+        "Global Economics",
+        "International Sanctions",
+        "Geopolitical Relations"
+      ],
+      "issues": [
+        "Economic impact of sanctions on Russia",
+        "Feasibility of alternative global payment systems"
+      ],
+      "mainIdeas": [
+        "Western sanctions are causing significant economic damage to Russia and increasing its isolation.",
+        "Russia's economic challenges are driving it to depend more on China, but this alliance struggles to build a credible alternative to the current financial system.",
+        "Efforts to move away from the dollar and create rival trading blocs are unlikely to succeed sustainably in the current global environment."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-07T03:54:29.317Z"
+  "lastUpdated": "2026-07-08T03:21:04.748Z"
 }
