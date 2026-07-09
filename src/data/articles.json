@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1783568832534pkm58t",
+      "url": "https://takshashila.org.in/content/publications/20260708-ai-investment-cycle.html",
+      "title": "The AI Investment Cycle",
+      "metadataRaw": "Jul 8, 2026 Arindam Goswami",
+      "publishedDate": "2026-07-08T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-09T03:47:12.534Z",
+      "summary": "The article characterizes the current surge in AI investment as a \"productive bubble,\" where spending significantly outpaces revenue. This dynamic is driven by a circular financing system among key players and a competitive necessity for major companies to invest heavily to avoid falling behind. While the vast infrastructure being built is expected to have long-term value, the significant gap between investment and current AI-specific revenue poses financial risks. The paper also provides specific policy recommendations for India to strategically navigate this investment cycle.",
+      "topics": [
+        "AI Industry Trends",
+        "Technology Investment",
+        "Corporate Strategy"
+      ],
+      "issues": [
+        "AI Investment Bubble Concerns",
+        "Financing AI Development"
+      ],
+      "mainIdeas": [
+        "The AI investment boom is a 'productive bubble' where massive infrastructure is being built despite a large gap between current spending and revenue.",
+        "Major tech companies are compelled to overinvest in AI due to competitive pressures, leading to a circular financing web that may obscure true market demand.",
+        "The long-term value of this cycle will likely come from the foundational infrastructure created, but widespread adoption and revenue generation remain key challenges for profitability."
+      ]
+    },
+    {
       "id": "1783396433174n13oa",
       "url": "https://timesofindia.indiatimes.com/blogs/voices/takaichis-india-visit-marks-the-next-phase-of-the-india-japan-partnership",
       "title": "Takaichi’s India visit marks the next phase of the India–Japan partnership",
@@ -7582,7 +7607,132 @@
         "Russia's economic challenges are driving it to depend more on China, but this alliance struggles to build a credible alternative to the current financial system.",
         "Efforts to move away from the dollar and create rival trading blocs are unlikely to succeed sustainably in the current global environment."
       ]
+    },
+    {
+      "id": "1783568842189bto2z",
+      "url": "https://takshashila.org.in/content/publications/20220310-Avenues-for-Taiwan-India-Health-Cooperation.html",
+      "title": "Avenues for Taiwan-India Health Cooperation",
+      "metadataRaw": "Mar 10, 2022 Shambhavi Naik",
+      "publishedDate": "2022-03-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-09T03:47:22.189Z",
+      "summary": "The article highlights the strong potential for health cooperation between India and Taiwan, citing their successful collaboration during the COVID-19 pandemic. This partnership can expand into crucial areas like disease control, vaccine development, traditional medicine, and advanced healthcare technology. It emphasizes that while geopolitical considerations exist, creative channels such as strengthening existing representative offices, fostering direct institutional links, and leveraging multilateral forums are essential to advance public health security, as health threats transcend political boundaries.",
+      "topics": [
+        "Public Health",
+        "International Cooperation",
+        "Healthcare Innovation"
+      ],
+      "issues": [
+        "Building India-Taiwan Health Partnerships",
+        "Responding to Global Health Crises"
+      ],
+      "mainIdeas": [
+        "Bilateral health partnerships are more agile and effective for addressing global health threats than large international bodies.",
+        "India and Taiwan possess unique strengths – Taiwan's advanced healthcare technology and India's pharmaceutical and research capacity – that make them ideal partners for improving health outcomes and developing new medical solutions.",
+        "Despite political complexities, establishing practical channels for health collaboration is critical, as public health challenges necessitate cross-border efforts."
+      ]
+    },
+    {
+      "id": "1783568847694etiq5p",
+      "url": "https://takshashila.org.in/content/publications/20220225-chinese-perceptions-interests-amid-ukraine-conflict.html",
+      "title": "Analysis of Chinese Perceptions and Interests Amid the Ukraine Conflict",
+      "metadataRaw": "Feb 25, 2022 Megha Pardhi, Manoj Kewalramani",
+      "publishedDate": "2022-02-25T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-09T03:47:27.694Z",
+      "summary": "This document examines the impact of Russia's invasion of Ukraine on China's national interests. It aims to analyze China's diplomatic reactions and public messaging related to the crisis. The analysis will also include a review of the benefits and costs for China, ultimately offering insights into the potential future direction of Chinese policy regarding the conflict.",
+      "topics": [
+        "Geopolitics",
+        "Foreign Policy"
+      ],
+      "issues": [
+        "Ukraine conflict",
+        "China's international stance"
+      ],
+      "mainIdeas": [
+        "The Russian invasion of Ukraine has direct implications for China's interests.",
+        "The document will detail China's official and public responses to the situation.",
+        "It will provide an assessment of the pros and cons for China, along with a forecast of its policy trajectory."
+      ]
+    },
+    {
+      "id": "1783568854118ptgy2",
+      "url": "https://takshashila.org.in/content/publications/20220222-how-indians-view-the-world.html",
+      "title": "How Indians View the World: Findings of India’s Global Outlook Survey",
+      "metadataRaw": "Feb 22, 2022 Manoj Kewalramani, Shrey Khanna, Ruturaj Gowaikar, Aneesh Jaganath",
+      "publishedDate": "2022-02-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-09T03:47:34.118Z",
+      "summary": "The Takshashila Institution's Global Outlook Survey reveals how Indians perceive global affairs and their nation's role. Key findings indicate that a slowing economy is viewed as India's primary strategic challenge, while security concerns are dominated by the border crisis with China and the threat of a two-front war. Respondents also believe India should work closely with other nations to manage the fallout from US-China competition, alongside a desire for stronger, more formalized Quad cooperation.",
+      "topics": [
+        "Indian Foreign Policy",
+        "National Security",
+        "Public Opinion"
+      ],
+      "issues": [
+        "India's Economic Challenges",
+        "India-China Border Dispute",
+        "US-China Rivalry"
+      ],
+      "mainIdeas": [
+        "A slowing economy is considered India's most significant strategic challenge.",
+        "Concerns about the border dispute with China and the risk of a multi-front war heavily influence India's security outlook.",
+        "Indians support both working with other countries to handle global power competition and strengthening alliances like the Quad."
+      ]
+    },
+    {
+      "id": "1783568860107ebfofx",
+      "url": "https://takshashila.org.in/content/publications/20220218-Space-Stations-Promises-and-Challenges.html",
+      "title": "Takshashila Research Note - Space Stations: Promises & Challenges",
+      "metadataRaw": "Feb 18, 2022 Aditya Ramanathan, Aditya Prateek",
+      "publishedDate": "2022-02-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-09T03:47:40.107Z",
+      "summary": "The next decade will see a rise in space stations launched by both governments and private companies, which are crucial for developing technologies needed for continuous human presence in space. India is currently behind major space powers like the US, Russia, and China in these efforts. To advance, India should focus on international and commercial collaborations, and encourage its own businesses to participate in the low Earth orbit economy, rather than pursuing independent development.",
+      "topics": [
+        "Space Industry Trends",
+        "Space Technology Development",
+        "International Cooperation"
+      ],
+      "issues": [
+        "India's Space Strategy",
+        "Commercial Space Opportunities"
+      ],
+      "mainIdeas": [
+        "The number of space stations built by both countries and companies will increase significantly in the next decade.",
+        "These space stations are essential for developing the technology needed for humans to live in space for extended periods.",
+        "India should prioritize partnerships and boost its private sector involvement in the space economy instead of trying to develop all capabilities independently."
+      ]
+    },
+    {
+      "id": "1783568864754qpabfr",
+      "url": "https://takshashila.org.in/content/publications/20220214-Policy-advisory-on-Demand-for-grants-Union-Budget-FY22-23.html",
+      "title": "Takshashila Policy Advisory - Comments to Parliamentary Standing Committee on Science & Technology, Environment, Forests and Climate Change on Demand for Grants in the Union Budget for FY 2022-23",
+      "metadataRaw": "Feb 14, 2022 Shambhavi Naik, Pradeep Mohandas, Sarthak Pradhan, Aditya Ramanathan, Aditya Pareek, Pranay Kotasthane",
+      "publishedDate": "2022-02-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-09T03:47:44.754Z",
+      "summary": "This document provides an analysis of budgetary trends for government ministries related to Science and Technology, Environment, Forests, and Climate Change. It covers spending patterns from the financial year 2016-17 up to the current budget cycle. The analysis also offers specific feedback regarding the budget allocations for India's Departments of Space, Biotechnology, and Atomic Energy.",
+      "topics": [
+        "Government Finance",
+        "Scientific Research",
+        "Environmental Governance"
+      ],
+      "issues": [
+        "Budget allocation for science and environment departments",
+        "Funding oversight for key scientific programs"
+      ],
+      "mainIdeas": [
+        "The document reviews historical spending patterns across relevant government ministries.",
+        "It provides detailed commentary on budget requests for Space, Biotechnology, and Atomic Energy departments.",
+        "The analysis serves as input for a parliamentary committee evaluating budget proposals."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-08T03:21:04.748Z"
+  "lastUpdated": "2026-07-09T03:47:48.027Z"
 }
