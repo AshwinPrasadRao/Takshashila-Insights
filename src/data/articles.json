@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "17836553455714tqk2",
+      "url": "https://takshashila.org.in/content/publications/20260709-China-Japan-Escalation.html",
+      "title": "China-Japan Escalation",
+      "metadataRaw": "Jul 9, 2026 Vanshika Saraf",
+      "publishedDate": "2026-07-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-10T03:49:05.571Z",
+      "summary": "The relationship between China and Japan has entered its most serious crisis since 1972, triggered by Japanese Prime Minister Takaichi's remarks in November 2025 about Taiwan. This escalation has unfolded across military, economic, and diplomatic fronts, moving beyond the two countries' historical pragmatic framework. China has responded with significant military drills, economic export controls, and diplomatic pressure. In turn, Japan has accelerated its defense spending, deployed new missile systems, and implemented measures to secure critical supply chains and counter economic coercion, indicating a sustained and deep-seated confrontation with global implications.",
+      "topics": [
+        "East Asian Geopolitics",
+        "International Security",
+        "Economic Relations"
+      ],
+      "issues": [
+        "Taiwan Strait Tensions",
+        "Economic Weaponization"
+      ],
+      "mainIdeas": [
+        "The long-standing pragmatic approach to managing China-Japan relations has collapsed, leading to a comprehensive and unprecedented escalation.",
+        "China is employing significant military demonstrations and economic sanctions, while Japan is rapidly strengthening its defense capabilities and taking steps to protect critical supply chains.",
+        "The ongoing tensions are intertwined with broader regional security concerns, especially regarding Taiwan, and have significant global economic and strategic repercussions."
+      ]
+    },
+    {
       "id": "1783568832534pkm58t",
       "url": "https://takshashila.org.in/content/publications/20260708-ai-investment-cycle.html",
       "title": "The AI Investment Cycle",
@@ -7732,7 +7757,133 @@
         "It provides detailed commentary on budget requests for Space, Biotechnology, and Atomic Energy departments.",
         "The analysis serves as input for a parliamentary committee evaluating budget proposals."
       ]
+    },
+    {
+      "id": "1783655351062ws7pb",
+      "url": "https://takshashila.org.in/content/publications/20220203-building-indias-quantum-ecosystem.html",
+      "title": "Building India’s Quantum Ecosystem",
+      "metadataRaw": "Feb 3, 2022 Arjun Gargeyas, Siddharth Bannerjee",
+      "publishedDate": "2022-02-03T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-10T03:49:11.062Z",
+      "summary": "This document explores the rapid advancements in quantum information science and its potential applications, highlighting a global race for technological leadership. It argues that India requires a nationally coordinated policy to build a robust domestic quantum ecosystem. The article outlines key applications, global quantum programs, ethical considerations, and proposes specific strategies for India to develop its quantum industry.",
+      "topics": [
+        "Technology Development",
+        "National Policy",
+        "Global Competition"
+      ],
+      "issues": [
+        "India's Quantum Strategy",
+        "Global Technology Race"
+      ],
+      "mainIdeas": [
+        "Quantum technologies offer solutions to complex problems and have significant civilian and military uses.",
+        "India needs a focused national strategy to develop its own strong quantum industry and compete globally.",
+        "There is an intense international competition among major powers to achieve quantum supremacy, making national investment critical.",
+        "Policymakers must consider the ethical implications when developing and using quantum technologies."
+      ]
+    },
+    {
+      "id": "1783655357387o2aiqa",
+      "url": "https://takshashila.org.in/content/publications/20220127-TIP-Quad-and-Biotech.html",
+      "title": "Takshashila Issue Paper - The Case for Quad Co-operation in Biotechnology",
+      "metadataRaw": "Jan 27, 2022 Shambhavi Naik, Arjun Gargeyas, Ruturaj Gowaikar",
+      "publishedDate": "2022-01-27T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-10T03:49:17.387Z",
+      "summary": "The Quad group, which includes the US, India, Japan, and Australia, is looking to increase cooperation across various sectors. Biotechnology has been identified as a key field for joint efforts among these nations. This paper highlights specific life science technologies and applications where Quad members have advantages and can form partnerships. The goal is to leverage biotechnology for global development, address socio-economic challenges, and position it as a major focus for the Quad in the future, particularly in areas like pandemic research and sustainable agriculture.",
+      "topics": [
+        "Biotechnology",
+        "International Collaboration",
+        "Science & Technology"
+      ],
+      "issues": [
+        "Advancing Life Sciences",
+        "Global Health and Development"
+      ],
+      "mainIdeas": [
+        "The Quad alliance considers biotechnology a crucial area for enhanced cooperation among its members.",
+        "Quad countries hold unique strengths in life science technologies that can be combined for global benefit.",
+        "Collaborating on biotechnology, including pandemic response and sustainable agriculture, will drive socio-economic development and strengthen the Quad's influence."
+      ]
+    },
+    {
+      "id": "17836553631214vzv5a",
+      "url": "https://takshashila.org.in/content/publications/20220118-chinas-infrastructure-development-tibet.html",
+      "title": "China’s Next Generation Infrastructure Development in Tibet",
+      "metadataRaw": "Jan 18, 2022 Suyash Desai",
+      "publishedDate": "2022-01-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-10T03:49:23.121Z",
+      "summary": "China has consistently invested in Tibet's infrastructure for over two decades, considering the region a key part of the country despite security concerns. This development, part of its \"western development strategy,\" includes standard projects like roads, railways, and airports. Under current leadership, the focus has expanded to \"next-generation\" infrastructure, such as border defense villages and better internet. This effort shows a clear strategy to integrate and secure the region.",
+      "topics": [
+        "Infrastructure Development",
+        "National Security",
+        "Regional Development"
+      ],
+      "issues": [
+        "China's Grip on Tibet",
+        "Border Security in Tibet"
+      ],
+      "mainIdeas": [
+        "China views Tibet as vital for its national security and has a long-term plan to invest in infrastructure there to strengthen its hold.",
+        "Infrastructure projects in Tibet serve both economic and security goals, ranging from basic transport to advanced projects like border defense and internet.",
+        "Current investments show China's strong commitment to fully integrating Tibet and reducing risks, continuing a strategy that began with its \"western development\" plan."
+      ]
+    },
+    {
+      "id": "17836553697647rbn4",
+      "url": "https://takshashila.org.in/content/publications/20220117-chinas-technical-standardisation-framework.html",
+      "title": "China’s Technical Standardisation Framework",
+      "metadataRaw": "Jan 17, 2022 Megha Pardhi, Arjun Gargeyas",
+      "publishedDate": "2022-01-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-10T03:49:29.764Z",
+      "summary": "China's 2021 National Standardisation Development (NSD) Outline details its plan to use technical standards for both national economic growth and global influence. The outline, which includes goals from the \"China Standards 2035\" project, aims to fuel technological innovation and improve domestic industries. Internationally, China views standardisation as a way to increase its participation and power in global organizations that set technical rules. However, these ambitious goals may encounter hurdles such as ensuring compatibility between different systems, creating too many standards, and resistance from other countries.",
+      "topics": [
+        "Technology Policy",
+        "International Relations",
+        "Economic Strategy"
+      ],
+      "issues": [
+        "China's drive for global technology standards",
+        "International competition over technical norms"
+      ],
+      "mainIdeas": [
+        "China's new standardisation plan aims to strengthen its economy and technological innovation at home.",
+        "The country intends to leverage technical standards to boost its influence and role in international organizations that define global technology rules.",
+        "China's push for global standards may face practical challenges and opposition from other nations."
+      ]
+    },
+    {
+      "id": "1783655378159mcdt2p",
+      "url": "https://takshashila.org.in/content/publications/20220114-The-New-Bioweapons-Peril.html",
+      "title": "IPPR Journal Article - The New Bioweapons Peril",
+      "metadataRaw": "Jan 14, 2022 Shambhavi Naik, Aditya Ramanathan",
+      "publishedDate": "2022-01-14T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-10T03:49:38.159Z",
+      "summary": "The article highlights the increasing threat of bioweapons, amplified by readily available gene-editing technologies, despite no evidence that SARS-CoV-2 was a biological agent. It explores how bioweapons might be used and proposes significant changes to the Biological Weapons Convention (BWC) to counter this peril. Instead of traditional verification methods which have failed, the paper suggests creating a scientific board under the BWC to monitor emerging technologies, establish safety standards, and build an epidemiological database. Additionally, it recommends improving global responses to disease outbreaks and imposing strict penalties on those who deploy bioweapons to deter attacks.",
+      "topics": [
+        "Biosecurity",
+        "Global Security",
+        "Biotechnology"
+      ],
+      "issues": [
+        "Bioweapons Proliferation",
+        "Effectiveness of Bioweapons Treaties"
+      ],
+      "mainIdeas": [
+        "The widespread availability of gene-editing tools significantly raises the risk of state and non-state actors developing and using bioweapons.",
+        "Existing international frameworks, like the Biological Weapons Convention (BWC), are insufficient and require modernization to effectively address contemporary bioweapons threats.",
+        "A renewed strategy for controlling bioweapons should focus on scientific monitoring of new technologies, setting global safety standards, improving outbreak response, and imposing clear deterrent penalties."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-09T03:47:48.027Z"
+  "lastUpdated": "2026-07-10T03:49:42.341Z"
 }
