@@ -8181,7 +8181,157 @@
         "The report seeks to establish a broad national agreement on India's strategic priorities and opportunities.",
         "The authors intend for the report to stimulate discussion among leaders and the public to achieve this consensus."
       ]
+    },
+    {
+      "id": "1783913397377tpnp3",
+      "url": "https://takshashila.org.in/content/publications/20211001-Taliban's-Afghanistan-Takeover.html",
+      "title": "Takshashila Discussion Document - Taliban’s Afghanistan Takeover",
+      "metadataRaw": "Oct 1, 2021 Shrey Khanna",
+      "publishedDate": "2021-10-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-13T03:29:57.377Z",
+      "summary": "The Taliban's takeover of Afghanistan is reshaping power dynamics across the region. Though many regional countries initially supported the Taliban to see the U.S. leave, their goals are now diverging due to internal conflicts within the Taliban. India, in particular, faces new challenges, including a potential rise in security threats in Jammu and Kashmir and difficulties maintaining its influence and trade routes in Central Asia. The report suggests India should work with certain Taliban groups, strengthen counter-terrorism measures, and partner with Iran to protect its interests.",
+      "topics": [
+        "Regional Affairs",
+        "Security",
+        "Foreign Policy"
+      ],
+      "issues": [
+        "Afghanistan's Future",
+        "India's Regional Strategy"
+      ],
+      "mainIdeas": [
+        "The Taliban's rise to power is causing regional countries to re-evaluate their positions, with their interests now likely to clash rather than align.",
+        "India must adjust its approach to Afghanistan by seeking relationships with specific Taliban groups and cooperating with Iran to counter opposing influences and secure trade.",
+        "India needs to strengthen its defenses against potential security threats to areas like Jammu and Kashmir that could arise from the situation in Afghanistan."
+      ]
+    },
+    {
+      "id": "17839134025186oho5d",
+      "url": "https://takshashila.org.in/content/publications/20210915-TIB-Biobanking-policies-in-India.html",
+      "title": "Takshashila Issue Paper - Biobanking Policies in India",
+      "metadataRaw": "Sep 15, 2021 Shambhavi Naik, Priyal Lyncia D’Almeida, Sunila Dixit, Majulika Vaz",
+      "publishedDate": "2021-09-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-13T03:30:02.518Z",
+      "summary": "Biobanks are crucial for advancing life science and healthcare research due to their large datasets, but they present significant ethical challenges concerning consent and privacy. India currently lacks specific laws to regulate biobanking, which leaves vulnerable populations susceptible to exploitation. This paper reviews existing policies and highlights these issues within the Indian context, advocating for the creation of a dedicated biobanking law in India.",
+      "topics": [
+        "Healthcare Research",
+        "Public Policy",
+        "Bioethics"
+      ],
+      "issues": [
+        "Ethical and consent issues in biobanking",
+        "Absence of specific biobanking laws in India"
+      ],
+      "mainIdeas": [
+        "Biobanks are vital for future life science and healthcare advancements.",
+        "India's lack of a specific biobanking law creates a risk of abuse for vulnerable individuals.",
+        "There is a pressing need for India to develop its own comprehensive biobanking legislation."
+      ]
+    },
+    {
+      "id": "1783913408005d1elaf",
+      "url": "https://takshashila.org.in/content/publications/20210910-Shaping-Narratives-Through-Selective-Use-of-Numbers-A-COVID-19-Case-Study.html",
+      "title": "IPPR Journal Article - Shaping Narratives Through Selective Use of Numbers: A COVID-19 Case Study",
+      "metadataRaw": "Sep 10, 2021 Aarushi Kataria",
+      "publishedDate": "2021-09-10T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-13T03:30:08.005Z",
+      "summary": "This article analyzes the press releases from India's Ministry of Health and Family Welfare during the initial phase of the COVID-19 pandemic. It finds that the government frequently issued statements containing various pandemic-related numbers. The study concludes that these communications were strategically used to create specific public narratives, such as hope or confidence. Ultimately, the goal was to present the government's response in a favorable light, irrespective of the actual performance on the ground.",
+      "topics": [
+        "Government Communication",
+        "Public Relations",
+        "Political Strategy"
+      ],
+      "issues": [
+        "Government Information Control",
+        "Crisis Communication Strategy"
+      ],
+      "mainIdeas": [
+        "Governments can use official communications and selectively present data to shape public perception during a crisis.",
+        "The way statistics are presented in official statements can be manipulated to drive specific political narratives.",
+        "During a public health crisis, communication can be employed to portray government performance positively, even if it doesn't align with reality."
+      ]
+    },
+    {
+      "id": "1783913414798n11xru",
+      "url": "https://takshashila.org.in/content/publications/20210902-space-as-a-geospatial-environment.html",
+      "title": "Space as a Geopolitical Environment",
+      "metadataRaw": "Sep 2, 2021 Aditya Ramanathan, Aditya Pareek",
+      "publishedDate": "2021-09-02T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-13T03:30:14.798Z",
+      "summary": "The ability to use space for commercial, military, and scientific purposes is now crucial for a nation's power. Despite this, space is a new environment, and its strategic importance is not fully understood. This document aims to clarify space's role in global power dynamics, examining it as a strategic location and a potential area for military operations. It also looks into theories of space warfare and the possibility of establishing legal and ethical rules for activities in space.",
+      "topics": [
+        "Space Exploration",
+        "Geopolitics",
+        "Military Strategy"
+      ],
+      "issues": [
+        "Strategic implications of space use",
+        "Space warfare and governance"
+      ],
+      "mainIdeas": [
+        "Access to space is a fundamental measure of national power in multiple sectors.",
+        "Space is a relatively new domain for human activity, and its strategic consequences are not yet well-defined or understood.",
+        "There is a need to understand space as a strategic geography, including its potential for military conflict, and to develop international rules for its use."
+      ]
+    },
+    {
+      "id": "17839134215888ve43o",
+      "url": "https://takshashila.org.in/content/publications/20210901-China-Engagement-in-South-Asia.html",
+      "title": "Book Chapter - Influence and Hedging: China’s Engagement in South Asia",
+      "metadataRaw": "Sep 1, 2021 Manoj Kewalramani, Shibani Mehta",
+      "publishedDate": "2021-09-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-13T03:30:21.588Z",
+      "summary": "China is significantly increasing its involvement in South Asia, primarily driven by a strategic goal to expand its global presence and influence. Countries in the region are responding to this by trying to maximize benefits from China while also reducing potential risks. The article explores China's shifting approaches over time, the current motivations behind its policies under Xi Jinping, and the various tools it uses such as trade, investments, and military diplomacy. It also addresses the constraints on China's engagement, including domestic politics within South Asian countries and competition from other global powers.",
+      "topics": [
+        "Regional Influence",
+        "International Strategy",
+        "Economic Development"
+      ],
+      "issues": [
+        "China's strategic expansion in South Asia",
+        "Balancing regional power dynamics"
+      ],
+      "mainIdeas": [
+        "China's increased engagement in South Asia is a deliberate strategic move to enhance its global power and reach.",
+        "South Asian nations are carefully managing their relationship with China, seeking economic and strategic advantages while trying to minimize potential risks.",
+        "China employs a range of practical methods, including trade, infrastructure investments, and military cooperation, but faces limitations from local political situations and competition from countries like India, Japan, and the United States."
+      ]
+    },
+    {
+      "id": "1783913426974gijkvn",
+      "url": "https://takshashila.org.in/content/publications/20210831-Policy-Guide-for-Vaccine-Mandates-AG.html",
+      "title": "Takshashila Policy Advisory - COVID-19 Vaccine Mandates in India",
+      "metadataRaw": "Aug 31, 2021 Shambhavi Naik, Arjun Gargeyas",
+      "publishedDate": "2021-08-31T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-13T03:30:26.974Z",
+      "summary": "This article analyzes COVID-19 vaccine mandates in India, defining them as requirements for vaccination to access services. It recommends that the Indian government authorize vaccines based on trials and ensure ample supply nationwide. The piece also advises that employers, both public and private, should have the flexibility to implement mandates proportional to health risks, provided they also ensure vaccine access, offer sick leave, and maintain business operations. It further suggests that special exemptions from mandates should be considered.",
+      "topics": [
+        "Public Health",
+        "Government Policy",
+        "Workplace Management"
+      ],
+      "issues": [
+        "COVID-19 Vaccine Requirements",
+        "Policy Implementation"
+      ],
+      "mainIdeas": [
+        "India's government must approve vaccines based on research and make sure there are enough doses available.",
+        "Employers should be allowed to require vaccines if there's a clear public health risk, but they must also provide vaccines, sick leave, and keep services running.",
+        "There should be specific exceptions for people who cannot get vaccinated."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-12T03:27:39.320Z"
+  "lastUpdated": "2026-07-13T03:30:30.330Z"
 }
