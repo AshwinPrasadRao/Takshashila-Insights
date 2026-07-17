@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1784258076432f2oyc9",
+      "url": "https://indianexpress.com/article/opinion/columns/the-bittersweet-realities-of-the-india-uk-fta-10787513",
+      "title": "“The bittersweet realities of the India-UK FTA”",
+      "metadataRaw": "Jul 15, 2026 Anisree Suresh Indian Express",
+      "publishedDate": "2026-07-15T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-17T03:14:36.432Z",
+      "summary": "The India-UK Free Trade Agreement has just begun, offering benefits like reduced tariffs for India on textiles, pharma, and marine exports, along with social security relief for IT workers. However, its effectiveness is undercut by new protectionist measures, particularly regarding steel, from both the UK and the EU. The UK's higher steel import tariffs and upcoming carbon border taxes limit India's ability to use the UK as a trade pathway, especially as the EU also tightens its steel import rules. This indicates a broader global shift towards more protective, transactional trade deals rather than open market access.",
+      "topics": [
+        "International Trade",
+        "Economic Policy",
+        "Global Economics"
+      ],
+      "issues": [
+        "India-UK Trade Relations",
+        "Global Trade Protectionism"
+      ],
+      "mainIdeas": [
+        "The India-UK FTA offers some benefits but faces significant limitations due to new protectionist policies from the UK and EU, particularly impacting steel exports and future carbon tariffs.",
+        "The global trend in trade is shifting from comprehensive free trade agreements to more transactional, defensive deals with increased non-tariff barriers and domestic industrial protection.",
+        "India needs to aggressively adapt its trade strategy to secure market access and sustain export growth in this new, more protectionist global economic order."
+      ]
+    },
+    {
       "id": "17836553455714tqk2",
       "url": "https://takshashila.org.in/content/publications/20260709-China-Japan-Escalation.html",
       "title": "China-Japan Escalation",
@@ -8781,7 +8806,282 @@
         "It offers specific comments on the financial trends within the Departments of Space and Biotechnology.",
         "The analysis reviews government budgets from 2015-16 through the 2021-22 fiscal year."
       ]
+    },
+    {
+      "id": "17842580902403ymqrb",
+      "url": "https://takshashila.org.in/content/publications/20210301-Seeking-a-Seat-at-the-Table-India-Turns-to-the-Arctic.html",
+      "title": "Book Chapter - Seeking a Seat at the Table: India Turns to the Arctic",
+      "metadataRaw": "Mar 1, 2021 Aditya Ramanathan",
+      "publishedDate": "2021-03-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:14:50.240Z",
+      "summary": "India has broad interests in the Arctic, encompassing scientific, environmental, commercial, and strategic areas. It seeks to balance preventing uncontrolled resource exploitation with participating in emerging commercial opportunities as the ice recedes. A key immediate goal for India is to have a voice and presence in Arctic discussions, which it achieved through observer status in the Arctic Council. This approach is informed by historical connections and its past engagement with Antarctica.",
+      "topics": [
+        "Arctic Region",
+        "International Relations",
+        "Resource Management"
+      ],
+      "issues": [
+        "Managing Arctic Resources",
+        "India's Engagement in the Arctic"
+      ],
+      "mainIdeas": [
+        "India aims to balance environmental protection with economic opportunities in the Arctic.",
+        "India prioritizes having a say in how the Arctic is managed, as shown by its observer status in the Arctic Council.",
+        "India's long-standing legal ties and past experience with the Antarctic have influenced its current Arctic strategy."
+      ]
+    },
+    {
+      "id": "1784258096526zxncta",
+      "url": "https://takshashila.org.in/content/publications/20210228-a-rare-earths-strategy-for-india.html",
+      "title": "Takshashila Blue Paper - A Rare Earths Strategy for India",
+      "metadataRaw": "Feb 28, 2021 Anirudh Kanisetti",
+      "publishedDate": "2021-02-28T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:14:56.526Z",
+      "summary": "This article introduces a Blue Paper by the Takshashila Institution that details a strategy for India's rare earths sector. The paper synthesizes expert feedback from a 2021 roundtable discussion. It addresses critical areas like policy adjustments, private industry participation, environmental concerns, and the internationalization of India's rare earth supply chains.",
+      "topics": [
+        "Natural Resources",
+        "Industrial Policy",
+        "International Trade"
+      ],
+      "issues": [
+        "India's Rare Earths Strategy",
+        "Resource Supply Chain Management"
+      ],
+      "mainIdeas": [
+        "India is developing a comprehensive strategy for its rare earth minerals sector.",
+        "This strategy integrates insights from various experts in policy, industry, and academia.",
+        "Key focus areas include policy reform, private sector engagement, environmental sustainability, and securing global rare earth supply lines."
+      ]
+    },
+    {
+      "id": "1784258102064icfpmr",
+      "url": "https://takshashila.org.in/content/publications/20210113-Indias-Opportunity-to-Displace-China-in-Global-Supply-Chains_TDD_V1.0-2.html",
+      "title": "Takshashila Discussion SlideDoc - India’s Opportunity to Displace China in Global Supply Chains",
+      "metadataRaw": "Jan 13, 2021 Narayan Ramchandran, Anupam Manur, Manoj Kewalramani, Sarthak Pradhan",
+      "publishedDate": "2021-01-13T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:02.064Z",
+      "summary": "India has an opportunity to attract companies moving operations out of China by implementing a two-part strategy. This involves collaborating with partner nations, especially in industries critical for national security, and also identifying specific sectors where India has a competitive advantage to attract targeted foreign investment. The article suggests that political trust and security concerns will increasingly influence global business decisions, making these approaches timely and effective for India.",
+      "topics": [
+        "Indian Business Strategy",
+        "Global Trade Shifts",
+        "Economic Development"
+      ],
+      "issues": [
+        "Attracting foreign investment to India",
+        "Realigning global supply chains away from China"
+      ],
+      "mainIdeas": [
+        "India should adopt a dual strategy to attract foreign investment: a broad geopolitical approach focused on national security sectors with partners, and a targeted approach for sectors where India has inherent advantages.",
+        "Post-COVID, political trust and security are expected to become major drivers for economic decisions by both countries and companies.",
+        "These proposed strategies leverage current global trends and India's existing strengths, offering practical steps for achieving immediate success in attracting investment."
+      ]
+    },
+    {
+      "id": "1784258114801963jr",
+      "url": "https://takshashila.org.in/content/publications/20210111-Indias-Theatre-Expansion-Use-of-Sea-Power-to-Balance-Chinas-Rise.html",
+      "title": "IPPR Journal Article - India’s Theatre Expansion : Use of Sea Power to Balance China’s Rise",
+      "metadataRaw": "Jan 11, 2021 Suyash Desai",
+      "publishedDate": "2021-01-11T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:14.801Z",
+      "summary": "India and China maintain a competitive and adversarial relationship, driven by geopolitical, strategic, and historical factors, including ongoing border disputes. While land and air defenses are crucial along the Himalayan frontiers, they are insufficient to deter China's military provocations or prevent India from being limited to a sub-continental power. The article argues that developing and demonstrating sea power, especially in the Indian Ocean and east of the Malacca Straits, offers India the most effective way to manage China in the Indo-Pacific region. This maritime capability provides India with various strategic options for negotiations with Beijing.",
+      "topics": [
+        "Geopolitics",
+        "Military Strategy",
+        "Regional Security"
+      ],
+      "issues": [
+        "India-China Rivalry",
+        "Balancing Regional Power"
+      ],
+      "mainIdeas": [
+        "India and China have a fundamentally competitive relationship rooted in historical, strategic, and geopolitical factors, exacerbated by border disputes.",
+        "Conventional land and air defenses along the shared border are insufficient to deter China's military actions or secure India's broader regional influence.",
+        "India's strategic use of sea power in the Indo-Pacific, particularly in the Indian Ocean and east of the Malacca Straits, provides the best means to manage China's rise and offers India significant leverage in strategic discussions."
+      ]
+    },
+    {
+      "id": "1784258107394v7ham",
+      "url": "https://takshashila.org.in/content/publications/20210111-IPR-India-Theatre-Expansion.html",
+      "title": "IPPR Journal Article - India’s Theatre Expansion : Use of Sea Power to Balance China’s Rise",
+      "metadataRaw": "Jan 11, 2021 Suyash Desai",
+      "publishedDate": "2021-01-11T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:07.395Z",
+      "summary": "China and India share a competitive and adversarial relationship driven by geopolitical, strategic, and historical factors, with border disputes being a key symptom. While land and air defenses are vital for border security, they are not enough to prevent China from using military provocations to influence India's foreign policy. This article argues that India's sea power offers the most effective strategy for managing China in the Indo-Pacific region. By developing and showcasing its maritime capabilities, particularly in the Indian Ocean and east of the Malacca Straits, India gains various options for direct and indirect strategic negotiations with Beijing.",
+      "topics": [
+        "India-China Relations",
+        "Regional Geopolitics",
+        "Naval Strategy"
+      ],
+      "issues": [
+        "Sino-Indian Border Dispute",
+        "Balance of Power in Indo-Pacific"
+      ],
+      "mainIdeas": [
+        "The relationship between China and India is inherently competitive and adversarial, fueled by deep-seated issues.",
+        "India's land and air forces are insufficient on their own to deter Chinese military provocations.",
+        "Developing and projecting sea power in key maritime areas gives India crucial leverage to manage China's influence and negotiate strategically."
+      ]
+    },
+    {
+      "id": "17842581232072c6io",
+      "url": "https://takshashila.org.in/content/publications/20201224-a-rare-earths-strategy-for-india.html",
+      "title": "A Rare Earths Strategy for India",
+      "metadataRaw": "Dec 24, 2020 Narayan Ramachandran, Aditya Pareek, Anirudh Kanisetti",
+      "publishedDate": "2020-12-24T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:23.207Z",
+      "summary": "This article outlines a strategy for India to become a global supplier of rare earth elements, leveraging current international economic and political trends. It proposes that the Indian government establish a new department to regulate and support the rare earths industry. Key recommendations include allowing private sector participation, providing financial incentives for processing, and improving the ease of doing business. The strategy also suggests building a national rare earths reserve with international partners to secure India's future in high-tech manufacturing.",
+      "topics": [
+        "Geopolitics",
+        "Economics",
+        "Industry Development"
+      ],
+      "issues": [
+        "Global Rare Earths Supply Chain Security",
+        "India's Industrial Competitiveness"
+      ],
+      "mainIdeas": [
+        "India has a significant opportunity to establish itself as a major rare earths supplier in the global market.",
+        "The Indian government must actively support private sector involvement through new regulations, financial aid, and improved infrastructure to develop the rare earths industry.",
+        "Establishing a strategic rare earths reserve with international allies is vital for India to maintain competitiveness in future high-tech product manufacturing."
+      ]
+    },
+    {
+      "id": "1784258127903jmet7",
+      "url": "https://takshashila.org.in/content/publications/20201117-TDS-A-Strategy-to-Make-India-a-Biotech-Leader-by-2025.html",
+      "title": "Takshashila Discussion SlideDoc - A Strategy to make India a Biotech Leader by 2025",
+      "metadataRaw": "Nov 17, 2020 Shambhavi Naik",
+      "publishedDate": "2020-11-17T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:27.903Z",
+      "summary": "India's biotechnology and healthcare sectors are crucial for managing the COVID-19 pandemic, revitalizing the economy, and ensuring long-term competitiveness. The country faces internal hurdles such as unclear regulations, supply chain issues, and a shortage of skilled professionals. To address these challenges, the article proposes strategic public investments in research, pandemic preparedness, and talent development. It also recommends creating a single life-sciences ministry for better regulation and establishing a safe clinical trials framework, alongside specific financial and regulatory adjustments for various biotech sub-sectors.",
+      "topics": [
+        "Biotechnology",
+        "Healthcare Policy",
+        "Economic Development"
+      ],
+      "issues": [
+        "India's Biotech Sector Growth",
+        "Regulatory Streamlining"
+      ],
+      "mainIdeas": [
+        "India's biotech and healthcare industries are essential for national recovery and future economic strength.",
+        "Current obstacles include inefficient regulations, supply chain difficulties, and a lack of qualified personnel.",
+        "The suggested strategy focuses on public funding, unified governance, a reliable clinical trials system, and targeted reforms across different biotech fields."
+      ]
+    },
+    {
+      "id": "1784258133390ol71l9",
+      "url": "https://takshashila.org.in/content/publications/20201022-submarine-cables.html",
+      "title": "Submarine Cables: A Maritime National Security Perspective for India",
+      "metadataRaw": "Oct 22, 2020 Aditya Pareek",
+      "publishedDate": "2020-10-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:33.390Z",
+      "summary": "India's future economic recovery and national security are heavily reliant on its digital connectivity, which is primarily supported by submarine cables. This article highlights the critical importance of safeguarding these underwater communication links. It proposes several actionable recommendations for India, including deploying advanced surveillance systems, increasing maritime and aerial patrols, and incentivizing private sector involvement in restoring damaged cables.",
+      "topics": [
+        "National Security",
+        "Digital Infrastructure",
+        "Maritime Security"
+      ],
+      "issues": [
+        "Protection of Submarine Cables",
+        "India's Digital Connectivity"
+      ],
+      "mainIdeas": [
+        "Submarine cables are essential for India's economic and national security in the digital age.",
+        "India must implement a comprehensive strategy to protect its submarine cables, involving surveillance, increased patrols, and improved restoration capabilities.",
+        "Reliable digital connectivity is directly linked to India's post-pandemic recovery and overall stability."
+      ]
+    },
+    {
+      "id": "17842581410168hg6p",
+      "url": "https://takshashila.org.in/content/publications/20201005-Constraining-the-Pakistani-Military-Jihadi-Complex-In-a-Post-COVID-World.html",
+      "title": "CLAWS Journal Article - Constraining the Pakistani Military-Jihadi Complex In a Post-COVID World",
+      "metadataRaw": "Oct 5, 2020 Pranay Kotasthane",
+      "publishedDate": "2020-10-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:41.016Z",
+      "summary": "The article surveys four significant recent developments impacting the Pakistani Military-Jihadi Complex (MJC): shifts in its external funding, the US-Taliban Peace Agreement, India's change in Kashmir's status, and Pakistan's economic difficulties. It analyzes these events using a contingency planning framework to identify both risks and opportunities for the MJC, which in turn affect India. Based on this analysis, the paper aims to derive specific measures to constrain the MJC in both the short and medium terms.",
+      "topics": [
+        "Regional Security",
+        "Counter-Terrorism",
+        "Geopolitics"
+      ],
+      "issues": [
+        "Pakistani extremist groups and their influence",
+        "India-Pakistan security implications"
+      ],
+      "mainIdeas": [
+        "The Pakistani Military-Jihadi Complex is currently facing significant changes due to various international and internal factors.",
+        "These shifts create both vulnerabilities and potential advantages for the MJC, with direct consequences for India's security.",
+        "Understanding these dynamics is crucial for developing practical strategies to limit the MJC's influence in the immediate and near future."
+      ]
+    },
+    {
+      "id": "1784258147126m6au9",
+      "url": "https://takshashila.org.in/content/publications/20201001-TDD-Ethical-Guidelines-for-Clinical-Trials-and-Research-in-India.html",
+      "title": "Takshashila Discussion Document - Ethical Guidelines for Clinical Trials and Research in India",
+      "metadataRaw": "Oct 1, 2020 Sunila Dixit",
+      "publishedDate": "2020-10-01T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:47.126Z",
+      "summary": "This discussion document proposes updated ethical principles and a guidance questionnaire for researchers and ethics committees in India. It suggests revising the 2017 ICMR guidelines to better address ethical dilemmas in clinical trials and biomedical research. The aim is to clarify fundamental ethical principles, provide practical examples, and refine how research risks are defined.",
+      "topics": [
+        "Healthcare Policy",
+        "Research Ethics",
+        "Biomedical Research"
+      ],
+      "issues": [
+        "Outdated research ethics guidelines in India",
+        "Need for clearer ethical frameworks in clinical trials"
+      ],
+      "mainIdeas": [
+        "India's current ethical guidelines for clinical trials and research need an urgent update.",
+        "New guidelines should offer clearer principles, better define research risks, and include practical examples to aid understanding.",
+        "The overall goal is to strengthen the ethical standards for all health-related research conducted in the country."
+      ]
+    },
+    {
+      "id": "1784258152143d4v0y8",
+      "url": "https://takshashila.org.in/content/publications/20200928-Indian-Approach-to-Navigate-China-Rise.html",
+      "title": "Takshashila Discussion Document - An Indian Approach to Navigate China’s Rise",
+      "metadataRaw": "Sep 28, 2020 Suyash Desai, Shibani Mehta, Manoj Kewalramani, Anirudh Kanisetti",
+      "publishedDate": "2020-09-28T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-17T03:15:52.143Z",
+      "summary": "This article outlines a strategic approach for India to manage the rise of China, considering ongoing frictions and new global dynamics. It notes that China's main interest regarding India is the nature of the Indo-US relationship, desiring a stable and non-aligned India. Conversely, India's goal is a stable and deepening relationship with China based on shared interests, while simultaneously expanding its own national power. The report provides actionable recommendations for India across economic, security, and global policy areas.",
+      "topics": [
+        "India-China Relations",
+        "Geopolitics",
+        "Foreign Policy Strategy"
+      ],
+      "issues": [
+        "Managing a rising global power",
+        "India's national interest"
+      ],
+      "mainIdeas": [
+        "India must adopt a strategic, multi-faceted approach to China, balancing economic engagement and cooperation with defense modernization and self-interest.",
+        "China's primary concern regarding India is its relationship with the United States.",
+        "India should pursue conditional economic engagement, strengthen its security posture, and pragmatically cooperate on global issues to enhance its own influence."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-16T02:57:54.831Z"
+  "lastUpdated": "2026-07-17T03:15:52.144Z"
 }
