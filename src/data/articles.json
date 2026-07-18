@@ -8933,6 +8933,56 @@
       ]
     },
     {
+      "id": "17843431219406pe87c",
+      "url": "https://takshashila.org.in/content/publications/20210104-China-India-Doklam-in-2020.html",
+      "title": "Takshashila Strategic Assessment - China, India and Doklam in 2020",
+      "metadataRaw": "Jan 4, 2021 Lt Gen (Dr) Prakash Menon, Anirudh Kanisetti",
+      "publishedDate": "2021-01-04T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-18T02:52:01.940Z",
+      "summary": "China has significantly expanded its military infrastructure in the Doklam region and along the Amo Chu River in Bhutan since 2017. This includes building roads and permanent structures that allow China to potentially outflank Indian positions and threaten the critical Siliguri Corridor. The article argues that India's mild response to earlier incidents has worsened the situation, risking further Chinese territorial gains and straining relations with allies like Bhutan.",
+      "topics": [
+        "Regional Security",
+        "International Relations",
+        "Border Conflicts"
+      ],
+      "issues": [
+        "India-China Border Tensions",
+        "China's Territorial Assertiveness"
+      ],
+      "mainIdeas": [
+        "India's conciliatory approach since the 2017 Doklam standoff has led to a deterioration of the strategic situation.",
+        "China is aggressively building new military infrastructure in disputed areas, posing a direct threat to Indian defenses and a vital economic route.",
+        "The author warns that India's current lack of a decisive stance could lead to further territorial losses and weaken its alliances in the region."
+      ]
+    },
+    {
+      "id": "1784343130911glil8d",
+      "url": "https://takshashila.org.in/content/publications/20201231-The-China-Challenge.html",
+      "title": "Takshashila-Hudson Blue Paper - The China Challenge",
+      "metadataRaw": "Dec 31, 2020 Aditya Ramanathan, Aditya Prateek",
+      "publishedDate": "2020-12-31T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-18T02:52:10.911Z",
+      "summary": "The Takshashila Institution and Hudson Institute held a six-week online discussion series focused on how India and the United States should respond to China's increasing assertiveness and global ambitions. This Blue Paper summarizes the key ideas and discussions from that series. It aims to outline potential strategies for both nations in facing the 'China Challenge'.",
+      "topics": [
+        "Geopolitics",
+        "Foreign Policy",
+        "International Strategy"
+      ],
+      "issues": [
+        "China's Global Expansion",
+        "US-India Strategic Response"
+      ],
+      "mainIdeas": [
+        "Two major institutions collaborated to tackle the significant challenge posed by China's growing global influence.",
+        "The core question explored was how India and the United States can effectively counter China's increasing assertiveness.",
+        "The paper collects insights and potential strategies developed during these expert discussions to inform future policy."
+      ]
+    },
+    {
       "id": "17842581232072c6io",
       "url": "https://takshashila.org.in/content/publications/20201224-a-rare-earths-strategy-for-india.html",
       "title": "A Rare Earths Strategy for India",
@@ -8980,6 +9030,56 @@
         "India's biotech and healthcare industries are essential for national recovery and future economic strength.",
         "Current obstacles include inefficient regulations, supply chain difficulties, and a lack of qualified personnel.",
         "The suggested strategy focuses on public funding, unified governance, a reliable clinical trials system, and targeted reforms across different biotech fields."
+      ]
+    },
+    {
+      "id": "1784343135625vq2z46",
+      "url": "https://takshashila.org.in/content/publications/20201106-Analysis-of-Serosurveys-in-India.html",
+      "title": "Takshashila Discussion Document - Analysis of COVID-19 Serosurveys in India",
+      "metadataRaw": "Nov 6, 2020 Shambhavi Naik, Sunila Dixit",
+      "publishedDate": "2020-11-06T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-18T02:52:15.625Z",
+      "summary": "This document analyzes COVID-19 seroprevalence surveys conducted across India, which track the actual spread of the virus. It identifies a significant difference between the number of estimated infections from these surveys and the official case counts. The authors argue this gap is a direct result of India's limited testing capacity and an ineffective testing strategy. They suggest that localized serosurveys can be valuable for understanding the true demand for testing and for better allocating testing resources at the city level.",
+      "topics": [
+        "Public Health",
+        "COVID-19",
+        "Data Analysis"
+      ],
+      "issues": [
+        "India's COVID-19 Testing Strategy",
+        "Discrepancy in Disease Surveillance Data"
+      ],
+      "mainIdeas": [
+        "Official COVID-19 case counts in India significantly underestimate the true spread of the virus, as revealed by seroprevalence surveys.",
+        "This underreporting is primarily caused by insufficient testing capacity and a flawed approach to testing.",
+        "Using data from city-level serosurveys can help governments better understand local testing needs and improve how testing resources are deployed."
+      ]
+    },
+    {
+      "id": "1784343139579vs5nsp",
+      "url": "https://takshashila.org.in/content/publications/20201105-A-COVID-19-Vaccine-Deployment-Strategy-For-India.html",
+      "title": "IPPR Journal Article - A COVID-19 Vaccine Deployment Strategy for India",
+      "metadataRaw": "Nov 5, 2020 Nitin Pai, Narayan Ramachandran, Pranay Kotasthane, Shambhavi Naik, Sunila Dixit, Mihir Mahajan",
+      "publishedDate": "2020-11-05T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-18T02:52:19.579Z",
+      "summary": "The article proposes a detailed, four-stage strategy for India to vaccinate 80% of its population against COVID-19 by December 2021. This plan involves estimating needs, securing vaccine supply, efficient distribution, and ongoing post-market monitoring. Key recommendations include prioritizing essential workers, encouraging manufacturers with model contracts, and ensuring equitable access through government subsidies while allowing market pricing. The strategy also emphasizes leveraging public-private partnerships and existing administrative structures, like the Election Commission, for a nationwide rollout.",
+      "topics": [
+        "Public Health",
+        "Logistics",
+        "Government Policy"
+      ],
+      "issues": [
+        "COVID-19 Vaccine Deployment",
+        "Equitable Access to Vaccines"
+      ],
+      "mainIdeas": [
+        "India requires a comprehensive, staged plan for its COVID-19 vaccine rollout, from securing supply to post-deployment monitoring.",
+        "Effective vaccine distribution relies on strategic partnerships, government incentives for manufacturers, and financial mechanisms to ensure fair access for all citizens.",
+        "Leveraging established administrative capabilities and prioritizing essential populations are critical for a successful and widespread vaccination drive."
       ]
     },
     {
@@ -9081,7 +9181,32 @@
         "China's primary concern regarding India is its relationship with the United States.",
         "India should pursue conditional economic engagement, strengthen its security posture, and pragmatically cooperate on global issues to enhance its own influence."
       ]
+    },
+    {
+      "id": "1784343144731sxxsq",
+      "url": "https://takshashila.org.in/content/publications/20200922-BRI-in-Post-Covid-World.pdf.html",
+      "title": "Takshashila Discussion Document - BRI in the Post-COVID World: Risks and Responses",
+      "metadataRaw": "Sep 22, 2020 Manoj Kewalramani, Agastya Bhatia",
+      "publishedDate": "2020-09-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-18T02:52:24.731Z",
+      "summary": "This document examines how China's Belt and Road Initiative (BRI) is evolving in the wake of the COVID-19 pandemic and heightened US-China tensions. China is adjusting its priorities, likely becoming more selective with future investments due to economic constraints. The country will also prioritize vaccine distribution to BRI partner states as part of its 'Health Silk Road' initiative. Overall, the BRI is expected to face significant hurdles, including slow economic recovery and ongoing geopolitical and technology risks.",
+      "topics": [
+        "Global Politics",
+        "International Economics",
+        "China's Foreign Policy"
+      ],
+      "issues": [
+        "Impact of COVID-19 on global projects",
+        "US-China Competition"
+      ],
+      "mainIdeas": [
+        "The COVID-19 pandemic and intensified US-China tensions are causing China to shift its strategy for the Belt and Road Initiative.",
+        "China will likely reduce the pace of new investments and become more discerning, while also using vaccine distribution to strengthen ties with BRI partners.",
+        "The BRI faces significant challenges, including a slow global economic recovery and persistent geopolitical and technology risks."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-17T03:15:52.144Z"
+  "lastUpdated": "2026-07-18T02:52:29.182Z"
 }
