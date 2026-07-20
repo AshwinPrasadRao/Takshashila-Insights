@@ -9208,6 +9208,31 @@
       ]
     },
     {
+      "id": "1784519932617ap2cp5",
+      "url": "https://takshashila.org.in/content/publications/20200920-5G-Huawei-Geopolitics-An-Indian-Roadmap.html",
+      "title": "Takshashila Discussion Document - 5G, Huawei & Geopolitics - An Indian Roadmap",
+      "metadataRaw": "Sep 20, 2020 Manoj Kewalramani, Anirudh Kanisetti",
+      "publishedDate": "2020-09-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-20T03:58:52.618Z",
+      "summary": "This report advises the Indian government to carefully consider the national security and global political risks of letting Huawei build parts of its 5G network. It argues that while there are economic benefits to using Chinese vendors, these must be balanced against threats like espionage and the potential for technology ecosystems to split along national lines. The report suggests India should restrict, but not completely ban, Chinese companies, avoid depending too much on any one supplier, and use its market size to its advantage. Decisions on these new technologies should ultimately be made by the Cabinet Committee on Security.",
+      "topics": [
+        "Telecommunications",
+        "National Security",
+        "Global Technology Policy"
+      ],
+      "issues": [
+        "India's 5G Network Security",
+        "Chinese Telecom Vendor Participation"
+      ],
+      "mainIdeas": [
+        "India's 5G infrastructure decisions, particularly regarding Chinese companies like Huawei, carry significant national security and geopolitical risks that go beyond economic factors.",
+        "India should take a measured approach, limiting but not fully banning Chinese vendors, while ensuring it doesn't become overly dependent on any single supplier.",
+        "The government should use India's large market as leverage to achieve strategic goals in technology and ensure major security decisions are handled at the highest level."
+      ]
+    },
+    {
       "id": "1784431384057musbzc",
       "url": "https://takshashila.org.in/content/publications/20200919-States-Migrant-Workers-and-the-Pandemic.html",
       "title": "Takshashila Discussion Document - States, Migrant Workers, and the Pandemic",
@@ -9230,6 +9255,31 @@
         "Migrant workers in Indian cities struggle with exclusion due to insufficient access to essential services and social safety nets.",
         "Identity factors such as caste, socioeconomic class, education level, and language are crucial determinants of a migrant's ability and willingness to integrate, often leading to segregation.",
         "Although these identity markers frequently create barriers, understanding and strategically addressing them can also provide pathways to better assimilation for migrants."
+      ]
+    },
+    {
+      "id": "1784519937777rs85fe",
+      "url": "https://takshashila.org.in/content/publications/20200904-COVID-19-Vaccine-Deployment-Strategy-for-India.html",
+      "title": "A COVID-19 Vaccine Deployment Strategy for India",
+      "metadataRaw": "Sep 4, 2020 Shambhavi Naik, Ameya Paleja, Mihir Mahajan, Narayan Ramachandran, Sunila Dixit, Rahul Matthan, Nitin Pai, Pranay Kotasthane",
+      "publishedDate": "2020-09-04T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-20T03:58:57.777Z",
+      "summary": "This article proposes a detailed four-stage plan for India to vaccinate 80% of its population against COVID-19 by December 2021. The stages include estimating needs, securing vaccine supply, distributing the vaccines, and conducting post-market surveillance. Key recommendations involve prioritizing essential workers, incentivizing manufacturers with government contracts, using market pricing with government subsidies for equitable access, and leveraging the Election Commission's administrative capacity for nationwide distribution. The plan emphasizes the need for public-private partnerships and ongoing monitoring of vaccine deployment.",
+      "topics": [
+        "Public Health",
+        "National Strategy",
+        "Logistics"
+      ],
+      "issues": [
+        "COVID-19 Vaccine Deployment",
+        "Large-scale Public Health Logistics"
+      ],
+      "mainIdeas": [
+        "India requires a comprehensive, multi-stage plan to vaccinate a large majority of its population rapidly, covering everything from supply procurement to distribution and monitoring.",
+        "The government should play a critical role in securing vaccine supply through manufacturer incentives, ensuring fair access through subsidies, and utilizing existing administrative structures for efficient nationwide distribution.",
+        "Successful vaccine deployment hinges on strong public-private partnerships and continuous post-market surveillance to adapt the strategy based on real-world data."
       ]
     },
     {
@@ -9283,6 +9333,30 @@
       ]
     },
     {
+      "id": "1784519944018furtz",
+      "url": "https://takshashila.org.in/content/publications/2020819-Takshashila-Discussion%20Document-Reimagining-India's-Public-Health-Governance-System.html",
+      "title": "Takshashila Discussion Document - Reimagining India’s Public Health Governance System",
+      "metadataRaw": "Aug 19, 2020 Shambhavi Naik, Sapni G K, Sunila Dixit",
+      "publishedDate": "2020-08-19T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-20T03:59:04.018Z",
+      "summary": "India requires a new public health system, ideally housed within the Ministry of Health and Family Welfare, to improve operational efficiency, increase transparency, and achieve better health outcomes. The document proposes a new governance structure organized around essential public health functions to eliminate conflicts and overlapping duties. This structure would include an inter-ministerial board for policy-making, distinct departments for monitoring, research, communication, and program implementation, and a dedicated quality control and finance department to ensure oversight and transparency.",
+      "topics": [
+        "Public Health",
+        "Government Structure"
+      ],
+      "issues": [
+        "Improving India's public health system",
+        "Streamlining health governance"
+      ],
+      "mainIdeas": [
+        "India's existing public health system is inadequate and needs a complete redesign.",
+        "The new system should be centralized under the Ministry of Health to enhance efficiency, transparency, and public health results.",
+        "The proposed governance model will separate key functions like policy, monitoring, and program delivery, with a quality and finance department ensuring accountability."
+      ]
+    },
+    {
       "id": "17844314195032t20ui",
       "url": "https://takshashila.org.in/content/publications/20200731-Military-Resource-Allocation-Framework.html",
       "title": "Takshashila Discussion Document - A Military Resource Allocation Framework",
@@ -9331,7 +9405,82 @@
         "India's handling of the Doklam situation after 2017 suggests a quiet acceptance of China's increased military presence and territorial claims, potentially trading long-term interests for short-term diplomatic ease.",
         "The article strongly advises India to define a clear, long-term policy that combines diplomatic, economic, and military actions to counter China's aggressive border actions and protect its national security."
       ]
+    },
+    {
+      "id": "1784519949697pfgeex",
+      "url": "https://takshashila.org.in/content/publications/20200709-COVID-19-Testing-strategy-for-India.html",
+      "title": "Takshashila Discussion Document - COVID-19 Testing Strategy for India",
+      "metadataRaw": "Jul 9, 2020 Shambhavi Naik",
+      "publishedDate": "2020-07-09T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-20T03:59:09.697Z",
+      "summary": "The article outlines a COVID-19 testing strategy for India, emphasizing that rapid and accurate testing is essential to contain the virus. It advocates for empowering local governments to determine testing strategies based on their specific resources and case density, moving away from a centralized policy. The document also highlights the importance of using various test types for different purposes, such as diagnostic testing versus community surveillance, and recommends rapidly increasing overall testing capacity.",
+      "topics": [
+        "Public Health",
+        "Healthcare Policy",
+        "Disease Management"
+      ],
+      "issues": [
+        "COVID-19 testing and containment",
+        "Decentralized governance in public health crises"
+      ],
+      "mainIdeas": [
+        "Local governments should be given authority to design COVID-19 testing strategies based on their available resources and the local spread of cases, rather than adhering to a single national policy.",
+        "Different testing methods, including gold-standard molecular tests, rapid tests, and community-level wastewater testing, should be strategically deployed for specific purposes.",
+        "Ramping up overall testing capacity and intelligently utilizing all available testing kits are critical steps to effectively stop the spread of COVID-19."
+      ]
+    },
+    {
+      "id": "17845199551074nq24l",
+      "url": "https://takshashila.org.in/content/publications/20200626-Analysing-Digital-Platforms-Response-to-COVID-19-Information-Disorder.html",
+      "title": "Takshashila Discussion Document - Analysing Digital Platforms’ Responses to COVID-19 Information Disorder",
+      "metadataRaw": "Jun 26, 2020 Prateek Waghre, Rohan Seth",
+      "publishedDate": "2020-06-26T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-20T03:59:15.107Z",
+      "summary": "This document analyzes how digital platforms responded to the spread of misinformation and disinformation during the COVID-19 pandemic. Platforms took various actions, including modifying how information flows, investing in fact-checking, adjusting user interfaces to highlight credible sources, and updating their content policies. These efforts granted platforms greater discretion in content moderation, though the level and consistency of their actions varied by region and platform. The way platforms managed this information could significantly change the relationships between governments, society, and individuals.",
+      "topics": [
+        "Digital Technology",
+        "Public Health",
+        "Information Policy"
+      ],
+      "issues": [
+        "Online Misinformation",
+        "Content Moderation"
+      ],
+      "mainIdeas": [
+        "Digital platforms implemented diverse strategies, such as policy changes, funding, and UI adjustments, to combat COVID-19 related misinformation.",
+        "The pandemic provided platforms with increased authority to moderate content, with their responses differing across geographical areas and platform types.",
+        "The extensive actions taken by platforms to control online information could lead to lasting changes in the dynamics between governments, society, and the public."
+      ]
+    },
+    {
+      "id": "17845199609105klga",
+      "url": "https://takshashila.org.in/content/publications/20200618-COVID-Lessons-from-the-Second-World-War-18-June-Takshashila-Institution-v1.0.html",
+      "title": "Takshashila Discussion Document - COVID-19: Lessons from the US in the Second World War",
+      "metadataRaw": "Jun 18, 2020 Sarthak Pradhan, Pranav R Satyanath, Anirudh Kanisetti",
+      "publishedDate": "2020-06-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-20T03:59:20.910Z",
+      "summary": "This document analyzes the rapid industrial expansion of the US during World War II to draw lessons for India's response to the COVID-19 pandemic. It proposes strategies for increasing manufacturing of essential goods and for India to benefit from global supply chains shifting away from China. The analysis suggests that combining government incentives with private sector initiatives can address these challenges effectively, without needing nationalization. Recommendations include establishing national reserves for healthcare equipment, treating healthcare workers as strategic assets, and using advance purchase agreements to encourage private investment.",
+      "topics": [
+        "Public Health Policy",
+        "Industrial Strategy",
+        "Economic Development"
+      ],
+      "issues": [
+        "Pandemic Response Capacity",
+        "Global Supply Chain Shifts"
+      ],
+      "mainIdeas": [
+        "Rapidly increasing manufacturing capacity for essential goods during a crisis requires both government support and private sector engagement.",
+        "Governments should establish strategic reserves of healthcare equipment and personnel, and consider healthcare infrastructure a critical asset.",
+        "Policy tools like financial incentives, eased regulations, intellectual property transfer, and advance purchase agreements can encourage private sector investment in key areas."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-19T03:25:00.011Z"
+  "lastUpdated": "2026-07-20T03:59:24.591Z"
 }
