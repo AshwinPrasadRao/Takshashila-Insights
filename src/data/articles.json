@@ -1,6 +1,79 @@
 {
   "articles": [
     {
+      "id": "1784603871041i7yaw",
+      "url": "https://takshashila.org.in/content/publications/20260720-subsea-cable-governance.html",
+      "title": "Navigating India’s Subsea Cable Governance",
+      "metadataRaw": "Jul 20, 2026 Anwesha Sen",
+      "publishedDate": "2026-07-20T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-21T03:17:51.042Z",
+      "summary": "India's subsea cable infrastructure, which is crucial for 95% of its digital communications, faces significant vulnerabilities. These include an extreme concentration of landing points in one city, a complete lack of Indian-owned repair vessels, and near-total dependence on foreign companies for manufacturing deep-sea cable components. These issues pose substantial risks to India's digital economy and national security, making the country susceptible to prolonged internet outages. The article proposes a strategic roadmap to strengthen this ecosystem, advocating for its classification as critical national infrastructure and measures to enhance self-reliance and diversify landing locations.",
+      "topics": [
+        "Digital Infrastructure Security",
+        "National Security",
+        "Economic Resilience"
+      ],
+      "issues": [
+        "Lack of domestic subsea cable repair and manufacturing capabilities",
+        "Geographic concentration of critical internet landing points"
+      ],
+      "mainIdeas": [
+        "Subsea cables are essential national infrastructure and should be formally recognized and protected as such.",
+        "India must build its own capacity for subsea cable repair and domestic manufacturing to reduce foreign reliance.",
+        "Diversifying cable landing sites away from single, concentrated locations is critical to prevent widespread internet disruptions."
+      ]
+    },
+    {
+      "id": "17846038519774bfg37",
+      "url": "https://www.moneycontrol.com/news/opinion/don-t-let-china-tie-us-down-in-the-himalaya-maritime-deterrence-is-the-key-13978218.html",
+      "title": "Don’t let China tie us down in the Himalaya. Maritime deterrence is the key",
+      "metadataRaw": "Jul 20, 2026 Yusuf Unjhawala,Air Cmdre Gaurav M Tripathi Moneycontrol",
+      "publishedDate": "2026-07-20T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-21T03:17:31.978Z",
+      "summary": "The article asserts that China has evolved into a significant maritime military power, not solely a land-based one. It argues that focusing on naval deterrence in crucial choke points, such as the Malacca Strait, is essential to counter China's growing influence. The main objective is to achieve overall strategic balance, rather than just matching military numbers, to prevent China from dictating terms in land-based disputes like those in the Himalayas.",
+      "topics": [
+        "Military Strategy",
+        "Geopolitics"
+      ],
+      "issues": [
+        "China's expanding military influence",
+        "Regional strategic balance"
+      ],
+      "mainIdeas": [
+        "China's military capabilities have expanded beyond land forces to include a strong naval presence.",
+        "Using naval power to deter China in key maritime locations, like the Malacca Strait, is a crucial strategy.",
+        "The objective is to achieve a broad strategic balance, not just equal military numbers, to prevent China from dominating land borders or other areas."
+      ]
+    },
+    {
+      "id": "17846038575810bry2",
+      "url": "https://www.moneycontrol.com/news/opinion/enhancing-national-research-intensity-needs-perseverance-not-one-off-measures-13976886.html",
+      "title": "Enhancing national research intensity needs perseverance, not one-off measures",
+      "metadataRaw": "Jul 17, 2026 Arindam Goswami Moneycontrol",
+      "publishedDate": "2026-07-17T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-21T03:17:37.581Z",
+      "summary": "Thirty years ago, India and China had similar levels of national research activity, but China has since advanced significantly while India's progress stalled. The Indian government aims to boost national research intensity, recognizing it as a policy problem. However, achieving this goal requires consistent effort and persistent commitment over many years, rather than isolated, short-term measures.",
+      "topics": [
+        "National Development",
+        "Science and Technology Policy"
+      ],
+      "issues": [
+        "India's Research Stagnation",
+        "Effectiveness of Government Policy"
+      ],
+      "mainIdeas": [
+        "India has fallen behind China in research intensity over the last three decades despite starting at a similar point.",
+        "Increasing national research capabilities demands sustained government commitment and long-term strategic planning.",
+        "One-off or short-term policy measures are insufficient to resolve India's current research deficit."
+      ]
+    },
+    {
       "id": "1784258076432f2oyc9",
       "url": "https://indianexpress.com/article/opinion/columns/the-bittersweet-realities-of-the-india-uk-fta-10787513",
       "title": "“The bittersweet realities of the India-UK FTA”",
@@ -9457,6 +9530,31 @@
       ]
     },
     {
+      "id": "17846038810953m98br",
+      "url": "https://takshashila.org.in/content/publications/20200618-The%20Laskhar-e-Taiba%20in%20Afghanistan.html",
+      "title": "The Laskhar-e-Taiba in Afghanistan",
+      "metadataRaw": "Jun 18, 2020 Anand Arni",
+      "publishedDate": "2020-06-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-21T03:18:01.095Z",
+      "summary": "Lashkar-e-Taiba (LeT), a militant group with historical ties to Pakistan's intelligence agency (ISI), has significantly increased its presence and activity in Afghanistan, actively supporting the Taliban. The ISI orchestrated a strategic takeover of the Islamic State of Khorasan (ISK) by installing an LeT-affiliated leader, Aslam Farooqi, in exchange for safe havens and influence. This intervention led to a split within the ISK and demonstrates Pakistan's efforts to manage militant groups in Afghanistan to serve its regional security interests. The LeT's enhanced role indicates a deliberate strategy by Pakistan to maintain control and deniability in the complex Afghan security landscape.",
+      "topics": [
+        "Militant Groups",
+        "Regional Security",
+        "Afghanistan"
+      ],
+      "issues": [
+        "Militant Group Dynamics",
+        "Pakistan's Influence in Afghanistan"
+      ],
+      "mainIdeas": [
+        "Lashkar-e-Taiba (LeT) is now more visible and active in Afghanistan, supporting the Taliban and influencing other militant factions.",
+        "Pakistan's ISI strategically infiltrated and co-opted the Islamic State of Khorasan (ISK) by installing an LeT-aligned leader, Aslam Farooqi, to secure safe havens and control the group's actions.",
+        "Pakistan's actions aim to ensure its interests are met in Afghanistan, including maintaining influence over the Taliban, countering rival groups, and providing a layer of deniability for certain militant operations."
+      ]
+    },
+    {
       "id": "17845199609105klga",
       "url": "https://takshashila.org.in/content/publications/20200618-COVID-Lessons-from-the-Second-World-War-18-June-Takshashila-Institution-v1.0.html",
       "title": "Takshashila Discussion Document - COVID-19: Lessons from the US in the Second World War",
@@ -9480,7 +9578,58 @@
         "Governments should establish strategic reserves of healthcare equipment and personnel, and consider healthcare infrastructure a critical asset.",
         "Policy tools like financial incentives, eased regulations, intellectual property transfer, and advance purchase agreements can encourage private sector investment in key areas."
       ]
+    },
+    {
+      "id": "1784603886867p0nun5",
+      "url": "https://takshashila.org.in/content/publications/20200616-National-Security-Plan-for-COVID19.html",
+      "title": "Takshashila Discussion SlideDoc - National Security Preparedness & Planning for COVID-19",
+      "metadataRaw": "Jun 16, 2020 Pranay Kotasthane, Aditya Ramanathan",
+      "publishedDate": "2020-06-16T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-21T03:18:06.867Z",
+      "summary": "The ongoing COVID-19 pandemic presents four major risks over the next three years: widespread infection, strain on police and armed forces, opportunistic actions by various adversaries, and potential state collapse in India's neighboring region. To counter these, India must significantly increase its testing and contact tracing capacity to protect its forces and critical activities. It also needs to reinforce police with paramilitary forces, prepare its armed forces for heightened border activity, and develop plans for managing mass migrations both internally and from neighboring states, including evacuating millions of Indians from West Asia.",
+      "topics": [
+        "National Security",
+        "Public Health",
+        "Disaster Management"
+      ],
+      "issues": [
+        "COVID-19 Pandemic Response",
+        "Internal Security Challenges",
+        "Border Security Threats"
+      ],
+      "mainIdeas": [
+        "The pandemic creates multi-faceted national security risks for India, extending over a 36-month period.",
+        "India must rapidly scale up public health measures like testing and contact tracing to maintain the effectiveness of its security forces and critical operations.",
+        "Proactive measures are required to prevent internal violence, manage border provocations, address regional instability, and prepare for large-scale population movements and evacuations."
+      ]
+    },
+    {
+      "id": "1784603892305to96it",
+      "url": "https://takshashila.org.in/content/publications/20200612-indias-theatre-command-system.html",
+      "title": "India’s Theatre Command System: A Proposal",
+      "metadataRaw": "Jun 12, 2020 Lt General Dr Prakash Menon",
+      "publishedDate": "2020-06-12T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-21T03:18:12.305Z",
+      "summary": "India is considering a new military command structure called the Theatre Command system, designed to better integrate its forces and respond to strategic threats. This proposal outlines four specific commands: Northern, Western, South Western, and South Eastern, each responsible for different border regions and parts of the Indian Ocean. The plan also includes reforming the existing Chiefs of Staff Committee into a Joint Commanders and Staff Committee to manage overall military strategy and operations.",
+      "topics": [
+        "Military Reorganization",
+        "Defense Policy",
+        "National Security"
+      ],
+      "issues": [
+        "Military Command Structure",
+        "Strategic Threat Management"
+      ],
+      "mainIdeas": [
+        "India intends to reorganize its military into integrated Theatre Commands for more effective defense.",
+        "The proposed four commands will manage specific land borders (China, Pakistan, Myanmar, Bangladesh) and Indian Ocean regions.",
+        "This system aims to centralize strategic planning while allowing individual commands flexibility in execution to better address security challenges."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-20T03:59:24.591Z"
+  "lastUpdated": "2026-07-21T03:18:16.933Z"
 }
