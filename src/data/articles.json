@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1784776944630pdbufa",
+      "url": "https://takshashila.org.in/content/publications/20260722-accelerating-tactical-drone-procurement-for.html",
+      "title": "Accelerating Tactical Drone Procurement for India",
+      "metadataRaw": "Jul 22, 2026 Adya Madhavan, Vikrant Shinde",
+      "publishedDate": "2026-07-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-23T03:22:24.630Z",
+      "summary": "The article highlights the urgent need for India to reform its defence procurement process for tactical drones, which rapidly evolve and become obsolete. It proposes a shift from one-off purchases to a 'service contract' model, where vendors continuously upgrade and replace drones. This approach aims to ensure India's military remains technologically competitive while simultaneously fostering the growth of its domestic drone industry. The author argues that current procurement methods cannot keep pace with the rapid innovation seen in drone technology, especially for smaller, dual-use systems.",
+      "topics": [
+        "Defence Procurement",
+        "Military Technology",
+        "India's Defence Industry"
+      ],
+      "issues": [
+        "Adapting procurement to rapid technological change",
+        "Ensuring military readiness with evolving drone capabilities"
+      ],
+      "mainIdeas": [
+        "Traditional defence procurement struggles to keep up with the fast development and short lifespan of tactical drone technology.",
+        "A service-based contract model for drone procurement would ensure continuous upgrades, maintenance, and replacements, keeping military fleets current and effective.",
+        "Implementing this new procurement strategy would also provide stability for domestic drone manufacturers, helping to grow India's defence industrial base."
+      ]
+    },
+    {
       "id": "1784603871041i7yaw",
       "url": "https://takshashila.org.in/content/publications/20260720-subsea-cable-governance.html",
       "title": "Navigating India’s Subsea Cable Governance",
@@ -9753,6 +9778,31 @@
       ]
     },
     {
+      "id": "1784776951324nx887n",
+      "url": "https://takshashila.org.in/content/publications/20200522-TDS-Technological-Interventions-for-COVID-19-Management-An-Analysis.html",
+      "title": "Takshashila Discussion SlideDoc - Technological Interventions for COVID-19 Management: An Analysis",
+      "metadataRaw": "May 22, 2020 Prateek Waghre, Sapni G K, Utkarsh Narain",
+      "publishedDate": "2020-05-22T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-23T03:22:31.324Z",
+      "summary": "This assessment evaluates various technology tools used for COVID-19 management, considering their reach, privacy implications, and overall effectiveness. It concludes with key recommendations, including the need to improve internet access and implement strong privacy rules for any data collected or stored. The analysis also suggests that new technologies should be tested on a small scale before widespread use and must not lead to the denial of rights or benefits for individuals.",
+      "topics": [
+        "Public Health",
+        "Technology Policy",
+        "Data Privacy"
+      ],
+      "issues": [
+        "Digital Divide",
+        "Ethical Technology Deployment"
+      ],
+      "mainIdeas": [
+        "Future technology interventions for public health must address unequal internet access and include strict privacy safeguards.",
+        "New technologies should be tested thoroughly on a small scale before broad implementation to ensure effectiveness.",
+        "Legislation is needed to limit the duration of technology use in public health and prevent denial of rights or benefits."
+      ]
+    },
+    {
       "id": "17846901488279snjed",
       "url": "https://takshashila.org.in/content/publications/20200522-TDS-Gene-Drives-Risk-Assessment.html",
       "title": "Takshashila Discussion SlideDoc - Gene Drives in Infectious Diseases - A Risk Assessment",
@@ -9776,7 +9826,107 @@
         "Thorough risk assessment and robust monitoring are critical steps required before deploying gene drive technology to prevent unintended consequences.",
         "Effective and safe implementation of gene drives necessitates making decisions based on data, particularly regarding the specific type of gene drive and its deployment location."
       ]
+    },
+    {
+      "id": "17847769555270haw3h",
+      "url": "https://takshashila.org.in/content/publications/20200521-Recommended-Draft-Space-Activities-Regulation-Bill.html",
+      "title": "Takshashila Policy Advisory - Recommended Draft Space Activities (Regulation) Bill, 2020",
+      "metadataRaw": "May 21, 2020 Nitin Pai, Utkarsh Narain, Rahul Matthan, Shreya Ramann",
+      "publishedDate": "2020-05-21T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-23T03:22:35.527Z",
+      "summary": "This policy advisory from Takshashila proposes a new regulatory framework to foster the growth of India's private space sector. It aims to support national development and scientific advancement through clear policies. The recommended Draft Space Activities (Regulation) Bill, 2020, would establish a Space Regulatory Authority and a Space Disputes Settlement Appellate Tribunal to oversee space activities.",
+      "topics": [
+        "Space Policy",
+        "Economic Development",
+        "Regulatory Reform"
+      ],
+      "issues": [
+        "Regulation of India's Private Space Sector",
+        "Fostering Space Industry Growth"
+      ],
+      "mainIdeas": [
+        "India needs a structured regulatory environment to support its growing private space industry.",
+        "The proposed policy aims to drive national development and scientific progress through space sector growth.",
+        "New government bodies will be established to manage and resolve issues within the space activities sector."
+      ]
+    },
+    {
+      "id": "1784776966036z9au8b",
+      "url": "https://takshashila.org.in/content/publications/20200518-Takshashila-COVID-19-Healthcare-Measures-to-Tackle-a-Second-Wave-in-India.html",
+      "title": "Takshashila Policy Advisory - COVID-19: Healthcare Measures to Tackle a Second Wave in India",
+      "metadataRaw": "May 18, 2020 Shambhavi Naik, Sarthak Pradhan, Anirudh Kanisetti, Sunila Dixit",
+      "publishedDate": "2020-05-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-23T03:22:46.036Z",
+      "summary": "This advisory outlines crucial healthcare measures for India to prepare for a potential second wave of COVID-19 infections, aiming to protect both the healthcare system and the economy. It proposes three main areas of action: establishing mechanisms for early detection and containment, building robust healthcare capacity, and expanding social distancing measures. The document stresses the importance of government and society collaborating to quickly detect and control any resurgence to prevent loss of lives and livelihoods.",
+      "topics": [
+        "Public Health",
+        "Pandemic Preparedness",
+        "National Policy"
+      ],
+      "issues": [
+        "India's COVID-19 response",
+        "Healthcare system strain"
+      ],
+      "mainIdeas": [
+        "India needs a comprehensive strategy to prepare for a second wave of COVID-19, addressing both healthcare and economic impacts.",
+        "Key measures include enhancing early detection through increased testing and robust quarantine systems, alongside building capacity for diagnostic kit manufacturing.",
+        "Strengthening healthcare infrastructure with strategic reserves of PPE and medical equipment, increasing healthcare personnel, and implementing tailored social distancing policies are vital to mitigate the spread and impact."
+      ]
+    },
+    {
+      "id": "178477696074568egg",
+      "url": "https://takshashila.org.in/content/publications/20200518-TDD-Attracting-Large-Investments-in-the-Post-COVID-19-World-SK-SP-18thMay-v1.0.html",
+      "title": "Takshashila Discussion Document - Attracting Large Investments in the Post COVID-19 World",
+      "metadataRaw": "May 18, 2020 Sarthak Pradhan, Shankar Khasnis",
+      "publishedDate": "2020-05-18T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-23T03:22:40.745Z",
+      "summary": "India needs a comprehensive plan to attract significant investments to rebuild its economy after the COVID-19 pandemic. To achieve this, it must tackle existing problems such as low investor confidence, difficult land acquisition, complex regulations, and inadequate infrastructure. The article proposes several policy changes, including streamlining investment services, ensuring stable government policies through international arbitration, and greatly improving logistics and warehousing. The ultimate goal is to create a strong investment environment, support local businesses, and develop a skilled workforce to make India globally competitive in key manufacturing sectors.",
+      "topics": [
+        "Economic Policy",
+        "Investment & Development",
+        "India's Economy"
+      ],
+      "issues": [
+        "Improving Investment Climate",
+        "Post-Pandemic Economic Recovery"
+      ],
+      "mainIdeas": [
+        "India must systematically remove existing barriers and improve its overall appeal to large investors to boost its economy in the post-pandemic era.",
+        "Comprehensive reforms are needed across the entire investment process, from initial setup and financial structuring to ensuring policy consistency and robust logistical support.",
+        "Developing a skilled workforce and strategically focusing on sectors where India can be globally competitive are crucial steps to establish the country as a major manufacturing and export hub."
+      ]
+    },
+    {
+      "id": "1784776972977tpz4fa",
+      "url": "https://takshashila.org.in/content/publications/20200515-Takshashila-How-to-improve-testing-for-COVID-19_V1.0.html",
+      "title": "Takshashila Discussion SlideDoc - Increasing COVID-19 Testing Capacity in India",
+      "metadataRaw": "May 15, 2020 Shambhavi Naik",
+      "publishedDate": "2020-05-15T00:00:00.000Z",
+      "type": "research",
+      "source": "Takshashila Research",
+      "dateAdded": "2026-07-23T03:22:52.977Z",
+      "summary": "India's current COVID-19 testing capacity of 100,000 samples per day is insufficient and needs to increase significantly to 450,000 to effectively manage the pandemic. The main challenges are the availability of testing kits and adequate facilities with trained staff. To overcome these, the article suggests incentivizing local manufacturing and streamlining foreign procurement of kits, as well as encouraging private laboratories by removing price ceilings on testing. Increasing testing capacity will enable India to balance public health and economic interests, and potentially establish itself as a leader in testing kit manufacturing and services.",
+      "topics": [
+        "Public Health",
+        "Healthcare Policy",
+        "Economic Strategy"
+      ],
+      "issues": [
+        "Insufficient COVID-19 testing capacity in India",
+        "Supply chain challenges for testing kits"
+      ],
+      "mainIdeas": [
+        "India must urgently expand its daily COVID-19 testing capacity to effectively control the pandemic and mitigate economic disruption.",
+        "Addressing the shortage of testing kits by boosting domestic manufacturing and streamlining imports is critical.",
+        "Engaging the private sector through policies like removing price limits on testing services can significantly increase overall testing capacity."
+      ]
     }
   ],
-  "lastUpdated": "2026-07-22T03:15:52.296Z"
+  "lastUpdated": "2026-07-23T03:22:56.353Z"
 }
