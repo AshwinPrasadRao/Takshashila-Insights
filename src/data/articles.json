@@ -1,6 +1,55 @@
 {
   "articles": [
     {
+      "id": "1784863000968jbqe",
+      "url": "https://www.hindustantimes.com/opinion/lets-make-china-work-for-us-securely-building-indias-domestic-compute-keeping-good-terms-with-us-pax-silica-anthropic-101784679849823.html",
+      "title": "Let’s make China work for us, securely: Building India’s domestic compute, keeping good terms with US",
+      "metadataRaw": "Jul 22, 2026 Pranay Kotasthane,Bharath Reddy Hindustan Times",
+      "publishedDate": "2026-07-22T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-24T03:16:40.968Z",
+      "summary": "India should leverage affordable and powerful Chinese open-weight AI models by running them on its own domestic computing infrastructure. This approach offers India more control over its data and reduces reliance on foreign companies compared to using proprietary US models. While future access to advanced Chinese models might be restricted and US companies control AI hardware, India should build its own AI infrastructure and maintain strong ties with the US for tech supply. This strategy allows India to use valuable AI tools securely while managing international dependencies.",
+      "topics": [
+        "Artificial Intelligence",
+        "Technology Strategy",
+        "International Relations"
+      ],
+      "issues": [
+        "National Control over AI Technology",
+        "Supply Chain Security for AI Components"
+      ],
+      "mainIdeas": [
+        "India can gain more control over its AI technology by running open-source Chinese AI models on its own hardware, keeping data secure within the country.",
+        "India should prioritize developing its own AI computing infrastructure and focus regulations on how data is handled and where computing happens, rather than rejecting all Chinese models due to origin.",
+        "To secure its AI future, India needs to prepare for potential future restrictions on advanced AI models from China and maintain good relationships with the US to ensure access to essential computing hardware."
+      ]
+    },
+    {
+      "id": "1784862995107u4ovbq",
+      "url": "https://merotribune.com/2026/07/22/the-geography-india-cannot-escape",
+      "title": "The Geography India Cannot Escape",
+      "metadataRaw": "Jul 22, 2026 Vanshika Saraf Mero Tribune",
+      "publishedDate": "2026-07-22T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-24T03:16:35.108Z",
+      "summary": "South Asian countries are increasingly engaging with both India and China, using these relationships to gain more independence and leverage. While India's geographic closeness makes it an indispensable partner, its neighbors are also open to Chinese investments and support. This creates a complex regional dynamic where countries like Nepal, Bangladesh, and Myanmar strategically balance their foreign policy choices. India needs to offer concrete benefits, leveraging its proximity, and accept that its neighbors will diversify partnerships, rather than trying to prevent it.",
+      "topics": [
+        "Regional Politics",
+        "Foreign Policy"
+      ],
+      "issues": [
+        "India-China regional competition",
+        "South Asian nations' strategic choices"
+      ],
+      "mainIdeas": [
+        "South Asian countries are engaging with both India and China to gain more independence and negotiate better deals for themselves.",
+        "Despite its geographic and economic influence, India faces the challenge of converting these advantages into lasting cooperation, especially when issues like water sharing remain unresolved.",
+        "India should focus on providing unique, practical benefits to its neighbors and accept their diversified partnerships, rather than seeing China's involvement as a direct threat."
+      ]
+    },
+    {
       "id": "1784776944630pdbufa",
       "url": "https://takshashila.org.in/content/publications/20260722-accelerating-tactical-drone-procurement-for.html",
       "title": "Accelerating Tactical Drone Procurement for India",
@@ -9928,5 +9977,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-23T03:22:56.353Z"
+  "lastUpdated": "2026-07-24T03:16:46.083Z"
 }
