@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1785207191829ieuxdo",
+      "url": "https://www.thehindu.com/opinion/op-ed/india-must-lead-in-securing-the-strait-of-bab-el-mandeb/article71254829.ece",
+      "title": "India must lead in securing the Bab el-Mandeb",
+      "metadataRaw": "Jul 23, 2026 Raja Karthikeya The Hindu",
+      "publishedDate": "2026-07-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-28T02:53:11.830Z",
+      "summary": "The article warns of a new threat to the Bab el-Mandeb Strait from Houthi forces, potentially directed by Iran, which would severely disrupt global trade and India's economy. It points out that the current situation is more unpredictable than the 2023-2024 Red Sea crisis, with less certainty about international intervention and a divided UN. The author recommends that India proactively leads the formation of a naval task force with France and Japan, while also engaging Egypt and Saudi Arabia, to secure these vital shipping routes. This would protect trade interests and uphold international maritime rules.",
+      "topics": [
+        "Maritime Security",
+        "Global Trade",
+        "Regional Diplomacy"
+      ],
+      "issues": [
+        "Security of Red Sea Shipping Lanes",
+        "Houthi Threats to International Commerce"
+      ],
+      "mainIdeas": [
+        "A potential Houthi closure of the Bab el-Mandeb Strait, possibly instigated by Iran, poses a dire threat to international shipping and India's economic interests.",
+        "The geopolitical landscape is more complex and less unified than during previous Red Sea disruptions, making a traditional international security response unlikely.",
+        "India should take a leadership role by building a naval task force with France and Japan, and engaging regional partners like Egypt and Saudi Arabia, to secure the Bab el-Mandeb and the Red Sea."
+      ]
+    },
+    {
       "id": "1784863000968jbqe",
       "url": "https://www.hindustantimes.com/opinion/lets-make-china-work-for-us-securely-building-indias-domestic-compute-keeping-good-terms-with-us-pax-silica-anthropic-101784679849823.html",
       "title": "Let’s make China work for us, securely: Building India’s domestic compute, keeping good terms with US",
@@ -9977,5 +10002,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-27T03:36:56.207Z"
+  "lastUpdated": "2026-07-28T02:53:17.500Z"
 }
