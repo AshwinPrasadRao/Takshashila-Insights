@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1785468471456pxyyuy",
+      "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece",
+      "title": "Behind China’s AI gift, a constraint",
+      "metadataRaw": "Jul 30, 2026 Amit Kumar The Hindu",
+      "publishedDate": "2026-07-30T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-07-31T03:27:51.456Z",
+      "summary": "China is positioning its AI models as open-source global goods, contrasting with America's proprietary systems and allowing other nations to customize and run AI locally without restrictions. While presented as a cooperative initiative, this strategy is primarily driven by China's limited access to high-end computer chips, which are essential for serving AI models to a large user base, largely due to U.S. export controls. By offering open-weight models, China effectively outsources the significant computing power needed to deploy its increasingly competitive AI technology. This approach allows Chinese AI to gain international traction despite its hardware limitations.",
+      "topics": [
+        "Artificial Intelligence",
+        "Global Technology Policy",
+        "International Competition"
+      ],
+      "issues": [
+        "AI Model Development and Deployment",
+        "Semiconductor Export Controls"
+      ],
+      "mainIdeas": [
+        "China promotes open-source AI models globally, positioning itself as a collaborative alternative to the U.S.'s proprietary approach.",
+        "This strategy of openness is largely a practical solution to China's inability to acquire sufficient high-end chips for scaling its AI services due to U.S. export restrictions.",
+        "Despite these hardware constraints, Chinese AI models are competitive and are gaining popularity internationally, even among U.S. firms, due to their quality and cost efficiency."
+      ]
+    },
+    {
       "id": "1785207191829ieuxdo",
       "url": "https://www.thehindu.com/opinion/op-ed/india-must-lead-in-securing-the-strait-of-bab-el-mandeb/article71254829.ece",
       "title": "India must lead in securing the Bab el-Mandeb",
@@ -10002,5 +10027,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-30T02:45:09.077Z"
+  "lastUpdated": "2026-07-31T03:27:57.153Z"
 }
