@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "1785812194063ftpib",
+      "url": "https://www.moneycontrol.com/news/opinion/as-pakistan-prepares-to-be-sco-host-india-needs-to-be-mindful-of-beijing-s-indirect-control-13989510.html",
+      "title": "As Pakistan prepares to be SCO host, India needs to be mindful of Beijing’s indirect control",
+      "metadataRaw": "Jul 31, 2026 Anushka Saxena MoneyControl",
+      "publishedDate": "2026-07-31T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-08-04T02:56:34.063Z",
+      "summary": "Pakistan is set to host the Shanghai Cooperation Organisation (SCO) for the upcoming year. The article suggests that China is likely to heavily influence the SCO's agenda during this period. India needs to be mindful of Beijing's potential indirect control over the organization.",
+      "topics": [
+        "Geopolitics",
+        "International Organizations"
+      ],
+      "issues": [
+        "China's influence in regional bodies",
+        "India's regional security concerns"
+      ],
+      "mainIdeas": [
+        "Pakistan will lead the Shanghai Cooperation Organisation (SCO) for the next year.",
+        "China is expected to significantly shape the SCO's agenda during Pakistan's tenure.",
+        "India should be aware of China's potential for indirect control over the SCO through this arrangement."
+      ]
+    },
+    {
       "id": "1785468471456pxyyuy",
       "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece",
       "title": "Behind China’s AI gift, a constraint",
@@ -10027,5 +10051,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-03T03:28:21.003Z"
+  "lastUpdated": "2026-08-04T02:56:38.742Z"
 }
