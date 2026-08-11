@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": "1786413835438iiusub",
+      "url": "https://www.moneycontrol.com/news/opinion/saudi-turkey-pak-defence-pact-is-not-an-islamic-nato-but-india-can-t-ignore-the-fallout-13999130.html/amp",
+      "title": "Saudi-Turkey-Pak defence pact is not an “Islamic NATO”, but India can’t ignore the fallout",
+      "metadataRaw": "Aug 10, 2026 Yusuf T Unjhawala Moneycontrol",
+      "publishedDate": "2026-08-10T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-08-11T02:03:55.438Z",
+      "summary": "A recently signed defense pact between Saudi Arabia, Turkey, and Pakistan, sometimes labeled an \"Islamic NATO,\" is significantly less robust than such a title suggests. While India should take the agreement into account, considering Turkey's growing military ties with Pakistan and Saudi Arabia's influence, it should not view it as a fundamental shift in regional security. Unlike NATO, this arrangement lacks integrated military structures, a clear common enemy, or a dominant power to anchor it. Therefore, the pact's collective defense commitment lacks the practical depth needed to be considered a serious military alliance against India.",
+      "topics": [
+        "Regional Security",
+        "Defense Cooperation",
+        "Geopolitical Dynamics"
+      ],
+      "issues": [
+        "Credibility of defense pacts",
+        "India's regional security outlook"
+      ],
+      "mainIdeas": [
+        "The Saudi-Turkey-Pakistan defense pact is not a strong, NATO-like military alliance due to a lack of integrated structures, a common strategic enemy, and a dominant anchoring power.",
+        "India should acknowledge the pact but avoid overreacting, as it does not fundamentally alter India's security calculations.",
+        "The effectiveness of a defense pact depends more on shared strategic vision and practical military integration than on paper commitments alone."
+      ]
+    },
+    {
+      "id": "1786413843885rgtfuj",
+      "url": "https://www.moneycontrol.com/news/opinion/critical-minerals-need-priorities-not-longer-lists-13996161.html",
+      "title": "Critical minerals need priorities, not longer lists",
+      "metadataRaw": "Aug 6, 2026 Tannmay Kumarr Baid,Shobhankita Reddy Moneycontrol",
+      "publishedDate": "2026-08-06T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-08-11T02:04:03.885Z",
+      "summary": "The article critiques current international efforts to secure critical mineral supplies, arguing that national lists of \"critical\" minerals are too extensive, hindering effective prioritization and policy action. While international partnerships are vital to reduce reliance on China for mineral processing, a simple \"critical\" label fails to identify specific vulnerabilities or guide appropriate responses. The author advocates for profiling minerals by their unique risks and challenges to inform targeted strategies, focusing on processing, recycling, and diverse international collaborations rather than solely on new mining or complete self-sufficiency.",
+      "topics": [
+        "Critical Minerals",
+        "International Trade",
+        "Geopolitics"
+      ],
+      "issues": [
+        "Over-labeling of critical minerals",
+        "Concentration of mineral processing in China"
+      ],
+      "mainIdeas": [
+        "Excessively long lists of 'critical' minerals prevent effective policy prioritization and dilute efforts to secure supply chains.",
+        "A nuanced understanding of each mineral's specific vulnerabilities, rather than a generic 'critical' label, is necessary to develop targeted and effective policy interventions.",
+        "International partnerships should focus on processing, recycling, and demand-side measures, as well as diversifying supply, to pragmatically reduce reliance on China without aiming for impractical self-sufficiency."
+      ]
+    },
+    {
       "id": "1785812194063ftpib",
       "url": "https://www.moneycontrol.com/news/opinion/as-pakistan-prepares-to-be-sco-host-india-needs-to-be-mindful-of-beijing-s-indirect-control-13989510.html",
       "title": "As Pakistan prepares to be SCO host, India needs to be mindful of Beijing’s indirect control",
@@ -10051,5 +10101,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T02:08:56.061Z"
+  "lastUpdated": "2026-08-11T02:04:06.738Z"
 }
