@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1787276335062l7k69",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/so-how-much-does-e20-save/articleshow/133336260.cms",
+      "title": "So, how much does E20 save?",
+      "metadataRaw": "Aug 19, 2026 Arindam Goswami Times of India",
+      "publishedDate": "2026-08-19T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-08-21T01:38:55.063Z",
+      "summary": "India's government mandates that 20% of petrol sold in the country is ethanol, derived from sugarcane or maize. This initiative, known as E20, aims to reduce the nation's significant reliance on imported petroleum, as India currently imports nearly 90% of its oil. To ensure the ethanol itself is not imported, the government restricted biofuel imports in 2019, making domestic sourcing a requirement for fuel blending.",
+      "topics": [
+        "Energy Policy",
+        "Indian Economy",
+        "Biofuels"
+      ],
+      "issues": [
+        "Energy Independence",
+        "Reducing Fuel Imports"
+      ],
+      "mainIdeas": [
+        "India is actively substituting a portion of its petrol with domestically produced ethanol to decrease foreign oil imports.",
+        "The E20 policy directly addresses India's high dependency on imported crude oil.",
+        "The government has restricted biofuel imports to guarantee that ethanol used for fuel blending comes from local sources."
+      ]
+    },
+    {
       "id": "1786413835438iiusub",
       "url": "https://www.moneycontrol.com/news/opinion/saudi-turkey-pak-defence-pact-is-not-an-islamic-nato-but-india-can-t-ignore-the-fallout-13999130.html/amp",
       "title": "Saudi-Turkey-Pak defence pact is not an “Islamic NATO”, but India can’t ignore the fallout",
@@ -10101,5 +10126,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-20T01:34:12.672Z"
+  "lastUpdated": "2026-08-21T01:38:57.025Z"
 }
