@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1787449325809zh07fj",
+      "url": "https://www.moneycontrol.com/news/opinion/india-s-tryst-with-6g-fighter-aircraft-will-deliver-bang-for-the-buck-if-there-s-clarity-on-four-fronts-14009763.html",
+      "title": "India’s tryst with 6G fighter aircraft will deliver bang for the buck if there’s clarity on four fronts",
+      "metadataRaw": "Aug 19, 2026 Yusuf T Unjhawala Moneycontrol",
+      "publishedDate": "2026-08-19T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-08-23T01:42:05.809Z",
+      "summary": "India is investing billions in developing fighter aircraft engines, including with GE and Safran, but the economic viability of these programs is questioned due to unclear long-term production plans. The article highlights the risk that India might develop an expensive engine for a limited domestic fleet, only to need another for future international collaborations on 6th-generation fighters. It emphasizes the need for a clear, long-term strategy connecting engine development with planned aircraft procurement to ensure these investments lead to significant capabilities and justify the cost.",
+      "topics": [
+        "Defense Spending",
+        "Aerospace Industry",
+        "National Security"
+      ],
+      "issues": [
+        "India's fighter engine development and procurement policy",
+        "Ensuring value for money in defense technology investments"
+      ],
+      "mainIdeas": [
+        "India's current fighter engine development programs, such as those involving the GE F414 and a new engine with Safran, lack sufficient projected production volumes to be cost-effective.",
+        "There's a concern that India might invest heavily in a new engine for a relatively small domestic fleet, only to face the need for a different engine if it joins a future international fighter program like France's FCAS.",
+        "To maximize its investments and achieve technological independence, India must establish a coherent, long-term strategy that ensures significant production runs for its developed engines and links current projects to future generations of combat aircraft."
+      ]
+    },
+    {
       "id": "1787276335062l7k69",
       "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/so-how-much-does-e20-save/articleshow/133336260.cms",
       "title": "So, how much does E20 save?",
@@ -23,6 +48,31 @@
         "India is actively substituting a portion of its petrol with domestically produced ethanol to decrease foreign oil imports.",
         "The E20 policy directly addresses India's high dependency on imported crude oil.",
         "The government has restricted biofuel imports to guarantee that ethanol used for fuel blending comes from local sources."
+      ]
+    },
+    {
+      "id": "17874493318325qscnn",
+      "url": "https://www.moneycontrol.com/news/opinion/hormuz-dilemma-it-s-neither-fully-open-nor-closed-which-is-driving-economic-uncertainty-14008050.html",
+      "title": "Hormuz Dilemma: It’s neither fully open nor closed which is driving economic uncertainty",
+      "metadataRaw": "Aug 18, 2026 Dr Y Nithiyanandam Money control",
+      "publishedDate": "2026-08-18T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-08-23T01:42:11.832Z",
+      "summary": "The Strait of Hormuz is no longer reliably open or fully closed, creating significant economic uncertainty due to contested and shifting access conditions. Shipping continues, but movement is selective, costly, and difficult to verify, with observable traffic significantly reduced. This situation impacts global markets through increased insurance and freight costs, even for countries like India that have diversified their energy sources. The lack of clear information about shipping activity in the Strait poses a strategic problem for governments and businesses worldwide.",
+      "topics": [
+        "Global Energy Security",
+        "Maritime Trade",
+        "Economic Risk"
+      ],
+      "issues": [
+        "Strait of Hormuz Access Uncertainty",
+        "Global Supply Chain Vulnerability"
+      ],
+      "mainIdeas": [
+        "Access through the Strait of Hormuz is now uncertain and conditional, leading to selective passage, higher costs, and unclear legal status, rather than outright closure.",
+        "Even countries that have diversified their energy sources, like India, remain vulnerable to the economic ripple effects of instability in Hormuz, including increased prices and shipping costs.",
+        "The lack of transparent and verifiable information about shipping activity in the Strait creates significant strategic challenges for governments, insurers, and traders."
       ]
     },
     {
@@ -10126,5 +10176,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-22T01:27:23.242Z"
+  "lastUpdated": "2026-08-23T01:42:12.738Z"
 }
