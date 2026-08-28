@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1787913931715igt01n",
+      "url": "https://www.hindustantimes.com/opinion/beijing-islamabad-tango-in-west-asia-mediation-china-pakistan-us-iran-war-donald-trump-xi-jinping-101787675403408.html",
+      "title": "Beijing-Islamabad tango in West Asia mediation",
+      "metadataRaw": "Aug 26, 2026 Anushka Saxena Hindustan Times",
+      "publishedDate": "2026-08-26T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-08-28T10:45:31.716Z",
+      "summary": "China is actively supporting Pakistan's efforts to mediate peace in West Asia, strategically positioning Pakistan as the public face of these initiatives. This arrangement allows China to share credit for any success while largely avoiding accountability for failures, as seen in the recent ASEAN joint statement. The article highlights that this partnership strengthens the China-Pakistan alliance and has significant diplomatic implications, especially for India's regional influence.",
+      "topics": [
+        "International Relations",
+        "Diplomacy",
+        "Regional Power Dynamics"
+      ],
+      "issues": [
+        "West Asia Peace Process",
+        "China's Foreign Policy Strategy"
+      ],
+      "mainIdeas": [
+        "China uses Pakistan as a front for mediation in West Asia to gain influence and minimize its own risk.",
+        "This strategy strengthens the diplomatic ties and cooperation between China and Pakistan across global platforms.",
+        "India faces challenges from this growing alliance, impacting its regional standing and influence in international organizations."
+      ]
+    },
+    {
       "id": "1787449325809zh07fj",
       "url": "https://www.moneycontrol.com/news/opinion/india-s-tryst-with-6g-fighter-aircraft-will-deliver-bang-for-the-buck-if-there-s-clarity-on-four-fronts-14009763.html",
       "title": "India’s tryst with 6G fighter aircraft will deliver bang for the buck if there’s clarity on four fronts",
@@ -10176,5 +10201,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-27T08:32:08.954Z"
+  "lastUpdated": "2026-08-28T10:45:34.040Z"
 }
