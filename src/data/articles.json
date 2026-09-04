@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "17884939554872p8wj",
+      "url": "https://www.theprint.in/opinion/excess-levies-india-mining-industry-minerals-council/3031226",
+      "title": "Excess levies are choking India’s mining industry. It needs a GST-style Minerals Council",
+      "metadataRaw": "Sep 2, 2026 Sarthak Pradhan,Shobhankita Reddy ThePrint",
+      "publishedDate": "2026-09-02T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-04T03:52:35.487Z",
+      "summary": "India's mining industry is significantly hampered by high and unpredictable taxes, coupled with complex regulations, which deters essential investment and exploration. A new law, the MMDR Act 2026, attempts to streamline operations but also reverses a Supreme Court ruling, potentially creating further legal and business uncertainty. This environment contributes to India's heavy reliance on imported critical minerals despite substantial domestic potential. The article proposes forming a \"Minerals Council,\" similar to the GST Council, to harmonize tax policies between the central and state governments, aiming for a stable investment climate, predictable revenue for states, and clear benefits for affected communities.",
+      "topics": [
+        "Mining Industry",
+        "Economic Policy",
+        "Government Regulation"
+      ],
+      "issues": [
+        "Mining Sector Taxation",
+        "Investment Climate",
+        "Center-State Fiscal Relations"
+      ],
+      "mainIdeas": [
+        "India's mining sector is struggling due to an unsustainable burden of high and unpredictable taxes, along with complex regulatory hurdles, which significantly deters investment.",
+        "The recently passed MMDR Act 2026, while aiming to ease some regulations, also creates legal uncertainty by overriding a Supreme Court judgment on state taxation rights.",
+        "Establishing a \"Minerals Council,\" similar to the GST Council, is proposed as a vital mechanism to foster cooperation between central and state governments to create a stable, predictable tax and policy environment.",
+        "Beyond taxation, streamlining lengthy environmental and land clearances and ensuring effective utilization of funds for mining-affected communities are crucial for unlocking the sector's potential and reducing India's import dependence."
+      ]
+    },
+    {
+      "id": "1788493962231cf76zc",
+      "url": "https://www.timesnownews.com/opinion/india/the-brahmaputras-real-risk-is-a-river-that-changes-slowly-article-156022924",
+      "title": "The Brahmaputra’s Real Risk Is a River That Changes Slowly",
+      "metadataRaw": "Sep 1, 2026 Dr Y Nithiyanandam TimesNow",
+      "publishedDate": "2026-09-01T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-04T03:52:42.231Z",
+      "summary": "The article argues that the primary risk from China's Medog hydropower project on the Yarlung Tsangpo (Brahmaputra) river is not a sudden 'water bomb,' but rather the slow, long-term changes it could bring to the river's natural flow, sediment, and seasonal patterns. These gradual alterations, even if unintended, could significantly impact downstream agriculture, fisheries, and ecosystems in India and Bangladesh over decades. To manage these complex, slow-moving risks, the author emphasizes the need for joint research, transparent data sharing, and India's development of independent monitoring capabilities.",
+      "topics": [
+        "Water Resources",
+        "Infrastructure Projects",
+        "International Relations"
+      ],
+      "issues": [
+        "Transboundary River Management",
+        "Downstream Environmental Impact"
+      ],
+      "mainIdeas": [
+        "The biggest threat from large upstream hydropower projects is the gradual, long-term changes to a river's natural rhythm and sediment flow, which are harder to recognize and manage than sudden disasters.",
+        "These slow changes, even without hostile intent, could severely affect downstream farming, fishing, erosion, and biodiversity in countries like India and Bangladesh, with economic benefits staying upstream while uncertainties move downstream.",
+        "India must proactively pursue joint research, ensure reliable data sharing on river conditions with China and Bangladesh, and build its own strong independent monitoring system to protect downstream interests."
+      ]
+    },
+    {
       "id": "1787913931715igt01n",
       "url": "https://www.hindustantimes.com/opinion/beijing-islamabad-tango-in-west-asia-mediation-china-pakistan-us-iran-war-donald-trump-xi-jinping-101787675403408.html",
       "title": "Beijing-Islamabad tango in West Asia mediation",
@@ -10201,5 +10253,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-03T03:50:38.023Z"
+  "lastUpdated": "2026-09-04T03:52:43.421Z"
 }
