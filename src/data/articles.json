@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": "1789099058872bejk7",
+      "url": "https://www.thehindu.com/opinion/op-ed/us-tariffs-are-not-what-is-holding-back-indian-research/article71439924.ece",
+      "title": "US tariffs are not what is holding back Indian research",
+      "metadataRaw": "Sep 8, 2026 Arindam Goswami The Hindu",
+      "publishedDate": "2026-09-08T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-11T03:57:38.872Z",
+      "summary": "This article argues that US tariffs are not the main reason for low research and development (R&D) in India. It highlights that the industries most affected by these tariffs, such as chemicals and metals, have historically had very low R&D spending, a trend that predates any trade disputes. The core problem is India's overall low investment in R&D, especially from the private sector, which tends to prioritize routine development over new product innovation. The author suggests leveraging trade challenges as an incentive for vulnerable industries to invest more in research, supported by better data and targeted policies.",
+      "topics": [
+        "Indian Economy",
+        "Trade Policy",
+        "Innovation Policy"
+      ],
+      "issues": [
+        "Indian R&D Investment",
+        "US-India Trade Relations"
+      ],
+      "mainIdeas": [
+        "US tariffs are not the main obstacle to Indian industrial research, as the most affected sectors already had very low R&D spending before the tariffs.",
+        "The core challenge for India is its consistently low national investment in research and development, particularly by private companies, which often prioritize routine testing over creating new products.",
+        "Trade pressures, like tariffs, can serve as a catalyst for vulnerable industries to invest in new, differentiated products, provided government support is strategically tied to actual research efforts and better data is collected."
+      ]
+    },
+    {
+      "id": "17890990676368a716p",
+      "url": "https://www.moneycontrol.com/news/opinion/china-s-laissez-faire-approach-to-cutting-edge-medical-technology-has-set-the-cat-among-the-pigeons-14021687.html",
+      "title": "China’s laissez-faire approach to cutting edge medical technology has set the cat among the pigeons",
+      "metadataRaw": "Sep 3, 2026 Shobhankita Reddy Moneycontrol",
+      "publishedDate": "2026-09-03T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-11T03:57:47.636Z",
+      "summary": "A Chinese company became the first globally to receive regulatory approval for commercial use of a semi-invasive brain-computer interface, with the process taking only 12 days. This rapid approval highlights China's less stringent regulatory approach to cutting-edge medical technology. The article suggests this will have an impact on how the U.S. and other countries regulate similar advancements.",
+      "topics": [
+        "Technology Innovation",
+        "Regulatory Policy",
+        "International Business Competition"
+      ],
+      "issues": [
+        "Speed of technology approval",
+        "Global competition in medical technology"
+      ],
+      "mainIdeas": [
+        "China's regulatory system is exceptionally fast for approving advanced medical technologies, demonstrated by a 12-day approval for a brain-computer interface.",
+        "This rapid approval process allows Chinese companies to be global pioneers in commercializing cutting-edge technologies.",
+        "The efficiency of China's regulatory framework in this sector is expected to create pressure and influence regulatory approaches in other countries, particularly the United States."
+      ]
+    },
+    {
       "id": "17884939554872p8wj",
       "url": "https://www.theprint.in/opinion/excess-levies-india-mining-industry-minerals-council/3031226",
       "title": "Excess levies are choking India’s mining industry. It needs a GST-style Minerals Council",
@@ -10253,5 +10303,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-10T04:00:55.534Z"
+  "lastUpdated": "2026-09-11T03:57:48.588Z"
 }
