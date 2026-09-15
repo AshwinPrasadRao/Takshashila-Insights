@@ -1,6 +1,57 @@
 {
   "articles": [
     {
+      "id": "1789445850493agt6m",
+      "url": "https://www.thehindu.com/news/national/at-brics-india-must-bank-on-the-ndb/article71451692.ece",
+      "title": "At BRICS, India must bank on the NDB",
+      "metadataRaw": "Sep 14, 2026 Amit Kumar,Anushka Saxena The Hindu",
+      "publishedDate": "2026-09-14T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-15T04:17:30.493Z",
+      "summary": "The BRICS group, despite its growing economic power, faces internal divisions, preventing a unified anti-Western stance and making full de-dollarization impractical for members like India. The article suggests that BRICS' most valuable contribution lies in strengthening the New Development Bank (NDB), which has underperformed despite its potential for infrastructure and development funding. India should prioritize improving the NDB's efficiency and expanding its local-currency lending, specifically by pushing for a rupee bond, as a pragmatic way to reduce reliance on the dollar for emerging markets.",
+      "topics": [
+        "International Finance",
+        "Developing Economies",
+        "Multilateral Institutions"
+      ],
+      "issues": [
+        "Performance and reform of the New Development Bank (NDB)",
+        "Strategic direction and unity of the BRICS alliance"
+      ],
+      "mainIdeas": [
+        "The BRICS group struggles with significant internal disagreements, preventing it from acting as a unified geopolitical force or fully embracing de-dollarization.",
+        "The New Development Bank (NDB) is BRICS' most tangible and practical tool for influencing global finance and development, but it currently faces operational and funding challenges.",
+        "India should focus on expanding the NDB's local-currency lending, including launching a rupee bond, as a pragmatic way for emerging markets to reduce dependence on the U.S. dollar."
+      ]
+    },
+    {
+      "id": "1789445857906s2o3id",
+      "url": "https://www.hindustantimes.com/opinion/semicon-2-0-gets-it-right-on-the-issues-that-matter-101788885452464.html",
+      "title": "Semicon 2.0 gets it right on the issues that matter",
+      "metadataRaw": "Sep 9, 2026 Pranay Kotasthane Hindustan Times",
+      "publishedDate": "2026-09-09T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-15T04:17:37.906Z",
+      "summary": "India's government has introduced Semicon 2.0, an updated policy designed to boost its domestic semiconductor industry. This new version prioritizes chip design, streamlines the entire value chain under one mission, and offers more flexible funding options for startups, including seed funding and equity co-investment. It also increases financial support for research, talent development, and various manufacturing and packaging processes, showing a strong commitment to growing the sector. While an improvement over its predecessor, challenges remain regarding foreign ownership rules and the government's role in managing equity investments.",
+      "topics": [
+        "Technology Policy",
+        "Economic Development",
+        "Semiconductor Industry"
+      ],
+      "issues": [
+        "Government incentives for tech manufacturing",
+        "Attracting and managing foreign investment",
+        "Balancing national control with private sector funding"
+      ],
+      "mainIdeas": [
+        "Semicon 2.0 significantly improves India's support for the semiconductor industry by focusing on design and offering more flexible, comprehensive funding.",
+        "The policy streamlines government initiatives and provides better financial backing for research, talent, and various stages of chip production.",
+        "Despite positive changes, ambiguities around foreign ownership and government involvement in company equity could still create hurdles for attracting private venture capital and global partners."
+      ]
+    },
+    {
       "id": "1789099058872bejk7",
       "url": "https://www.thehindu.com/opinion/op-ed/us-tariffs-are-not-what-is-holding-back-indian-research/article71439924.ece",
       "title": "US tariffs are not what is holding back Indian research",
@@ -10303,5 +10354,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-14T04:17:32.702Z"
+  "lastUpdated": "2026-09-15T04:17:41.675Z"
 }
