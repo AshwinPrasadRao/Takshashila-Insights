@@ -1,6 +1,82 @@
 {
   "articles": [
     {
+      "id": "1789704222108i1po1",
+      "url": "https://www.hindustantimes.com/opinion/the-us-emerging-contest-with-china-in-latin-america-donald-trump-beijing-xi-jinping-101789490614756.html",
+      "title": "The US’s emerging contest with China in Latin America",
+      "metadataRaw": "Sep 16, 2026 Abhishek Kadiyala,Pracheth Thimmayya Hindustan Times",
+      "publishedDate": "2026-09-16T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-18T04:03:42.108Z",
+      "summary": "The article describes the US strategy under a potential second Trump administration to counter China's growing influence in Latin America. This strategy focuses on expanding political alignment, security cooperation, and control over critical economic assets like minerals and ports, rather than competing directly on broad trade and investment. While the US has made some progress, China's economic engagement in the region continues to expand, and public trust in the US remains low. The long-term success of the US approach in diminishing China's economic pull is still uncertain.",
+      "topics": [
+        "Geopolitical Competition",
+        "International Trade",
+        "Regional Security"
+      ],
+      "issues": [
+        "US-China Competition in Latin America",
+        "Economic Influence in Latin America"
+      ],
+      "mainIdeas": [
+        "The US is shifting its strategy in Latin America to counter China, prioritizing security, political alignment, and control over key economic assets like critical minerals and strategic ports.",
+        "Despite US efforts, including supporting like-minded leaders and securing military access, China's economic presence and investment in Latin America continue to grow significantly.",
+        "The effectiveness of the US strategy faces limitations, as many regional leaders still seek Chinese investment, and public trust in the US remains low, making the long-term outcome uncertain."
+      ]
+    },
+    {
+      "id": "1789704215007fioviv",
+      "url": "https://www.thehindu.com/opinion/op-ed/chinas-open-ai-advantage-may-not-last-forever/article71469258.ece",
+      "title": "China’s open AI advantage may not last forever",
+      "metadataRaw": "Sep 16, 2026 Bharath Reddy,Pranay Kotasthane The Hindu",
+      "publishedDate": "2026-09-16T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-18T04:03:35.007Z",
+      "summary": "China is currently employing a strategy of openly sharing its advanced AI models, which offers significant cost savings and fosters global adoption, driven by factors like cost efficiency, national prestige, market commoditization, state capital, and infrastructure growth. However, this open access is expected to change, with China likely to introduce graduated restrictions on its frontier models around late 2028. These restrictions will depend on the consolidation of China's domestic AI industry, global developer reliance on its systems, and the broader saturation of the AI market. The article suggests that countries like India should leverage the current open ecosystem while proactively preparing for future disruptions by building adaptable AI architectures.",
+      "topics": [
+        "Artificial Intelligence",
+        "Geopolitics",
+        "Technology Strategy"
+      ],
+      "issues": [
+        "China's AI policy and global access",
+        "International AI competition"
+      ],
+      "mainIdeas": [
+        "China is strategically using free, advanced AI models to gain an advantage in the global market, reduce costs for users, and undermine competitors' pricing power.",
+        "This open access is not permanent; China plans to introduce restrictions on its frontier AI models around late 2028, once its domestic AI industry is consolidated and global users are more integrated into its systems.",
+        "Countries that currently benefit from China's open AI models, such as India, should leverage this opportunity while building flexible AI infrastructure and focusing on niche strengths to prepare for future access changes."
+      ]
+    },
+    {
+      "id": "1789704227137acciaa",
+      "url": "https://www.thinkchina.sg/politics/brics-built-economic-grievance-not-geopolitics",
+      "title": "BRICS is built on economic grievance, not geopolitics",
+      "metadataRaw": "Sep 14, 2026 Anushka Saxena ThinkChina",
+      "publishedDate": "2026-09-14T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-18T04:03:47.137Z",
+      "summary": "The article argues that BRICS is fundamentally built on shared economic grievances regarding the global financial system, rather than a cohesive geopolitical identity. While BRICS aims to increase the influence of developing nations in institutions like the IMF and World Bank, its own financial tools, such as the New Development Bank and Contingent Reserve Arrangement, remain underutilized. The author suggests that BRICS should focus on practical financial reforms and de-risking from the dollar, rather than pursuing a unified geopolitical stance.",
+      "topics": [
+        "Global Economics",
+        "International Finance",
+        "Developing Nations"
+      ],
+      "issues": [
+        "Reform of global financial institutions",
+        "Underutilization of BRICS financial tools"
+      ],
+      "mainIdeas": [
+        "BRICS's identity is rooted in economic grievances and the desire for a fairer global financial system, not a shared geopolitical agenda.",
+        "The group's main objective is to push for greater voting shares and influence for developing economies in global financial institutions like the IMF and World Bank.",
+        "BRICS's self-created financial mechanisms, such as the New Development Bank and Contingent Reserve Arrangement, are currently underutilized and face practical challenges in achieving financial independence from the dollar.",
+        "The focus for BRICS should be on mobilizing its existing financial tools and implementing practical reforms to achieve financial de-risking, rather than striving for a unified geopolitical identity that it inherently lacks."
+      ]
+    },
+    {
       "id": "1789445850493agt6m",
       "url": "https://www.thehindu.com/news/national/at-brics-india-must-bank-on-the-ndb/article71451692.ece",
       "title": "At BRICS, India must bank on the NDB",
@@ -10354,5 +10430,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-17T04:20:31.950Z"
+  "lastUpdated": "2026-09-18T04:03:50.176Z"
 }
