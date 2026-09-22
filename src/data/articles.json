@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": "1790050387272ajye4",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/upi-was-never-really-free-we-just-never-saw-the-cost-of-keeping-it-that-way/articleshow/134357264.cms",
+      "title": "UPI was never really free. We just never saw the cost of keeping it that way",
+      "metadataRaw": "Sep 20, 2026 Anupam Manur Times of India",
+      "publishedDate": "2026-09-20T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-22T04:13:07.273Z",
+      "summary": "The article explains that India's UPI system, though widely perceived as free, has always incurred significant hidden costs borne by banks and payment application providers without direct revenue. This unsustainable model, relying on inconsistent government support, has led to system unreliability, fraud, slow innovation, and a lack of competition. The recent introduction of a small fee for specific high-value merchant transactions is presented as a necessary step to create a sustainable funding model for UPI, ensuring its long-term stability and fostering future development.",
+      "topics": [
+        "Digital Payments",
+        "Economic Policy",
+        "Technology"
+      ],
+      "issues": [
+        "Funding and sustainability of digital payment systems",
+        "Impact of policy on innovation and market competition"
+      ],
+      "mainIdeas": [
+        "UPI's 'free' model was unsustainable, with major operational costs absorbed by banks and payment apps without direct compensation, leading to unreliable services and outages.",
+        "The absence of a direct revenue stream for UPI participants stifled innovation and inadvertently created a duopoly, hindering competition within the payments sector.",
+        "Implementing a modest transaction fee is essential for funding system improvements, encouraging innovation, and ensuring the long-term viability and competitiveness of UPI."
+      ]
+    },
+    {
+      "id": "17900503990066zufdj",
+      "url": "https://www.thehindu.com/opinion/op-ed/chinas-strategy-amid-west-asias-security-realignment/article71473505.ece",
+      "title": "China’s strategy amid West Asia’s security realignment",
+      "metadataRaw": "Sep 17, 2026 Manoj Kewalramani The Hindu",
+      "publishedDate": "2026-09-17T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-22T04:13:19.006Z",
+      "summary": "Chinese President Xi Jinping has outlined a new four-point plan for West Asia's security, emphasizing regional solutions, economic development, and reduced external interference, all guided by the UN framework. This strategy emerges as the region's security dynamics shift, including the formation of new defense agreements like the Mecca pact. Internally, China debated how to view these developments, with Xi seemingly favoring an approach that supports regional countries taking more control of their own security. Beijing aims to leverage perceived changes in US commitment to the region, boosting its own economic and technological influence without direct military engagement.",
+      "topics": [
+        "Geopolitics",
+        "China's Foreign Policy",
+        "Economic Diplomacy"
+      ],
+      "issues": [
+        "West Asia Security Shifts",
+        "China's Regional Strategy"
+      ],
+      "mainIdeas": [
+        "China is promoting a new vision for West Asian security, focusing on regional self-reliance, economic development, and reduced external intervention.",
+        "Beijing views the evolving security landscape in West Asia as an opportunity to increase its influence through economic and technological cooperation.",
+        "China intends to support regional security initiatives without deep military involvement, capitalizing on perceived shifts in the US's long-term commitment to the area."
+      ]
+    },
+    {
       "id": "1789704222108i1po1",
       "url": "https://www.hindustantimes.com/opinion/the-us-emerging-contest-with-china-in-latin-america-donald-trump-beijing-xi-jinping-101789490614756.html",
       "title": "The US’s emerging contest with China in Latin America",
@@ -10430,5 +10480,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-21T04:17:15.468Z"
+  "lastUpdated": "2026-09-22T04:13:21.321Z"
 }
