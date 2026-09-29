@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1790658560970z15mt8",
+      "url": "https://www.moneycontrol.com/news/opinion/china-s-chokehold-on-critical-minerals-is-loosening-but-not-quickly-14036770.html",
+      "title": "China’s chokehold on critical minerals is loosening, but not quickly",
+      "metadataRaw": "Sep 24, 2026 Shobhankita Reddy,Tannmay Kumarr Baid,Pranay Kotasthane MoneyControl",
+      "publishedDate": "2026-09-24T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-29T05:09:20.970Z",
+      "summary": "China maintains significant control over critical heavy rare earth elements (HREEs), despite a temporary pause in some export restrictions. Efforts by Western countries to build alternative supply chains are slow, making it difficult to reduce reliance on Chinese-sourced magnets and minerals in the near future. Long-term solutions involve international stockpiling and, more importantly, developing new technologies and motor designs that require less or no HREEs to mitigate this dependence.",
+      "topics": [
+        "Geopolitics",
+        "Supply Chain",
+        "Technology"
+      ],
+      "issues": [
+        "Critical Mineral Dependence",
+        "Export Controls"
+      ],
+      "mainIdeas": [
+        "China's export controls on heavy rare earth elements create substantial vulnerability for global industries, despite ongoing de-escalation measures.",
+        "Developing alternative sourcing and production capacity for these critical minerals outside of China is a slow and complex process.",
+        "Reducing global reliance on Chinese rare earths will primarily require technological advancements that enable the use of fewer rare earths or alternative materials in key applications like electric motors."
+      ]
+    },
+    {
       "id": "1790050387272ajye4",
       "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/upi-was-never-really-free-we-just-never-saw-the-cost-of-keeping-it-that-way/articleshow/134357264.cms",
       "title": "UPI was never really free. We just never saw the cost of keeping it that way",
@@ -101,6 +126,30 @@
       ]
     },
     {
+      "id": "1790658572945tvx83p",
+      "url": "https://www.thewirechina.com/2026/09/14/xis-flying-visit-to-delhi-and-the-quest-for-a-new-normal-with-india/",
+      "title": "Xi’s Flying Visit to Delhi and the Quest for a ‘New Normal’ with India",
+      "metadataRaw": "Sep 14, 2026 Manoj Kewalramani The Wire China",
+      "publishedDate": "2026-09-14T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-29T05:09:32.945Z",
+      "summary": "The article details the significant media speculation surrounding Chinese President Xi Jinping’s visit to Delhi on September 12, 2026. Expectations were high for major breakthroughs, including a special investment package, the creation of a special economic zone in India, or the resumption of informal dialogue mechanisms between the two nations. However, the text abruptly concludes, hinting that these optimistic omens may not have come to pass.",
+      "topics": [
+        "Bilateral Relations",
+        "International Economics"
+      ],
+      "issues": [
+        "India-China Relations",
+        "Economic Cooperation"
+      ],
+      "mainIdeas": [
+        "Media anticipated significant positive outcomes from Xi Jinping's visit to India.",
+        "Potential agreements included major economic investments and renewed diplomatic dialogue.",
+        "The article suggests that these high expectations might not have been met."
+      ]
+    },
+    {
       "id": "1789704227137acciaa",
       "url": "https://www.thinkchina.sg/politics/brics-built-economic-grievance-not-geopolitics",
       "title": "BRICS is built on economic grievance, not geopolitics",
@@ -149,6 +198,57 @@
         "The BRICS group struggles with significant internal disagreements, preventing it from acting as a unified geopolitical force or fully embracing de-dollarization.",
         "The New Development Bank (NDB) is BRICS' most tangible and practical tool for influencing global finance and development, but it currently faces operational and funding challenges.",
         "India should focus on expanding the NDB's local-currency lending, including launching a rupee bond, as a pragmatic way for emerging markets to reduce dependence on the U.S. dollar."
+      ]
+    },
+    {
+      "id": "1790658581465ejq0o",
+      "url": "https://www.moneycontrol.com/news/opinion/9-11-attacks-25th-anniversary-china-makes-the-most-of-its-strategic-opportunity-14027227.html",
+      "title": "9/11 Attacks, 25th Anniversary: China makes the most of its strategic opportunity",
+      "metadataRaw": "Sep 11, 2026 Manoj Kewalramani Money Control",
+      "publishedDate": "2026-09-11T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-29T05:09:41.465Z",
+      "summary": "The 9/11 attacks created a unique window for China, allowing it to focus on its economic and military growth while the United States was largely preoccupied with counter-terrorism and wars in the Middle East. During this time, China transformed into the world's largest manufacturing nation and significantly expanded its defense capabilities. Simultaneously, Beijing viewed U.S. foreign policy actions with increasing suspicion, which solidified its conviction against external influences and led to a hardening of internal ideological control. This period of divergent focus ultimately set the stage for the current strategic competition between the two countries.",
+      "topics": [
+        "Global Power Shifts",
+        "Economic Development",
+        "U.S.-China Relations"
+      ],
+      "issues": [
+        "U.S. post-9/11 foreign policy focus",
+        "China's economic and military rise",
+        "Increased Chinese authoritarianism"
+      ],
+      "mainIdeas": [
+        "The 9/11 attacks provided China with a critical 'strategic opportunity' to rapidly develop its economy and military capabilities due to the U.S. preoccupation with the War on Terror.",
+        "Post-9/11 U.S. actions, including the War on Terror and democracy promotion efforts, deepened Beijing's ideological suspicions of Washington, leading to tighter internal political control and a more assertive foreign policy.",
+        "China leveraged its 2001 entry into the World Trade Organization to become a global manufacturing powerhouse, dramatically increasing its economic and military strength, which laid the groundwork for today's intense U.S.-China competition."
+      ]
+    },
+    {
+      "id": "1790658589402e81msd",
+      "url": "https://www.thinkchina.sg/technology/dji-drone-killers-chinas-cheap-air-defence-revolution?ref=top-hero",
+      "title": "From DJI to drone killers: China’s cheap air defence revolution",
+      "metadataRaw": "Sep 9, 2026 Adya Madhavan ThinkChina",
+      "publishedDate": "2026-09-09T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-29T05:09:49.402Z",
+      "summary": "China is rapidly developing and exporting low-cost drone interceptors, leveraging its advanced manufacturing capabilities. This shift is driven by recent global conflicts, which have demonstrated that expensive missile defense systems like Patriot and THAAD are financially unsustainable and ineffective against cheap, mass-produced drones. Countries are realizing the critical need for affordable and expendable counter-drone technology. This new approach seeks to match the economic logic of the drone threat itself.",
+      "topics": [
+        "Defense Technology",
+        "Military Strategy",
+        "Global Manufacturing"
+      ],
+      "issues": [
+        "Cost-effectiveness of Air Defense",
+        "Threat of Low-Cost Drones"
+      ],
+      "mainIdeas": [
+        "Traditional, expensive missile defense systems are financially unsustainable and ineffective against large numbers of cheap drones.",
+        "Recent conflicts globally have forced a rapid shift towards developing and deploying low-cost, expendable drone interceptors.",
+        "China is leveraging its strong manufacturing base to mass-produce and export affordable counter-drone technology, filling a critical global demand."
       ]
     },
     {
@@ -10480,5 +10580,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-28T04:42:53.553Z"
+  "lastUpdated": "2026-09-29T05:09:49.403Z"
 }
