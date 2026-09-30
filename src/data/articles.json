@@ -26,6 +26,31 @@
       ]
     },
     {
+      "id": "179074427221175u1xt",
+      "url": "https://asiandispatch.net/how-can-the-houthis-takeover-of-red-sea-islands-impact-global-trade/",
+      "title": "How the Houthi takeover of Red Sea islands impacts global trade",
+      "metadataRaw": "Sep 23, 2026 Raja Karthikeya Asian Dispatch",
+      "publishedDate": "2026-09-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-30T04:57:52.211Z",
+      "summary": "The Houthi takeover of Red Sea islands, especially in the Bab el-Mandeb strait, allows them to seriously disrupt a vital global shipping route crucial for oil and container trade. These actions aim to gain political recognition, support Iran's regional influence, and impact global oil prices. This has led to increased transit times and insurance costs for international shipping. Resolving the crisis is complex, with limited military options for Saudi Arabia and a lack of unified international action due to varied geopolitical interests.",
+      "topics": [
+        "Global Trade",
+        "Middle East Security",
+        "Energy Markets"
+      ],
+      "issues": [
+        "Houthi disruption of Red Sea shipping",
+        "Geopolitical rivalry in the Middle East"
+      ],
+      "mainIdeas": [
+        "The Houthi control of strategic Red Sea islands directly threatens global maritime trade through the Bab el-Mandeb strait.",
+        "Houthi actions are driven by multiple strategic goals, including seeking political recognition and bolstering Iran's influence in the region.",
+        "Addressing this crisis is challenging due to limited military options for Saudi Arabia and a lack of unified international response from major powers like the US."
+      ]
+    },
+    {
       "id": "1790050387272ajye4",
       "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/upi-was-never-really-free-we-just-never-saw-the-cost-of-keeping-it-that-way/articleshow/134357264.cms",
       "title": "UPI was never really free. We just never saw the cost of keeping it that way",
@@ -275,6 +300,31 @@
         "Semicon 2.0 significantly improves India's support for the semiconductor industry by focusing on design and offering more flexible, comprehensive funding.",
         "The policy streamlines government initiatives and provides better financial backing for research, talent, and various stages of chip production.",
         "Despite positive changes, ambiguities around foreign ownership and government involvement in company equity could still create hurdles for attracting private venture capital and global partners."
+      ]
+    },
+    {
+      "id": "1790744282387ji26f9",
+      "url": "https://www.moneycontrol.com/news/opinion/us-saudi-nuclear-deal-comes-with-collateral-damage-for-non-proliferation-14024670.html",
+      "title": "US-Saudi nuclear deal comes with collateral damage for non proliferation",
+      "metadataRaw": "Sep 8, 2026 Adya Madhavan Money Control",
+      "publishedDate": "2026-09-08T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-09-30T04:58:02.387Z",
+      "summary": "This article discusses the potential implications of a nuclear deal between the United States and Saudi Arabia, particularly concerning global non-proliferation efforts. It notes that Saudi Arabia is actively cultivating various international partnerships, which may be part of a broader strategy to secure its interests. The author suggests that the true impact of these diversified relationships on future nuclear policy and international stability will become clearer over time.",
+      "topics": [
+        "Geopolitics",
+        "Nuclear Policy",
+        "Middle East"
+      ],
+      "issues": [
+        "US-Saudi nuclear cooperation",
+        "Nuclear proliferation"
+      ],
+      "mainIdeas": [
+        "A US-Saudi nuclear deal could pose risks to efforts to prevent the spread of nuclear weapons.",
+        "Saudi Arabia is engaging in multiple international partnerships, which could influence its approach to such agreements.",
+        "The long-term effects of Saudi Arabia's foreign policy on global nuclear safety and stability are currently unclear."
       ]
     },
     {
@@ -10580,5 +10630,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-29T05:09:49.403Z"
+  "lastUpdated": "2026-09-30T04:58:03.537Z"
 }
