@@ -378,6 +378,31 @@
       ]
     },
     {
+      "id": "1790831411316rbz1ji",
+      "url": "https://www.firstpost.com/opinion/chinas-tibet-mega-dam-indias-concerns-should-go-beyond-a-water-weapon-14042638.html",
+      "title": "China’s Tibet mega dam: India’s concerns should go beyond a ‘water weapon’",
+      "metadataRaw": "Sep 2, 2026 Anushka Saxena FirstPost",
+      "publishedDate": "2026-09-02T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-01T05:10:11.316Z",
+      "summary": "The article argues that the main danger from China's massive Yarlung Tsangpo dam is not China using it to control water flow, but rather the potential for a catastrophic disaster due to its location in a highly seismic zone. This multi-billion dollar project, now well underway with multiple cascade stations, poses significant risks to downstream nations like India. These risks are compounded by China's inconsistent information sharing and India's inadequate preparations for worst-case scenarios.",
+      "topics": [
+        "Hydropower Development",
+        "Regional Security",
+        "Disaster Risk Management"
+      ],
+      "issues": [
+        "Dam Safety Risks",
+        "Cross-border Water Information Flow"
+      ],
+      "mainIdeas": [
+        "The primary threat from China's mega dam is a natural disaster, not deliberate water diversion, given its location in an earthquake-prone region.",
+        "Insufficient and unreliable information sharing from China prevents India from adequately preparing for potential upstream incidents.",
+        "India needs to improve its own disaster readiness for downstream impacts rather than relying on stalled or problematic counter-projects."
+      ]
+    },
+    {
       "id": "17884939554872p8wj",
       "url": "https://www.theprint.in/opinion/excess-levies-india-mining-industry-minerals-council/3031226",
       "title": "Excess levies are choking India’s mining industry. It needs a GST-style Minerals Council",
@@ -10630,5 +10655,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-30T04:58:03.537Z"
+  "lastUpdated": "2026-10-01T05:10:11.875Z"
 }
