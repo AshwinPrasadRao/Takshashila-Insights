@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1791523811189ev455",
+      "url": "https://www.hindustantimes.com/opinion/indiaus-difficult-times-call-for-difficult-measures-101791397964788.html",
+      "title": "India-US: Difficult times call for difficult measures",
+      "metadataRaw": "Oct 8, 2026 Lokendra Sharma,Pranay Kotasthane Hindustan Times",
+      "publishedDate": "2026-10-08T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-09T05:30:11.189Z",
+      "summary": "The article discusses the growing difficulties in the India-US relationship, citing trade disputes and recent US actions targeting India's energy purchases from Russia. It argues that India, despite historical caution due to power imbalances, needs to proactively use its influence to counter US pressure. The authors propose specific measures, such as adjusting defence procurement from US contractors and regulating mergers involving US companies in India, to create political and economic consequences for the US. While these steps carry risks for India, they are presented as necessary to protect its interests in a challenging global environment.",
+      "topics": [
+        "Geopolitics",
+        "Trade Policy",
+        "Defense"
+      ],
+      "issues": [
+        "US-India Relations",
+        "Exercising International Influence"
+      ],
+      "mainIdeas": [
+        "The US-India relationship is deteriorating due to US actions, necessitating a stronger and more assertive response from India.",
+        "India has specific ways to influence the US, such as adjusting defense purchases and regulating US companies in its market, by creating domestic political pressure within the US.",
+        "India should act decisively now to protect its interests, even if these measures carry some costs, rather than waiting for a hypothetical future increase in its power."
+      ]
+    },
+    {
       "id": "1790658560970z15mt8",
       "url": "https://www.moneycontrol.com/news/opinion/china-s-chokehold-on-critical-minerals-is-loosening-but-not-quickly-14036770.html",
       "title": "China’s chokehold on critical minerals is loosening, but not quickly",
@@ -10655,5 +10680,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-08T05:26:30.387Z"
+  "lastUpdated": "2026-10-09T05:30:26.535Z"
 }
