@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1792123094607nuvyhn",
+      "url": "https://www.moneycontrol.com/news/opinion/us-china-decoupling-has-spurred-r-d-in-both-countries-14050416.html",
+      "title": "US-China decoupling has spurred R&D in both countries",
+      "metadataRaw": "Oct 13, 2026 Arindam Goswami Moneycontrol",
+      "publishedDate": "2026-10-13T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-16T03:58:14.608Z",
+      "summary": "The ongoing economic separation and tech competition between the US and China have unexpectedly driven significant increases in research and development (R&D) in both countries. This surge is attributed to a sense of external threat, pushing each nation to innovate domestically and reduce reliance on the other. While the US and China are rapidly advancing their technological capabilities, other major global economies, especially India, are lagging in their R&D response. The article suggests this rivalry-driven innovation may not be sustainable long-term and urges other nations to adapt quickly to the new global landscape.",
+      "topics": [
+        "Technology",
+        "International Trade",
+        "Research & Development"
+      ],
+      "issues": [
+        "US-China Economic Competition",
+        "Global Innovation Policy"
+      ],
+      "mainIdeas": [
+        "The economic decoupling between the US and China has spurred accelerated R&D efforts in both nations, fueled by a perceived threat and the need for self-reliance.",
+        "Most other major economies are failing to match the R&D growth seen in the US and China, creating a growing disparity in technological advancement.",
+        "Countries like India need to strategically adapt to this new environment by attracting global talent and investing in practical, cost-effective innovation methods."
+      ]
+    },
+    {
       "id": "1791523811189ev455",
       "url": "https://www.hindustantimes.com/opinion/indiaus-difficult-times-call-for-difficult-measures-101791397964788.html",
       "title": "India-US: Difficult times call for difficult measures",
@@ -10705,5 +10730,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-15T04:01:11.149Z"
+  "lastUpdated": "2026-10-16T03:58:17.314Z"
 }
