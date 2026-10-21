@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "1792555481740b1r2ps",
+      "url": "https://indiasworld.in/huawei-qualcomm-and-the-limits-of-technology-restrictions",
+      "title": "Huawei, Qualcomm and the Limits of Technology Restrictions",
+      "metadataRaw": "Oct 19, 2026 Arindam Goswami India’s World",
+      "publishedDate": "2026-10-19T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-21T04:04:41.740Z",
+      "summary": "The article examines a recent patent agreement between Huawei and American chipmaker Qualcomm, which allows both companies to use each other's technologies despite long-standing US restrictions on Huawei. This deal raises questions about how effective technology restrictions truly are in limiting a country's technological development. While some might interpret it as China being forced to develop its own innovations, data suggests China's intellectual property earnings grew before the main US restrictions, and its significant R&D spending hasn't yet translated into comparable licensing revenue. The author concludes that the restrictions have not yet significantly altered the landscape of China's technological progress.",
+      "topics": [
+        "Technology Policy",
+        "US-China Relations",
+        "Innovation"
+      ],
+      "issues": [
+        "Effectiveness of Technology Sanctions",
+        "Global Technology Competition"
+      ],
+      "mainIdeas": [
+        "A recent patent agreement between Huawei and Qualcomm challenges the presumed effectiveness of US technology restrictions on limiting China's tech progress.",
+        "Data indicates that China's earnings from licensing intellectual property increased prior to the primary US restrictions, suggesting external pressure may not be the sole driver of its IP development.",
+        "Despite spending nearly as much as the US on research and development, China earns significantly less from licensing its technologies, indicating a gap in its ability to monetize innovation globally."
+      ]
+    },
+    {
+      "id": "17925554945390fjqg",
+      "url": "https://www.thehindu.com/opinion/op-ed/us-midterms-donald-trumps-test-indias-stakes/article71593689.ece",
+      "title": "US Midterms - Donald’s Test, India’s Stakes",
+      "metadataRaw": "Oct 17, 2026 Anil Raman The Hindu",
+      "publishedDate": "2026-10-17T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-21T04:04:54.539Z",
+      "summary": "The upcoming US midterm elections on November 3, 2026, are largely seen as a referendum on President Donald Trump, whose party faces a tough political climate driven by specific voter concerns. Key issues influencing the vote include the rising cost of living, the unpopular war with Iran, immigration policies, healthcare cuts, and urban crime. The article highlights the implications of these elections for India, especially concerning trade tariffs, H-1B visas, and the US stance on India's purchase of Russian energy. The relationship between the two countries will likely be shaped by the White House, regardless of which party controls Congress.",
+      "topics": [
+        "US Politics",
+        "Elections",
+        "International Relations"
+      ],
+      "issues": [
+        "US Midterm Elections",
+        "US-India Relations"
+      ],
+      "mainIdeas": [
+        "The 2026 US midterm elections are effectively a public judgment on President Donald Trump's administration, despite him not being on the ballot, and his party is struggling with low approval and unpopular policies.",
+        "Voter decisions are heavily influenced by the cost of living, the ongoing war with Iran, immigration debates, healthcare policies, and concerns about urban crime.",
+        "The election results will directly impact India through changes in trade tariffs, H-1B visa rules, and potential pressure on India's energy imports, with the US President ultimately guiding the bilateral relationship."
+      ]
+    },
+    {
+      "id": "17925554897438m75e5",
+      "url": "https://www.hindustantimes.com/opinion/wait-out-trump-s-term-without-rocking-the-boat-101792228003412.html",
+      "title": "Wait out Trump’s term without rocking the boat",
+      "metadataRaw": "Oct 17, 2026 Yusuf T Unjhawala Hindustan Times",
+      "publishedDate": "2026-10-17T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-21T04:04:49.743Z",
+      "summary": "India is now openly expressing concerns about its relationship with the US, particularly regarding shifts in American foreign policy. The article advises India to remain patient through the current US presidential term while preparing for a potentially more transactional relationship in the future. It emphasizes the need for India to actively diversify its global partnerships, especially with European nations, to build alternatives and reduce dependence on the US. Ultimately, India must strengthen its own economic and military power to gain more influence on the world stage.",
+      "topics": [
+        "Foreign Relations",
+        "Global Partnerships",
+        "National Development"
+      ],
+      "issues": [
+        "India's US Policy",
+        "Diversifying International Alliances"
+      ],
+      "mainIdeas": [
+        "India should continue to engage with the US while preparing for a potentially more transactional relationship, recognizing that changes in US policy might persist beyond the current administration.",
+        "India needs to actively broaden its network of international partners, especially with European countries, to create more options and reduce its reliance on the US.",
+        "To assert its influence globally, India must enhance its own economic, technological, and military capabilities, giving it greater leverage rather than solely depending on existing relationships."
+      ]
+    },
+    {
       "id": "1792123094607nuvyhn",
       "url": "https://www.moneycontrol.com/news/opinion/us-china-decoupling-has-spurred-r-d-in-both-countries-14050416.html",
       "title": "US-China decoupling has spurred R&D in both countries",
@@ -10730,5 +10805,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-20T04:16:46.054Z"
+  "lastUpdated": "2026-10-21T04:04:57.858Z"
 }
