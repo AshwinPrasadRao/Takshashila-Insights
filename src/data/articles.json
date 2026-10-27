@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "1793075216964mezv7e",
+      "url": "https://www.thesangaiexpress.com/Encyc/2026/10/26/brig-anil-raman-retd-on-3-november-halfway-through-donald-trumps-second-term-americans-go-to-the-polls-in-the-.html",
+      "title": "US midterm polls: What they mean for Trump, India and Manipur’s Neighbourhood",
+      "metadataRaw": "Oct 26, 2026 Anil Raman The Sangai Express",
+      "publishedDate": "2026-10-26T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-27T04:26:56.964Z",
+      "summary": "The article discusses the potential outcomes of the US midterm elections, framing them as a critical assessment of President Trump's administration, with polls indicating a likely Democratic victory in Congress. A Republican hold would signal a harder line on tariffs and immigration, while a Democratic win would bring increased congressional oversight, particularly on foreign policy. The election results will significantly impact US engagement with Myanmar, which directly affects India's border state of Manipur regarding refugee flows, drug trafficking, and regional power dynamics. India should anticipate a change in tone from Washington rather than a drastic shift in core trade and immigration policies, but a Democratic-led House would heighten scrutiny on US decisions impacting India's northeast.",
+      "topics": [
+        "US Elections",
+        "Foreign Policy",
+        "International Trade"
+      ],
+      "issues": [
+        "US Midterm Election Outcomes",
+        "US-Myanmar Policy Implications for India"
+      ],
+      "mainIdeas": [
+        "US midterm elections are likely to result in Democrats gaining control of Congress, reflecting low approval for President Trump and potentially signaling a shift in future Republican leadership.",
+        "Regardless of the election outcome, core US trade protectionism and stricter immigration policies are expected to persist, but a Democratic-controlled House would increase scrutiny on the executive's foreign policy decisions.",
+        "Changes in US policy towards Myanmar, particularly how the US engages with its military, have direct and significant implications for India's border security and regional stability in Manipur due to issues like refugee influxes and US-China competition."
+      ]
+    },
+    {
+      "id": "1793075226348ffkx84",
+      "url": "https://www.tribuneindia.com/news/usa-news/us-midterm-polls-what-they-mean-for-trump-china-and-ladakh",
+      "title": "US midterm polls: What they mean for Trump, China and Ladakh",
+      "metadataRaw": "Oct 25, 2026 Anil Raman The Tribune",
+      "publishedDate": "2026-10-25T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-27T04:27:06.348Z",
+      "summary": "The article examines the implications of the upcoming US midterm elections, where polls indicate a likely Democratic takeover of the House of Representatives. While President Trump would retain significant foreign policy powers, a constrained presidency might prompt him to pursue a substantial deal with China. Such a US-China rapprochement could free Beijing to concentrate more on its Himalayan border with India, potentially impacting the situation in Ladakh. However, a more assertive US Congress, particularly in its bipartisan support for Tibet, would serve as a crucial check on presidential dealings with China, benefiting India's interests.",
+      "topics": [
+        "US Politics",
+        "Foreign Policy",
+        "International Relations"
+      ],
+      "issues": [
+        "US-China Relations",
+        "India-China Border Standoff"
+      ],
+      "mainIdeas": [
+        "US midterm elections are expected to result in Democrats gaining control of the House, leading to increased congressional oversight on President Trump's foreign policy.",
+        "A President constrained by domestic politics might pursue significant deals with China, potentially allowing China greater freedom to focus on its border with India.",
+        "A vigilant US Congress, with its bipartisan support for Tibet, acts as a check on potential US-China agreements that might disregard human rights or regional stability, which is an understated asset for India."
+      ]
+    },
+    {
+      "id": "1793075237080ll9xzn",
+      "url": "https://www.thehindu.com/opinion/op-ed/us-midterms-republicans-face-growing-blue-wave/article71617170.ece",
+      "title": "US Midterms - Republicans Face Growing Blue Wave",
+      "metadataRaw": "Oct 24, 2026 Anil Raman The Hindu",
+      "publishedDate": "2026-10-24T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-27T04:27:17.080Z",
+      "summary": "With U.S. midterm elections approaching, forecasts indicate a significant Democratic victory, potentially leading to a \"blue wave.\" The Republican Party faces multiple hurdles, including an unpopular President, weak candidates, and the inability of substantial campaign funding to sway voters. Additionally, the party is losing ground in traditionally Republican states, and internal divisions are causing its base to turn against some of its own candidates, further weakening their position.",
+      "topics": [
+        "U.S. Politics",
+        "Elections",
+        "Political Trends"
+      ],
+      "issues": [
+        "Midterm Election Outlook",
+        "Republican Party Challenges"
+      ],
+      "mainIdeas": [
+        "Democrats are strongly positioned to achieve significant gains in the upcoming U.S. midterm elections, with widespread predictions of winning the House and potentially the Senate.",
+        "The Republican Party is struggling due to a combination of factors, including an unpopular President, problematic candidates, and a national mood that money alone cannot overcome.",
+        "Internal divisions within the Republican base, leading to attacks on their own candidates, are contributing significantly to the party's difficulties and predicted losses."
+      ]
+    },
+    {
       "id": "1792555481740b1r2ps",
       "url": "https://indiasworld.in/huawei-qualcomm-and-the-limits-of-technology-restrictions",
       "title": "Huawei, Qualcomm and the Limits of Technology Restrictions",
@@ -10805,5 +10880,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-26T04:06:57.149Z"
+  "lastUpdated": "2026-10-27T04:27:19.314Z"
 }
