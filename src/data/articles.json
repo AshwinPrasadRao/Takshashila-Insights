@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "1793336945057f67k2w",
+      "url": "https://www.hindustantimes.com/s/1kM92Ya",
+      "title": "Grant researchers funds and be patient with results",
+      "metadataRaw": "Oct 27, 2026 Arindam Goswami Times of India",
+      "publishedDate": "2026-10-27T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-30T05:09:05.057Z",
+      "summary": "The article suggests that India should adopt a long-term research funding model, drawing lessons from successful programs in China and the United States. It argues that sustained grants, typically lasting seven years or more, coupled with periodic expert reviews and ample, uninterrupted funding, encourage scientists to pursue more ambitious and impactful research. The author also emphasizes the need for administrative reforms to streamline fund disbursement and establish independent oversight for such fellowships.",
+      "topics": [
+        "Research Funding",
+        "Science Policy",
+        "Innovation Strategy"
+      ],
+      "issues": [
+        "Designing effective long-term research grants",
+        "Minimizing administrative barriers for researchers"
+      ],
+      "mainIdeas": [
+        "Long-term research grants are essential for groundbreaking scientific work, particularly for projects with slow outcomes, and are more effective when combined with expert review panels.",
+        "Successful funding models provide sufficient and uninterrupted funds, include plans for researcher independence post-grant, and avoid common pitfalls like short-term performance reviews or administrative delays.",
+        "India should establish a tailored long-term fellowship program, utilizing its existing legislative framework, to foster high-impact research and cultivate a strong scientific community."
+      ]
+    },
+    {
+      "id": "1793336957461ocf245",
+      "url": "https://timesofindia.indiatimes.com/what-might-bust-the-ai-bubble/amp_articleshow/135214388.cms",
+      "title": "What Might Bust The AI Bubble",
+      "metadataRaw": "Oct 26, 2026 Arindam Goswami Times of India",
+      "publishedDate": "2026-10-26T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-30T05:09:17.461Z",
+      "summary": "Many analysts believe the current AI boom is a bubble, and its potential bust would likely begin in the credit market. The severity of a downturn would depend on factors such as weak company revenue, widespread availability of AI capabilities, and slower progress in AI models, all of which lenders monitor. Despite these risks, large tech companies continue to heavily invest in AI, seeing the risk of falling behind competitors as greater than overspending. This investment continues even when suppliers finance some of the demand for AI hardware.",
+      "topics": [
+        "AI Industry",
+        "Economic Trends",
+        "Technology Investment"
+      ],
+      "issues": [
+        "AI Market Bubble Risk",
+        "Tech Investment Dynamics"
+      ],
+      "mainIdeas": [
+        "The AI industry may be in a bubble, with a potential collapse likely starting in the credit market.",
+        "The impact of an AI downturn would be exacerbated by factors like poor revenue and slowing AI development.",
+        "Major tech firms continue to invest heavily in AI, prioritizing competitive advantage over financial caution, even with supplier financing."
+      ]
+    },
+    {
+      "id": "1793336952042x53rak",
+      "url": "https://www.livehindustan.com/blog/nazariya/hindustan-nazariya-column-26-october-2026-201792949151486.html",
+      "title": "मध्यावधि चुनाव नतीजों से क्या ट्रंप की नीति बदलेगी",
+      "metadataRaw": "Oct 26, 2026 Anil Raman LiveHindustan.com",
+      "publishedDate": "2026-10-26T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-10-30T05:09:12.043Z",
+      "summary": "The article analyzes the upcoming US midterm elections, positioning them as a referendum on President Trump's performance and a potential indicator for shifts in his policies. It suggests that a Republican loss could make Trump more inclined to pursue trade deals, though he would likely continue using direct powers like tariffs and visa restrictions as leverage. Ultimately, the piece concludes that while the tone of discussions might change, major shifts in US policy toward India regarding trade protection and immigration are unlikely, advising New Delhi to prepare for the continued application of such tools.",
+      "topics": [
+        "US Politics",
+        "International Relations",
+        "Trade Policy"
+      ],
+      "issues": [
+        "US Midterm Elections",
+        "US-India Trade Relations"
+      ],
+      "mainIdeas": [
+        "US midterm elections serve as a report card on the president and could influence future policy direction, especially on trade and immigration.",
+        "Should Trump's party face losses, he might become more eager for trade deals but will likely maintain his tough stance on issues directly under his control, such as tariffs and visas.",
+        "Despite the election outcome, significant changes in US policy toward India, particularly on protecting domestic industries and tightening immigration, are not expected; India should anticipate the continued use of tariffs and visa restrictions as bargaining tools."
+      ]
+    },
+    {
       "id": "1793075216964mezv7e",
       "url": "https://www.thesangaiexpress.com/Encyc/2026/10/26/brig-anil-raman-retd-on-3-november-halfway-through-donald-trumps-second-term-americans-go-to-the-polls-in-the-.html",
       "title": "US midterm polls: What they mean for Trump, India and Manipur’s Neighbourhood",
@@ -10880,5 +10955,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-29T05:09:45.367Z"
+  "lastUpdated": "2026-10-30T05:09:22.047Z"
 }
