@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1794549377950ig5cc",
+      "url": "https://thehindu.com/opinion/op-ed/strategic-autonomy-must-guide-indias-starlink-policy/article71687057.ece",
+      "title": "Strategic autonomy must guide India’s Starlink policy",
+      "metadataRaw": "Nov 11, 2026 Ashwin Prasad Rao The Hindu",
+      "publishedDate": "2026-11-11T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-13T05:56:17.950Z",
+      "summary": "The public debate surrounding Elon Musk's accusations about Indian businesses blocking Starlink's entry distracts from a crucial question: how much control India will have over Starlink's operations. The Indian government clarified that all satellite operators must follow the same regulatory process. Starlink offers connectivity to remote places without traditional infrastructure, but it differs significantly from fibre and mobile networks optimized for serving many people in dense areas. The article suggests India needs to prioritize maintaining its control and oversight of such satellite internet services.",
+      "topics": [
+        "Digital Policy",
+        "Telecommunications Industry",
+        "Government Regulation"
+      ],
+      "issues": [
+        "Regulation of satellite internet",
+        "Market entry for foreign tech companies"
+      ],
+      "mainIdeas": [
+        "The public discussion around Starlink's entry in India is missing the core issue of Indian control over foreign satellite internet services.",
+        "Starlink provides unique advantages for connecting remote areas but cannot replace existing fibre and mobile networks designed for high-density populations.",
+        "India must focus on maintaining its ability to regulate and oversee satellite internet providers to ensure its national interests are met."
+      ]
+    },
+    {
       "id": "1793336945057f67k2w",
       "url": "https://www.hindustantimes.com/s/1kM92Ya",
       "title": "Grant researchers funds and be patient with results",
@@ -10955,5 +10980,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-12T06:39:22.312Z"
+  "lastUpdated": "2026-11-13T05:56:22.343Z"
 }
