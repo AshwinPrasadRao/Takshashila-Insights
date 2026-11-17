@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1794900129607noj13d",
+      "url": "https://timesofindia.indiatimes.com/toi-plus/international/india-laffaire-huang/articleshow/135714933.cms",
+      "title": "India & L’Affaire Huang",
+      "metadataRaw": "Nov 11, 2026 Pranay Kotasthane Times of India",
+      "publishedDate": "2026-11-11T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-17T07:22:09.608Z",
+      "summary": "Nvidia's CEO, Jensen Huang, is under investigation due to reports linking a woman he was involved with to Chinese intelligence. Although Nvidia states no company secrets were compromised, this inquiry could lead to stricter US controls on chip exports, potentially influenced by a new Democratic majority. India should closely monitor these developments as they could impact its access to critical technology.",
+      "topics": [
+        "Technology Policy",
+        "International Trade",
+        "National Security"
+      ],
+      "issues": [
+        "US technology export restrictions",
+        "Impact of US-China tensions on supply chains"
+      ],
+      "mainIdeas": [
+        "An investigation into Nvidia's CEO could prompt the US to implement tighter export controls on advanced chips.",
+        "Shifts in US political power, such as a new Democratic majority, may contribute to more stringent tech export policies.",
+        "Nations like India need to anticipate and address the potential consequences of stricter US chip export regulations."
+      ]
+    },
+    {
       "id": "1794549377950ig5cc",
       "url": "https://thehindu.com/opinion/op-ed/strategic-autonomy-must-guide-indias-starlink-policy/article71687057.ece",
       "title": "Strategic autonomy must guide India’s Starlink policy",
@@ -10980,5 +11005,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-16T05:45:04.374Z"
+  "lastUpdated": "2026-11-17T07:22:16.061Z"
 }
