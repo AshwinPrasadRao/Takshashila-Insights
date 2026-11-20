@@ -1,6 +1,131 @@
 {
   "articles": [
     {
+      "id": "1795156620577qi3aou",
+      "url": "https://www.hindustantimes.com/opinion/terror-in-j-k-a-new-name-is-not-a-new-threat-101795030375510.html",
+      "title": "Terror in J&K: A new name is not a new threat",
+      "metadataRaw": "Nov 19, 2026 Aishwaria Sonavane Hindustan Times",
+      "publishedDate": "2026-11-19T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-20T06:37:00.577Z",
+      "summary": "A recent terrorist attack in Kulgam, Jammu & Kashmir, claimed by a new group called Pasdaran-e-Hurriyat Kashmir, is believed by authorities to be the work of established terror networks like Lashkar-e-Taiba (LeT). The article argues that the frequent emergence of new group names in the region is a tactic by existing organizations to rebrand themselves, aiming to obscure their origins, create an illusion of a wider terror ecosystem, and adopt new political language. This rebranding strategy, while offering tactical advantages like deniability, does not legally protect these groups under Indian law. India's counter-terrorism response should therefore focus on dismantling the known networks rather than overreacting to every new claim.",
+      "topics": [
+        "Terrorism",
+        "National Security",
+        "Regional Conflict"
+      ],
+      "issues": [
+        "Terrorist group rebranding tactics",
+        "Counter-terrorism strategy in J&K"
+      ],
+      "mainIdeas": [
+        "New terrorist group names in Jammu & Kashmir are usually rebranding efforts by established organizations to hide their true identity, project a larger network, and use new political messaging.",
+        "While rebranding provides tactical benefits such as deniability, it does not exempt these groups from legal consequences under Indian anti-terrorism laws.",
+        "India's strategy to combat terrorism should concentrate on identifying and dismantling the persistent terror networks and infrastructure, rather than reacting to each new group claim, which could be exploited by the terrorists."
+      ]
+    },
+    {
+      "id": "1795156632919mleqh4",
+      "url": "https://frontline.thehindu.com/world-affairs/us-midterm-elections-2026-trump-defeat-iran-war/article71710968.ece",
+      "title": "What next for Trump’s America?",
+      "metadataRaw": "Nov 18, 2026 Anil Raman The Frontline",
+      "publishedDate": "2026-11-18T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-20T06:37:12.919Z",
+      "summary": "In a significant midterm election, US voters delivered a strong rebuke to the ruling party, electing Democrats to control both Houses of Congress, even in states that previously supported President Trump. This outcome was driven by widespread dissatisfaction with economic conditions, concerns about government corruption, and disappointment over foreign policy leading to new conflicts. As a result, the US now faces a period of divided government with expected domestic political gridlock, while the President retains considerable authority in foreign affairs.",
+      "topics": [
+        "US Politics",
+        "Elections",
+        "Economy"
+      ],
+      "issues": [
+        "Voter dissatisfaction with economic policies and cost of living",
+        "Government corruption and conflicts of interest"
+      ],
+      "mainIdeas": [
+        "Voters across the US, including traditional Republican strongholds, decisively rejected the party in power in the recent midterm elections, handing Democrats control of Congress.",
+        "This voter backlash was primarily motivated by concerns over rising prices, perceived government corruption, and disillusionment with foreign policy decisions that exacerbated economic burdens.",
+        "The US is now entering a period of divided government, which will likely result in legislative gridlock on domestic issues, but the President will retain broad powers in foreign policy."
+      ]
+    },
+    {
+      "id": "1795156626602xi5zwk",
+      "url": "https://www.deccanherald.com/opinion/the-high-price-of-milk-politics-in-karnataka-4221883",
+      "title": "The high price of milk politics in Karnataka",
+      "metadataRaw": "Nov 18, 2026 Anupam Manur Deccan Herald",
+      "publishedDate": "2026-11-18T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-20T06:37:06.602Z",
+      "summary": "Karnataka is currently experiencing a puzzling economic situation where record milk production, fueled by a good monsoon, has paradoxically led to significant increases in dairy product prices and projected losses for the state's milk federation (KMF). In early November, households and businesses saw sharp price jumps for Nandini brand milk, curd, and ghee. The Chief Minister intervened to slightly roll back one of the price hikes.",
+      "topics": [
+        "Economics",
+        "Agriculture",
+        "State Governance"
+      ],
+      "issues": [
+        "Dairy Market Instability",
+        "Consumer Price Increases"
+      ],
+      "mainIdeas": [
+        "Despite high milk production, Karnataka's dairy prices are rising, and the state's milk federation faces financial losses.",
+        "Consumers in Karnataka recently experienced substantial price hikes across key dairy products like milk, curd, and ghee.",
+        "The Chief Minister's intervention in dairy pricing indicates government involvement in managing market costs for essential goods."
+      ]
+    },
+    {
+      "id": "17951566393324c8urd",
+      "url": "https://www.firstpost.com/opinion/at-apec-beijing-welcomes-washington-but-on-chinas-terms-14060564.html",
+      "title": "At Apec, Beijing welcomes Washington — but on China’s terms",
+      "metadataRaw": "Nov 17, 2026 Anushka Saxena FirstPost",
+      "publishedDate": "2026-11-17T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-20T06:37:19.332Z",
+      "summary": "China is hosting the Apec forum, presenting a more welcoming stance than in 2014, including an announcement for a trilateral meeting with the US and Russia. However, Beijing's overarching message is that the Asia-Pacific's future should be decided by its own people, with China firmly in the leading role. China asserts its deep economic ties and historical belonging to the region, while also subtly criticizing US-led alliances. The trilateral meeting serves to showcase China as an inclusive host, while also managing potential escalations in US-China relations.",
+      "topics": [
+        "Regional Leadership",
+        "International Diplomacy",
+        "Economic Influence"
+      ],
+      "issues": [
+        "Competition for influence in Asia-Pacific",
+        "US-China relations"
+      ],
+      "mainIdeas": [
+        "China aims to solidify its position as the primary decision-maker for the Asia-Pacific region, insisting that regional issues are best handled by regional actors.",
+        "While appearing more open by hosting events like a trilateral meeting, China makes it clear that other powers are guests, and it disapproves of alliances designed to counter its influence.",
+        "Beijing uses its significant economic ties and cultural connections to argue that its vision and interests are aligned with the overall peace and prosperity of the Asia-Pacific."
+      ]
+    },
+    {
+      "id": "1795156646130lsaotg",
+      "url": "https://www.moneycontrol.com/news/opinion/asean-centrality-is-no-answer-to-indo-pacific-s-security-challenges-14081504.html/amp",
+      "title": "ASEAN centrality is no answer to Indo-Pacific’s security challenges",
+      "metadataRaw": "Nov 16, 2026 Yusuf T. Unjhawala Moneycontrol",
+      "publishedDate": "2026-11-16T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-20T06:37:26.130Z",
+      "summary": "The article questions ASEAN's ability to effectively manage security challenges in the Indo-Pacific, despite its aim to lead regional security discussions. It argues that ASEAN's current approach, which emphasizes dialogue and restraint without naming specific aggressors, has been insufficient in addressing real threats. The ongoing disputes in the South China Sea, where the Philippines faces aggression from China, are cited as a key example of ASEAN's practical limitations as a security provider.",
+      "topics": [
+        "Regional Security",
+        "Southeast Asia",
+        "International Cooperation"
+      ],
+      "issues": [
+        "South China Sea Conflicts",
+        "ASEAN's Security Role"
+      ],
+      "mainIdeas": [
+        "ASEAN's ambition to lead security efforts in the Indo-Pacific is not matched by its practical ability to address actual threats.",
+        "The organization's strategy of avoiding direct confrontation with aggressors makes it ineffective in resolving security challenges, such as those in the South China Sea.",
+        "For any regional body to truly be central to security, it needs to be able to clearly identify and tackle sources of aggression."
+      ]
+    },
+    {
       "id": "1794900129607noj13d",
       "url": "https://timesofindia.indiatimes.com/toi-plus/international/india-laffaire-huang/articleshow/135714933.cms",
       "title": "India & L’Affaire Huang",
@@ -11030,5 +11155,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-19T06:48:38.258Z"
+  "lastUpdated": "2026-11-20T06:37:28.485Z"
 }
