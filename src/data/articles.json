@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "1795511761704wibr2",
+      "url": "https://www.moneycontrol.com/news/opinion/quad-isn-t-dormant-look-at-the-evidence-14087119.html",
+      "title": "Quad isn’t dormant. Look at the evidence",
+      "metadataRaw": "Nov 23, 2026 Amit Kumar Money Control",
+      "publishedDate": "2026-11-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-24T09:16:01.704Z",
+      "summary": "Despite recent criticisms and a temporary pause in leader-level meetings, the Quad group has significantly intensified its activities. Foreign ministers and working groups have met more frequently, launching key initiatives in areas such as critical minerals, maritime security, and artificial intelligence. This sustained engagement demonstrates the Quad's resilience and institutional stability, even through a disruptive US presidency. Moreover, holding a Quad summit alongside an ASEAN meeting signals growing regional acceptance for the group.",
+      "topics": [
+        "Geopolitics",
+        "International Cooperation",
+        "Alliance Resilience"
+      ],
+      "issues": [
+        "Quad's perceived decline and actual activity",
+        "Regional acceptance of the Quad"
+      ],
+      "mainIdeas": [
+        "The Quad has become more active and expanded its initiatives, disproving claims that it has lost relevance or been de-prioritized.",
+        "The group has developed strong institutional foundations, allowing it to continue its work effectively even with unpredictable US leadership.",
+        "The Quad is gaining broader acceptance among Southeast Asian nations, indicated by its first leaders' summit being held alongside an ASEAN meeting."
+      ]
+    },
+    {
       "id": "1795156620577qi3aou",
       "url": "https://www.hindustantimes.com/opinion/terror-in-j-k-a-new-name-is-not-a-new-threat-101795030375510.html",
       "title": "Terror in J&K: A new name is not a new threat",
@@ -11180,5 +11205,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-23T06:49:33.776Z"
+  "lastUpdated": "2026-11-24T09:16:11.169Z"
 }
