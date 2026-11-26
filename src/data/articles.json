@@ -51,6 +51,31 @@
       ]
     },
     {
+      "id": "1795678919464lidexk",
+      "url": "https://www.indianexpress.com/article/opinion/columns/anthropic-has-a-mega-ipo-and-an-uncertain-path-ahead-10971679",
+      "title": "Anthropic has a mega IPO – and an uncertain path ahead",
+      "metadataRaw": "Nov 20, 2026 Shobhankita Reddy Indian Express",
+      "publishedDate": "2026-11-20T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-26T07:41:59.465Z",
+      "summary": "Anthropic recently completed a record-breaking IPO, raising $81 billion and achieving a $1.5 trillion valuation. However, the company faces significant challenges, including public opposition to AI data centers and a \"supply-chain risk\" label from the US government for its stance on AI use in surveillance and autonomous weapons. The article highlights a broader trend where private technology firms and national governments are increasingly aligning, with technology now seen as a pillar of national power. This alignment is partly driven by Anthropic's unstable financial model, which makes it seek stable contracts and support from the state.",
+      "topics": [
+        "Artificial Intelligence",
+        "Technology Business",
+        "Government-Tech Relations"
+      ],
+      "issues": [
+        "Government influence on AI companies",
+        "AI company financial risks"
+      ],
+      "mainIdeas": [
+        "Despite a massive IPO, Anthropic faces significant hurdles from public concerns about AI infrastructure and ongoing government scrutiny over its technology's applications.",
+        "There is a growing connection between private technology companies and national governments, as advanced AI is increasingly viewed as a critical component of national power, turning firms into geopolitical players.",
+        "Anthropic's business model, characterized by large, non-cancellable computing commitments and uncertain revenue, drives the company to seek stable support and contracts from the state."
+      ]
+    },
+    {
       "id": "1795156620577qi3aou",
       "url": "https://www.hindustantimes.com/opinion/terror-in-j-k-a-new-name-is-not-a-new-threat-101795030375510.html",
       "title": "Terror in J&K: A new name is not a new threat",
@@ -251,6 +276,31 @@
       ]
     },
     {
+      "id": "1795678927109fyyo0i",
+      "url": "https://indianexpress.com/article/opinion/columns/in-the-name-of-discipline-xi-has-centralised-power-further-10943761/lite",
+      "title": "In the name of discipline, Xi has centralised power further",
+      "metadataRaw": "Oct 31, 2026 Anushka Saxena Indian Express",
+      "publishedDate": "2026-10-31T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-26T07:42:07.109Z",
+      "summary": "Chinese leader Xi Jinping has significantly centralized power through extensive purges and an emphasis on party discipline, as evidenced by the latest Communist Party plenary session. Numerous members, including top military figures, were expelled from key leadership bodies like the Central Military Commission (CMC), which now has only two effective members. This consolidation reflects Xi's deep distrust and difficulty in appointing new leaders, hollowing out institutions under the guise of rigorous self-governance. For countries like India, this climate of heightened internal pressure and loyalty demands within the Chinese military could translate into more assertive behavior from commanders.",
+      "topics": [
+        "Chinese Politics",
+        "Leadership Consolidation",
+        "Military Affairs"
+      ],
+      "issues": [
+        "Power Centralization in China",
+        "Internal Purges within the CPC and PLA"
+      ],
+      "mainIdeas": [
+        "Xi Jinping has tightened his personal control over the Chinese Communist Party and its military through widespread expulsions and an intense focus on loyalty and 'self-governance'.",
+        "Key leadership bodies, particularly the Central Military Commission, have been deliberately thinned out by purges and a lack of new appointments, highlighting Xi's challenges in trusting and selecting high-level personnel.",
+        "The environment of fear and constant scrutiny within China's military and political system may encourage commanders to demonstrate loyalty through assertive actions, rather than restraint, especially in sensitive regions like the India-China border."
+      ]
+    },
+    {
       "id": "1793336945057f67k2w",
       "url": "https://www.hindustantimes.com/s/1kM92Ya",
       "title": "Grant researchers funds and be patient with results",
@@ -401,6 +451,30 @@
       ]
     },
     {
+      "id": "1795678935145jdry15",
+      "url": "https://indianexpress.com/article/opinion/columns/chinas-ai-export-order-is-a-switch-not-a-wall-deepseek-qwen-10929575",
+      "title": "China’s AI export order is a switch, not a wall",
+      "metadataRaw": "Oct 20, 2026 Bharath Reddy The Indian Express",
+      "publishedDate": "2026-10-20T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-26T07:42:15.145Z",
+      "summary": "China's Ministry of Commerce is introducing new export controls on advanced artificial intelligence technologies. These regulations include a draft list of restricted and prohibited AI items, along with an immediate requirement for exporters to register any technology transfers. The measures give China the power to monitor, slow, or stop the flow of its AI technology globally. This framework is designed to be a control mechanism for future flexibility, rather than an immediate halt to exports.",
+      "topics": [
+        "Technology Control",
+        "Trade Policy"
+      ],
+      "issues": [
+        "China's AI Export Restrictions",
+        "Government Regulation of Technology"
+      ],
+      "mainIdeas": [
+        "China is establishing a system to manage the export of its advanced AI technologies.",
+        "The new rules provide China with the ability to track and potentially limit the global spread of its AI innovations.",
+        "These controls are designed for future flexibility, allowing China to adjust its export policies as needed, rather than implementing an outright ban now."
+      ]
+    },
+    {
       "id": "1792555481740b1r2ps",
       "url": "https://indiasworld.in/huawei-qualcomm-and-the-limits-of-technology-restrictions",
       "title": "Huawei, Qualcomm and the Limits of Technology Restrictions",
@@ -476,6 +550,31 @@
       ]
     },
     {
+      "id": "1795678941448l8i5q",
+      "url": "https://indianexpress.com/article/opinion/columns/india-should-stop-counting-ai-chips-and-start-asking-for-results-10922844",
+      "title": "India should stop counting its AI chips and start asking for results",
+      "metadataRaw": "Oct 15, 2026 Arindam Goswami Indian Express",
+      "publishedDate": "2026-10-15T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-26T07:42:21.449Z",
+      "summary": "India is making significant investments in AI hardware, allocating vast amounts of chip time to numerous projects. However, the article argues that the country's strategy should shift from merely acquiring computational resources to demanding concrete, beneficial results. The author suggests prioritizing the development of AI models specifically tailored to India's unique needs, such as understanding local law, medicine, farming, and diverse languages. This change in focus would ensure that resources are effectively utilized to produce practical applications for the nation.",
+      "topics": [
+        "Artificial Intelligence (AI)",
+        "Technology Policy",
+        "National Development"
+      ],
+      "issues": [
+        "Effectiveness of India's AI strategy",
+        "Prioritization of AI investment"
+      ],
+      "mainIdeas": [
+        "India's current AI strategy is overly focused on acquiring hardware (chip hours) rather than achieving demonstrable, practical outcomes.",
+        "The country should redirect its AI investment towards developing applications that address its specific domestic challenges and language diversity.",
+        "There is a need for India to demand concrete results and tangible applications from its significant AI expenditures."
+      ]
+    },
+    {
       "id": "1792123094607nuvyhn",
       "url": "https://www.moneycontrol.com/news/opinion/us-china-decoupling-has-spurred-r-d-in-both-countries-14050416.html",
       "title": "US-China decoupling has spurred R&D in both countries",
@@ -548,6 +647,31 @@
         "The U.S. is adjusting its defense strategy, asking allies and partners to contribute more to their own regional security and share costs.",
         "India is a crucial partner in the Indo-Pacific, and the U.S. expects it to strengthen its military, collaborate on technology, and play a bigger role in regional balance.",
         "As India's economic and military power grows, it will gain more influence in its relationship with the U.S., allowing it to better define the terms of cooperation and protect its own interests."
+      ]
+    },
+    {
+      "id": "1795678947662lhwof6",
+      "url": "https://indianexpress.com/article/opinion/columns/us-china-unlikely-to-limit-the-development-of-ai-trump-xi-10893988",
+      "title": "US and China are unlikely to limit the development of increasingly capable AI systems",
+      "metadataRaw": "Sep 25, 2026 Bharath Reddy The Indian Express",
+      "publishedDate": "2026-09-25T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-26T07:42:27.662Z",
+      "summary": "A recent summit between US and Chinese leaders highlighted the challenges in getting both countries to work together on AI safety. The US aims to maintain its lead in AI development and prefers minimal government regulation, while China stresses keeping AI under human control. Despite calls from AI industry leaders for caution and international cooperation, the US government has resisted slowing down AI progress or joining global efforts. This indicates neither nation is likely to limit the fast-paced development of new AI systems.",
+      "topics": [
+        "Artificial Intelligence",
+        "US-China Relations",
+        "Technology Policy"
+      ],
+      "issues": [
+        "AI Competition",
+        "AI Safety Regulation"
+      ],
+      "mainIdeas": [
+        "Cooperation between the US and China on AI safety is limited due to their competitive drive for AI leadership.",
+        "The US government is focused on accelerating its own AI development and maintaining a lead, rather than imposing limits or collaborating internationally on safety.",
+        "Despite warnings from AI industry experts about potential risks and their calls to slow down development, both major global powers are likely to continue their rapid advancement of AI technology."
       ]
     },
     {
@@ -11230,5 +11354,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-25T07:51:21.263Z"
+  "lastUpdated": "2026-11-26T07:42:27.739Z"
 }
