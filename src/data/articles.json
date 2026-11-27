@@ -1,6 +1,82 @@
 {
   "articles": [
     {
+      "id": "1795765264731lhlofg",
+      "url": "https://timesofindia.indiatimes.com/toi-plus/business-economy/how-to-make-chips-less-crunchy/amp_articleshow/136107162.cms",
+      "title": "How To Make Chips Less Crunchy",
+      "metadataRaw": "Nov 24, 2026 Arindam Goswami Times of India",
+      "publishedDate": "2026-11-24T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-27T07:41:04.732Z",
+      "summary": "High consumer electronics prices, particularly for smartphones, are being driven by a global shortage of memory chips, leading to a significant dip in retail sales. This scarcity makes components more expensive for manufacturers, who then pass these costs onto consumers. The situation is worsened by growing demand from other sectors, like electric vehicle production, which also require similar types of chips from a limited number of global suppliers.",
+      "topics": [
+        "Technology Industry",
+        "Global Supply Chains",
+        "Market Trends"
+      ],
+      "issues": [
+        "Semiconductor Supply Disruptions",
+        "Consumer Electronics Pricing"
+      ],
+      "mainIdeas": [
+        "A global shortage of memory chips is causing higher prices for electronics and reducing consumer purchases.",
+        "Increased demand for these chips from the electric vehicle sector is intensifying competition for limited supplies.",
+        "The scarcity of critical components impacts production costs and product availability across multiple industries."
+      ]
+    },
+    {
+      "id": "179576525833359ugw",
+      "url": "https://www.livemint.com/opinion/online-views/ai-investment-boom-debt-crisis-india-opportunity-11795498837258.html",
+      "title": "The AI boom now runs on debt. India should plan for what it leaves behind",
+      "metadataRaw": "Nov 24, 2026 Arindam Goswami Mint",
+      "publishedDate": "2026-11-24T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-27T07:40:58.333Z",
+      "summary": "The artificial intelligence industry's rapid expansion is increasingly funded by debt, even as many companies struggle to show clear profits from the technology. This creates financial risks, with warnings of market volatility and potential economic corrections. However, the resulting infrastructure like data centers and chips will likely remain and become more accessible and cheaper after any market adjustments. Countries like India, with little direct capital at stake, are advised to prepare to leverage this future capacity by focusing on adoption, open models, and common standards.",
+      "topics": [
+        "Artificial Intelligence",
+        "Technology Investment",
+        "Economic Development"
+      ],
+      "issues": [
+        "Financial sustainability of AI boom",
+        "National strategy for AI infrastructure utilization"
+      ],
+      "mainIdeas": [
+        "The current AI investment surge is largely debt-financed, posing significant financial risks to major tech companies and the wider market.",
+        "Despite potential financial instability, the physical infrastructure built during this period will likely endure and become more affordable for broader use.",
+        "Nations with minimal direct investment in the current AI expansion, such as India, have a strategic opportunity to benefit by planning to utilize this future, cheaper infrastructure for their own development."
+      ]
+    },
+    {
+      "id": "17957652735478ojx8",
+      "url": "https://stratnewsglobal.com/united-states/four-is-of-us-mid-term-polls-and-what-it-means-for-india",
+      "title": "Four I’s Of US Mid-Term Polls And What It Means For India",
+      "metadataRaw": "Nov 23, 2026 Abhishek Kadiyala StratNews Global",
+      "publishedDate": "2026-11-23T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-27T07:41:13.547Z",
+      "summary": "The 2026 US midterm elections, fought over issues like inflation, institutional mistrust, the Iran war, and immigration, resulted in a significant Democratic victory. These key issues are now set to form the core of the Democratic legislative agenda, which will have considerable implications for India's interests and the broader relationship between India and the US. Specific areas impacted include trade tariffs, energy policies, H-1B visa reforms, and potential investigations into past political dealings involving countries like Pakistan.",
+      "topics": [
+        "US Politics",
+        "India-US Relations",
+        "Economic Policy"
+      ],
+      "issues": [
+        "Trade Tariffs",
+        "H-1B Visa Reform",
+        "US Foreign Policy in the Middle East"
+      ],
+      "mainIdeas": [
+        "The Democratic legislative agenda following the midterms will directly affect India's economic and strategic interests, especially concerning tariffs on trade and energy imports.",
+        "Proposed changes to H-1B visa policies, driven by immigration reform efforts, could have a mixed impact on Indian professionals and the country's IT outsourcing industry.",
+        "Investigations into alleged corruption from the previous US administration, particularly concerning dealings that may have benefited Pakistan, could alter future US-Pakistan relations and, by extension, affect India's regional dynamics."
+      ]
+    },
+    {
       "id": "1795511761704wibr2",
       "url": "https://www.moneycontrol.com/news/opinion/quad-isn-t-dormant-look-at-the-evidence-14087119.html",
       "title": "Quad isn’t dormant. Look at the evidence",
@@ -11354,5 +11430,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-26T07:42:27.739Z"
+  "lastUpdated": "2026-11-27T07:41:15.614Z"
 }
