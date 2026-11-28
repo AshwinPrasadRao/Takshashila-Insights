@@ -851,6 +851,31 @@
       ]
     },
     {
+      "id": "17958497328971unlud",
+      "url": "https://www.deccanherald.com/opinion/trumps-dallas-convention-offers-india-a-warning-about-us-political-volatility-4150027",
+      "title": "Trump’s Dallas convention offers India a warning about US political volatility",
+      "metadataRaw": "Sep 18, 2026 Anil Raman Deccan Herald",
+      "publishedDate": "2026-09-18T00:00:00.000Z",
+      "type": "opinion",
+      "source": "Takshashila Opinion",
+      "dateAdded": "2026-11-28T07:08:52.897Z",
+      "summary": "The Republican Party held an unusual midterm convention in Dallas, Texas, primarily to rally support for President Trump and energize voters for upcoming elections. While the event demonstrated Trump's strong hold over his base, it also highlighted a key challenge for the party. This challenge is that a leader's personal popularity does not automatically translate into votes for local and state-level candidates.",
+      "topics": [
+        "US Politics",
+        "Electoral Strategy",
+        "Political Campaigns"
+      ],
+      "issues": [
+        "Republican Party's electoral challenges",
+        "Impact of presidential popularity on local elections"
+      ],
+      "mainIdeas": [
+        "The Republican Party organized an unconventional midterm convention focused on supporting President Trump.",
+        "Despite President Trump's strong personal appeal, this popularity doesn't guarantee victories for other party candidates.",
+        "The event revealed a strategic dilemma for the party in converting top-level enthusiasm into broader electoral success at state and local levels."
+      ]
+    },
+    {
       "id": "17900503990066zufdj",
       "url": "https://www.thehindu.com/opinion/op-ed/chinas-strategy-amid-west-asias-security-realignment/article71473505.ece",
       "title": "China’s strategy amid West Asia’s security realignment",
@@ -11430,5 +11455,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-27T07:41:15.614Z"
+  "lastUpdated": "2026-11-28T07:08:52.943Z"
 }
